@@ -4,33 +4,11 @@ from typing import Union
 import tqdm as tqdm
 from git import Repo,RemoteProgress
 import git
-def del_dir(target: Union[Path, str], only_if_empty: bool = False):
-    """
-    Delete a given directory and its subdirectories.
 
-    :param target: The directory to delete
-    :param only_if_empty: Raise RuntimeError if any file is found in the tree
-    """
-    target = Path(target).expanduser()
-    assert target.is_dir()
-    for p in sorted(target.glob('**/*'), reverse=True):
-        if not p.exists():
-            continue
-        p.chmod(0o666)
-        if p.is_dir():
-            p.rmdir()
-        else:
-            if only_if_empty:
-                raise RuntimeError(f'{p.parent} is not empty!')
-            p.unlink()
-    target.rmdir()
 class CloneProgress(RemoteProgress):
     def update(self, op_code, cur_count, max_count=None, message=''):
         if message:
             print(message)
-#print("deleting repo")
-#del_dir(Path("./MAL-Sync-Backup-2"))
-
 
 def cloneRepo(link,path):
     try:
