@@ -28,7 +28,7 @@ cloneRepo("https://github.com/MALSync/MAL-Sync-Backup.git","MAL-Sync-Backup-2")
 
 myAnimeListDir = Path(f"./{MAL_Sync_Backup_folder}/data/myanimelist/anime")
 gogoAnimeDir = Path(f"./{MAL_Sync_Backup_folder}/pages/gogoanime")
-Map={}
+Map={'data':[]}
 for file in tqdm.tqdm(list(myAnimeListDir.iterdir())):
     if file.is_file():
 
@@ -52,18 +52,14 @@ for file in tqdm.tqdm(list(myAnimeListDir.iterdir())):
                         gogo_link=key
 
             if gogo_link:
-                Map[data["id"]]={
+                Map['data'].append({
                     "japanese_name":data["title"],
                     "english_name":english_name,
                     "image":data["image"],
-                    "gogo_link":gogo_link
-                }
-                Map[gogo_link]={
-                    "japanese_name":data["title"],
-                    "english_name":english_name,
-                    "image":data["image"],
+                    "gogo_link":gogo_link,
                     "malid":data["id"]
-                }
+                })
+
             
         #print(Map)
 out_file = open("mapping.json", "w")
