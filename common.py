@@ -13,7 +13,7 @@ def readJsonFile(filePath:str):
     try:
         return json.loads(Path(filePath).read_bytes())
     except:
-        return {}
+        return getJsonMapForVersion(0)
 
 def getJsonVersion(jsonData:dict):
     return jsonData.get(versionKey,0)

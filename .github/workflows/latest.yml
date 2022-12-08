@@ -26,13 +26,13 @@ jobs:
 
       - name: Run get_latest.py
         run: pipenv run python "get_latest.py"
-        
+
       - name: Pull Remote Changes
         run: git pull
       - name: Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Chore: mapping Update"
+          commit_message: "Chore: latest Update"
           file_pattern: "*.json"
           repository: .
           skip_fetch: false
