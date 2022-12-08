@@ -9,6 +9,7 @@ pathlib = "*"
 jsondiff = "*"
 gitpython = "*"
 beautifulsoup4 = "*"
+requests = "*"
 
 [dev-packages]
 
