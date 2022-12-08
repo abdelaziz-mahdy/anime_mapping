@@ -31,12 +31,11 @@ def writeJsonFileIfDifferent(filePath:str,jsonData:dict):
     if res:        
         print("Diff found")
         jsonData=incrementJsonVersion(jsonData)
-        out_file = open(filePath, "w")
-        json.dump(jsonData,out_file, indent=4)
+        with open(filePath,'w') as f:
+            json.dump(jsonData,f, indent=4)
         version=getJsonVersion(jsonData)
         writeVersionJson(filePath,version)
 
 def writeVersionJson(filePath:str,version:int):
-    out_file = open(f'{basename(filePath)}_version.json','w') 
-    json.dump(getJsonMapForVersion(version),out_file, indent=4)
-
+    with open(f'{basename(filePath)}_version.json','w')  as f:
+        json.dump(getJsonMapForVersion(version),f, indent=4)
