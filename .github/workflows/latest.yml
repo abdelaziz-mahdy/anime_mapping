@@ -14,19 +14,18 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
-      - name: Install dependencies
       - uses: actions/setup-python@v2
         with:
           python-version: '3.9'
           cache: 'pip'
           
-      - run: |
+      - name: Install dependencies
+        run: |
             pip install tqdm
             pip install pathlib
             pip install jsondiff
             pip install GitPython
             pip install beautifulsoup4
-
             
 
       - name: Run get_latest.py
