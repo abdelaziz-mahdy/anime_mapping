@@ -19,10 +19,11 @@ jobs:
         with:
           python-version: '3.9'
           cache: 'pip'
-      - run: pip install tqdm
-      - run: pip install pathlib
-      - run: pip install jsondiff
-      - run: pip install GitPython
+      - run: |
+            pip install tqdm
+            pip install pathlib
+            pip install jsondiff
+            pip install GitPython
 
       - name: Run mapper.py
         run: |
