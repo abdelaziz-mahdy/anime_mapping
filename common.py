@@ -26,11 +26,11 @@ def incrementJsonVersion(jsonData:dict):
 
 def writeJsonFile(filePath:str,jsonData:dict):
     out_file = open(filePath, "w")
-    json.dump(jsonData,out_file)
+    json.dump(jsonData,out_file, indent=4)
     version=getJsonVersion(jsonData)
     writeVersionJson(filePath,version)
 
 def writeVersionJson(filePath:str,version:int):
     out_file = open(f'{basename(filePath)}_version.json','w') 
-    json.dump(getJsonMapForVersion(version),out_file)
+    json.dump(getJsonMapForVersion(version),out_file, indent=4)
 
