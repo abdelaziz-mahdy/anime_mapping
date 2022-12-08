@@ -26,13 +26,13 @@ jobs:
 
       - name: Run mapper.py
         run: pipenv run python "mapper.py"
-        
+
       - name: Pull Remote Changes
         run: git pull
       - name: Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Chore: mapping Update"
-          file_pattern: "mapping.json"
+          file_pattern: "*.json"
           repository: .
           skip_fetch: false
