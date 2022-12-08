@@ -68,4 +68,4 @@ for file in tqdm.tqdm(list(myAnimeListDir.iterdir())):
             
         #print(Map)
 
-writeJsonFile(mappingFile,Map)
+writeJsonFileIfDifferent(mappingFile,Map)
