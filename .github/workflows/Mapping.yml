@@ -15,12 +15,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install dependencies
-        run: |
-            pip install --upgrade pip
-            pip install tqdm
-            pip install pathlib
-            pip install GitPython
-            pip install jsondiff
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - run: pip install tqdm
+      - run: pip install pathlib
+      - run: pip install jsondiff
+      - run: pip install GitPython
 
       - name: Run mapper.py
         run: |
