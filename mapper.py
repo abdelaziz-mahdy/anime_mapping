@@ -4,17 +4,17 @@ from typing import Union
 import tqdm as tqdm
 from git import Repo,RemoteProgress
 import git
-
+from  common import *
 class CloneProgress(RemoteProgress):
     def update(self, op_code, cur_count, max_count=None, message=''):
         if message:
             print(message)
 
 def cloneRepo(link,path):
-    try:
-        Path("./MAL-Sync-Backup-2/.git/index.lock").unlink()
-    except:
-        pass
+    # try:
+    #     Path("./MAL-Sync-Backup-2/.git/index.lock").unlink()
+    # except:
+    #     pass
     try:
         repo = git.Repo(path)
         o = repo.remotes.origin
@@ -28,7 +28,16 @@ cloneRepo("https://github.com/MALSync/MAL-Sync-Backup.git","MAL-Sync-Backup-2")
 
 myAnimeListDir = Path(f"./{MAL_Sync_Backup_folder}/data/myanimelist/anime")
 gogoAnimeDir = Path(f"./{MAL_Sync_Backup_folder}/pages/gogoanime")
-Map={'data':[]}
+
+mappingFile="mapping.json"
+
+mappingJson = readJsonFile(mappingFile)
+
+
+version=getJsonVersion(mappingJson)
+
+Map=getJsonMapForVersion(version)
+
 for file in tqdm.tqdm(list(myAnimeListDir.iterdir())):
     if file.is_file():
 
@@ -44,24 +53,19 @@ for file in tqdm.tqdm(list(myAnimeListDir.iterdir())):
             else:
                 if len(data["altTitle"])!=0:
                     english_name=data["altTitle"][0]
-            gogo_link=None
+
 
             if("Gogoanime" in data["Pages"]):
-                for key in list(data["Pages"]["Gogoanime"].keys()):
-                    if "dub" not in key.lower():
-                        gogo_link=key
-
-            if gogo_link:
-                Map['data'].append({
-                    "japanese_name":data["title"],
-                    "english_name":english_name,
+                Map[data["id"]]={
+                    # "japanese_name":data["title"],
+                    # "english_name":english_name,
                     "image":data["image"],
-                    "gogo_link":gogo_link,
-                    "malid":data["id"]
-                })
+                    }
+                for key in list(data["Pages"]["Gogoanime"].keys()):
+                    Map[key]=data["id"]
+                
 
             
         #print(Map)
-out_file = open("mapping.json", "w")
-print(len(Map))
-json.dump(Map,out_file)
+
+writeJsonFile(mappingFile,Map)
