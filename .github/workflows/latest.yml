@@ -29,7 +29,7 @@ jobs:
           cache: 'pipenv'
 
       - name: Install pipenv dependencies
-      - run: pipenv install
+        run: pipenv install
 
       - name: Run get_latest.py
         run: pipenv run python "get_latest.py"

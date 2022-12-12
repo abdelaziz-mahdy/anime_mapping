@@ -28,7 +28,7 @@ jobs:
           cache: 'pipenv'
 
       - name: Install pipenv dependencies
-      - run: pipenv install
+        run: pipenv install
 
       - name: Cache malsync backup
         id: cache-malsync
