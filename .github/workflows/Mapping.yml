@@ -14,19 +14,28 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
-      - name: Install pipenv or cache
+      - name: get pipenv from cache
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           cache: 'pip'
       - run: pip install -r requirements.txt
 
-      - name: Install dependencies
+      - name: get pipenv dependencies from cache
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           cache: 'pipenv'
 
+      - name: Install pipenv dependencies
+      - run: pipenv install
+
+      - name: Cache malsync backup
+      id: cache-malsync
+      uses: actions/cache@v3
+      with:
+        path: MAL-Sync-Backup-2
+        key: ${{ runner.os }}-MAL-Sync-Backup-2
 
       - name: Run mapper.py
         run: pipenv run python "mapper.py"

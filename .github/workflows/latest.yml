@@ -14,19 +14,22 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
-      - name: Install pipenv or cache
+
+      - name: get pipenv from cache
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           cache: 'pip'
       - run: pip install -r requirements.txt
 
-      - name: Install dependencies
+      - name: get pipenv dependencies from cache
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           cache: 'pipenv'
 
+      - name: Install pipenv dependencies
+      - run: pipenv install
 
       - name: Run get_latest.py
         run: pipenv run python "get_latest.py"
