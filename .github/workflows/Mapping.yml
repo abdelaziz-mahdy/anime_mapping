@@ -31,11 +31,11 @@ jobs:
       - run: pipenv install
 
       - name: Cache malsync backup
-      id: cache-malsync
-      uses: actions/cache@v3
-      with:
-        path: MAL-Sync-Backup-2
-        key: ${{ runner.os }}-MAL-Sync-Backup-2
+        id: cache-malsync
+        uses: actions/cache@v3
+        with:
+          path: MAL-Sync-Backup-2
+          key: ${{ runner.os }}-MAL-Sync-Backup-2
 
       - name: Run mapper.py
         run: pipenv run python "mapper.py"
