@@ -14,15 +14,18 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
+      - name: Install pipenv or cache
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+          
       - name: Install dependencies
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           cache: 'pipenv'
 
-      - name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-      - run: pipenv install
 
       - name: Run mapper.py
         run: pipenv run python "mapper.py"
