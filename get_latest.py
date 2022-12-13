@@ -15,6 +15,7 @@ for ultag in soup.select('#resultplace > ul > li'):
     try:
         latest[link[indexOfLastCharacterOfSubstring(link,"/v1/"):link.index("/ep")]]=ultag.find("p",class_="infotext").text
     except Exception as e:
+        print(e)
         print(link)
         
 
