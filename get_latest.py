@@ -1,18 +1,17 @@
 import requests
-from bs4 import BeautifulSoup
 from common import *
 mappingFile="latest.json"
 
 latest=readJsonFile(mappingFile)
-
-page = requests.get("https://animixplay.to/")
+#revert to only last episode
+for key,value in latest.items():
+    if isinstance(value,str):
+        if value.startswith("EP"):
+            latest[key]=int(value[indexOfLastCharacterOfSubstring(value,"EP "):value.index("/")])
+page = requests.get("https://api.consumet.org/anime/gogoanime/recent-episodes")
 # print(page.content)
-soup = BeautifulSoup(page.content, "html.parser")
-for ultag in soup.select('#resultplace > ul > li'):
-    link:str=ultag.find("a")["href"]    
-    # print(link[indexOfLastCharacterOfSubstring(link,"/v1/"):link.index("/ep")])
-    # print(ultag.find("p",class_="infotext").text)
-
-    latest[link[indexOfLastCharacterOfSubstring(link,"/v1/"):link.index("/ep")]]=ultag.find("p",class_="infotext").text
+jsonObject=page.json()
+for anime in jsonObject["results"]: 
+    latest[anime["id"]]=anime["episodeNumber"] 
 
 writeJsonFileIfDifferent(mappingFile,latest)
