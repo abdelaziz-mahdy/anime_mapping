@@ -1,5 +1,5 @@
 {
-    "__version__": 13,
+    "__version__": 14,
     "12467": {
         "image": "https://cdn.myanimelist.net/images/anime/3/75205.jpg"
     },
@@ -762,6 +762,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1937/121362.jpg"
     },
     "koneko-no-rakugaki": 6993,
+    "39938": {
+        "image": "https://cdn.myanimelist.net/images/anime/1682/121461.jpg"
+    },
+    "inu-ou": 39938,
     "44881": {
         "image": "https://cdn.myanimelist.net/images/anime/1424/117718.jpg"
     },
@@ -1531,6 +1535,10 @@
     },
     "coppelion": 9479,
     "coppelion-dub": 9479,
+    "48549": {
+        "image": "https://cdn.myanimelist.net/images/anime/1355/128948.jpg"
+    },
+    "dr-stone-3rd-season": 48549,
     "43523": {
         "image": "https://cdn.myanimelist.net/images/anime/1950/116474.jpg"
     },
@@ -2819,6 +2827,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/76993.jpg"
     },
     "harmony": 28211,
+    "51678": {
+        "image": "https://cdn.myanimelist.net/images/anime/1097/123195.jpg"
+    },
+    "oniichan-wa-oshimai": 51678,
     "23133": {
         "image": "https://cdn.myanimelist.net/images/anime/4/60273.jpg"
     },
@@ -3035,6 +3047,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/5/88024.jpg"
     },
     "hibike-euphonium-movie-2-todoketai-melody": 35082,
+    "52578": {
+        "image": "https://cdn.myanimelist.net/images/anime/1967/127436.jpg"
+    },
+    "boku-no-kokoro-no-yabai-yatsu": 52578,
     "1586": {
         "image": "https://cdn.myanimelist.net/images/anime/2/18760.jpg"
     },
@@ -5990,6 +6006,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/9/88031.jpg"
     },
     "chaoschild-silent-sky-movie": 35315,
+    "51462": {
+        "image": "https://cdn.myanimelist.net/images/anime/1786/122265.jpg"
+    },
+    "isekai-nonbiri-houka": 51462,
     "24075": {
         "image": "https://cdn.myanimelist.net/images/anime/3/63251.jpg"
     },
@@ -7202,6 +7222,10 @@
     },
     "tales-of-zestiria-doushi-no-yoake": 24459,
     "tales-of-zestiria-doushi-no-yoake-dub": 24459,
+    "51307": {
+        "image": "https://cdn.myanimelist.net/images/anime/1920/121584.jpg"
+    },
+    "bokura-no-yoake": 51307,
     "3600": {
         "image": "https://cdn.myanimelist.net/images/anime/10/57127.jpg"
     },
@@ -9262,6 +9286,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/18779.jpg"
     },
     "sengoku-majin-goushougun": 2510,
+    "37616": {
+        "image": "https://cdn.myanimelist.net/images/anime/1395/129925.jpg"
+    },
+    "ten-count": 37616,
     "28025": {
         "image": "https://cdn.myanimelist.net/images/anime/6/68259.jpg"
     },
@@ -10226,6 +10254,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1622/125219.jpg"
     },
     "jian-xian-zai-ci": 51864,
+    "53852": {
+        "image": "https://cdn.myanimelist.net/images/anime/1641/131849.jpg"
+    },
+    "li-shi-zhentan-shiwusuo-a-day-in-lungmen": 53852,
     "13663": {
         "image": "https://cdn.myanimelist.net/images/anime/8/42217.jpg"
     },
@@ -10756,6 +10788,10 @@
     },
     "uq-holder-ova": 34604,
     "uq-holder-mahou-sensei-negima-2-ova-dub": 34604,
+    "51440": {
+        "image": "https://cdn.myanimelist.net/images/anime/1574/128922.jpg"
+    },
+    "sasaki-to-miyano-movie-sotsugyou-hen": 51440,
     "52299": {
         "image": "https://cdn.myanimelist.net/images/anime/1502/125002.jpg"
     },
@@ -11262,6 +11298,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/10/25746.jpg"
     },
     "yes-pretty-cure-5-go-go": 3692,
+    "yes-precure-5-gogo": 3692,
     "37599": {
         "image": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg"
     },
@@ -11923,7 +11960,7 @@
     },
     "kiku-chan-to-ookami": 5192,
     "51791": {
-        "image": "https://cdn.myanimelist.net/images/anime/1171/123759.jpg"
+        "image": "https://cdn.myanimelist.net/images/anime/1790/124208.jpg"
     },
     "xi-xing-ji-4th-season": 51791,
     "51706": {
@@ -11957,6 +11994,10 @@
     },
     "tekkon-kinkreet": 2154,
     "tekkon-kinkreet-dub": 2154,
+    "53873": {
+        "image": "https://cdn.myanimelist.net/images/anime/1181/131883.jpg"
+    },
+    "pokemon-2019-harukanaru-aoi-sora": 53873,
     "46102": {
         "image": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg"
     },
@@ -16356,6 +16397,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/4/79400.jpg"
     },
     "pan-de-peace": 31498,
+    "46569": {
+        "image": "https://cdn.myanimelist.net/images/anime/1647/120129.jpg"
+    },
+    "jigokuraku": 46569,
     "4483": {
         "image": "https://cdn.myanimelist.net/images/anime/10/50399.jpg"
     },
@@ -19689,6 +19734,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1/1084.jpg"
     },
     "is-": 1084,
+    "is-dub": 1084,
     "7590": {
         "image": "https://cdn.myanimelist.net/images/anime/10/23770.jpg"
     },
@@ -19940,7 +19986,7 @@
     "dominion": 1151,
     "dominion-dub": 1151,
     "50760": {
-        "image": "https://cdn.myanimelist.net/images/anime/1103/121690.jpg"
+        "image": "https://cdn.myanimelist.net/images/anime/1327/124393.jpg"
     },
     "teppen": 50760,
     "37682": {
@@ -20544,6 +20590,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1088/109145.jpg"
     },
     "ochikobore-fruit-tart": 39609,
+    "ochikobore-fruit-tart-dub": 39609,
     "1794": {
         "image": "https://cdn.myanimelist.net/images/anime/5/81369.jpg"
     },
@@ -21745,6 +21792,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg"
     },
     "mashiro-no-oto": 42590,
+    "48425": {
+        "image": "https://cdn.myanimelist.net/images/anime/1143/121258.jpg"
+    },
+    "akuma-kun-ona": 48425,
     "34173": {
         "image": "https://cdn.myanimelist.net/images/anime/13/82610.jpg"
     },
@@ -22758,6 +22809,10 @@
     "ghost-in-the-shell-sac-2nd-gig": 801,
     "ghost-in-the-shell-stand-alone-complex-2nd-gig-dub": 801,
     "ghost-in-the-shell-stand-alone-complex-dub": 801,
+    "50220": {
+        "image": "https://cdn.myanimelist.net/images/anime/1360/126882.jpg"
+    },
+    "isekai-shoukan-wa-nidome-desu": 50220,
     "50590": {
         "image": "https://cdn.myanimelist.net/images/anime/1932/127228.jpg"
     },
@@ -24251,6 +24306,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/13/47083.jpg"
     },
     "fairy-tail-houou-no-miko": 12049,
+    "41567": {
+        "image": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg"
+    },
+    "isekai-quartet-movie-another-world": 41567,
     "38256": {
         "image": "https://cdn.myanimelist.net/images/anime/1786/104783.jpg"
     },
@@ -24563,6 +24622,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/12/51631.jpg"
     },
     "zenryoku-usagi": 3704,
+    "51252": {
+        "image": "https://cdn.myanimelist.net/images/anime/1311/125411.jpg"
+    },
+    "spy-kyoushitsu": 51252,
     "39235": {
         "image": "https://cdn.myanimelist.net/images/anime/1203/101637.jpg"
     },
@@ -24997,6 +25060,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/6/77929.jpg"
     },
     "afro-samurai-resurrection-dub": 4970,
+    "50582": {
+        "image": "https://cdn.myanimelist.net/images/anime/1594/120041.jpg"
+    },
+    "nanatsu-no-maken-ga-shihai-suru": 50582,
     "39024": {
         "image": "https://cdn.myanimelist.net/images/anime/1857/98299.jpg"
     },
@@ -26316,6 +26383,11 @@
         "image": "https://cdn.myanimelist.net/images/anime/1752/113795.jpg"
     },
     "battle-athletess-daiundoukai-restart": 42321,
+    "50315": {
+        "image": "https://cdn.myanimelist.net/images/anime/1023/128555.jpg"
+    },
+    "nanatsu-no-taizai-ensa-no-edinburgh": 50315,
+    "nanatsu-no-taizai-ensa-no-edinburgh-dub": 50315,
     "65": {
         "image": "https://cdn.myanimelist.net/images/anime/4/10242.jpg"
     },
@@ -27612,6 +27684,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/52135.jpg"
     },
     "ghost-in-the-shell-arise-border2-ghost-whispers": 19191,
+    "49283": {
+        "image": "https://cdn.myanimelist.net/images/anime/1579/123864.jpg"
+    },
+    "bakuten-movie": 49283,
     "3626": {
         "image": "https://cdn.myanimelist.net/images/anime/1114/118424.jpg"
     },
