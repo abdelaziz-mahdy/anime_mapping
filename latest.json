@@ -1,5 +1,5 @@
 {
-    "__version__": 203,
+    "__version__": 204,
     "urusei-yatsura-2022": 12,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -91,7 +91,7 @@
     "tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning": 21,
     "touhou-gensou-mangekyou-the-memories-of-phantasm": 17,
     "mr-pen-pen": 1,
-    "cap-kakumei-bottleman-dx": 39,
+    "cap-kakumei-bottleman-dx": 40,
     "tottemo-luckyman": 1,
     "punirunes": 13,
     "eternal-boys": 16,
@@ -112,7 +112,7 @@
     "chain-chronicle-short-animation": 1,
     "ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu": 1,
     "bungou-stray-dogs-4th-season": 1,
-    "koori-zokusei-danshi-to-cool-na-douryou-joshi": 1,
+    "koori-zokusei-danshi-to-cool-na-douryou-joshi": 2,
     "inu-ni-nattara-suki-na-hito-ni-hirowareta": 1,
     "tsurune-tsunagari-no-issha": 1,
     "tomo-chan-wa-onnanoko": 1,
@@ -158,5 +158,7 @@
     "mononogatari": 1,
     "vinland-saga-season-2": 1,
     "eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi-tv": 1,
-    "ayakashi-triangle": 1
+    "ayakashi-triangle": 1,
+    "tondemo-skill-de-isekai-hourou-meshi": 1,
+    "kubo-san-wa-mob-wo-yurusanai": 1
 }
