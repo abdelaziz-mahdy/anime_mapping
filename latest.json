@@ -1,5 +1,5 @@
 {
-    "__version__": 248,
+    "__version__": 249,
     "urusei-yatsura-2022": 13,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -53,7 +53,7 @@
     "4-nin-wa-sorezore-uso-wo-tsuku": 11,
     "delicious-partyprecure": 43,
     "one-piece": 1047,
-    "digimon-ghost-game": 58,
+    "digimon-ghost-game": 59,
     "doupo-cangqiong-nian-fan": 23,
     "mobile-suit-gundam-the-witch-from-mercury": 12,
     "boruto-naruto-next-generations": 282,
@@ -167,5 +167,6 @@
     "initial-d-battle-stage-2": 1,
     "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei": 1,
     "cardfight-vanguard-willdress-season-2": 1,
-    "hikari-no-ou": 1
+    "hikari-no-ou": 1,
+    "pokemon-mezase-pokemon-master": 1
 }
