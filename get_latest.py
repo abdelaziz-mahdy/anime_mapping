@@ -8,10 +8,19 @@ latest=readJsonFile(mappingFile)
 #     if isinstance(value,str):
 #         if value.startswith("EP"):
 #             latest[key]=int(value[indexOfLastCharacterOfSubstring(value,"EP "):value.index("/")])
-page = requests.get("https://api.consumet.org/anime/gogoanime/recent-episodes")
-# print(page.content)
-jsonObject=page.json()
-for anime in jsonObject["results"]: 
-    latest[anime["id"]]=anime["episodeNumber"] 
+page=1
+gotNew=True
+while gotNew:
+    print(f"loading page {page}")
+    pageData = requests.get(f"https://api.consumet.org/anime/gogoanime/recent-episodes?page={page}")
+    # print(page.content)
+    jsonObject=pageData.json()
+    for anime in jsonObject["results"]:         
+        if anime["id"] in latest and latest[anime["id"]]==anime["episodeNumber"] :
+            gotNew=False
+        else:
+            latest[anime["id"]]=anime["episodeNumber"] 
+            
+    page+=1
 
 writeJsonFileIfDifferent(mappingFile,latest)
