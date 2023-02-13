@@ -1,5 +1,8 @@
 import requests
 from common import *
+import cloudscraper
+
+scraper = cloudscraper.create_scraper()  # returns a CloudScraper instance
 mappingFile="latest.json"
 
 latest=readJsonFile(mappingFile)
@@ -12,7 +15,7 @@ page=1
 gotNew=True
 while gotNew:
     print(f"loading page {page}")
-    pageData = requests.get(f"https://api.consumet.org/anime/gogoanime/recent-episodes?page={page}",headers={"Content-Type": "application/json","User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"})
+    pageData = scraper.get(f"https://api.consumet.org/anime/gogoanime/recent-episodes?page={page}")
     print(pageData.content)
     jsonObject=pageData.json()
     for anime in jsonObject["results"]:         
