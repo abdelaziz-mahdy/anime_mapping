@@ -1,5 +1,5 @@
 {
-    "__version__": 29,
+    "__version__": 30,
     "31478": {
         "image": "https://cdn.myanimelist.net/images/anime/3/79409.jpg"
     },
@@ -198,6 +198,10 @@
     },
     "happylesson-ova": 259,
     "happylesson-ova-dub": 259,
+    "3335": {
+        "image": "https://cdn.myanimelist.net/images/anime/1235/128007.jpg"
+    },
+    "haikara-san-ga-tooru": 3335,
     "11761": {
         "image": "https://cdn.myanimelist.net/images/anime/13/37947.jpg"
     },
@@ -1401,6 +1405,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/13/22024.jpg"
     },
     "crayon-shin-chan-movie-08-arashi-wo-yobu-jungle": 8362,
+    "51716": {
+        "image": "https://cdn.myanimelist.net/images/anime/1967/123415.jpg"
+    },
+    "bishoujo-senshi-sailor-moon-cosmos-movie": 51716,
     "37475": {
         "image": "https://cdn.myanimelist.net/images/anime/1908/93416.jpg"
     },
@@ -1497,6 +1505,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/73955.jpg"
     },
     "kannazuki-no-miko": 143,
+    "kannazuki-no-miko-dub": 143,
     "842": {
         "image": "https://cdn.myanimelist.net/images/anime/1582/127097.jpg"
     },
@@ -6495,6 +6504,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1560/125527.jpg"
     },
     "meitantei-conan-hannin-no-hanzawa-san": 50010,
+    "meitantei-conan-hannin-no-hanzawa-san-dub": 50010,
     "2451": {
         "image": "https://cdn.myanimelist.net/images/anime/7/41437.jpg"
     },
@@ -12898,6 +12908,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/28909.jpg"
     },
     "toyama-kankou-anime-project": 10511,
+    "50114": {
+        "image": "https://cdn.myanimelist.net/images/anime/1182/118772.jpg"
+    },
+    "yuan-zun": 50114,
     "1925": {
         "image": "https://cdn.myanimelist.net/images/anime/5/88665.jpg"
     },
@@ -13614,6 +13628,10 @@
     },
     "girls-bravo": 241,
     "girls-bravo-first-season-dub": 241,
+    "54285": {
+        "image": "https://cdn.myanimelist.net/images/anime/1257/132857.jpg"
+    },
+    "yao-shen-ji-7th-season": 54285,
     "38313": {
         "image": "https://cdn.myanimelist.net/images/anime/1567/116866.jpg"
     },
@@ -15821,6 +15839,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/7/26264.jpg"
     },
     "itoshi-no-betty-mamonogatari": 9496,
+    "6959": {
+        "image": "https://cdn.myanimelist.net/images/anime/6/16229.jpg"
+    },
+    "ga-geijutsuka-art-design-class-ova": 6959,
     "3417": {
         "image": "https://cdn.myanimelist.net/images/anime/2/25313.jpg"
     },
@@ -16697,6 +16719,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/82394.jpg"
     },
     "natsume-yuujinchou-san": 10379,
+    "natsume-yuujinchou-san-dub": 10379,
     "89": {
         "image": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg"
     },
@@ -20944,6 +20967,10 @@
     },
     "flip-flappers": 32979,
     "flip-flappers-dub": 32979,
+    "52085": {
+        "image": "https://cdn.myanimelist.net/images/anime/1140/124501.jpg"
+    },
+    "garden-of-remembrance": 52085,
     "4081": {
         "image": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg"
     },
@@ -21168,6 +21195,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/52935.jpg"
     },
     "genshiken-nidaime": 18465,
+    "29895": {
+        "image": "https://cdn.myanimelist.net/images/anime/9/72031.jpg"
+    },
+    "muku-no-ki-no-hanashi": 29895,
     "27907": {
         "image": "https://cdn.myanimelist.net/images/anime/8/67643.jpg"
     },
@@ -22920,6 +22951,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1620/93667.jpg"
     },
     "dragon-ball-z-movie-4-lord-slug": 897,
+    "1344": {
+        "image": "https://cdn.myanimelist.net/images/anime/1150/92809.jpg"
+    },
+    "eightman-after": 1344,
     "377": {
         "image": "https://cdn.myanimelist.net/images/anime/8/26197.jpg"
     },
@@ -24037,6 +24072,7 @@
     },
     "age-of-gunslingers-xue-zu-mi-shi": 134,
     "gunslinger-girl": 134,
+    "gunslinger-girl-dub": 134,
     "9241": {
         "image": "https://cdn.myanimelist.net/images/anime/11/44239.jpg"
     },
@@ -24896,10 +24932,6 @@
     },
     "tamayomi": 39966,
     "tamayomi-dub": 39966,
-    "6199": {
-        "image": "https://cdn.myanimelist.net/images/anime/9/13750.jpg"
-    },
-    "mai-otome-zwei-special": 6199,
     "996": {
         "image": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg"
     },
@@ -26508,6 +26540,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/20173.jpg"
     },
     "idol-densetsu-eriko": 2938,
+    "48917": {
+        "image": "https://cdn.myanimelist.net/images/anime/1132/127673.jpg"
+    },
+    "stand-my-heroes-wormth-of-memories": 48917,
     "20473": {
         "image": "https://cdn.myanimelist.net/images/anime/11/73503.jpg"
     },
@@ -29514,6 +29550,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/7360.jpg"
     },
     "pandalian-dub": 4049,
+    "54437": {
+        "image": "https://cdn.myanimelist.net/images/anime/1567/133308.jpg"
+    },
+    "lian-qi-shi-wan-nian": 54437,
     "12347": {
         "image": "https://cdn.myanimelist.net/images/anime/8/35247.jpg"
     },
