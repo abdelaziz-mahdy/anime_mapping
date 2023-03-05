@@ -1,5 +1,5 @@
 {
-    "__version__": 30,
+    "__version__": 31,
     "31478": {
         "image": "https://cdn.myanimelist.net/images/anime/3/79409.jpg"
     },
@@ -3307,6 +3307,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/9/85987.jpg"
     },
     "crayon-shin-chan-gaiden-o-o-o-no-shinnosuke": 35652,
+    "crayon-shin-chan-gaiden-o-o-o-no-shinnosuke-dub": 35652,
     "1912": {
         "image": "https://cdn.myanimelist.net/images/anime/6/27476.jpg"
     },
@@ -4213,6 +4214,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1559/103214.jpg"
     },
     "bai-she-yuan-qi": 38740,
+    "bai-she-yuan-qi-dub": 38740,
     "17969": {
         "image": "https://cdn.myanimelist.net/images/anime/13/48825.jpg"
     },
@@ -6938,6 +6940,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1321/104497.jpg"
     },
     "mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to": 39382,
+    "mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to-dub": 39382,
     "54259": {
         "image": "https://cdn.myanimelist.net/images/anime/1495/132827.jpg"
     },
@@ -8864,6 +8867,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1233/129144.jpg"
     },
     "urusei-yatsura-2022": 50710,
+    "urusei-yatsura-2022-dub": 50710,
     "39030": {
         "image": "https://cdn.myanimelist.net/images/anime/1736/103512.jpg"
     },
@@ -9704,7 +9708,6 @@
     },
     "shingeki-no-kyojin-season-3": 35760,
     "shingeki-no-kyojin-season-3-dub": 35760,
-    "castlevania-season-3-dub": 35760,
     "48606": {
         "image": "https://cdn.myanimelist.net/images/anime/1478/113826.jpg"
     },
@@ -15661,6 +15664,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
     },
     "mononoke": 2246,
+    "mononoke-dub": 2246,
     "33038": {
         "image": "https://cdn.myanimelist.net/images/anime/7/79259.jpg"
     },
@@ -16069,6 +16073,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1501/122797.jpg"
     },
     "dragon-ball-super-super-hero": 48903,
+    "dragon-ball-super-super-hero-dub": 48903,
     "31764": {
         "image": "https://cdn.myanimelist.net/images/anime/11/79531.jpg"
     },
@@ -17335,6 +17340,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/7/5799.jpg"
     },
     "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikomatic-days": 3485,
+    "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikomatic-days-dub": 3485,
     "40460": {
         "image": "https://cdn.myanimelist.net/images/anime/1118/103618.jpg"
     },
@@ -17850,6 +17856,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1586/108326.jpg"
     },
     "rezero-kara-hajimeru-break-time-2nd-season": 42364,
+    "54309": {
+        "image": "https://cdn.myanimelist.net/images/anime/1234/132925.jpg"
+    },
+    "blue-archive-the-animation": 54309,
     "9065": {
         "image": "https://cdn.myanimelist.net/images/anime/12/71797.jpg"
     },
@@ -18204,6 +18214,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1171/95124.jpg"
     },
     "eat-man": 1704,
+    "1712": {
+        "image": "https://cdn.myanimelist.net/images/anime/1/1712.jpg"
+    },
+    "shin-seiki-den-mars": 1712,
     "20141": {
         "image": "https://cdn.myanimelist.net/images/anime/5/56447.jpg"
     },
@@ -19086,6 +19100,10 @@
     },
     "nanatsu-no-taizai-seisen-no-shirushi": 31722,
     "nanatsu-no-taizai-seisen-no-shirushi-dub": 31722,
+    "3947": {
+        "image": "https://cdn.myanimelist.net/images/anime/4/77065.jpg"
+    },
+    "jarinko-chie-tv": 3947,
     "4654": {
         "image": "https://cdn.myanimelist.net/images/anime/2/75533.jpg"
     },
@@ -19648,6 +19666,7 @@
     },
     "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e": 40496,
     "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-dub": 40496,
+    "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-dub": 40496,
     "262": {
         "image": "https://cdn.myanimelist.net/images/anime/11/75578.jpg"
     },
@@ -19990,6 +20009,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/12/43537.jpg"
     },
     "white-album": 4720,
+    "54637": {
+        "image": "https://cdn.myanimelist.net/images/anime/1316/133910.jpg"
+    },
+    "bakugan-legends-dub": 54637,
     "48776": {
         "image": "https://cdn.myanimelist.net/images/anime/1014/117452.jpg"
     },
@@ -25091,6 +25114,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1/1873.jpg"
     },
     "plawres-sanshirou": 1873,
+    "53263": {
+        "image": "https://cdn.myanimelist.net/images/anime/1626/133482.jpg"
+    },
+    "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi": 53263,
     "16680": {
         "image": "https://cdn.myanimelist.net/images/anime/9/47615.jpg"
     },
@@ -26047,6 +26074,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1212/94628.jpg"
     },
     "soukou-kihei-votoms-kakuyaku-taru-itan": 2586,
+    "23299": {
+        "image": "https://cdn.myanimelist.net/images/anime/10/60229.jpg"
+    },
+    "pokemon-best-wishes-season-2-iris-vs-ibuki-dragon-master-e-no-michi": 23299,
     "27785": {
         "image": "https://cdn.myanimelist.net/images/anime/4/70995.jpg"
     },
@@ -27844,6 +27875,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1506/124355.jpg"
     },
     "bakugan-new-vestroia-dub": 5337,
+    "bakugan-battle-brawlers-new-vestroia": 5337,
     "38003": {
         "image": "https://cdn.myanimelist.net/images/anime/1037/100463.jpg"
     },
@@ -28157,6 +28189,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1790/114537.jpg"
     },
     "bamboo-blade": 2986,
+    "9931": {
+        "image": "https://cdn.myanimelist.net/images/anime/1567/94728.jpg"
+    },
+    "happy-birthday-inochi-kagayaku-toki": 9931,
     "37897": {
         "image": "https://cdn.myanimelist.net/images/anime/1556/93690.jpg"
     },
@@ -30011,6 +30047,10 @@
     },
     "maria-holic-alive": 9712,
     "maria-holic-alive-dub": 9712,
+    "51897": {
+        "image": "https://cdn.myanimelist.net/images/anime/1364/126727.jpg"
+    },
+    "hua-jianghu-bu-liang-ren-vi": 51897,
     "933": {
         "image": "https://cdn.myanimelist.net/images/anime/1349/103321.jpg"
     },
@@ -31194,6 +31234,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/5/84849.jpg"
     },
     "demon-lord-dante": 1628,
+    "maou-dante-dub": 1628,
     "34863": {
         "image": "https://cdn.myanimelist.net/images/anime/5/89579.jpg"
     },
