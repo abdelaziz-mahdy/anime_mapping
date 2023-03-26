@@ -1,5 +1,5 @@
 {
-    "__version__": 33,
+    "__version__": 34,
     "23283": {
         "image": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg"
     },
@@ -995,6 +995,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/87704.jpg"
     },
     "kono-sekai-no-katasumi-ni": 15227,
+    "kono-sekai-no-katasumi-ni-dub": 15227,
     "3545": {
         "image": "https://cdn.myanimelist.net/images/anime/5/21196.jpg"
     },
@@ -8720,6 +8721,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1462/98802.jpg"
     },
     "yuragi-sou-no-yuuna-san": 36726,
+    "yuragi-sou-no-yuuna-san-uncensored": 36726,
     "41899": {
         "image": "https://cdn.myanimelist.net/images/anime/1988/115708.jpg"
     },
@@ -12195,6 +12197,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1276/97039.jpg"
     },
     "devil-hunter-yohko": 1280,
+    "devil-hunter-yohko-dub": 1280,
     "16": {
         "image": "https://cdn.myanimelist.net/images/anime/11/73923.jpg"
     },
@@ -13754,6 +13757,10 @@
     },
     "hetalia-axis-powers": 5060,
     "hetalia-axis-powers-dub": 5060,
+    "52991": {
+        "image": "https://cdn.myanimelist.net/images/anime/1919/134071.jpg"
+    },
+    "sousou-no-frieren": 52991,
     "9544": {
         "image": "https://cdn.myanimelist.net/images/anime/1224/98799.jpg"
     },
@@ -14347,6 +14354,10 @@
     },
     "arcana-famiglia-capriccio-stile-arcana-famiglia-dub": 15411,
     "arcana-famiglia-capriccio-stile-arcana-famiglia": 15411,
+    "54737": {
+        "image": "https://cdn.myanimelist.net/images/anime/1573/134295.jpg"
+    },
+    "bai-lian-feisheng-lu": 54737,
     "1944": {
         "image": "https://cdn.myanimelist.net/images/anime/1984/94161.jpg"
     },
@@ -16366,6 +16377,10 @@
     },
     "dragon-ball-z-movie-13-wrath-of-the-dragon-dub": 906,
     "dragon-ball-z-movie-13-wrath-of-the-dragon": 906,
+    "53655": {
+        "image": "https://cdn.myanimelist.net/images/anime/1085/131383.jpg"
+    },
+    "yomawari-neko": 53655,
     "818": {
         "image": "https://cdn.myanimelist.net/images/anime/12/74961.jpg"
     },
@@ -17212,6 +17227,7 @@
     },
     "nande-koko-ni-sensei-ga": 38397,
     "nande-koko-ni-sensei-ga-dub": 38397,
+    "nande-koko-ni-sensei-ga-uncensored": 38397,
     "2207": {
         "image": "https://cdn.myanimelist.net/images/anime/1260/94835.jpg"
     },
@@ -19625,6 +19641,10 @@
     },
     "3d-kanojo-real-girl": 36793,
     "3d-kanojo-real-girl-dub": 36793,
+    "191": {
+        "image": "https://cdn.myanimelist.net/images/anime/11/82467.jpg"
+    },
+    "love-hina-christmas-movie-dub": 191,
     "7697": {
         "image": "https://cdn.myanimelist.net/images/anime/13/72330.jpg"
     },
@@ -21756,6 +21776,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/10634.jpg"
     },
     "akiba-chan": 5304,
+    "53367": {
+        "image": "https://cdn.myanimelist.net/images/anime/1349/132466.jpg"
+    },
+    "shen-lan-qi-yu-wushuang-zhu-2nd-season": 53367,
     "9806": {
         "image": "https://cdn.myanimelist.net/images/anime/7/63587.jpg"
     },
