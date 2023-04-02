@@ -1,5 +1,5 @@
 {
-    "__version__": 34,
+    "__version__": 35,
     "23283": {
         "image": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg"
     },
@@ -2688,6 +2688,10 @@
     },
     "blue-remains": 4733,
     "blue-remains-dub": 4733,
+    "8643": {
+        "image": "https://cdn.myanimelist.net/images/anime/1548/111843.jpg"
+    },
+    "asatte-dance": 8643,
     "36308": {
         "image": "https://cdn.myanimelist.net/images/anime/4/89563.jpg"
     },
@@ -3757,6 +3761,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/3/43213.jpg"
     },
     "vassalord-2013": 15933,
+    "1800": {
+        "image": "https://cdn.myanimelist.net/images/anime/1691/106030.jpg"
+    },
+    "fatal-fury-2-the-new-battle-dub": 1800,
     "28833": {
         "image": "https://cdn.myanimelist.net/images/anime/10/83740.jpg"
     },
@@ -5699,6 +5707,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1776/131746.jpg"
     },
     "mushoku-tensei-isekai-ittara-honki-dasu-2nd-seasons": 51179,
+    "mushoku-tensei-ii-isekai-ittara-honki-dasu": 51179,
     "2448": {
         "image": "https://cdn.myanimelist.net/images/anime/5/2829.jpg"
     },
@@ -6391,6 +6400,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/3/4868.jpg"
     },
     "maple-story": 2719,
+    "52081": {
+        "image": "https://cdn.myanimelist.net/images/anime/1171/133777.jpg"
+    },
+    "edomae-elf": 52081,
     "31973": {
         "image": "https://cdn.myanimelist.net/images/anime/3/77176.jpg"
     },
@@ -6633,6 +6646,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/7/50439.jpg"
     },
     "rinne-no-lagrange": 11227,
+    "3760": {
+        "image": "https://cdn.myanimelist.net/images/anime/1784/112828.jpg"
+    },
+    "grimm-douwa-kin-no-tori": 3760,
     "15109": {
         "image": "https://cdn.myanimelist.net/images/anime/10/73934.jpg"
     },
@@ -7320,6 +7337,10 @@
     },
     "eve-no-jikan": 3167,
     "time-of-eve-dub": 3167,
+    "38196": {
+        "image": "https://cdn.myanimelist.net/images/anime/1392/93503.jpg"
+    },
+    "chouetsu-sekai": 38196,
     "10372": {
         "image": "https://cdn.myanimelist.net/images/anime/1001/98636.jpg"
     },
@@ -7698,6 +7719,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/2959.jpg"
     },
     "samurai-spirits-2-asura-zanmaden": 839,
+    "8920": {
+        "image": "https://cdn.myanimelist.net/images/anime/1254/112156.jpg"
+    },
+    "inuki-kanako-zekkyou-collection-gakkou-ga-kowai": 8920,
     "1565": {
         "image": "https://cdn.myanimelist.net/images/anime/13/25749.jpg"
     },
@@ -8945,7 +8970,6 @@
         "image": "https://cdn.myanimelist.net/images/anime/4/83782.jpg"
     },
     "yowamushi-pedal-new-generation": 31783,
-    "generator-rex-season-03-dub": 31783,
     "6067": {
         "image": "https://cdn.myanimelist.net/images/anime/1157/97568.jpg"
     },
@@ -9010,6 +9034,10 @@
     },
     "dennou-coil-dub": 2164,
     "dennou-coil": 2164,
+    "9665": {
+        "image": "https://cdn.myanimelist.net/images/anime/10/62251.jpg"
+    },
+    "bucchigiri": 9665,
     "2292": {
         "image": "https://cdn.myanimelist.net/images/anime/7/50033.jpg"
     },
@@ -14584,6 +14612,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1743/125204.jpg"
     },
     "isekai-ojisan": 49220,
+    "isekai-ojisan-dub": 49220,
     "2464": {
         "image": "https://cdn.myanimelist.net/images/anime/8/2913.jpg"
     },
@@ -15457,6 +15486,10 @@
     },
     "tribe-nine": 49969,
     "tribe-nine-dub": 49969,
+    "9343": {
+        "image": "https://cdn.myanimelist.net/images/anime/1895/94220.jpg"
+    },
+    "bousou-sengokushi": 9343,
     "41226": {
         "image": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg"
     },
@@ -18641,6 +18674,11 @@
     },
     "ys-tenkuu-no-shinden-adol-christine-no-bouken": 1277,
     "ys-tenkuu-no-shinden-adol-christine-no-bouken-dub": 1277,
+    "54225": {
+        "image": "https://cdn.myanimelist.net/images/anime/1453/132695.jpg"
+    },
+    "inu-ni-nattara-suki-na-hito-ni-hirowareta-specials": 54225,
+    "inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-uncensored": 54225,
     "40369": {
         "image": "https://cdn.myanimelist.net/images/anime/1606/116670.jpg"
     },
@@ -20724,6 +20762,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1623/96878.jpg"
     },
     "psycho-pass-sinners-of-the-system-case-1-tsumi-to-bachi": 37440,
+    "psycho-pass-sinners-of-the-system-case-1-tsumi-to-batsu-dub": 37440,
     "19685": {
         "image": "https://cdn.myanimelist.net/images/anime/11/63363.jpg"
     },
@@ -20870,6 +20909,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1916/112514.jpg"
     },
     "ore-tsushima": 48252,
+    "52198": {
+        "image": "https://cdn.myanimelist.net/images/anime/1670/130060.jpg"
+    },
+    "kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai": 52198,
     "6518": {
         "image": "https://cdn.myanimelist.net/images/anime/2/29338.jpg"
     },
@@ -21540,6 +21583,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/4/46041.jpg"
     },
     "maoyuu-maou-yuusha": 14833,
+    "51817": {
+        "image": "https://cdn.myanimelist.net/images/anime/1363/132065.jpg"
+    },
+    "watashi-no-yuri-wa-oshigoto-desu": 51817,
     "33041": {
         "image": "https://cdn.myanimelist.net/images/anime/2/82249.jpg"
     },
@@ -21674,6 +21721,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/21668.jpg"
     },
     "lupin-iii-kutabare-nostradamus": 1419,
+    "50871": {
+        "image": "https://cdn.myanimelist.net/images/anime/1624/125909.jpg"
+    },
+    "alice-gear-aegis-expansion": 50871,
     "38719": {
         "image": "https://cdn.myanimelist.net/images/anime/1351/96571.jpg"
     },
@@ -22193,6 +22244,10 @@
     },
     "mahou-shoujo-lyrical-nanoha-the-movie-1st-2010": 10153,
     "mahou-shoujo-lyrical-nanoha-the-movie-2nd-as": 10153,
+    "54738": {
+        "image": "https://cdn.myanimelist.net/images/anime/1681/134297.jpg"
+    },
+    "majutsushi-orphen-hagure-tabi-seiiki-hen": 54738,
     "25777": {
         "image": "https://cdn.myanimelist.net/images/anime/4/84177.jpg"
     },
@@ -22801,6 +22856,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/5/75774.jpg"
     },
     "mobile-suit-gundam-iii-encounters-in-space": 1092,
+    "44590": {
+        "image": "https://cdn.myanimelist.net/images/anime/1865/113847.jpg"
+    },
+    "adachi-to-shimamura-mini-anime": 44590,
     "13331": {
         "image": "https://cdn.myanimelist.net/images/anime/4/73278.jpg"
     },
@@ -27982,6 +28041,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1252/122672.jpg"
     },
     "kikou-souseiki-mospeada-dub": 3670,
+    "43206": {
+        "image": "https://cdn.myanimelist.net/images/anime/1876/125206.jpg"
+    },
+    "gundam-g-no-reconguista-movie-v-shisen-wo-koete": 43206,
     "3626": {
         "image": "https://cdn.myanimelist.net/images/anime/1114/118424.jpg"
     },
@@ -28883,6 +28946,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/6/44678.jpg"
     },
     "puchimas-wakku-waku": 15781,
+    "puchimas-wakku-waku-ova": 15781,
     "12709": {
         "image": "https://cdn.myanimelist.net/images/anime/10/35705.jpg"
     },
@@ -29642,6 +29706,10 @@
     },
     "koisuru-asteroid": 39388,
     "koisuru-asteroid-dub": 39388,
+    "51139": {
+        "image": "https://cdn.myanimelist.net/images/anime/1632/133752.jpg"
+    },
+    "kizuna-no-allele": 51139,
     "20045": {
         "image": "https://cdn.myanimelist.net/images/anime/7/56159.jpg"
     },
@@ -30482,6 +30550,10 @@
     },
     "gokushufudou-season-2": 53148,
     "gokushufudou-season-2-dub": 53148,
+    "5931": {
+        "image": "https://cdn.myanimelist.net/images/anime/9/57437.jpg"
+    },
+    "ai-to-ken-no-camelot-mangaka-marina-time-slip-jiken": 5931,
     "42740": {
         "image": "https://cdn.myanimelist.net/images/anime/1722/109001.jpg"
     },
@@ -30499,6 +30571,10 @@
     },
     "the-legend-of-zelda-": 600,
     "legend-of-duo": 600,
+    "51404": {
+        "image": "https://cdn.myanimelist.net/images/anime/1351/129003.jpg"
+    },
+    "rakudai-majo-fuuka-to-yami-no-majo": 51404,
     "811": {
         "image": "https://cdn.myanimelist.net/images/anime/6/7081.jpg"
     },
@@ -32167,6 +32243,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/24990.jpg"
     },
     "taiyou-no-mokushiroku-a-spirit-of-the-sun": 1857,
+    "52614": {
+        "image": "https://cdn.myanimelist.net/images/anime/1234/134065.jpg"
+    },
+    "mix-meisei-story-nidome-no-natsu-sora-no-mukou-e": 52614,
     "2254": {
         "image": "https://cdn.myanimelist.net/images/anime/7/51455.jpg"
     },
@@ -32548,6 +32628,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1399/128318.jpg"
     },
     "nierautomata-ver1-1a": 51105,
+    "nierautomata-ver1-1a-dub": 51105,
     "2311": {
         "image": "https://cdn.myanimelist.net/images/anime/1764/100874.jpg"
     },
