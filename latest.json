@@ -1,5 +1,5 @@
 {
-    "__version__": 910,
+    "__version__": 911,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -197,7 +197,7 @@
     "1-gatsu-ni-wa-christmas": 1,
     "gekitou-crush-gear-turbo": 24,
     "hirogaru-sky-precure": 9,
-    "pole-princess": 6,
+    "pole-princess": 7,
     "futari-bun-no-shoumei": 1,
     "inu-to-shounen": 1,
     "new-initial-d-movie-legend-3-mugen-dub": 1,
@@ -238,7 +238,7 @@
     "yuragi-sou-no-yuuna-san-uncensored": 12,
     "xi-yangyang-yu-hui-tailang-xi-qi-yangyang-guo-she-nian": 1,
     "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen": 1,
-    "pole-princess-pole-dance-show-movie": 6,
+    "pole-princess-pole-dance-show-movie": 7,
     "pole-princess-self-introduction": 7,
     "the-kabocha-wine": 30,
     "gundam-g-no-reconguista-movie-v-shisen-wo-koete": 1,
@@ -293,5 +293,7 @@
     "kumo-to-tulip": 1,
     "blocker-gundan-iv-machine-blaster": 32,
     "machine-hayabusa": 21,
-    "zetsubou-no-kaibutsu": 1
+    "zetsubou-no-kaibutsu": 1,
+    "kaminaki-sekai-no-kamisama-katsudou": 1,
+    "kono-subarashii-sekai-ni-bakuen-wo": 1
 }
