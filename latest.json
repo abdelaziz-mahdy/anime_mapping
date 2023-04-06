@@ -1,5 +1,5 @@
 {
-    "__version__": 918,
+    "__version__": 919,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -291,7 +291,7 @@
     "skip-to-loafer": 1,
     "tokyo-mew-mew-new-2nd-season": 1,
     "kumo-to-tulip": 1,
-    "blocker-gundan-iv-machine-blaster": 32,
+    "blocker-gundan-iv-machine-blaster": 38,
     "machine-hayabusa": 21,
     "zetsubou-no-kaibutsu": 1,
     "kaminaki-sekai-no-kamisama-katsudou": 1,
@@ -299,5 +299,6 @@
     "mahoutsukai-no-yome-season-2": 1,
     "watashi-no-yuri-wa-oshigoto-desu": 1,
     "dr-stone-new-world": 1,
-    "opus-colors": 1
+    "opus-colors": 1,
+    "yuusha-ga-shinda": 1
 }
