@@ -1,5 +1,5 @@
 {
-    "__version__": 962,
+    "__version__": 963,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -262,7 +262,7 @@
     "yamada-kun-to-lv999-no-koi-wo-suru": 2,
     "boku-no-kokoro-no-yabai-yatsu": 2,
     "edens-zero-2nd-season": 2,
-    "tengoku-daimakyou": 1,
+    "tengoku-daimakyou": 2,
     "kyojin-no-hoshi": 2,
     "crayon-shin-chan-movie-30-mononoke-ninja-chinpuuden": 1,
     "kimi-wo-aishita-hitori-no-boku-e": 1,
@@ -324,5 +324,6 @@
     "kimi-wa-houkago-insomnia": 1,
     "dead-mount-death-play": 1,
     "kimera": 1,
-    "tousouchuu-great-mission": 2
+    "tousouchuu-great-mission": 2,
+    "ao-no-orchestra": 1
 }
