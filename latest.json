@@ -1,5 +1,5 @@
 {
-    "__version__": 1008,
+    "__version__": 1009,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -274,7 +274,7 @@
     "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan": 1,
     "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito": 2,
     "jijou-wo-shiranai-tenkousei-ga-guigui-kuru": 2,
-    "go-go-vehicle-zoo": 2,
+    "go-go-vehicle-zoo": 3,
     "my-home-hero": 2,
     "yume-no-crayon-oukoku": 59,
     "kuma-kuma-kuma-bear-punch": 2,
@@ -334,5 +334,5 @@
     "oshi-no-ko": 1,
     "nana-lucky-seven-lucky-gods": 12,
     "ousama-ranking-yuuki-no-takarabako": 1,
-    "pokemon-shinsaku-anime": 1
+    "pokemon-shinsaku-anime": 2
 }
