@@ -1,5 +1,5 @@
 {
-    "__version__": 36,
+    "__version__": 37,
     "50267": {
         "image": "https://cdn.myanimelist.net/images/anime/1635/120395.jpg"
     },
@@ -544,6 +544,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1139/95077.jpg"
     },
     "asobi-asobase": 37171,
+    "49523": {
+        "image": "https://cdn.myanimelist.net/images/anime/1166/134730.jpg"
+    },
+    "02": 49523,
     "538": {
         "image": "https://cdn.myanimelist.net/images/anime/4/61149.jpg"
     },
@@ -1704,6 +1708,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/28507.jpg"
     },
     "gosho-aoyamas-collection-of-short-stories": 5578,
+    "2592": {
+        "image": "https://cdn.myanimelist.net/images/anime/2/3460.jpg"
+    },
+    "kimera": 2592,
     "24701": {
         "image": "https://cdn.myanimelist.net/images/anime/9/68095.jpg"
     },
@@ -3413,6 +3421,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/10/40599.jpg"
     },
     "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials": 14957,
+    "53905": {
+        "image": "https://cdn.myanimelist.net/images/anime/1766/131951.jpg"
+    },
+    "cang-lan-jue-part-2": 53905,
     "6280": {
         "image": "https://cdn.myanimelist.net/images/anime/1006/116460.jpg"
     },
@@ -4383,6 +4395,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/6/80039.jpg"
     },
     "flying-witch": 31376,
+    "flying-witch-dub": 31376,
     "18893": {
         "image": "https://cdn.myanimelist.net/images/anime/6/56143.jpg"
     },
@@ -4998,6 +5011,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1252/123641.jpg"
     },
     "nanaraki-seven-lucky-gods": 51766,
+    "nana-lucky-seven-lucky-gods": 51766,
     "12979": {
         "image": "https://cdn.myanimelist.net/images/anime/13/36475.jpg"
     },
@@ -10578,6 +10592,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1949/129439.jpg"
     },
     "tengoku-daimakyou": 53393,
+    "tengoku-daimakyou-dub": 53393,
     "2793": {
         "image": "https://cdn.myanimelist.net/images/anime/1488/96651.jpg"
     },
@@ -11709,6 +11724,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1524/97286.jpg"
     },
     "nobunaga-sensei-no-osanazuma": 38814,
+    "50431": {
+        "image": "https://cdn.myanimelist.net/images/anime/1750/130018.jpg"
+    },
+    "xiling-jiyuan": 50431,
     "6351": {
         "image": "https://cdn.myanimelist.net/images/anime/10/19621.jpg"
     },
@@ -11782,6 +11801,7 @@
     },
     "dimension-w": 31163,
     "dimension-w-dub": 31163,
+    "dimension-w-ova-dub": 31163,
     "49433": {
         "image": "https://cdn.myanimelist.net/images/anime/1616/116551.jpg"
     },
@@ -13433,6 +13453,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/3/25576.jpg"
     },
     "seikimatsu-occult-gakuin-specials": 9220,
+    "51297": {
+        "image": "https://cdn.myanimelist.net/images/anime/1702/131318.jpg"
+    },
+    "ragna-crimson": 51297,
     "2553": {
         "image": "https://cdn.myanimelist.net/images/anime/2/17492.jpg"
     },
@@ -13658,6 +13682,10 @@
     },
     "saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkai-domo-ni-kurabete-monster-ga-yowasugirunda-ga": 50932,
     "saikyou-onmyouji-no-isekai-tenseiki-dub": 50932,
+    "36566": {
+        "image": "https://cdn.myanimelist.net/images/anime/1744/98535.jpg"
+    },
+    "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan": 36566,
     "917": {
         "image": "https://cdn.myanimelist.net/images/anime/1310/112637.jpg"
     },
@@ -14128,6 +14156,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/10/83799.jpg"
     },
     "marginal4-kiss-kara-tsukuru-big-bang": 33788,
+    "40020": {
+        "image": "https://cdn.myanimelist.net/images/anime/1981/101698.jpg"
+    },
+    "cencoroll-3": 40020,
     "36510": {
         "image": "https://cdn.myanimelist.net/images/anime/1143/96156.jpg"
     },
@@ -14904,6 +14936,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1473/110701.jpg"
     },
     "the-gregory-gallery-tour-special": 44588,
+    "50429": {
+        "image": "https://cdn.myanimelist.net/images/anime/1671/119590.jpg"
+    },
+    "aiyou-de-mishi": 50429,
     "1121": {
         "image": "https://cdn.myanimelist.net/images/anime/13/75733.jpg"
     },
@@ -15880,6 +15916,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/13/81679.jpg"
     },
     "kiitarou-shounen-no-youkai-enikki": 33244,
+    "53698": {
+        "image": "https://cdn.myanimelist.net/images/anime/1203/133808.jpg"
+    },
+    "world-dai-star": 53698,
     "32802": {
         "image": "https://cdn.myanimelist.net/images/anime/10/80198.jpg"
     },
@@ -16379,6 +16419,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1133/124283.jpg"
     },
     "gundam-g-no-reconguista-movie-iv-gekitou-ni-sakebu-ai": 43205,
+    "42461": {
+        "image": "https://cdn.myanimelist.net/images/anime/1649/108482.jpg"
+    },
+    "wo-de-san-ti-zhang-bei-hai-zhuan-s2": 42461,
     "18755": {
         "image": "https://cdn.myanimelist.net/images/anime/9/50109.jpg"
     },
@@ -16687,6 +16731,7 @@
     },
     "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen": 40595,
     "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-dub": 40595,
+    "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-zoku-hen": 40595,
     "33241": {
         "image": "https://cdn.myanimelist.net/images/anime/1307/121781.jpg"
     },
@@ -17598,6 +17643,10 @@
     },
     "lupin-iii-2015-": 27947,
     "lupin-iii-part-iv-dub": 27947,
+    "51532": {
+        "image": "https://cdn.myanimelist.net/images/anime/1782/122284.jpg"
+    },
+    "nitian-xie-shen-2nd-season": 51532,
     "6867": {
         "image": "https://cdn.myanimelist.net/images/anime/12/16013.jpg"
     },
@@ -17820,6 +17869,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/75513.jpg"
     },
     "saki-achiga-hen": 10884,
+    "one-move-to-explode-the-cultivation-realm": 10884,
     "51678": {
         "image": "https://cdn.myanimelist.net/images/anime/1058/131632.jpg"
     },
@@ -18630,7 +18680,7 @@
     "chu-feng-yi-dian-zhi-zi": 44062,
     "chu-feng-eden-zhi-zi": 44062,
     "53199": {
-        "image": "https://cdn.myanimelist.net/images/anime/1941/132545.jpg"
+        "image": "https://cdn.myanimelist.net/images/anime/1023/134768.jpg"
     },
     "mobile-suit-gundam-the-witch-from-mercury-season-2": 53199,
     "15781": {
@@ -18886,6 +18936,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1668/125323.jpg"
     },
     "one-piece-film-red": 50410,
+    "one-piece-film-red-dub": 50410,
     "529": {
         "image": "https://cdn.myanimelist.net/images/anime/1/529.jpg"
     },
@@ -19407,6 +19458,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/7/41071.jpg"
     },
     "akai-kiba-blue-sonnet": 2051,
+    "54744": {
+        "image": "https://cdn.myanimelist.net/images/anime/1922/134324.jpg"
+    },
+    "tokidoki-bosotto-russia-go-de-dereru-tonari-no-aalya-san": 54744,
     "33730": {
         "image": "https://cdn.myanimelist.net/images/anime/3/83828.jpg"
     },
@@ -20179,6 +20234,10 @@
     },
     "zhi-duoduo-qihuan-xingkong-zhi-lu": 38911,
     "zhi-duoduo-qihuan-xingkong-zhi-lu-dub": 38911,
+    "50217": {
+        "image": "https://cdn.myanimelist.net/images/anime/1806/118983.jpg"
+    },
+    "shanhe-jian-xin-xiao-juchang": 50217,
     "32105": {
         "image": "https://cdn.myanimelist.net/images/anime/12/79556.jpg"
     },
@@ -20362,6 +20421,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/4/87036.jpg"
     },
     "cogimyun": 36016,
+    "48624": {
+        "image": "https://cdn.myanimelist.net/images/anime/1199/120216.jpg"
+    },
+    "recycle-of-the-penguindrum-zenpen-kimi-no-ressha-wa-seizon-senryaku": 48624,
     "27997": {
         "image": "https://cdn.myanimelist.net/images/anime/11/67849.jpg"
     },
@@ -20901,6 +20964,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/5/16697.jpg"
     },
     "gunslinger-girl-ii-teatrino": 3231,
+    "gunslinger-girl-il-teatrino-dub": 3231,
     "42192": {
         "image": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg"
     },
@@ -23238,6 +23302,10 @@
     },
     "blood-reign-curse-of-the-yoma": 1484,
     "blood-reign-curse-of-the-yoma-dub": 1484,
+    "54760": {
+        "image": "https://cdn.myanimelist.net/images/anime/1778/134522.jpg"
+    },
+    "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega": 54760,
     "48844": {
         "image": "https://cdn.myanimelist.net/images/anime/1703/114630.jpg"
     },
@@ -25947,6 +26015,10 @@
     },
     "junketsu-no-maria": 26441,
     "maria-the-virgin-witch-dub": 26441,
+    "54736": {
+        "image": "https://cdn.myanimelist.net/images/anime/1006/134294.jpg"
+    },
+    "wulin-buer-zhoukan": 54736,
     "565": {
         "image": "https://cdn.myanimelist.net/images/anime/11/21278.jpg"
     },
@@ -26314,6 +26386,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/6/6610.jpg"
     },
     "geobreeders-2-mouryou-yuugekitai-file-xx-ransen-toppa": 1159,
+    "19619": {
+        "image": "https://cdn.myanimelist.net/images/anime/2/73944.jpg"
+    },
+    "jewelpet-twinkle-hohoemi-no-niji-ni-dokkidoki": 19619,
     "31933": {
         "image": "https://cdn.myanimelist.net/images/anime/3/79156.jpg"
     },
@@ -26910,6 +26986,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/14093.jpg"
     },
     "cobra-the-animation-time-drive-ova": 5031,
+    "54233": {
+        "image": "https://cdn.myanimelist.net/images/anime/1144/134323.jpg"
+    },
+    "sasayaku-you-ni-koi-wo-utau": 54233,
     "27899": {
         "image": "https://cdn.myanimelist.net/images/anime/1889/123307.jpg"
     },
@@ -29396,6 +29476,10 @@
     },
     "blue-seed-beyond": 999,
     "blue-seed-2-dub": 999,
+    "54492": {
+        "image": "https://cdn.myanimelist.net/images/anime/1235/133405.jpg"
+    },
+    "kusuriya-no-hitorigoto": 54492,
     "14397": {
         "image": "https://cdn.myanimelist.net/images/anime/6/47435.jpg"
     },
@@ -31187,6 +31271,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1109/130452.jpg"
     },
     "kanojo-ga-koushaku-tei-ni-itta-riyuu": 52308,
+    "kanojo-ga-koushaku-tei-ni-itta-riyuu-dub": 52308,
     "34962": {
         "image": "https://cdn.myanimelist.net/images/anime/1743/93826.jpg"
     },
@@ -31478,6 +31563,10 @@
     },
     "hiiro-no-kakera": 12461,
     "hiiro-no-kakera-dub": 12461,
+    "54895": {
+        "image": "https://cdn.myanimelist.net/images/anime/1897/134905.jpg"
+    },
+    "shanhai-jihui": 54895,
     "12237": {
         "image": "https://cdn.myanimelist.net/images/anime/12/39121.jpg"
     },
