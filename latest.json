@@ -1,5 +1,5 @@
 {
-    "__version__": 1035,
+    "__version__": 1036,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -295,7 +295,7 @@
     "machine-hayabusa": 21,
     "zetsubou-no-kaibutsu": 1,
     "kaminaki-sekai-no-kamisama-katsudou": 2,
-    "kono-subarashii-sekai-ni-bakuen-wo": 2,
+    "kono-subarashii-sekai-ni-bakuen-wo": 3,
     "mahoutsukai-no-yome-season-2": 2,
     "watashi-no-yuri-wa-oshigoto-desu": 2,
     "dr-stone-new-world": 2,
@@ -340,5 +340,6 @@
     "sekai-ga-horobiru-mae-ni-kimi-ni-aitai": 1,
     "munou-na-nana-mini-anime": 12,
     "meet-in-rebirth-an-exclusive-for-you-and-me-s3": 22,
-    "bakusou-kyoudai-lets-go-special": 1
+    "bakusou-kyoudai-lets-go-special": 1,
+    "niehime-to-kemono-no-ou": 1
 }
