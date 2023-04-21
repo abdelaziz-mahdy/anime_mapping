@@ -1,5 +1,5 @@
 {
-    "__version__": 1045,
+    "__version__": 1046,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -346,5 +346,6 @@
     "aria-the-ova-arietta": 1,
     "deemo-movie-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku": 1,
     "suzume-no-tojimari": 1,
-    "chou-futsuu-toshi-kashiwa-densetsu-kashiwa-no-gotouji-yuru-anime": 13
+    "chou-futsuu-toshi-kashiwa-densetsu-kashiwa-no-gotouji-yuru-anime": 13,
+    "chou-futsuu-toshi-kashiwa-densetsu": 10
 }
