@@ -1,5 +1,5 @@
 {
-    "__version__": 37,
+    "__version__": 38,
     "50267": {
         "image": "https://cdn.myanimelist.net/images/anime/1635/120395.jpg"
     },
@@ -736,6 +736,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1507/131879.jpg"
     },
     "yuusha-ga-shinda": 51706,
+    "yuusha-ga-shinda-dub": 51706,
     "32937": {
         "image": "https://cdn.myanimelist.net/images/anime/2/83188.jpg"
     },
@@ -1644,6 +1645,10 @@
     },
     "steinsgate": 9253,
     "steinsgate-dub": 9253,
+    "52015": {
+        "image": "https://cdn.myanimelist.net/images/anime/1075/124359.jpg"
+    },
+    "yofukashi-no-uta-mini": 52015,
     "98": {
         "image": "https://cdn.myanimelist.net/images/anime/13/7226.jpg"
     },
@@ -2418,6 +2423,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1895/124133.jpg"
     },
     "kono-subarashii-sekai-ni-bakuen-wo": 51958,
+    "kono-subarashii-sekai-ni-bakuen-wo-dub": 51958,
     "18713": {
         "image": "https://cdn.myanimelist.net/images/anime/10/50123.jpg"
     },
@@ -3715,10 +3721,6 @@
     },
     "-machine-doll-wa-kizutsukanai-specials": 21415,
     "machine-doll-wa-kizutsukanai-specials-dub": 21415,
-    "38606": {
-        "image": "https://cdn.myanimelist.net/images/anime/1000/95943.jpg"
-    },
-    "zhen-hun-jie-recaps": 38606,
     "1002": {
         "image": "https://cdn.myanimelist.net/images/anime/7/50475.jpg"
     },
@@ -3949,6 +3951,10 @@
     },
     "noragami": 20507,
     "noragami-dub": 20507,
+    "14381": {
+        "image": "https://cdn.myanimelist.net/images/anime/3/39427.jpg"
+    },
+    "sore-ike-anpanman-yomigaere-bananajima-dub": 14381,
     "4970": {
         "image": "https://cdn.myanimelist.net/images/anime/6/77929.jpg"
     },
@@ -6174,6 +6180,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1587/121016.jpg"
     },
     "buddy-go": 33056,
+    "51761": {
+        "image": "https://cdn.myanimelist.net/images/anime/1176/130578.jpg"
+    },
+    "uma-musume-pretty-derby-ona": 51761,
     "929": {
         "image": "https://cdn.myanimelist.net/images/anime/1562/94955.jpg"
     },
@@ -6644,6 +6654,10 @@
     },
     "mardock-scramble-the-third-exhaust": 12053,
     "mardock-scramble-the-third-exhaust-dub": 12053,
+    "42876": {
+        "image": "https://cdn.myanimelist.net/images/anime/1766/109195.jpg"
+    },
+    "chou-futsuu-toshi-kashiwa-densetsu-kashiwa-no-gotouji-yuru-anime": 42876,
     "21067": {
         "image": "https://cdn.myanimelist.net/images/anime/6/57481.jpg"
     },
@@ -6804,6 +6818,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1969/116702.jpg"
     },
     "nora-to-oujo-to-noraneko-heart": 32447,
+    "9857": {
+        "image": "https://cdn.myanimelist.net/images/anime/13/27281.jpg"
+    },
+    "bakusou-kyoudai-lets-go-special": 9857,
     "3713": {
         "image": "https://cdn.myanimelist.net/images/anime/11/86976.jpg"
     },
@@ -7376,6 +7394,7 @@
     },
     "mobile-suit-gundam-iron-blooded-orphans": 31251,
     "mobile-suit-gundam-iron-blooded-orphans-dub": 31251,
+    "mobile-suit-gundam-iron-blooded-orphans-urdr-hunt": 31251,
     "23209": {
         "image": "https://cdn.myanimelist.net/images/anime/1112/130966.jpg"
     },
@@ -8133,6 +8152,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1710/95650.jpg"
     },
     "shingeki-no-kyojin-movie-3-kakusei-no-houkou": 36702,
+    "40722": {
+        "image": "https://cdn.myanimelist.net/images/anime/1735/120543.jpg"
+    },
+    "deemo-movie-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku": 40722,
     "38529": {
         "image": "https://cdn.myanimelist.net/images/anime/1874/100747.jpg"
     },
@@ -8877,6 +8900,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/54531.jpg"
     },
     "cool-cool-bye": 9356,
+    "52367": {
+        "image": "https://cdn.myanimelist.net/images/anime/1258/131840.jpg"
+    },
+    "isekai-shikkaku": 52367,
     "10178": {
         "image": "https://cdn.myanimelist.net/images/anime/11/28531.jpg"
     },
@@ -9271,6 +9298,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1791/112469.jpg"
     },
     "kai-doh-maru": 1622,
+    "52359": {
+        "image": "https://cdn.myanimelist.net/images/anime/1744/127048.jpg"
+    },
+    "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu": 52359,
     "38958": {
         "image": "https://cdn.myanimelist.net/images/anime/1830/98102.jpg"
     },
@@ -9681,6 +9712,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1357/96879.jpg"
     },
     "psycho-pass-sinners-of-the-system-case-2-first-guardian": 37441,
+    "psycho-pass-sinners-of-the-system-case-2-first-guardian-dub": 37441,
     "39681": {
         "image": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg"
     },
@@ -9896,7 +9928,6 @@
         "image": "https://cdn.myanimelist.net/images/anime/1683/91888.jpg"
     },
     "uma-musume-pretty-derby-tv": 35249,
-    "uma-musume-pretty-derby-ona": 35249,
     "763": {
         "image": "https://cdn.myanimelist.net/images/anime/2/15412.jpg"
     },
@@ -10557,6 +10588,10 @@
     },
     "sora-no-otoshimono-forte": 8407,
     "sora-no-otoshimono-forte-dub": 8407,
+    "5494": {
+        "image": "https://cdn.myanimelist.net/images/anime/13/54069.jpg"
+    },
+    "konnichiwa-anne": 5494,
     "30885": {
         "image": "https://cdn.myanimelist.net/images/anime/11/77510.jpg"
     },
@@ -10730,6 +10765,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/11/77622.jpg"
     },
     "aria-the-ova-arietta-dub": 2563,
+    "aria-the-ova-arietta": 2563,
     "1411": {
         "image": "https://cdn.myanimelist.net/images/anime/1628/94357.jpg"
     },
@@ -11365,6 +11401,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1075/131925.jpg"
     },
     "jigokuraku": 46569,
+    "jigokuraku-dub": 46569,
     "5549": {
         "image": "https://cdn.myanimelist.net/images/anime/1258/117454.jpg"
     },
@@ -12611,6 +12648,10 @@
     },
     "saikin-yatotta-maid-ga-ayashii": 51837,
     "saikin-yatotta-maid-ga-ayashii-dub": 51837,
+    "51466": {
+        "image": "https://cdn.myanimelist.net/images/anime/1394/122207.jpg"
+    },
+    "sekai-ga-horobiru-mae-ni-kimi-ni-aitai": 51466,
     "1028": {
         "image": "https://cdn.myanimelist.net/images/anime/10/4327.jpg"
     },
@@ -14387,6 +14428,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1991/123275.jpg"
     },
     "kaminaki-sekai-no-kamisama-katsudou": 51693,
+    "kaminaki-sekai-no-kamisama-katsudou-dub": 51693,
     "50598": {
         "image": "https://cdn.myanimelist.net/images/anime/1321/132900.jpg"
     },
@@ -14545,6 +14587,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1508/132685.jpg"
     },
     "mahoutsukai-no-yome-season-2": 52955,
+    "mahoutsukai-no-yome-season-2-dub": 52955,
     "30757": {
         "image": "https://cdn.myanimelist.net/images/anime/13/78835.jpg"
     },
@@ -14758,6 +14801,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1785/131775.jpg"
     },
     "dr-stone-3rd-season": 48549,
+    "dr-stone-new-world-dub": 48549,
     "37210": {
         "image": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg"
     },
@@ -15451,6 +15495,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1283/124060.jpg"
     },
     "da-zhu-zai": 40233,
+    "da-zhu-zai-s5": 40233,
     "686": {
         "image": "https://cdn.myanimelist.net/images/anime/1/686.jpg"
     },
@@ -16198,6 +16243,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1525/132959.jpg"
     },
     "my-home-hero": 52092,
+    "my-home-hero-dub": 52092,
     "34257": {
         "image": "https://cdn.myanimelist.net/images/anime/10/89786.jpg"
     },
@@ -16246,6 +16292,10 @@
     },
     "appare-ranman": 40532,
     "appare-ranman-dub": 40532,
+    "42831": {
+        "image": "https://cdn.myanimelist.net/images/anime/1587/109132.jpg"
+    },
+    "munou-na-nana-mini-anime": 42831,
     "21743": {
         "image": "https://cdn.myanimelist.net/images/anime/1661/114954.jpg"
     },
@@ -16791,6 +16841,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1226/131884.jpg"
     },
     "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen": 53111,
+    "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen-dub": 53111,
     "517": {
         "image": "https://cdn.myanimelist.net/images/anime/5/75489.jpg"
     },
@@ -17485,6 +17536,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/7/25205.jpg"
     },
     "pita-ten": 162,
+    "54779": {
+        "image": "https://cdn.myanimelist.net/images/anime/1852/134574.jpg"
+    },
+    "pi-zhe-lang-pi-de-yang": 54779,
     "38268": {
         "image": "https://cdn.myanimelist.net/images/anime/1277/100464.jpg"
     },
@@ -18725,6 +18780,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/12/21159.jpg"
     },
     "crystal-blaze": 3840,
+    "53439": {
+        "image": "https://cdn.myanimelist.net/images/anime/1801/134240.jpg"
+    },
+    "boushoku-no-berserk": 53439,
     "3809": {
         "image": "https://cdn.myanimelist.net/images/anime/3/59509.jpg"
     },
@@ -19094,6 +19153,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1851/130431.jpg"
     },
     "kuma-kuma-kuma-bear-2nd-season": 45486,
+    "kuma-kuma-kuma-bear-punch-dub": 45486,
     "5834": {
         "image": "https://cdn.myanimelist.net/images/anime/12/59519.jpg"
     },
@@ -19860,6 +19920,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1671/127574.jpg"
     },
     "bungaku-shoujo-kyou-no-oyatsu-hatsukoi": 7669,
+    "42737": {
+        "image": "https://cdn.myanimelist.net/images/anime/1930/108989.jpg"
+    },
+    "gigi-goegoe-sunghyungsoo": 42737,
     "1366": {
         "image": "https://cdn.myanimelist.net/images/anime/10/20984.jpg"
     },
@@ -20066,6 +20130,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1634/102577.jpg"
     },
     "arifureta-shokugyou-de-sekai-saikyou-specials": 40083,
+    "21671": {
+        "image": "https://cdn.myanimelist.net/images/anime/12/58163.jpg"
+    },
+    "keroro": 21671,
     "12069": {
         "image": "https://cdn.myanimelist.net/images/anime/2/84664.jpg"
     },
@@ -20272,6 +20340,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1932/131464.jpg"
     },
     "isekai-wa-smartphone-to-tomo-ni-2nd-season": 51632,
+    "isekai-wa-smartphone-to-tomo-ni-2-dub": 51632,
     "1594": {
         "image": "https://cdn.myanimelist.net/images/anime/5/86975.jpg"
     },
@@ -22086,6 +22155,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1772/108437.jpg"
     },
     "chou-futsuu-toshi-kashiwa-densetsu-r": 42054,
+    "chou-futsuu-toshi-kashiwa-densetsu": 42054,
     "4999": {
         "image": "https://cdn.myanimelist.net/images/anime/6/20621.jpg"
     },
@@ -22293,6 +22363,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/24536.jpg"
     },
     "armored-trooper-votoms-the-last-red-shoulder": 2583,
+    "54758": {
+        "image": "https://cdn.myanimelist.net/images/anime/1272/134513.jpg"
+    },
+    "the-idolmster-shiny-colors": 54758,
     "1846": {
         "image": "https://cdn.myanimelist.net/images/anime/5/64743.jpg"
     },
@@ -23041,6 +23115,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1476/114026.jpg"
     },
     "fairy-ranmaru-anata-no-kokoro-otasuke-shimasu": 45665,
+    "54772": {
+        "image": "https://cdn.myanimelist.net/images/anime/1697/134541.jpg"
+    },
+    "ququ-bucai-zaixia-yeguai": 54772,
     "2546": {
         "image": "https://cdn.myanimelist.net/images/anime/1626/98666.jpg"
     },
@@ -23089,6 +23167,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/5/22398.jpg"
     },
     "musashi-no-ken": 4062,
+    "39401": {
+        "image": "https://cdn.myanimelist.net/images/anime/1784/99480.jpg"
+    },
+    "super-mario-no-koutsuu-anzen": 39401,
     "15689": {
         "image": "https://cdn.myanimelist.net/images/anime/1170/121597.jpg"
     },
@@ -23201,6 +23283,7 @@
     "hellsing-ultimate": 777,
     "hellsing-ultimate-dub": 777,
     "hellsing-ultimate-uncensored": 777,
+    "the-ultimate-dan-god": 777,
     "23225": {
         "image": "https://cdn.myanimelist.net/images/anime/2/73281.jpg"
     },
@@ -28637,6 +28720,10 @@
     },
     "dragon-ball-z-movie-05-coolers-revenge-dub": 898,
     "dragon-ball-z-movie-5-coolers-revenge": 898,
+    "54997": {
+        "image": "https://cdn.myanimelist.net/images/anime/1279/135290.jpg"
+    },
+    "bu-mie-shen-wang": 54997,
     "5945": {
         "image": "https://cdn.myanimelist.net/images/anime/9/21172.jpg"
     },
@@ -31469,6 +31556,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1350/133642.jpg"
     },
     "jijou-wo-shiranai-tenkousei-ga-guigui-kuru": 53621,
+    "jijou-wo-shiranai-tenkousei-ga-guigui-kuru-dub": 53621,
     "1293": {
         "image": "https://cdn.myanimelist.net/images/anime/9/17573.jpg"
     },
@@ -31575,6 +31663,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1745/128238.jpg"
     },
     "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen": 49877,
+    "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen-dub": 49877,
     "37996": {
         "image": "https://cdn.myanimelist.net/images/anime/1539/98126.jpg"
     },
@@ -31848,6 +31937,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1901/131653.jpg"
     },
     "kyokou-suiri-2nd-season": 44204,
+    "kyokou-suiri-season-2-dub": 44204,
     "677": {
         "image": "https://cdn.myanimelist.net/images/anime/3/49617.jpg"
     },
@@ -32655,6 +32745,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/7/22508.jpg"
     },
     "kimi-ga-nozomu-eien-next-season": 3318,
+    "55020": {
+        "image": "https://cdn.myanimelist.net/images/anime/1601/135341.jpg"
+    },
+    "go-go-vehicle-zoo": 55020,
     "472": {
         "image": "https://cdn.myanimelist.net/images/anime/8/29922.jpg"
     },
