@@ -1,5 +1,5 @@
 {
-    "__version__": 1209,
+    "__version__": 1210,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -309,9 +309,9 @@
     "tonikaku-kawaii-2nd-season": 6,
     "birdie-wing-golf-girls-story-season-2": 5,
     "hikaru-no-go-new-year-special": 1,
-    "rokudou-no-onna-tachi": 5,
-    "megami-no-cafe-terrace": 5,
-    "edomae-elf": 5,
+    "rokudou-no-onna-tachi": 6,
+    "megami-no-cafe-terrace": 6,
+    "edomae-elf": 6,
     "mahou-shoujo-magical-destroyers": 5,
     "paul-no-miracle-daisakusen": 22,
     "otonari-ni-ginga": 5,
@@ -369,5 +369,6 @@
     "hyakko-ova": 1,
     "ultraman-final": 12,
     "hula-fulla-dance": 1,
-    "bakuten-movie": 1
+    "bakuten-movie": 1,
+    "yojouhan-shinwa-taikei-specials": 3
 }
