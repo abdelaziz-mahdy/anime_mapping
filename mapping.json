@@ -1,5 +1,5 @@
 {
-    "__version__": 41,
+    "__version__": 42,
     "35459": {
         "image": "https://cdn.myanimelist.net/images/anime/1624/111683.jpg"
     },
@@ -2623,6 +2623,7 @@
     "magical-girl-lyrical-nanoha": 76,
     "magical-girl-lyrical-nanoha-as-dub": 76,
     "mahou-shoujo-lyrical-nanoha-as-dub": 76,
+    "mahou-shoujo-lyrical-nanoha-dub": 76,
     "29067": {
         "image": "https://cdn.myanimelist.net/images/anime/9/73595.jpg"
     },
@@ -4097,6 +4098,10 @@
     },
     "hokuto-no-ken-raoh-gaiden-ten-no-haoh": 4549,
     "legends-of-the-dark-king-a-fist-of-the-north-star-story": 4549,
+    "53438": {
+        "image": "https://cdn.myanimelist.net/images/anime/1722/135542.jpg"
+    },
+    "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu": 53438,
     "10666": {
         "image": "https://cdn.myanimelist.net/images/anime/4/29365.jpg"
     },
@@ -7655,6 +7660,10 @@
     },
     "nakanohito-genome-jikkyouchuu": 37926,
     "nakanohito-genome-jikkyouchuu-dub": 37926,
+    "54851": {
+        "image": "https://cdn.myanimelist.net/images/anime/1998/134740.jpg"
+    },
+    "yakitori": 54851,
     "15959": {
         "image": "https://cdn.myanimelist.net/images/anime/2/44574.jpg"
     },
@@ -8911,6 +8920,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1663/99834.jpg"
     },
     "starmyu-3rd-season": 36536,
+    "49026": {
+        "image": "https://cdn.myanimelist.net/images/anime/1542/115070.jpg"
+    },
+    "yuru-camp-season-2-specials": 49026,
     "318": {
         "image": "https://cdn.myanimelist.net/images/anime/13/19241.jpg"
     },
@@ -9008,6 +9021,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/8/21243.jpg"
     },
     "tales-of-the-abyss-": 4884,
+    "8985": {
+        "image": "https://cdn.myanimelist.net/images/anime/1065/91991.jpg"
+    },
+    "yojouhan-shinwa-taikei-specials": 8985,
     "33486": {
         "image": "https://cdn.myanimelist.net/images/anime/12/85221.jpg"
     },
@@ -11076,6 +11093,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1884/92933.jpg"
     },
     "huan-jie-wang": 37887,
+    "15399": {
+        "image": "https://cdn.myanimelist.net/images/anime/1899/112783.jpg"
+    },
+    "the-siamese-first-mission": 15399,
     "2164": {
         "image": "https://cdn.myanimelist.net/images/anime/5/12844.jpg"
     },
@@ -11181,6 +11202,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1/1712.jpg"
     },
     "shin-seiki-den-mars": 1712,
+    "42158": {
+        "image": "https://cdn.myanimelist.net/images/anime/1374/107900.jpg"
+    },
+    "wangu-xian-qiong-iv-yin-yue-cheng-pian": 42158,
     "36797": {
         "image": "https://cdn.myanimelist.net/images/anime/4/88981.jpg"
     },
@@ -17948,6 +17973,10 @@
     },
     "dog-scissors-dub": 17831,
     "inu-to-hasami-wa-tsukaiyou": 17831,
+    "39080": {
+        "image": "https://cdn.myanimelist.net/images/anime/1062/98492.jpg"
+    },
+    "ling-jian-zun": 39080,
     "386": {
         "image": "https://cdn.myanimelist.net/images/anime/1480/105967.jpg"
     },
@@ -21914,6 +21943,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1042/119432.jpg"
     },
     "lie-huo-jiao-chou": 44064,
+    "lie-huo-jiao-chou-dub": 44064,
     "3223": {
         "image": "https://cdn.myanimelist.net/images/anime/11/56967.jpg"
     },
@@ -23361,6 +23391,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/6/56621.jpg"
     },
     "kara-no-kyoukai-mirai-fukuin": 14807,
+    "4928": {
+        "image": "https://cdn.myanimelist.net/images/anime/2/9469.jpg"
+    },
+    "idol-tenshi-youkoso-youko": 4928,
     "25687": {
         "image": "https://cdn.myanimelist.net/images/anime/9/75493.jpg"
     },
@@ -26661,10 +26695,6 @@
         "image": "https://cdn.myanimelist.net/images/anime/3/77977.jpg"
     },
     "active-raid-kidou-kyoushuushitsu-dai-hakkei": 31790,
-    "40062": {
-        "image": "https://cdn.myanimelist.net/images/anime/1909/102091.jpg"
-    },
-    "ling-jian-zun": 40062,
     "55130": {
         "image": "https://cdn.myanimelist.net/images/anime/1877/135536.jpg"
     },
@@ -33128,6 +33158,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1571/90319.jpg"
     },
     "seizei-ganbare-mahou-shoujo-kurumi": 35510,
+    "38273": {
+        "image": "https://cdn.myanimelist.net/images/anime/1538/96863.jpg"
+    },
+    "top-wo-nerae-3": 38273,
     "31521": {
         "image": "https://cdn.myanimelist.net/images/anime/1584/112511.jpg"
     },
