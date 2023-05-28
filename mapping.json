@@ -1,5 +1,5 @@
 {
-    "__version__": 42,
+    "__version__": 43,
     "35459": {
         "image": "https://cdn.myanimelist.net/images/anime/1624/111683.jpg"
     },
@@ -7563,6 +7563,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/63003.jpg"
     },
     "sketchbook-full-colors-picture-drama": 6251,
+    "36083": {
+        "image": "https://cdn.myanimelist.net/images/anime/10/87210.jpg"
+    },
+    "lostorage-conflated-wixoss-missing-link": 36083,
     "890": {
         "image": "https://cdn.myanimelist.net/images/anime/12/21183.jpg"
     },
@@ -8860,6 +8864,10 @@
     },
     "kakuriyo-no-yadomeshi": 36754,
     "kakuriyo-no-yadomeshi-dub": 36754,
+    "49743": {
+        "image": "https://cdn.myanimelist.net/images/anime/1909/117482.jpg"
+    },
+    "tabi-wa-ni": 49743,
     "2448": {
         "image": "https://cdn.myanimelist.net/images/anime/5/2829.jpg"
     },
@@ -15438,6 +15446,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1629/124154.jpg"
     },
     "mobile-suit-gundam-cucuruz-doans-island": 49827,
+    "kidou-senshi-gundam-cucuruz-doan-no-shima-dub": 49827,
     "35250": {
         "image": "https://cdn.myanimelist.net/images/anime/12/88432.jpg"
     },
@@ -16135,6 +16144,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1111/131927.jpg"
     },
     "mashle": 52211,
+    "mashle-dub": 52211,
     "20987": {
         "image": "https://cdn.myanimelist.net/images/anime/6/55779.jpg"
     },
@@ -19318,6 +19328,10 @@
     },
     "scarlet-nexus": 48492,
     "scarlet-nexus-dub": 48492,
+    "53882": {
+        "image": "https://cdn.myanimelist.net/images/anime/1463/134589.jpg"
+    },
+    "sand-land": 53882,
     "53680": {
         "image": "https://cdn.myanimelist.net/images/anime/1519/131476.jpg"
     },
@@ -19444,6 +19458,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/13/28902.jpg"
     },
     "rean-no-tsubasa": 574,
+    "49303": {
+        "image": "https://cdn.myanimelist.net/images/anime/1750/116097.jpg"
+    },
+    "alice-to-therese-no-maboroshi-koujou": 49303,
     "36166": {
         "image": "https://cdn.myanimelist.net/images/anime/11/87385.jpg"
     },
@@ -21027,6 +21045,10 @@
     },
     "amagami-ss-plus": 11235,
     "amagami-ss-plus-ova": 11235,
+    "54013": {
+        "image": "https://cdn.myanimelist.net/images/anime/1169/134697.jpg"
+    },
+    "tenchi-muyou-gxp-paradise-shidou-hen": 54013,
     "4486": {
         "image": "https://cdn.myanimelist.net/images/anime/8/58399.jpg"
     },
@@ -24161,6 +24183,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/2/56189.jpg"
     },
     "sakura-trick": 20047,
+    "55305": {
+        "image": "https://cdn.myanimelist.net/images/anime/1850/135882.jpg"
+    },
+    "bastions": 55305,
     "6067": {
         "image": "https://cdn.myanimelist.net/images/anime/1157/97568.jpg"
     },
@@ -26326,6 +26352,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/6/50651.jpg"
     },
     "recorder-to-randoseru-mi": 18099,
+    "55289": {
+        "image": "https://cdn.myanimelist.net/images/anime/1197/135856.jpg"
+    },
+    "one-piece-dai-gekisen-tokushuu-zoro-vs-ookanban": 55289,
     "1425": {
         "image": "https://cdn.myanimelist.net/images/anime/7/34035.jpg"
     },
@@ -26935,6 +26965,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg"
     },
     "chiikawa": 50250,
+    "54915": {
+        "image": "https://cdn.myanimelist.net/images/anime/1567/135752.jpg"
+    },
+    "5-toubun-no-hanayome": 54915,
     "98": {
         "image": "https://cdn.myanimelist.net/images/anime/13/7226.jpg"
     },
@@ -27693,6 +27727,10 @@
         "image": "https://cdn.myanimelist.net/images/anime/1960/120792.jpg"
     },
     "precure-miracle-universe-movie": 38672,
+    "2110": {
+        "image": "https://cdn.myanimelist.net/images/anime/1358/98824.jpg"
+    },
+    "rockman-exe-beast-s1": 2110,
     "1596": {
         "image": "https://cdn.myanimelist.net/images/anime/1681/100065.jpg"
     },
@@ -30546,6 +30584,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1444/131774.jpg"
     },
     "oshi-no-ko": 52034,
+    "oshi-no-ko-dub": 52034,
     "7193": {
         "image": "https://cdn.myanimelist.net/images/anime/10/17471.jpg"
     },
@@ -32686,6 +32725,7 @@
         "image": "https://cdn.myanimelist.net/images/anime/1473/126467.jpg"
     },
     "xin-shen-bang-yang-jian": 51334,
+    "xin-shen-bang-yang-jian-dub": 51334,
     "50378": {
         "image": "https://cdn.myanimelist.net/images/anime/1584/119823.jpg"
     },
