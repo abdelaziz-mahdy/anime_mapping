@@ -1,5 +1,5 @@
 {
-    "__version__": 1300,
+    "__version__": 1301,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -105,7 +105,7 @@
     "cinderella-monogatari": 10,
     "magicaltaruruuto-kun": 10,
     "gokushufudou-season-2": 5,
-    "haai-step-jun": 10,
+    "haai-step-jun": 11,
     "renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-recap": 1,
     "karakai-jouzu-no-takagi-san-movie": 1,
     "fategrand-order-fujimaru-ritsuka-wa-wakaranai": 1,
@@ -325,7 +325,7 @@
     "dead-mount-death-play": 7,
     "kimera": 1,
     "tousouchuu-great-mission": 7,
-    "ao-no-orchestra": 7,
+    "ao-no-orchestra": 8,
     "jewelpet-twinkle-hohoemi-no-niji-ni-dokkidoki": 1,
     "the-marginal-service": 7,
     "recycle-of-the-penguindrum-zenpen-kimi-no-ressha-wa-seizon-senryaku": 1,
@@ -384,5 +384,6 @@
     "sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo": 1,
     "tenchi-muyou-gxp-paradise-shidou-hen": 1,
     "beatcats-qa": 8,
-    "rockman-exe-beast-s1": 25
+    "rockman-exe-beast-s1": 25,
+    "30th-gundam-perfect-mission": 1
 }
