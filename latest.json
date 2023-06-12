@@ -1,5 +1,5 @@
 {
-    "__version__": 1420,
+    "__version__": 1421,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -325,7 +325,7 @@
     "dead-mount-death-play": 9,
     "kimera": 1,
     "tousouchuu-great-mission": 10,
-    "ao-no-orchestra": 9,
+    "ao-no-orchestra": 10,
     "jewelpet-twinkle-hohoemi-no-niji-ni-dokkidoki": 1,
     "the-marginal-service": 9,
     "recycle-of-the-penguindrum-zenpen-kimi-no-ressha-wa-seizon-senryaku": 1,
@@ -404,5 +404,6 @@
     "yankee-reppuu-tai": 2,
     "sf-saiyuuki-starzinger": 50,
     "crayon-shin-chan-specials": 3,
-    "moffun-to-issho": 2
+    "moffun-to-issho": 2,
+    "meitantei-conan-keisatsu-gakkou-hen-wild-police-story-case-furuya-rei": 1
 }
