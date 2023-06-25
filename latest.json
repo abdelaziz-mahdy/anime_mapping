@@ -1,5 +1,5 @@
 {
-    "__version__": 1515,
+    "__version__": 1516,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -73,7 +73,7 @@
     "isekai-quartet-movie-another-world": 1,
     "li-shi-zhentan-shiwusuo-a-day-in-lungmen": 6,
     "sekai-no-owari-ni-shiba-inu-to": 72,
-    "ninjala": 72,
+    "ninjala": 73,
     "aru-asa-dummy-head-mic-ni-natteita-ore-kun-no-jinsei": 12,
     "detective-conan": 1088,
     "araiguma-rascal": 39,
@@ -196,7 +196,7 @@
     "utawarerumono-tusukuru-koujo-no-karei-naru-hibi": 1,
     "1-gatsu-ni-wa-christmas": 1,
     "gekitou-crush-gear-turbo": 25,
-    "hirogaru-sky-precure": 20,
+    "hirogaru-sky-precure": 21,
     "pole-princess": 7,
     "futari-bun-no-shoumei": 1,
     "inu-to-shounen": 1,
@@ -262,7 +262,7 @@
     "yamada-kun-to-lv999-no-koi-wo-suru": 13,
     "boku-no-kokoro-no-yabai-yatsu": 12,
     "edens-zero-2nd-season": 13,
-    "tengoku-daimakyou": 12,
+    "tengoku-daimakyou": 13,
     "kyojin-no-hoshi": 2,
     "crayon-shin-chan-movie-30-mononoke-ninja-chinpuuden": 1,
     "kimi-wo-aishita-hitori-no-boku-e": 1,
@@ -274,7 +274,7 @@
     "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan": 1,
     "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito": 12,
     "jijou-wo-shiranai-tenkousei-ga-guigui-kuru": 12,
-    "go-go-vehicle-zoo": 12,
+    "go-go-vehicle-zoo": 13,
     "my-home-hero": 12,
     "yume-no-crayon-oukoku": 63,
     "kuma-kuma-kuma-bear-punch": 12,
@@ -417,5 +417,6 @@
     "kaitou-queen-wa-circus-ga-osuki": 1,
     "coco-nico": 38,
     "idolmster-xenoglossia-specials": 8,
-    "ojamajo-doremi-heartwarming-theater": 5
+    "ojamajo-doremi-heartwarming-theater": 5,
+    "genjitsu-no-rimuru-sunshine-in-the-slime": 1
 }
