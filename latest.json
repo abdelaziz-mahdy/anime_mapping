@@ -1,5 +1,5 @@
 {
-    "__version__": 1561,
+    "__version__": 1562,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -432,5 +432,6 @@
     "ryo": 1,
     "ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo": 1,
     "horimiya-piece": 1,
-    "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega": 1
+    "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega": 1,
+    "ayaka": 1
 }
