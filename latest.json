@@ -1,5 +1,5 @@
 {
-    "__version__": 1941,
+    "__version__": 1942,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -69,7 +69,7 @@
     "pokemon-2019-harukanaru-aoi-sora": 1,
     "yes-precure-5-gogo": 48,
     "inu-ou": 1,
-    "chiikawa": 52,
+    "chiikawa": 53,
     "isekai-quartet-movie-another-world": 1,
     "li-shi-zhentan-shiwusuo-a-day-in-lungmen": 6,
     "sekai-no-owari-ni-shiba-inu-to": 72,
@@ -455,7 +455,7 @@
     "ore-sama-kingdom": 14,
     "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu": 7,
     "jujutsu-kaisen-2nd-season": 5,
-    "rurouni-kenshin-meiji-kenkaku-romantan-2023": 6,
+    "rurouni-kenshin-meiji-kenkaku-romantan-2023": 7,
     "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi": 6,
     "sugar-apple-fairy-tale-part-2": 6,
     "hataraku-maou-sama-3": 6,
@@ -542,5 +542,6 @@
     "bari-bari-densetsu": 1,
     "rudolf-to-ippaiattena": 1,
     "soukyuu-no-fafner-dead-aggressor-right-of-left": 1,
-    "hibike-euphonium-ensemble-contest-hen": 1
+    "hibike-euphonium-ensemble-contest-hen": 1,
+    "jujutsu-kaisen-2nd-season-special": 2
 }
