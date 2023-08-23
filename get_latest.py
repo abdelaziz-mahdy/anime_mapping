@@ -23,7 +23,12 @@ class GogoAnimeParser:
                 href_value = el.find('a')['href']
                 id_val = href_value.split('/')[1].split('-episode')[0]
                 episode_id = href_value.split('/')[1]
-                episode_number = el.find('p', class_='episode').text.replace('Episode ', '')
+                episode_text = el.find('p', class_='episode').text.replace('Episode ', '')
+
+                if '.' in episode_text:
+                    episode_number = float(episode_text)
+                else:
+                    episode_number = int(episode_text)
                 title = el.find('p', class_='name').find('a')['title']
                 image = el.find('div').find('a').find('img')['src']
                 url = f"{self.baseUrl}{el.find('a')['href'].strip()}"
