@@ -1,5 +1,5 @@
 {
-    "__version__": 2116,
+    "__version__": 2117,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -451,7 +451,7 @@
     "suki-na-ko-ga-megane-wo-wasureta": 10,
     "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou": 10,
     "watashi-no-shiawase-na-kekkon": 10,
-    "undead-girl-murder-farce": 9,
+    "undead-girl-murder-farce": 10,
     "ore-sama-kingdom": 14,
     "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu": 9,
     "jujutsu-kaisen-2nd-season": 6,
@@ -562,5 +562,7 @@
     "fategrand-order-fujimaru-ritsuka-wa-wakaranai-nenmatsu-special": 1,
     "oishinbo": 42,
     "atashinchi": 50,
-    "yoru-wa-neko-to-issho-x-gamera-rebirth": 1
+    "yoru-wa-neko-to-issho-x-gamera-rebirth": 1,
+    "vandread-gekitou-hen": 1,
+    "vandread-taidou-hen": 1
 }
