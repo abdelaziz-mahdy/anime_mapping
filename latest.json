@@ -1,5 +1,5 @@
 {
-    "__version__": 2240,
+    "__version__": 2241,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -576,7 +576,7 @@
     "kamigawa-kagayakeru-sekai": 1,
     "solty-rei-surechigau-kimochi-de-omoi-au-kokoro-de": 1,
     "aikatsu-10th-story-mirai-e-no-starway-2023": 3,
-    "flcl-grunge": 1,
+    "flcl-grunge": 2,
     "mobile-suit-gundam-0083-the-afterglow-of-zeon": 1,
     "mobile-suit-gundam-0083-stardust-memory": 13,
     "hi-no-tori-eden-no-sora": 4,
@@ -587,5 +587,7 @@
     "machine-robo-butchigiri-battle-hackers": 31,
     "level-1-dakedo-unique-skill-de-saikyou-desu-dub": 11,
     "osomatsu-san-hipipo-zoku-to-kagayaku-kajitsu": 1,
-    "osomatsu-san-tamashii-no-takoyaki-party-to-densetsu-no-otomarikai": 1
+    "osomatsu-san-tamashii-no-takoyaki-party-to-densetsu-no-otomarikai": 1,
+    "megumi-no-daigo-kajiba-no-baka-yarou": 1,
+    "earthian": 4
 }
