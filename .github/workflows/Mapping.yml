@@ -38,7 +38,7 @@ jobs:
       #    key: ${{ runner.os }}-MAL-Sync-Backup-2
 
       - name: Run mapper.py
-        run: pipenv run python "mapper.py"
+        run: pipenv run python "scripts/mapper.py"
 
       - name: Pull Remote Changes
         run: git pull

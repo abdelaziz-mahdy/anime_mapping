@@ -1,6 +1,11 @@
 from pathlib import Path
 import json as json
 import jsondiff
+import os
+
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 
 versionKey="__version__"
 def basename(path):
@@ -8,11 +13,13 @@ def basename(path):
 
 def indexOfLastCharacterOfSubstring(string,substring):
     return string.index(substring)+len(substring)
-
+def getPath(relative_path):
+    return os.path.join(script_dir, relative_path)
 def readJsonFile(filePath:str):
     try:
-        return json.loads(Path(filePath).read_bytes())
-    except:
+        return json.loads(Path(getPath(filePath)).read_bytes())
+    except Exception as e:
+        print("Error reading json file",e)
         return getJsonMapForVersion(0)
 
 def getJsonVersion(jsonData:dict):
@@ -31,7 +38,7 @@ def writeJsonFileIfDifferent(filePath:str,jsonData:dict):
     if res:        
         print("Diff found")
         jsonData=incrementJsonVersion(jsonData)
-        with open(filePath,'w') as f:
+        with open(getPath(filePath),'w') as f:
             json.dump(jsonData,f, indent=4)
         version=getJsonVersion(jsonData)
         writeVersionJson(filePath,version)

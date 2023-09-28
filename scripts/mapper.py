@@ -29,7 +29,7 @@ cloneRepo("https://github.com/MALSync/MAL-Sync-Backup.git","MAL-Sync-Backup-2")
 myAnimeListDir = Path(f"./{MAL_Sync_Backup_folder}/data/myanimelist/anime")
 gogoAnimeDir = Path(f"./{MAL_Sync_Backup_folder}/pages/gogoanime")
 
-mappingFile="mapping.json"
+mappingFile="../mapping.json"
 
 mappingJson = readJsonFile(mappingFile)
 

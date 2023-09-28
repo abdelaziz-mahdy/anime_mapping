@@ -1,12 +1,12 @@
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '0 0 * * *'
     
   workflow_dispatch:
   push:
     branches:
     - main
-name: latest
+name: update domains
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -33,14 +33,14 @@ jobs:
         run: pipenv install
 
       - name: Run get_latest.py
-        run: pipenv run python "scripts/get_latest.py"
+        run: pipenv run python "scripts/update_domains.py"
 
       - name: Pull Remote Changes
         run: git pull
       - name: Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Chore: latest Update"
+          commit_message: "Chore: latest domains"
           file_pattern: "*.json"
           repository: .
           skip_fetch: false
