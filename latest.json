@@ -1,5 +1,5 @@
 {
-    "__version__": 2342,
+    "__version__": 2343,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -620,5 +620,6 @@
     "overtake": 1,
     "boushoku-no-berserk": 1,
     "migi-to-dali": 1,
-    "kamonohashi-ron-no-kindan-suiri": 1
+    "kamonohashi-ron-no-kindan-suiri": 1,
+    "shy": 1
 }
