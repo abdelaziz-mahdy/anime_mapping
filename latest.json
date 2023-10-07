@@ -1,5 +1,5 @@
 {
-    "__version__": 2398,
+    "__version__": 2399,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -610,7 +610,7 @@
     "seiken-gakuin-no-makentsukai": 2,
     "megumi-no-daigo-kyuukoku-no-orange": 2,
     "mf-ghost": 1,
-    "ragna-crimson": 1,
+    "ragna-crimson": 2,
     "ah-my-goddess-itsumo-futari-de": 3,
     "ah-my-goddess-ova": 5,
     "ajin-part-2-shoutotsu": 1,
@@ -654,5 +654,7 @@
     "gundam-build-metaverse": 1,
     "beyblade-x": 1,
     "saihate-no-paladin-2nd-season": 1,
-    "hikikomari-kyuuketsuki-no-monmon": 1
+    "hikikomari-kyuuketsuki-no-monmon": 1,
+    "atarashii-joushi-wa-do-tennen": 1,
+    "spy-x-family-season-2": 1
 }
