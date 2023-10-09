@@ -1,5 +1,5 @@
 {
-    "__version__": 2417,
+    "__version__": 2418,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -619,7 +619,7 @@
     "dekoboko-majo-no-oyako-jijou": 3,
     "overtake": 2,
     "boushoku-no-berserk": 2,
-    "migi-to-dali": 1,
+    "migi-to-dali": 2,
     "kamonohashi-ron-no-kindan-suiri": 1,
     "shy": 1,
     "watashi-no-oshi-wa-akuyaku-reijou": 1,
@@ -666,5 +666,6 @@
     "saihate-no-paladin-tetsusabi-no-yama-no-ou": 1,
     "the-idolmster-million-live": 1,
     "journey-to-bloom": 2,
-    "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo": 1
+    "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo": 1,
+    "hoshikuzu-telepath": 1
 }
