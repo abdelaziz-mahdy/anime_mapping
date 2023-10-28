@@ -1,5 +1,5 @@
 {
-    "__version__": 2613,
+    "__version__": 2614,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -699,5 +699,6 @@
     "doraemon-movie-31-shin-nobita-to-tetsujin-heidan-habatake-tenshi-tachi": 1,
     "doraemon-movie-37-nobita-no-nankyoku-kachikochi-daibouken": 1,
     "pluto": 8,
-    "doraemon-movie-13-nobita-to-kumo-no-oukoku": 1
+    "doraemon-movie-13-nobita-to-kumo-no-oukoku": 1,
+    "dog-signal": 1
 }
