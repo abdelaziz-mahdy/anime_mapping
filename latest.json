@@ -1,5 +1,5 @@
 {
-    "__version__": 2629,
+    "__version__": 2630,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -685,7 +685,7 @@
     "biohazard-death-island": 1,
     "gakkou-no-yuurei": 1,
     "kusuriya-no-hitorigoto": 4,
-    "ochibi-san": 2,
+    "ochibi-san": 3,
     "yankee-hamster": 110,
     "yankee-hamster-season-2": 50,
     "bikkurimen": 3,
@@ -700,5 +700,6 @@
     "doraemon-movie-37-nobita-no-nankyoku-kachikochi-daibouken": 1,
     "pluto": 8,
     "doraemon-movie-13-nobita-to-kumo-no-oukoku": 1,
-    "dog-signal": 1
+    "dog-signal": 1,
+    "doraemon-movie-42-nobita-to-sora-no-utopia": 1
 }
