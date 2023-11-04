@@ -1,7 +1,4 @@
 {
-    "__version__": 3,
-    "domains": [
-        "https://gogoanimehd.io/",
-        "https://gogoanime3.net/"
-    ]
+    "__version__": 4,
+    "domains": []
 }
