@@ -9,6 +9,10 @@ mappingFile="../domains.json"
 
 latest=readJsonFile(mappingFile)
 print("latest ", latest)
-latest["domains"]=domains
+# add a condition to check if the domains already exist ignoring order
+# latest domains is the current, domains variable is the new
+latest["domains"]=list(set(latest["domains"]).union(set(domains)))
+print("new latest ", latest)
+# latest["domains"]=domains
 
 writeJsonFileIfDifferent(mappingFile,latest)
