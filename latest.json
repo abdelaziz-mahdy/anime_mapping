@@ -1,5 +1,5 @@
 {
-    "__version__": 3303,
+    "__version__": 3304,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -52,7 +52,7 @@
     "poputepipikku-2nd-season": 12,
     "4-nin-wa-sorezore-uso-wo-tsuku": 11,
     "delicious-partyprecure": 45,
-    "one-piece": 1088,
+    "one-piece": 1089,
     "digimon-ghost-game": 67,
     "doupo-cangqiong-nian-fan": 23,
     "mobile-suit-gundam-the-witch-from-mercury": 12,
@@ -196,7 +196,7 @@
     "utawarerumono-tusukuru-koujo-no-karei-naru-hibi": 1,
     "1-gatsu-ni-wa-christmas": 1,
     "gekitou-crush-gear-turbo": 26,
-    "hirogaru-sky-precure": 46,
+    "hirogaru-sky-precure": 47,
     "pole-princess": 7,
     "futari-bun-no-shoumei": 1,
     "inu-to-shounen": 1,
@@ -807,5 +807,6 @@
     "ao-no-exorcist-shimane-illuminati-hen": 1,
     "mashle-2nd-season": 1,
     "boku-no-kokoro-no-yabai-yatsu-season-2": 1,
-    "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru": 1
+    "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru": 1,
+    "mellow": 1
 }
