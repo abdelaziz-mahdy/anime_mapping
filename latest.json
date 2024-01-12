@@ -1,5 +1,5 @@
 {
-    "__version__": 3351,
+    "__version__": 3352,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -798,7 +798,7 @@
     "nozomanu-fushi-no-boukensha": 2,
     "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin": 2,
     "momochi-san-chi-no-ayakashi-ouji": 2,
-    "pon-no-michi": 1,
+    "pon-no-michi": 2,
     "tenjin": 1,
     "hi-no-tori-dougo-onsen-hen": 3,
     "kekkon-yubiwa-monogatari": 1,
@@ -834,5 +834,6 @@
     "gekkan-mousou-kagaku": 1,
     "majo-to-yajuu": 1,
     "urusei-yatsura-2022-2nd-season": 1,
-    "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita": 1
+    "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita": 1,
+    "snack-basue": 1
 }
