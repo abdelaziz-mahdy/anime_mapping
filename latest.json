@@ -1,5 +1,5 @@
 {
-    "__version__": 3363,
+    "__version__": 3364,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -803,7 +803,7 @@
     "hi-no-tori-dougo-onsen-hen": 3,
     "kekkon-yubiwa-monogatari": 2,
     "yubisaki-to-renren": 2,
-    "ore-dake-level-up-na-ken": 1,
+    "ore-dake-level-up-na-ken": 2,
     "ao-no-exorcist-shimane-illuminati-hen": 1,
     "mashle-2nd-season": 1,
     "boku-no-kokoro-no-yabai-yatsu-season-2": 1,
@@ -837,5 +837,6 @@
     "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita": 1,
     "snack-basue": 1,
     "yuuki-bakuhatsu-bang-bravern": 1,
-    "cardfight-vanguard-divinez": 1
+    "cardfight-vanguard-divinez": 1,
+    "bucchigiri-2": 1
 }
