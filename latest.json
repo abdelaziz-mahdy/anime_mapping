@@ -1,5 +1,5 @@
 {
-    "__version__": 3514,
+    "__version__": 3515,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -196,7 +196,7 @@
     "utawarerumono-tusukuru-koujo-no-karei-naru-hibi": 1,
     "1-gatsu-ni-wa-christmas": 1,
     "gekitou-crush-gear-turbo": 26,
-    "hirogaru-sky-precure": 49,
+    "hirogaru-sky-precure": 50,
     "pole-princess": 7,
     "futari-bun-no-shoumei": 1,
     "inu-to-shounen": 1,
@@ -839,7 +839,7 @@
     "yuuki-bakuhatsu-bang-bravern": 3,
     "cardfight-vanguard-divinez": 3,
     "bucchigiri-2": 1,
-    "kingdom-5th-season": 2,
+    "kingdom-5th-season": 3,
     "kingdom-5th-season-chinese-name": 3,
     "hikari-no-ou-2nd-season": 2,
     "meiji-gekken-1874": 2,
@@ -862,5 +862,6 @@
     "munto-toki-no-kabe-wo-koete": 1,
     "munto": 1,
     "precure-all-stars-movie-f": 1,
-    "baa-cha-no-kingyo": 1
+    "baa-cha-no-kingyo": 1,
+    "sabaku-no-kaizoku-captain-kuppa": 1
 }
