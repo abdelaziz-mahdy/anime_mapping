@@ -1,5 +1,5 @@
 {
-    "__version__": 3599,
+    "__version__": 3600,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -700,7 +700,7 @@
     "doraemon-movie-37-nobita-no-nankyoku-kachikochi-daibouken": 1,
     "pluto": 8,
     "doraemon-movie-13-nobita-to-kumo-no-oukoku": 1,
-    "dog-signal": 13,
+    "dog-signal": 14,
     "doraemon-movie-42-nobita-to-sora-no-utopia": 1,
     "doraemon-movie-34-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai": 1,
     "xanadu-dragonslayer-densetsu": 1,
@@ -872,5 +872,6 @@
     "shin-koihimemusou-live-revolution": 1,
     "shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo": 1,
     "shin-koihimemusou-otome-tairan-gakuensai-da-yo-zenin-shuugou-no-koto": 1,
-    "koihimemusou-gunyuu-seitoukaichou-no-za-wo-neratte-aiarasou-no-koto-ato-porori-mo-aru-yo": 1
+    "koihimemusou-gunyuu-seitoukaichou-no-za-wo-neratte-aiarasou-no-koto-ato-porori-mo-aru-yo": 1,
+    "kin-no-kuni-mizu-no-kuni": 1
 }
