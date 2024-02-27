@@ -1,7 +1,8 @@
 {
-    "__version__": 7,
+    "__version__": 8,
     "domains": [
         "https://gogoanime3.net/",
-        "https://gogoanimehd.io/"
+        "https://gogoanimehd.io/",
+        "https://gogoanime3.co/"
     ]
 }
