@@ -1,5 +1,5 @@
 {
-    "__version__": 3955,
+    "__version__": 3956,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -912,5 +912,6 @@
     "kyousou-giga-tv": 10.5,
     "kyousou-giga": 1,
     "get-ride-amdriver": 14,
-    "majokko-tickle": 2
+    "majokko-tickle": 2,
+    "fake": 1
 }
