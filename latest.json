@@ -1,5 +1,5 @@
 {
-    "__version__": 3983,
+    "__version__": 3984,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -913,5 +913,7 @@
     "kyousou-giga": 1,
     "get-ride-amdriver": 14,
     "majokko-tickle": 2,
-    "fake": 1
+    "fake": 1,
+    "stitch": 25,
+    "stitch-piko-kara-no-chousenjou": 1
 }
