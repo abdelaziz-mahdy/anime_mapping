@@ -1,5 +1,5 @@
 {
-    "__version__": 3990,
+    "__version__": 3991,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -915,5 +915,6 @@
     "majokko-tickle": 2,
     "fake": 1,
     "stitch": 25,
-    "stitch-piko-kara-no-chousenjou": 1
+    "stitch-piko-kara-no-chousenjou": 1,
+    "sd-gundam-force": 39
 }
