@@ -1,5 +1,5 @@
 {
-    "__version__": 3997,
+    "__version__": 3998,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -917,6 +917,8 @@
     "stitch": 25,
     "stitch-piko-kara-no-chousenjou": 1,
     "sd-gundam-force": 39,
-    "stitch-itazura-alien-no-daibouken": 15,
-    "stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan": 1
+    "stitch-itazura-alien-no-daibouken": 29,
+    "stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan": 1,
+    "stitch-zutto-saikou-no-tomodachi": 29,
+    "stitch-zutto-saikou-no-tomodachi-special": 1
 }
