@@ -1,5 +1,5 @@
 {
-    "__version__": 4092,
+    "__version__": 4093,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -561,7 +561,7 @@
     "5-toubun-no-hanayome": 2,
     "fategrand-order-fujimaru-ritsuka-wa-wakaranai-nenmatsu-special": 1,
     "oishinbo": 47,
-    "atashinchi": 346,
+    "atashinchi": 350,
     "yoru-wa-neko-to-issho-x-gamera-rebirth": 1,
     "vandread-gekitou-hen": 1,
     "vandread-taidou-hen": 1,
@@ -894,7 +894,7 @@
     "guskou-budori-no-denki": 1,
     "mahou-no-princess-minky-momo": 46,
     "satsujin-kippu-wa-heart-iro": 1,
-    "gekai-elise-mini-drama": 6,
+    "gekai-elise-mini-drama": 10,
     "gekai-elise-elises-medical-record": 6,
     "tengen-toppa-gurren-lagann-parallel-works-2": 1,
     "tengen-toppa-gurren-lagann-parallel-works": 8,
@@ -940,5 +940,6 @@
     "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi": 1,
     "kyomu-senshi-miroku": 6,
     "future-war-198x-nen": 1,
-    "chouon-senshi-borgman-2-shinseiki-2058": 3
+    "chouon-senshi-borgman-2-shinseiki-2058": 3,
+    "nanako-sos": 5
 }
