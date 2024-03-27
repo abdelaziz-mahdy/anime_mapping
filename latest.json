@@ -1,5 +1,5 @@
 {
-    "__version__": 4100,
+    "__version__": 4101,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -670,7 +670,7 @@
     "hoshikuzu-telepath": 12,
     "kawagoe-boys-sing": 12,
     "dead-mount-death-play-part-2": 12,
-    "nanatsu-no-taizai-mokushiroku-no-yonkishi": 22,
+    "nanatsu-no-taizai-mokushiroku-no-yonkishi": 23,
     "houkago-shounen-hanako-kun": 4,
     "good-night-world": 12,
     "dr-stone-new-world-part-2": 11,
@@ -946,5 +946,7 @@
     "otokogi": 2,
     "shin-shounan-bakusouzoku-arakure-knight": 2,
     "yokohama-meibutsu-otoko-katayama-gumi": 2,
-    "hajimete-no-futarikkiri-ryokou": 1
+    "hajimete-no-futarikkiri-ryokou": 1,
+    "chouon-senshi-borgman-lovers-rain": 1,
+    "owarimonogatari": 13
 }
