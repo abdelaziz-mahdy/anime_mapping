@@ -24,7 +24,7 @@ class GogoAnimeParser:
         url = 'https://gogotaku.info/'
         for _ in range(3):
             try:
-                response = requests.get(url, timeout=2)
+                response = self.client.get(url, timeout=2)
                 soup = BeautifulSoup(response.text, 'html.parser')
                 content_section = soup.select_one('#wrapper_bg > section > section.content_left > div > div.page_content > div > p:nth-child(8)')
                 

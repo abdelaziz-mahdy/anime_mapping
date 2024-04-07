@@ -1,0 +1,45 @@
+on:
+    schedule:
+        - cron:  '0 0 * * 0'
+    workflow_dispatch:
+    push:
+      branches:
+      - main
+name: schedule
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+
+        - name: Clone repo
+          uses: actions/checkout@v3
+
+
+        - name: get pipenv from cache
+          uses: actions/setup-python@v4
+          with:
+            python-version: '3.10'
+            cache: 'pip'
+        - run: pip install -r requirements.txt
+
+        - name: get pipenv dependencies from cache
+          uses: actions/setup-python@v4
+          with:
+            python-version: '3.10'
+            cache: 'pipenv'
+
+        - name: Install pipenv dependencies
+          run: pipenv install
+
+        - name: Run get_schedule.py
+          run: pipenv run python "scripts/get_schedule.py"
+
+        - name: Pull Remote Changes
+          run: git pull
+        - name: Auto Commit
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: "Chore: schedule Update"
+            file_pattern: "*.json"
+            repository: .
+            skip_fetch: false
