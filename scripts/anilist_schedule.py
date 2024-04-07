@@ -21,6 +21,7 @@ class AnilistSchedule:
             except Exception as e:
                 print(f"An error occurred: {e}. Retrying...")
                 time.sleep(3)
+        raise Exception("All retries failed")
         return None  # Return None if all retries fail
 
     def get_schedule_from_anilist(self):
@@ -34,8 +35,8 @@ class AnilistSchedule:
               id
               idMal
               nextAiringEpisode {
-                episode
-                timeUntilAiring
+                # episode
+                # timeUntilAiring
                 airingAt
               }
               coverImage {

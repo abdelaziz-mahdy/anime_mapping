@@ -9,6 +9,7 @@ latest=readJsonFile(mappingFile)
 
 jsonObject=AnilistSchedule(scraper).get_schedule_from_anilist()
 print(jsonObject)
+
 jsonObject={
     "__version__":latest.get("__version__",0),
     "data":jsonObject
