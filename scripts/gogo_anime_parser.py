@@ -10,7 +10,7 @@ import time
 class GogoAnimeParser:
     # baseUrl = 'https://gogoanimehd.to'
     classPath = 'ANIME.Gogoanime'
-    ajaxUrl = 'https://ajax.gogo-load.com/ajax'
+    ajaxUrl = 'https://ajax.gogocdn.net/ajax'
 
     def __init__(self,client):
         if client:
