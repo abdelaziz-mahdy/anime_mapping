@@ -1,12 +1,12 @@
 {
-    "__version__": 2,
+    "__version__": 3,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
                 "episode": 1101,
-                "timeUntilAiring": 532727,
+                "timeUntilAiring": 532308,
                 "airingAt": 1713054600
             },
             "coverImage": {
@@ -24,7 +24,7 @@
             "idMal": 235,
             "nextAiringEpisode": {
                 "episode": 1120,
-                "timeUntilAiring": 476927,
+                "timeUntilAiring": 476508,
                 "airingAt": 1712998800
             },
             "coverImage": {
@@ -42,7 +42,7 @@
             "idMal": 966,
             "nextAiringEpisode": {
                 "episode": 1228,
-                "timeUntilAiring": 471527,
+                "timeUntilAiring": 471108,
                 "airingAt": 1712993400
             },
             "coverImage": {
@@ -60,7 +60,7 @@
             "idMal": 1960,
             "nextAiringEpisode": {
                 "episode": 1661,
-                "timeUntilAiring": 365027,
+                "timeUntilAiring": 364608,
                 "airingAt": 1712886900
             },
             "coverImage": {
@@ -78,7 +78,7 @@
             "idMal": 2406,
             "nextAiringEpisode": {
                 "episode": 2730,
-                "timeUntilAiring": 565127,
+                "timeUntilAiring": 564708,
                 "airingAt": 1713087000
             },
             "coverImage": {
@@ -96,7 +96,7 @@
             "idMal": 4459,
             "nextAiringEpisode": {
                 "episode": 2039,
-                "timeUntilAiring": 4127,
+                "timeUntilAiring": 3708,
                 "airingAt": 1712526000
             },
             "coverImage": {
@@ -114,7 +114,7 @@
             "idMal": 8336,
             "nextAiringEpisode": {
                 "episode": 547,
-                "timeUntilAiring": 351527,
+                "timeUntilAiring": 351108,
                 "airingAt": 1712873400
             },
             "coverImage": {
@@ -132,7 +132,7 @@
             "idMal": 8687,
             "nextAiringEpisode": {
                 "episode": 829,
-                "timeUntilAiring": 394127,
+                "timeUntilAiring": 393708,
                 "airingAt": 1712916000
             },
             "coverImage": {
@@ -150,7 +150,7 @@
             "idMal": 18941,
             "nextAiringEpisode": {
                 "episode": 617,
-                "timeUntilAiring": 442727,
+                "timeUntilAiring": 442308,
                 "airingAt": 1712964600
             },
             "coverImage": {
@@ -168,7 +168,7 @@
             "idMal": 32353,
             "nextAiringEpisode": {
                 "episode": 405,
-                "timeUntilAiring": 431447,
+                "timeUntilAiring": 431028,
                 "airingAt": 1712953320
             },
             "coverImage": {
@@ -186,7 +186,7 @@
             "idMal": 39894,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 559727,
+                "timeUntilAiring": 559308,
                 "airingAt": 1713081600
             },
             "coverImage": {
@@ -204,7 +204,7 @@
             "idMal": 40658,
             "nextAiringEpisode": {
                 "episode": 9,
-                "timeUntilAiring": 6978527,
+                "timeUntilAiring": 6978108,
                 "airingAt": 1719500400
             },
             "coverImage": {
@@ -222,7 +222,7 @@
             "idMal": 44042,
             "nextAiringEpisode": {
                 "episode": 256,
-                "timeUntilAiring": 563327,
+                "timeUntilAiring": 562907,
                 "airingAt": 1713085200
             },
             "coverImage": {
@@ -240,7 +240,7 @@
             "idMal": 42295,
             "nextAiringEpisode": {
                 "episode": 127,
-                "timeUntilAiring": 392927,
+                "timeUntilAiring": 392507,
                 "airingAt": 1712914800
             },
             "coverImage": {
@@ -258,7 +258,7 @@
             "idMal": 48651,
             "nextAiringEpisode": {
                 "episode": 8,
-                "timeUntilAiring": 4559327,
+                "timeUntilAiring": 4558907,
                 "airingAt": 1717081200
             },
             "coverImage": {
@@ -276,7 +276,7 @@
             "idMal": 55151,
             "nextAiringEpisode": {
                 "episode": 44,
-                "timeUntilAiring": 365327,
+                "timeUntilAiring": 364907,
                 "airingAt": 1712887200
             },
             "coverImage": {
@@ -294,7 +294,7 @@
             "idMal": 55809,
             "nextAiringEpisode": {
                 "episode": 31,
-                "timeUntilAiring": 19727,
+                "timeUntilAiring": 19307,
                 "airingAt": 1712541600
             },
             "coverImage": {
@@ -312,7 +312,7 @@
             "idMal": 51289,
             "nextAiringEpisode": {
                 "episode": 52,
-                "timeUntilAiring": 192527,
+                "timeUntilAiring": 192107,
                 "airingAt": 1712714400
             },
             "coverImage": {
@@ -330,7 +330,7 @@
             "idMal": 51836,
             "nextAiringEpisode": {
                 "episode": 44,
-                "timeUntilAiring": 455327,
+                "timeUntilAiring": 454907,
                 "airingAt": 1712977200
             },
             "coverImage": {
@@ -348,7 +348,7 @@
             "idMal": 49889,
             "nextAiringEpisode": {
                 "episode": 14,
-                "timeUntilAiring": 62927,
+                "timeUntilAiring": 62507,
                 "airingAt": 1712584800
             },
             "coverImage": {
@@ -366,7 +366,7 @@
             "idMal": 50250,
             "nextAiringEpisode": {
                 "episode": 157,
-                "timeUntilAiring": 94127,
+                "timeUntilAiring": 93707,
                 "airingAt": 1712616000
             },
             "coverImage": {
@@ -384,7 +384,7 @@
             "idMal": 57629,
             "nextAiringEpisode": {
                 "episode": 12,
-                "timeUntilAiring": 16123,
+                "timeUntilAiring": 15707,
                 "airingAt": 1712538000
             },
             "coverImage": {
@@ -402,7 +402,7 @@
             "idMal": 50418,
             "nextAiringEpisode": {
                 "episode": 113,
-                "timeUntilAiring": 439123,
+                "timeUntilAiring": 438707,
                 "airingAt": 1712961000
             },
             "coverImage": {
@@ -420,7 +420,7 @@
             "idMal": 50607,
             "nextAiringEpisode": {
                 "episode": 105,
-                "timeUntilAiring": 525523,
+                "timeUntilAiring": 525107,
                 "airingAt": 1713047400
             },
             "coverImage": {
@@ -438,7 +438,7 @@
             "idMal": 50713,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 410323,
+                "timeUntilAiring": 409907,
                 "airingAt": 1712932200
             },
             "coverImage": {
@@ -456,7 +456,7 @@
             "idMal": 50869,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 57523,
+                "timeUntilAiring": 57107,
                 "airingAt": 1712579400
             },
             "coverImage": {
@@ -474,7 +474,7 @@
             "idMal": 51122,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 71923,
+                "timeUntilAiring": 71507,
                 "airingAt": 1712593800
             },
             "coverImage": {
@@ -492,7 +492,7 @@
             "idMal": 51461,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 505723,
+                "timeUntilAiring": 505307,
                 "airingAt": 1713027600
             },
             "coverImage": {
@@ -510,7 +510,7 @@
             "idMal": 51859,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 149323,
+                "timeUntilAiring": 148907,
                 "airingAt": 1712671200
             },
             "coverImage": {
@@ -528,7 +528,7 @@
             "idMal": 56285,
             "nextAiringEpisode": {
                 "episode": 10,
-                "timeUntilAiring": 548923,
+                "timeUntilAiring": 548507,
                 "airingAt": 1713070800
             },
             "coverImage": {
@@ -546,7 +546,7 @@
             "idMal": 52405,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 418903,
+                "timeUntilAiring": 418487,
                 "airingAt": 1712940780
             },
             "coverImage": {
@@ -564,7 +564,7 @@
             "idMal": 56157,
             "nextAiringEpisode": {
                 "episode": 39,
-                "timeUntilAiring": 192523,
+                "timeUntilAiring": 192107,
                 "airingAt": 1712714400
             },
             "coverImage": {
@@ -582,7 +582,7 @@
             "idMal": 52684,
             "nextAiringEpisode": {
                 "episode": 75,
-                "timeUntilAiring": 278923,
+                "timeUntilAiring": 278507,
                 "airingAt": 1712800800
             },
             "coverImage": {
@@ -600,7 +600,7 @@
             "idMal": 52701,
             "nextAiringEpisode": {
                 "episode": 15,
-                "timeUntilAiring": 320323,
+                "timeUntilAiring": 319907,
                 "airingAt": 1712842200
             },
             "coverImage": {
@@ -618,7 +618,7 @@
             "idMal": 52765,
             "nextAiringEpisode": {
                 "episode": 166,
-                "timeUntilAiring": 106123,
+                "timeUntilAiring": 105707,
                 "airingAt": 1712628000
             },
             "coverImage": {
@@ -636,7 +636,7 @@
             "idMal": 56787,
             "nextAiringEpisode": {
                 "episode": 25,
-                "timeUntilAiring": 192523,
+                "timeUntilAiring": 192107,
                 "airingAt": 1712714400
             },
             "coverImage": {
@@ -654,7 +654,7 @@
             "idMal": 54829,
             "nextAiringEpisode": {
                 "episode": 13,
-                "timeUntilAiring": 329023,
+                "timeUntilAiring": 328607,
                 "airingAt": 1712850900
             },
             "coverImage": {
@@ -672,7 +672,7 @@
             "idMal": 53356,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 55723,
+                "timeUntilAiring": 55307,
                 "airingAt": 1712577600
             },
             "coverImage": {
@@ -690,7 +690,7 @@
             "idMal": 53407,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 239323,
+                "timeUntilAiring": 238907,
                 "airingAt": 1712761200
             },
             "coverImage": {
@@ -708,7 +708,7 @@
             "idMal": 57512,
             "nextAiringEpisode": {
                 "episode": 10,
-                "timeUntilAiring": 538123,
+                "timeUntilAiring": 537707,
                 "airingAt": 1713060000
             },
             "coverImage": {
@@ -726,7 +726,7 @@
             "idMal": 53410,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 322123,
+                "timeUntilAiring": 321707,
                 "airingAt": 1712844000
             },
             "coverImage": {
@@ -744,7 +744,7 @@
             "idMal": 53434,
             "nextAiringEpisode": {
                 "episode": 3,
-                "timeUntilAiring": 329323,
+                "timeUntilAiring": 328907,
                 "airingAt": 1712851200
             },
             "coverImage": {
@@ -762,7 +762,7 @@
             "idMal": 57657,
             "nextAiringEpisode": {
                 "episode": 10,
-                "timeUntilAiring": 278923,
+                "timeUntilAiring": 278507,
                 "airingAt": 1712800800
             },
             "coverImage": {
@@ -780,7 +780,7 @@
             "idMal": 53516,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 66523,
+                "timeUntilAiring": 66107,
                 "airingAt": 1712588400
             },
             "coverImage": {
@@ -798,7 +798,7 @@
             "idMal": 53580,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 408523,
+                "timeUntilAiring": 408107,
                 "airingAt": 1712930400
             },
             "coverImage": {
@@ -816,7 +816,7 @@
             "idMal": 53770,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 557923,
+                "timeUntilAiring": 557507,
                 "airingAt": 1713079800
             },
             "coverImage": {
@@ -834,7 +834,7 @@
             "idMal": 53876,
             "nextAiringEpisode": {
                 "episode": 46,
-                "timeUntilAiring": 393823,
+                "timeUntilAiring": 393407,
                 "airingAt": 1712915700
             },
             "coverImage": {
@@ -852,7 +852,7 @@
             "idMal": 53865,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 559723,
+                "timeUntilAiring": 559307,
                 "airingAt": 1713081600
             },
             "coverImage": {
@@ -870,7 +870,7 @@
             "idMal": 54040,
             "nextAiringEpisode": {
                 "episode": 51,
-                "timeUntilAiring": 530923,
+                "timeUntilAiring": 530507,
                 "airingAt": 1713052800
             },
             "coverImage": {
@@ -888,7 +888,7 @@
             "idMal": 54309,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 584023,
+                "timeUntilAiring": 583607,
                 "airingAt": 1713105900
             },
             "coverImage": {
@@ -906,7 +906,7 @@
             "idMal": 54622,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 12421723,
+                "timeUntilAiring": 12421307,
                 "airingAt": 1724943600
             },
             "coverImage": {
@@ -924,7 +924,7 @@
             "idMal": 55003,
             "nextAiringEpisode": {
                 "episode": 3,
-                "timeUntilAiring": 930523,
+                "timeUntilAiring": 930107,
                 "airingAt": 1713452400
             },
             "coverImage": {
@@ -942,7 +942,7 @@
             "idMal": 54758,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 417103,
+                "timeUntilAiring": 416687,
                 "airingAt": 1712938980
             },
             "coverImage": {
@@ -960,7 +960,7 @@
             "idMal": 54803,
             "nextAiringEpisode": {
                 "episode": 28,
-                "timeUntilAiring": 561523,
+                "timeUntilAiring": 561107,
                 "airingAt": 1713083400
             },
             "coverImage": {
@@ -978,7 +978,7 @@
             "idMal": 54839,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 502123,
+                "timeUntilAiring": 501707,
                 "airingAt": 1713024000
             },
             "coverImage": {
@@ -996,7 +996,7 @@
             "idMal": 54900,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 327283,
+                "timeUntilAiring": 326867,
                 "airingAt": 1712849160
             },
             "coverImage": {
@@ -1014,7 +1014,7 @@
             "idMal": 54142,
             "nextAiringEpisode": {
                 "episode": 12,
-                "timeUntilAiring": 527323,
+                "timeUntilAiring": 526907,
                 "airingAt": 1713049200
             },
             "coverImage": {
@@ -1032,7 +1032,7 @@
             "idMal": 55102,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 413923,
+                "timeUntilAiring": 413507,
                 "airingAt": 1712935800
             },
             "coverImage": {
@@ -1050,7 +1050,7 @@
             "idMal": 55194,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 448123,
+                "timeUntilAiring": 447707,
                 "airingAt": 1712970000
             },
             "coverImage": {
@@ -1068,7 +1068,7 @@
             "idMal": 55265,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 583123,
+                "timeUntilAiring": 582707,
                 "airingAt": 1713105000
             },
             "coverImage": {
@@ -1086,7 +1086,7 @@
             "idMal": 56566,
             "nextAiringEpisode": {
                 "episode": 27,
-                "timeUntilAiring": 392023,
+                "timeUntilAiring": 391607,
                 "airingAt": 1712913900
             },
             "coverImage": {
@@ -1104,7 +1104,7 @@
             "idMal": 55463,
             "nextAiringEpisode": {
                 "episode": 51,
-                "timeUntilAiring": 138523,
+                "timeUntilAiring": 138107,
                 "airingAt": 1712660400
             },
             "coverImage": {
@@ -1122,7 +1122,7 @@
             "idMal": 55597,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 325483,
+                "timeUntilAiring": 325067,
                 "airingAt": 1712847360
             },
             "coverImage": {
@@ -1140,7 +1140,7 @@
             "idMal": 56524,
             "nextAiringEpisode": {
                 "episode": 29,
-                "timeUntilAiring": 106123,
+                "timeUntilAiring": 105707,
                 "airingAt": 1712628000
             },
             "coverImage": {
@@ -1158,7 +1158,7 @@
             "idMal": 55717,
             "nextAiringEpisode": {
                 "episode": 3,
-                "timeUntilAiring": 73723,
+                "timeUntilAiring": 73307,
                 "airingAt": 1712595600
             },
             "coverImage": {
@@ -1176,7 +1176,7 @@
             "idMal": 58295,
             "nextAiringEpisode": {
                 "episode": 9,
-                "timeUntilAiring": 19723,
+                "timeUntilAiring": 19307,
                 "airingAt": 1712541600
             },
             "coverImage": {
@@ -1194,7 +1194,7 @@
             "idMal": 55877,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 331002,
+                "timeUntilAiring": 330586,
                 "airingAt": 1712852880
             },
             "coverImage": {
@@ -1212,7 +1212,7 @@
             "idMal": 55888,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 584922,
+                "timeUntilAiring": 584506,
                 "airingAt": 1713106800
             },
             "coverImage": {
@@ -1230,7 +1230,7 @@
             "idMal": 55911,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 501822,
+                "timeUntilAiring": 501406,
                 "airingAt": 1713023700
             },
             "coverImage": {
@@ -1248,7 +1248,7 @@
             "idMal": null,
             "nextAiringEpisode": {
                 "episode": 28,
-                "timeUntilAiring": 365322,
+                "timeUntilAiring": 364906,
                 "airingAt": 1712887200
             },
             "coverImage": {
@@ -1266,7 +1266,7 @@
             "idMal": 56230,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 579522,
+                "timeUntilAiring": 579106,
                 "airingAt": 1713101400
             },
             "coverImage": {
@@ -1284,7 +1284,7 @@
             "idMal": null,
             "nextAiringEpisode": {
                 "episode": 40,
-                "timeUntilAiring": 538122,
+                "timeUntilAiring": 537706,
                 "airingAt": 1713060000
             },
             "coverImage": {
@@ -1302,7 +1302,7 @@
             "idMal": 56778,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 4559322,
+                "timeUntilAiring": 4558906,
                 "airingAt": 1717081200
             },
             "coverImage": {
@@ -1320,7 +1320,7 @@
             "idMal": 58121,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 6373722,
+                "timeUntilAiring": 6373306,
                 "airingAt": 1718895600
             },
             "coverImage": {
@@ -1338,7 +1338,7 @@
             "idMal": 56690,
             "nextAiringEpisode": {
                 "episode": 3,
-                "timeUntilAiring": 584922,
+                "timeUntilAiring": 584506,
                 "airingAt": 1713106800
             },
             "coverImage": {
@@ -1356,7 +1356,7 @@
             "idMal": 56738,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 577722,
+                "timeUntilAiring": 577306,
                 "airingAt": 1713099600
             },
             "coverImage": {
@@ -1374,7 +1374,7 @@
             "idMal": 56838,
             "nextAiringEpisode": {
                 "episode": 3,
-                "timeUntilAiring": 493122,
+                "timeUntilAiring": 492706,
                 "airingAt": 1713015000
             },
             "coverImage": {
@@ -1392,7 +1392,7 @@
             "idMal": 56853,
             "nextAiringEpisode": {
                 "episode": 26,
-                "timeUntilAiring": 300522,
+                "timeUntilAiring": 300106,
                 "airingAt": 1712822400
             },
             "coverImage": {
@@ -1410,7 +1410,7 @@
             "idMal": 56980,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 497622,
+                "timeUntilAiring": 497206,
                 "airingAt": 1713019500
             },
             "coverImage": {
@@ -1428,7 +1428,7 @@
             "idMal": 57031,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 583122,
+                "timeUntilAiring": 582706,
                 "airingAt": 1713105000
             },
             "coverImage": {
@@ -1446,7 +1446,7 @@
             "idMal": 57860,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 1535322,
+                "timeUntilAiring": 1534906,
                 "airingAt": 1714057200
             },
             "coverImage": {
@@ -1464,7 +1464,7 @@
             "idMal": 57390,
             "nextAiringEpisode": {
                 "episode": 11,
-                "timeUntilAiring": 529122,
+                "timeUntilAiring": 528706,
                 "airingAt": 1713051000
             },
             "coverImage": {
@@ -1482,7 +1482,7 @@
             "idMal": 57391,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 406722,
+                "timeUntilAiring": 406306,
                 "airingAt": 1712928600
             },
             "coverImage": {
@@ -1500,7 +1500,7 @@
             "idMal": 57946,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 534522,
+                "timeUntilAiring": 534106,
                 "airingAt": 1713056400
             },
             "coverImage": {
@@ -1518,7 +1518,7 @@
             "idMal": 57661,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 3954522,
+                "timeUntilAiring": 3954106,
                 "airingAt": 1716476400
             },
             "coverImage": {
@@ -1536,7 +1536,7 @@
             "idMal": 58215,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 6978522,
+                "timeUntilAiring": 6978106,
                 "airingAt": 1719500400
             },
             "coverImage": {
@@ -1554,7 +1554,7 @@
             "idMal": 57623,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 404562,
+                "timeUntilAiring": 404146,
                 "airingAt": 1712926440
             },
             "coverImage": {
@@ -1572,7 +1572,7 @@
             "idMal": 57798,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 529122,
+                "timeUntilAiring": 528706,
                 "airingAt": 1713051000
             },
             "coverImage": {
@@ -1590,7 +1590,7 @@
             "idMal": 57662,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 4559322,
+                "timeUntilAiring": 4558906,
                 "airingAt": 1717081200
             },
             "coverImage": {
@@ -1608,7 +1608,7 @@
             "idMal": 57538,
             "nextAiringEpisode": {
                 "episode": 15,
-                "timeUntilAiring": 437322,
+                "timeUntilAiring": 436906,
                 "airingAt": 1712959200
             },
             "coverImage": {
@@ -1626,7 +1626,7 @@
             "idMal": 57789,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 584922,
+                "timeUntilAiring": 584506,
                 "airingAt": 1713106800
             },
             "coverImage": {
@@ -1644,7 +1644,7 @@
             "idMal": 58463,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 437322,
+                "timeUntilAiring": 436906,
                 "airingAt": 1712959200
             },
             "coverImage": {
@@ -1662,7 +1662,7 @@
             "idMal": 58603,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 92022,
+                "timeUntilAiring": 91606,
                 "airingAt": 1712613900
             },
             "coverImage": {
@@ -1680,7 +1680,7 @@
             "idMal": 57160,
             "nextAiringEpisode": {
                 "episode": 10,
-                "timeUntilAiring": 210522,
+                "timeUntilAiring": 210106,
                 "airingAt": 1712732400
             },
             "coverImage": {
@@ -1698,7 +1698,7 @@
             "idMal": 58351,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 178542,
+                "timeUntilAiring": 178126,
                 "airingAt": 1712700420
             },
             "coverImage": {
@@ -1716,7 +1716,7 @@
             "idMal": 58447,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 437322,
+                "timeUntilAiring": 436906,
                 "airingAt": 1712959200
             },
             "coverImage": {
@@ -1734,7 +1734,7 @@
             "idMal": 58602,
             "nextAiringEpisode": {
                 "episode": 2,
-                "timeUntilAiring": 91722,
+                "timeUntilAiring": 91306,
                 "airingAt": 1712613600
             },
             "coverImage": {
