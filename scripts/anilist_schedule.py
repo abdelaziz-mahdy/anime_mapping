@@ -31,7 +31,7 @@ class AnilistSchedule:
             pageInfo {
               hasNextPage
             }
-            media(sort: ID, type: ANIME, status_not_in: [NOT_YET_RELEASED, FINISHED]) {
+            media(sort: ID, type: ANIME,genre_not_in:["hentai"], status_not_in: [NOT_YET_RELEASED, FINISHED]) {
               id
               idMal
               nextAiringEpisode {

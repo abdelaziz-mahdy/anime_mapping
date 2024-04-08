@@ -1,5 +1,5 @@
 {
-    "__version__": 8,
+    "__version__": 9,
     "data": [
         {
             "id": 21,
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1712526000
+                "airingAt": 1713130800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -178,22 +178,6 @@
             }
         },
         {
-            "id": 112936,
-            "idMal": 40658,
-            "nextAiringEpisode": {
-                "airingAt": 1719500400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112936-MOPqLdKu7dgJ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112936-MOPqLdKu7dgJ.jpg"
-            },
-            "title": {
-                "userPreferred": "Enjo Kouhai",
-                "native": "\u25cb\u25cb\u4ea4\u914d",
-                "romaji": "Enjo Kouhai"
-            }
-        },
-        {
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
@@ -223,22 +207,6 @@
                 "userPreferred": "Fushigi Dagashiya: Zenitendou",
                 "native": "\u3075\u3057\u304e\u99c4\u83d3\u5b50\u5c4b \u92ad\u5929\u5802",
                 "romaji": "Fushigi Dagashiya: Zenitendou"
-            }
-        },
-        {
-            "id": 128623,
-            "idMal": 48651,
-            "nextAiringEpisode": {
-                "airingAt": 1717081200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128623-lZNUOmCDf4Uc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128623-lZNUOmCDf4Uc.jpg"
-            },
-            "title": {
-                "userPreferred": "Sakusei Byoutou THE ANIMATION",
-                "native": "\u643e\u7cbe\u75c5\u68df THE ANIMATION",
-                "romaji": "Sakusei Byoutou THE ANIMATION"
             }
         },
         {
@@ -802,38 +770,6 @@
             }
         },
         {
-            "id": 160735,
-            "idMal": 54622,
-            "nextAiringEpisode": {
-                "airingAt": 1724943600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160735-B226FU3KwkzK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160735-B226FU3KwkzK.jpg"
-            },
-            "title": {
-                "userPreferred": "Rakuen Shinshoku: Island of the dead",
-                "native": "\u697d\u5712\u4fb5\u89e6 Island of the dead",
-                "romaji": "Rakuen Shinshoku: Island of the dead"
-            }
-        },
-        {
-            "id": 161680,
-            "idMal": 55003,
-            "nextAiringEpisode": {
-                "airingAt": 1713452400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161680-NjggzN5hw0UL.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161680-NjggzN5hw0UL.jpg"
-            },
-            "title": {
-                "userPreferred": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-                "native": "1LDK\uff0bJK \u3044\u304d\u306a\u308a\u540c\u5c45\uff1f\u5bc6\u7740\uff01\uff1f\u521d\u30a8\u30c3\u30c1\uff01\uff01\uff1f",
-                "romaji": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?"
-            }
-        },
-        {
             "id": 162889,
             "idMal": 54758,
             "nextAiringEpisode": {
@@ -1125,7 +1061,7 @@
             "id": 168138,
             "idMal": 56230,
             "nextAiringEpisode": {
-                "airingAt": 1713101400
+                "airingAt": 1713105000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168138-jgMSP1rDkJhs.jpg",
@@ -1151,38 +1087,6 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 2",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a2",
                 "romaji": "Dou Po Cangqiong: Nian Fan 2"
-            }
-        },
-        {
-            "id": 168947,
-            "idMal": 56778,
-            "nextAiringEpisode": {
-                "airingAt": 1717081200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168947-WSTbOv30uTYR.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168947-WSTbOv30uTYR.png"
-            },
-            "title": {
-                "userPreferred": "NO Wife NO LIFE!",
-                "native": "NO \u7325\u5a66 NO LIFE\uff01",
-                "romaji": "NO Wife NO LIFE!"
-            }
-        },
-        {
-            "id": 169202,
-            "idMal": 58121,
-            "nextAiringEpisode": {
-                "airingAt": 1718895600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169202-PWqARfyxL3F4.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169202-PWqARfyxL3F4.png"
-            },
-            "title": {
-                "userPreferred": "Katei Kyoushi x Saimin 2 The Animation",
-                "native": "\u5bb6\u5ead\u6559\u5e2bX\u50ac\u77202 The Animation",
-                "romaji": "Katei Kyoushi x Saimin 2 The Animation"
             }
         },
         {
@@ -1282,22 +1186,6 @@
             }
         },
         {
-            "id": 171016,
-            "idMal": 57860,
-            "nextAiringEpisode": {
-                "airingAt": 1714057200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171016-hhjq5sZ6hmNz.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171016-hhjq5sZ6hmNz.png"
-            },
-            "title": {
-                "userPreferred": "69: Itsuwari no Hohoe",
-                "native": "\uff16\uff19\u301c\u507d\u308a\u306e\u5fae\u7b11\u301c",
-                "romaji": "69: Itsuwari no Hohoe"
-            }
-        },
-        {
             "id": 171030,
             "idMal": 57390,
             "nextAiringEpisode": {
@@ -1346,38 +1234,6 @@
             }
         },
         {
-            "id": 171395,
-            "idMal": 57661,
-            "nextAiringEpisode": {
-                "airingAt": 1716476400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171395-VQpAqaUfn9KY.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171395-VQpAqaUfn9KY.jpg"
-            },
-            "title": {
-                "userPreferred": "Kotowarenai Haha",
-                "native": "\u65ad\u308c\u306a\u3044\u6bcd",
-                "romaji": "Kotowarenai Haha"
-            }
-        },
-        {
-            "id": 171397,
-            "idMal": 58215,
-            "nextAiringEpisode": {
-                "airingAt": 1719500400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171397-7ak9QoiksMdm.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171397-7ak9QoiksMdm.png"
-            },
-            "title": {
-                "userPreferred": "NocturnaL",
-                "native": "NocturnaL",
-                "romaji": "NocturnaL"
-            }
-        },
-        {
             "id": 172242,
             "idMal": 57623,
             "nextAiringEpisode": {
@@ -1407,22 +1263,6 @@
                 "userPreferred": "Shinkalion: Change the World",
                 "native": "\u30b7\u30f3\u30ab\u30ea\u30aa\u30f3 \u30c1\u30a7\u30f3\u30b8 \u30b6 \u30ef\u30fc\u30eb\u30c9",
                 "romaji": "Shinkalion: Change the World"
-            }
-        },
-        {
-            "id": 172398,
-            "idMal": 57662,
-            "nextAiringEpisode": {
-                "airingAt": 1717081200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172398-3VzXrbPkIkRt.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172398-3VzXrbPkIkRt.png"
-            },
-            "title": {
-                "userPreferred": "Ruins Seeker",
-                "native": "\u30eb\u30a4\u30f3\u30ba\u30b7\u30fc\u30ab\u30fc",
-                "romaji": "Ruins Seeker"
             }
         },
         {
