@@ -1,5 +1,5 @@
 {
-    "__version__": 14,
+    "__version__": 15,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1712886900
+                "airingAt": 1713491700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -117,7 +117,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1712916000
+                "airingAt": 1713520800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
@@ -133,7 +133,7 @@
             "id": 18941,
             "idMal": 18941,
             "nextAiringEpisode": {
-                "airingAt": 1712964600
+                "airingAt": 1713569400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18941.jpg",
@@ -149,7 +149,7 @@
             "id": 21552,
             "idMal": 32353,
             "nextAiringEpisode": {
-                "airingAt": 1712953320
+                "airingAt": 1713558120
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21552-MKlX4WRvlfjp.png",
@@ -197,7 +197,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1712914800
+                "airingAt": 1713519600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -210,10 +210,26 @@
             }
         },
         {
+            "id": 130590,
+            "idMal": 48418,
+            "nextAiringEpisode": {
+                "airingAt": 1713531600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130590-698sT7jWoz42.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130590-698sT7jWoz42.jpg"
+            },
+            "title": {
+                "userPreferred": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+                "native": "\u9b54\u738b\u5b66\u9662\u306e\u4e0d\u9069\u5408\u8005 \uff5e\u53f2\u4e0a\u6700\u5f37\u306e\u9b54\u738b\u306e\u59cb\u7956\u3001\u8ee2\u751f\u3057\u3066\u5b50\u5b6b\u305f\u3061\u306e\u5b66\u6821\u3078\u901a\u3046\uff5e \u2161 2\u30af\u30fc\u30eb",
+                "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2"
+            }
+        },
+        {
             "id": 134088,
             "idMal": 55151,
             "nextAiringEpisode": {
-                "airingAt": 1712887200
+                "airingAt": 1713492000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134088-7Y4NKvK53Gdw.jpg",
@@ -341,7 +357,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1712961000
+                "airingAt": 1713565800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -373,7 +389,7 @@
             "id": 143271,
             "idMal": 50713,
             "nextAiringEpisode": {
-                "airingAt": 1712932200
+                "airingAt": 1713537000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143271-o5wry0ohH9R3.jpg",
@@ -485,7 +501,7 @@
             "id": 152302,
             "idMal": 52405,
             "nextAiringEpisode": {
-                "airingAt": 1712940780
+                "airingAt": 1713545580
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152302-afLOVyltWMSq.jpg",
@@ -709,7 +725,7 @@
             "id": 156822,
             "idMal": 53580,
             "nextAiringEpisode": {
-                "airingAt": 1712930400
+                "airingAt": 1713535200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156822-Jzo2ITWgm4kM.jpg",
@@ -757,7 +773,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1712915700
+                "airingAt": 1713520500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-FmWU8dacXDiA.jpg",
@@ -853,7 +869,7 @@
             "id": 162889,
             "idMal": 54758,
             "nextAiringEpisode": {
-                "airingAt": 1712938980
+                "airingAt": 1713543780
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162889-I61pWq5qN8QC.jpg",
@@ -933,7 +949,7 @@
             "id": 164204,
             "idMal": 54142,
             "nextAiringEpisode": {
-                "airingAt": 1713049200
+                "airingAt": 1713567600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164204-HKCkCfJM2n6r.jpg",
@@ -949,7 +965,7 @@
             "id": 164212,
             "idMal": 55102,
             "nextAiringEpisode": {
-                "airingAt": 1712935800
+                "airingAt": 1713540600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164212-xjkAkp6SKaCZ.jpg",
@@ -965,7 +981,7 @@
             "id": 164440,
             "idMal": 55194,
             "nextAiringEpisode": {
-                "airingAt": 1712970000
+                "airingAt": 1713574800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164440-VXOPw3qxGzdz.jpg",
@@ -997,7 +1013,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1712913900
+                "airingAt": 1713518700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -1013,7 +1029,7 @@
             "id": 165426,
             "idMal": 55463,
             "nextAiringEpisode": {
-                "airingAt": 1712919600
+                "airingAt": 1713265200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165426-Q93dCaAlRx6b.jpg",
@@ -1157,7 +1173,7 @@
             "id": 168131,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1712887200
+                "airingAt": 1713492000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168131-qa5FMiIpXGQS.png",
@@ -1349,7 +1365,7 @@
             "id": 171040,
             "idMal": 57391,
             "nextAiringEpisode": {
-                "airingAt": 1712928600
+                "airingAt": 1713533400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171040-o1oMiDGZT98Z.jpg",
@@ -1378,10 +1394,26 @@
             }
         },
         {
+            "id": 172187,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1713573000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172187-jy46HFMns8SD.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172187-jy46HFMns8SD.jpg"
+            },
+            "title": {
+                "userPreferred": "Shadowverse Flame: Arc-hen",
+                "native": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9F \u30a2\u30fc\u30af\u7de8",
+                "romaji": "Shadowverse Flame: Arc-hen"
+            }
+        },
+        {
             "id": 172242,
             "idMal": 57623,
             "nextAiringEpisode": {
-                "airingAt": 1712926440
+                "airingAt": 1713531240
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172242-1VjrQuON0Zfu.png",
@@ -1413,7 +1445,7 @@
             "id": 173216,
             "idMal": 57538,
             "nextAiringEpisode": {
-                "airingAt": 1712959200
+                "airingAt": 1713564000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173216-gtERsAl4GB2j.png",
@@ -1445,7 +1477,7 @@
             "id": 173249,
             "idMal": 58463,
             "nextAiringEpisode": {
-                "airingAt": 1712959200
+                "airingAt": 1713564000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173249-wdL8HaSVtCgQ.png",
@@ -1525,7 +1557,7 @@
             "id": 176577,
             "idMal": 58447,
             "nextAiringEpisode": {
-                "airingAt": 1712959200
+                "airingAt": 1713564000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176577-h2LXHa7Irp3a.png",
