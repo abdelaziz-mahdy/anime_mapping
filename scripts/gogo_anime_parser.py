@@ -25,6 +25,7 @@ class GogoAnimeParser:
         for _ in range(3):
             try:
                 response = self.client.get(url, timeout=2)
+                print("response ",response.text)
                 soup = BeautifulSoup(response.text, 'html.parser')
                 content_section = soup.select_one('#wrapper_bg > section > section.content_left > div > div.page_content > div > p:nth-child(8)')
                 
