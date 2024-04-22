@@ -33,7 +33,7 @@ class GogoAnimeParser:
                 a_tags = content_section.find_all('a')
                 
                 # Extract href from each 'a' tag
-                urls = [tag['href'] for tag in a_tags if 'gogoanime' in tag['href']]
+                urls = [tag['href'] for tag in a_tags]
                 
                 if urls:
                     return urls

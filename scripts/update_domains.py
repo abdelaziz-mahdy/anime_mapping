@@ -20,6 +20,9 @@ updated_domains = current_domains[:]
 for domain in domains:
     if domain not in current_domains:
         updated_domains.append(domain)
+for domain in current_domains:
+    if domain not in domains:
+        updated_domains.remove(domain)
 
 # Check if there are any new domains
 if updated_domains != current_domains:
