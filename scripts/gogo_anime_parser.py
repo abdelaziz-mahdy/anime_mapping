@@ -33,8 +33,12 @@ class GogoAnimeParser:
                 a_tags = content_section.find_all('a')
                 
                 # Extract href from each 'a' tag
-                urls = [tag['href'] for tag in a_tags]
-                
+                urls = [tag['href'] for tag in a_tags if tag['href'] ] 
+                # Use enumerate to loop over the urls and update them in place
+                for i, url in enumerate(urls):
+                    # Remove / in the end if found
+                    urls[i] = url.rstrip('/')
+                print("urls ",urls)
                 if urls:
                     return urls
                 else:
