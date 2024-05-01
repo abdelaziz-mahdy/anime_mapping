@@ -1,5 +1,5 @@
 {
-    "__version__": 35,
+    "__version__": 36,
     "data": [
         {
             "id": 21,
@@ -293,7 +293,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1714528800
+                "airingAt": 1715133600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -565,7 +565,7 @@
             "id": 153493,
             "idMal": 56157,
             "nextAiringEpisode": {
-                "airingAt": 1714528800
+                "airingAt": 1715133600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153493-fOohrWTD6pGt.jpg",
@@ -1599,22 +1599,6 @@
                 "userPreferred": "Kenka Dokugaku",
                 "native": "\u55a7\u5629\u72ec\u5b66",
                 "romaji": "Kenka Dokugaku"
-            }
-        },
-        {
-            "id": 175642,
-            "idMal": 57160,
-            "nextAiringEpisode": {
-                "airingAt": 1714546800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175642-TAHPp5wztFUp.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175642-TAHPp5wztFUp.jpg"
-            },
-            "title": {
-                "userPreferred": "SAND LAND: THE SERIES",
-                "native": "SAND LAND: THE SERIES",
-                "romaji": "SAND LAND: THE SERIES"
             }
         },
         {
