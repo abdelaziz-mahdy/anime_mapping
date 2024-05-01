@@ -23,7 +23,8 @@ for domain in domains:
 for domain in current_domains:
     if domain not in domains:
         updated_domains.remove(domain)
-
+# sort the updated domains to make anything with gogo in it at the top
+updated_domains.sort(key=lambda x: x.lower().find("gogo") if x.lower().find("gogo") != -1 else 999999999999999999, reverse=False)
 # Check if there are any new domains
 if updated_domains != current_domains:
     # Update the domains in the 'latest' dictionary
