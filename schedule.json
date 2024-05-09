@@ -1,5 +1,5 @@
 {
-    "__version__": 43,
+    "__version__": 44,
     "data": [
         {
             "id": 21,
@@ -261,7 +261,7 @@
             "id": 136804,
             "idMal": 49458,
             "nextAiringEpisode": {
-                "airingAt": 1715176800
+                "airingAt": 1715781600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg",
@@ -293,7 +293,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1715133600
+                "airingAt": 1715738400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -501,7 +501,7 @@
             "id": 151380,
             "idMal": 52196,
             "nextAiringEpisode": {
-                "airingAt": 1715178600
+                "airingAt": 1715783400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151380-gvN5PjrybTw2.jpg",
@@ -549,7 +549,7 @@
             "id": 153493,
             "idMal": 56157,
             "nextAiringEpisode": {
-                "airingAt": 1715133600
+                "airingAt": 1715738400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153493-fOohrWTD6pGt.jpg",
@@ -629,7 +629,7 @@
             "id": 155890,
             "idMal": 53407,
             "nextAiringEpisode": {
-                "airingAt": 1715180400
+                "airingAt": 1715785200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155890-1dhQgpT8wYkF.jpg",
@@ -805,7 +805,7 @@
             "id": 159039,
             "idMal": 53912,
             "nextAiringEpisode": {
-                "airingAt": 1715169600
+                "airingAt": 1715774400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159039-88kPltmhTzqU.jpg",
@@ -837,7 +837,7 @@
             "id": 160090,
             "idMal": 54199,
             "nextAiringEpisode": {
-                "airingAt": 1715175000
+                "airingAt": 1715779800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160090-EHP57CniSa7I.jpg",
@@ -1589,7 +1589,7 @@
             "id": 174653,
             "idMal": 58080,
             "nextAiringEpisode": {
-                "airingAt": 1715183700
+                "airingAt": 1715788500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174653-OsnK4BuENjUT.jpg",
@@ -1679,6 +1679,22 @@
                 "userPreferred": "Yozakura-san Chi no Mini Sakusen",
                 "native": "\u591c\u685c\u3055\u3093\u3061\u306e\u30df\u30cb\u4f5c\u6226",
                 "romaji": "Yozakura-san Chi no Mini Sakusen"
+            }
+        },
+        {
+            "id": 177405,
+            "idMal": 58746,
+            "nextAiringEpisode": {
+                "airingAt": 1715655600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177405-cARBRDcWDh5e.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177405-cARBRDcWDh5e.png"
+            },
+            "title": {
+                "userPreferred": "Wan Wan Train Doko e Iku?",
+                "native": "\u308f\u3093\u308f\u3093\u30c8\u30ec\u30a4\u30f3\u3069\u3053\u3078\u3044\u304f\uff1f",
+                "romaji": "Wan Wan Train Doko e Iku?"
             }
         }
     ]
