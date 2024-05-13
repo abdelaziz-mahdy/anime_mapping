@@ -1,5 +1,5 @@
 {
-    "__version__": 47,
+    "__version__": 48,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1715506200
+                "airingAt": 1716111000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1715550000
+                "airingAt": 1716154800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -101,7 +101,7 @@
             "id": 6149,
             "idMal": 6149,
             "nextAiringEpisode": {
-                "airingAt": 1715504400
+                "airingAt": 1716109200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
@@ -181,7 +181,7 @@
             "id": 109731,
             "idMal": 39894,
             "nextAiringEpisode": {
-                "airingAt": 1715500800
+                "airingAt": 1716105600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109731-PBjrX9CebGus.png",
@@ -197,7 +197,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1715504400
+                "airingAt": 1716109200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -645,7 +645,7 @@
             "id": 155902,
             "idMal": 57512,
             "nextAiringEpisode": {
-                "airingAt": 1715479200
+                "airingAt": 1716084000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155902-w2cdwgSePAYD.jpg",
@@ -741,7 +741,7 @@
             "id": 158417,
             "idMal": 53770,
             "nextAiringEpisode": {
-                "airingAt": 1715499000
+                "airingAt": 1716103800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158417-2jUaUdiGBZQ8.jpg",
@@ -789,7 +789,7 @@
             "id": 158898,
             "idMal": 53865,
             "nextAiringEpisode": {
-                "airingAt": 1715500800
+                "airingAt": 1716105600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png",
@@ -869,7 +869,7 @@
             "id": 160589,
             "idMal": 54309,
             "nextAiringEpisode": {
-                "airingAt": 1715525100
+                "airingAt": 1716129900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160589-QBvUpgARwgMA.jpg",
@@ -901,7 +901,7 @@
             "id": 163024,
             "idMal": 54803,
             "nextAiringEpisode": {
-                "airingAt": 1715502600
+                "airingAt": 1716107400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163024-ZOvC0mgdXNm9.jpg",
@@ -1013,7 +1013,7 @@
             "id": 164702,
             "idMal": 55265,
             "nextAiringEpisode": {
-                "airingAt": 1715524200
+                "airingAt": 1716129000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164702-FjpM96MPdzVm.jpg",
@@ -1071,6 +1071,22 @@
                 "userPreferred": "Tunshi Xingkong 4",
                 "native": "\u541e\u566c\u661f\u7a7a \u7b2c\u56db\u5b63",
                 "romaji": "Tunshi Xingkong 4"
+            }
+        },
+        {
+            "id": 166240,
+            "idMal": 55701,
+            "nextAiringEpisode": {
+                "airingAt": 1716128100
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-PBV7zukIHW7V.png"
+            },
+            "title": {
+                "userPreferred": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                "native": "\u9b3c\u6ec5\u306e\u5203 \u67f1\u7a3d\u53e4\u7de8",
+                "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen"
             }
         },
         {
@@ -1141,7 +1157,7 @@
             "id": 166873,
             "idMal": 55888,
             "nextAiringEpisode": {
-                "airingAt": 1715526000
+                "airingAt": 1716735600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-JC56ExYSC2YB.jpg",
@@ -1205,7 +1221,7 @@
             "id": 168138,
             "idMal": 56230,
             "nextAiringEpisode": {
-                "airingAt": 1715524200
+                "airingAt": 1716129000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168138-jgMSP1rDkJhs.jpg",
@@ -1221,7 +1237,7 @@
             "id": 168163,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1715479200
+                "airingAt": 1716084000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168163-TiHA6iTauYZ0.jpg",
@@ -1253,7 +1269,7 @@
             "id": 169584,
             "idMal": 56738,
             "nextAiringEpisode": {
-                "airingAt": 1715518800
+                "airingAt": 1716123600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169584-e9X229cmrh8j.jpg",
@@ -1314,6 +1330,22 @@
             }
         },
         {
+            "id": 169966,
+            "idMal": 56853,
+            "nextAiringEpisode": {
+                "airingAt": 1715846400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169966-elyLBCoBAJxx.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg"
+            },
+            "title": {
+                "userPreferred": "I.CINNAMOROLL Animation",
+                "native": "I.CINNAMOROLL Animation",
+                "romaji": "I.CINNAMOROLL Animation"
+            }
+        },
+        {
             "id": 170130,
             "idMal": 56923,
             "nextAiringEpisode": {
@@ -1349,7 +1381,7 @@
             "id": 170604,
             "idMal": 57031,
             "nextAiringEpisode": {
-                "airingAt": 1715524200
+                "airingAt": 1716129000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170604-VwLdBL8Gip9Z.jpg",
@@ -1509,7 +1541,7 @@
             "id": 173240,
             "idMal": 57789,
             "nextAiringEpisode": {
-                "airingAt": 1715526000
+                "airingAt": 1716130800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173240-I1DONzF21iup.png",
