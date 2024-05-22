@@ -1,5 +1,5 @@
 {
-    "__version__": 56,
+    "__version__": 57,
     "data": [
         {
             "id": 21,
@@ -357,7 +357,7 @@
             "id": 141913,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1716260400
+                "airingAt": 1716865200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141913-pLkhRAMBr9zU.jpg",
@@ -482,22 +482,6 @@
             }
         },
         {
-            "id": 150085,
-            "idMal": 51859,
-            "nextAiringEpisode": {
-                "airingAt": 1716300000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150085-CBTMBvROhxmY.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150085-CBTMBvROhxmY.png"
-            },
-            "title": {
-                "userPreferred": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-                "native": "\u5200\u5263\u4e71\u821e \u5efb -\u865a\u4f1d \u71c3\u3086\u308b\u672c\u80fd\u5bfa-",
-                "romaji": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
-            }
-        },
-        {
             "id": 151380,
             "idMal": 52196,
             "nextAiringEpisode": {
@@ -581,7 +565,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1716256800
+                "airingAt": 1716602400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -757,7 +741,7 @@
             "id": 158709,
             "idMal": 53835,
             "nextAiringEpisode": {
-                "airingAt": 1716301800
+                "airingAt": 1716906600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158709-WFA0RHloDvPl.jpg",
@@ -949,7 +933,7 @@
             "id": 163141,
             "idMal": 54859,
             "nextAiringEpisode": {
-                "airingAt": 1716301800
+                "airingAt": 1716906600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163141-dWqdA3MOGtYz.png",
@@ -1061,7 +1045,7 @@
             "id": 166219,
             "idMal": 56524,
             "nextAiringEpisode": {
-                "airingAt": 1716256800
+                "airingAt": 1716861600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166219-tREIb5l5huVe.png",
@@ -1189,7 +1173,7 @@
             "id": 167927,
             "idMal": 56165,
             "nextAiringEpisode": {
-                "airingAt": 1716303600
+                "airingAt": 1717513200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167927-eHWavr99BeTj.png",
@@ -1605,7 +1589,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1716329220
+                "airingAt": 1716934020
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1669,7 +1653,7 @@
             "id": 177405,
             "idMal": 58746,
             "nextAiringEpisode": {
-                "airingAt": 1716260400
+                "airingAt": 1716865200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177405-cARBRDcWDh5e.png",
