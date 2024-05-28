@@ -1,5 +1,5 @@
 {
-    "__version__": 62,
+    "__version__": 63,
     "data": [
         {
             "id": 21,
@@ -277,7 +277,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1716775200
+                "airingAt": 1717380000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -325,7 +325,7 @@
             "id": 139518,
             "idMal": 49889,
             "nextAiringEpisode": {
-                "airingAt": 1716818400
+                "airingAt": 1717423200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139518-GZWYKM8Kg1S2.png",
@@ -341,7 +341,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1716849600
+                "airingAt": 1717108800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -373,7 +373,7 @@
             "id": 141923,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1716778800
+                "airingAt": 1717383600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141923-4cUcS64ZU1tu.png",
@@ -437,7 +437,7 @@
             "id": 144176,
             "idMal": 50869,
             "nextAiringEpisode": {
-                "airingAt": 1716813000
+                "airingAt": 1717417800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144176-xM8XAC3oUn5C.jpg",
@@ -453,7 +453,7 @@
             "id": 145728,
             "idMal": 51122,
             "nextAiringEpisode": {
-                "airingAt": 1716827400
+                "airingAt": 1717432200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145728-YUKXjN2E81Pq.jpg",
@@ -597,7 +597,7 @@
             "id": 155657,
             "idMal": 53356,
             "nextAiringEpisode": {
-                "airingAt": 1716811200
+                "airingAt": 1717416000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155657-qZo0UNx6rEN0.jpg",
@@ -677,7 +677,7 @@
             "id": 156415,
             "idMal": 53516,
             "nextAiringEpisode": {
-                "airingAt": 1716822000
+                "airingAt": 1717426800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156415-zwP9deA786S1.jpg",
@@ -1061,7 +1061,7 @@
             "id": 166372,
             "idMal": 55717,
             "nextAiringEpisode": {
-                "airingAt": 1716829200
+                "airingAt": 1717434000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166372-AO67sLMZfUpB.jpg",
@@ -1071,22 +1071,6 @@
                 "userPreferred": "Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita",
                 "native": "\u51fa\u6765\u640d\u306a\u3044\u3068\u547c\u3070\u308c\u305f\u5143\u82f1\u96c4\u306f\u3001\u5b9f\u5bb6\u304b\u3089\u8ffd\u653e\u3055\u308c\u305f\u306e\u3067\u597d\u304d\u52dd\u624b\u306b\u751f\u304d\u308b\u3053\u3068\u306b\u3057\u305f",
                 "romaji": "Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita"
-            }
-        },
-        {
-            "id": 166439,
-            "idMal": 58295,
-            "nextAiringEpisode": {
-                "airingAt": 1716775200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166439-Nx1EIzkPP3Ja.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166439-Nx1EIzkPP3Ja.jpg"
-            },
-            "title": {
-                "userPreferred": "Baijia Jue: Jianghu Gui Shi Lu",
-                "native": "\u767e\u5bb6\u8bc0\u4e4b\u6c5f\u6e56\u8be1\u4e8b\u5f55",
-                "romaji": "Baijia Jue: Jianghu Gui Shi Lu"
             }
         },
         {
@@ -1221,7 +1205,7 @@
             "id": 169417,
             "idMal": 56690,
             "nextAiringEpisode": {
-                "airingAt": 1716822000
+                "airingAt": 1717426800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169417-izsfKg0hasRd.png",
@@ -1253,7 +1237,7 @@
             "id": 169698,
             "idMal": 56768,
             "nextAiringEpisode": {
-                "airingAt": 1716823800
+                "airingAt": 1717428600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169698-pmIhuxlGufON.jpg",
@@ -1317,7 +1301,7 @@
             "id": 170130,
             "idMal": 56923,
             "nextAiringEpisode": {
-                "airingAt": 1716818400
+                "airingAt": 1717423200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170130-tvhn13WYQ2qM.jpg",
@@ -1541,7 +1525,7 @@
             "id": 173250,
             "idMal": 58603,
             "nextAiringEpisode": {
-                "airingAt": 1716847500
+                "airingAt": 1717452300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173250-3tOJC8zzTcoC.png",
@@ -1605,7 +1589,7 @@
             "id": 176635,
             "idMal": 58602,
             "nextAiringEpisode": {
-                "airingAt": 1716847200
+                "airingAt": 1717452000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176635-Fab1pgsRlYSJ.png",
