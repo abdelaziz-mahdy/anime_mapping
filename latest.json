@@ -1,5 +1,5 @@
 {
-    "__version__": 4707,
+    "__version__": 4708,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1063,5 +1063,7 @@
     "fatal-fury-2-the-new-battle": 1,
     "fatal-fury-the-motion-picture": 1,
     "samurai-spirits-haten-gouma-no-shou": 1,
-    "blazblue-chronophantasma": 1
+    "blazblue-chronophantasma": 1,
+    "blazblue-continuum-shift": 1,
+    "blazblue-calamity-trigger": 1
 }
