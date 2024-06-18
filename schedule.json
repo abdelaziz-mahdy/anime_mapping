@@ -1,5 +1,5 @@
 {
-    "__version__": 83,
+    "__version__": 84,
     "data": [
         {
             "id": 21,
@@ -261,7 +261,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1718589600
+                "airingAt": 1719194400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -309,7 +309,7 @@
             "id": 139518,
             "idMal": 49889,
             "nextAiringEpisode": {
-                "airingAt": 1718632800
+                "airingAt": 1719237600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139518-GZWYKM8Kg1S2.png",
@@ -357,7 +357,7 @@
             "id": 141923,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1718593200
+                "airingAt": 1719198000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141923-4cUcS64ZU1tu.png",
@@ -421,7 +421,7 @@
             "id": 144176,
             "idMal": 50869,
             "nextAiringEpisode": {
-                "airingAt": 1718627400
+                "airingAt": 1719232200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144176-xM8XAC3oUn5C.jpg",
@@ -431,22 +431,6 @@
                 "userPreferred": "Kami wa Game ni Ueteiru.",
                 "native": "\u795e\u306f\u904a\u622f\u306b\u98e2\u3048\u3066\u3044\u308b\u3002",
                 "romaji": "Kami wa Game ni Ueteiru."
-            }
-        },
-        {
-            "id": 145728,
-            "idMal": 51122,
-            "nextAiringEpisode": {
-                "airingAt": 1718641800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145728-YUKXjN2E81Pq.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145728-YUKXjN2E81Pq.jpg"
-            },
-            "title": {
-                "userPreferred": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
-                "native": "\u72fc\u3068\u9999\u8f9b\u6599 MERCHANT MEETS THE WISE WOLF",
-                "romaji": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF"
             }
         },
         {
@@ -623,22 +607,6 @@
                 "userPreferred": "Fanren Xiu Xian Zhuan: Xinghai Feichi",
                 "native": "\u51e1\u4eba\u4fee\u4ed9\u4f20 \u661f\u6d77\u98de\u9a70",
                 "romaji": "Fanren Xiu Xian Zhuan: Xinghai Feichi"
-            }
-        },
-        {
-            "id": 156415,
-            "idMal": 53516,
-            "nextAiringEpisode": {
-                "airingAt": 1718636400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156415-zwP9deA786S1.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156415-zwP9deA786S1.jpg"
-            },
-            "title": {
-                "userPreferred": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu",
-                "native": "\u8ee2\u751f\u3057\u305f\u3089\u7b2c\u4e03\u738b\u5b50\u3060\u3063\u305f\u306e\u3067\u3001\u6c17\u307e\u307e\u306b\u9b54\u8853\u3092\u6975\u3081\u307e\u3059",
-                "romaji": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu"
             }
         },
         {
@@ -1122,22 +1090,6 @@
             }
         },
         {
-            "id": 169417,
-            "idMal": 56690,
-            "nextAiringEpisode": {
-                "airingAt": 1718636400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169417-izsfKg0hasRd.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
-            },
-            "title": {
-                "userPreferred": "Re:Monster",
-                "native": "Re:Monster",
-                "romaji": "Re:Monster"
-            }
-        },
-        {
             "id": 169584,
             "idMal": 56738,
             "nextAiringEpisode": {
@@ -1157,7 +1109,7 @@
             "id": 169698,
             "idMal": 56768,
             "nextAiringEpisode": {
-                "airingAt": 1718638200
+                "airingAt": 1719243000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169698-pmIhuxlGufON.jpg",
@@ -1173,7 +1125,7 @@
             "id": 169930,
             "idMal": 56840,
             "nextAiringEpisode": {
-                "airingAt": 1721142000
+                "airingAt": 1721199600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169930-76XTdsWTTx0q.jpg",
@@ -1205,7 +1157,7 @@
             "id": 170130,
             "idMal": 56923,
             "nextAiringEpisode": {
-                "airingAt": 1718632800
+                "airingAt": 1719237600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170130-tvhn13WYQ2qM.jpg",
@@ -1394,22 +1346,6 @@
             }
         },
         {
-            "id": 173250,
-            "idMal": 58603,
-            "nextAiringEpisode": {
-                "airingAt": 1718661900
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173250-3tOJC8zzTcoC.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173250-3tOJC8zzTcoC.png"
-            },
-            "title": {
-                "userPreferred": "Ageo to Tim",
-                "native": "\u3042\u3052\u304a\u3068\u30c6\u30a3\u30e0",
-                "romaji": "Ageo to Tim"
-            }
-        },
-        {
             "id": 173313,
             "idMal": 57822,
             "nextAiringEpisode": {
@@ -1477,7 +1413,7 @@
             "id": 176635,
             "idMal": 58602,
             "nextAiringEpisode": {
-                "airingAt": 1718661600
+                "airingAt": 1719266400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176635-Fab1pgsRlYSJ.png",
@@ -1507,7 +1443,7 @@
         },
         {
             "id": 177512,
-            "idMal": null,
+            "idMal": 56960,
             "nextAiringEpisode": {
                 "airingAt": 1718856000
             },
