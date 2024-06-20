@@ -1,5 +1,5 @@
 {
-    "__version__": 85,
+    "__version__": 86,
     "data": [
         {
             "id": 21,
@@ -242,22 +242,6 @@
             }
         },
         {
-            "id": 136804,
-            "idMal": 49458,
-            "nextAiringEpisode": {
-                "airingAt": 1718805600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136804-7FVftG67FPBc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
-            },
-            "title": {
-                "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-                "native": "\u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092! 3",
-                "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3"
-            }
-        },
-        {
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
@@ -277,7 +261,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1718762400
+                "airingAt": 1719367200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -339,7 +323,7 @@
         },
         {
             "id": 141913,
-            "idMal": null,
+            "idMal": 58476,
             "nextAiringEpisode": {
                 "airingAt": 1719284400
             },
@@ -355,7 +339,7 @@
         },
         {
             "id": 141923,
-            "idMal": null,
+            "idMal": 58490,
             "nextAiringEpisode": {
                 "airingAt": 1719198000
             },
@@ -469,7 +453,7 @@
             "id": 151380,
             "idMal": 52196,
             "nextAiringEpisode": {
-                "airingAt": 1718807400
+                "airingAt": 1719412200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151380-gvN5PjrybTw2.jpg",
@@ -517,7 +501,7 @@
             "id": 153493,
             "idMal": 56157,
             "nextAiringEpisode": {
-                "airingAt": 1718762400
+                "airingAt": 1719367200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153493-fOohrWTD6pGt.jpg",
@@ -575,22 +559,6 @@
                 "userPreferred": "Shuumatsu Train Doko e Iku?",
                 "native": "\u7d42\u672b\u30c8\u30ec\u30a4\u30f3\u3069\u3053\u3078\u3044\u304f\uff1f",
                 "romaji": "Shuumatsu Train Doko e Iku?"
-            }
-        },
-        {
-            "id": 155890,
-            "idMal": 53407,
-            "nextAiringEpisode": {
-                "airingAt": 1718809200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155890-1dhQgpT8wYkF.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155890-1dhQgpT8wYkF.jpg"
-            },
-            "title": {
-                "userPreferred": "Bartender: Kami no Glass",
-                "native": "\u30d0\u30fc\u30c6\u30f3\u30c0\u30fc \u795e\u306e\u30b0\u30e9\u30b9",
-                "romaji": "Bartender: Kami no Glass"
             }
         },
         {
@@ -709,7 +677,7 @@
             "id": 159039,
             "idMal": 53912,
             "nextAiringEpisode": {
-                "airingAt": 1718798400
+                "airingAt": 1719403200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159039-88kPltmhTzqU.jpg",
@@ -741,7 +709,7 @@
             "id": 160090,
             "idMal": 54199,
             "nextAiringEpisode": {
-                "airingAt": 1718803800
+                "airingAt": 1719408600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160090-EHP57CniSa7I.jpg",
@@ -1331,7 +1299,7 @@
         },
         {
             "id": 172964,
-            "idMal": null,
+            "idMal": 57753,
             "nextAiringEpisode": {
                 "airingAt": 1718888400
             },
@@ -1381,7 +1349,7 @@
             "id": 174653,
             "idMal": 58080,
             "nextAiringEpisode": {
-                "airingAt": 1718812500
+                "airingAt": 1719417300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174653-OsnK4BuENjUT.jpg",
@@ -1423,22 +1391,6 @@
                 "userPreferred": "SHIBUYA\u2661HACHI",
                 "native": "SHIBUYA\u2661HACHI",
                 "romaji": "SHIBUYA\u2661HACHI"
-            }
-        },
-        {
-            "id": 176635,
-            "idMal": 58602,
-            "nextAiringEpisode": {
-                "airingAt": 1719266400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176635-Fab1pgsRlYSJ.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176635-Fab1pgsRlYSJ.png"
-            },
-            "title": {
-                "userPreferred": "YouTuNya 2",
-                "native": "\u30e6\u30fc\u30c1\u30e5\u30fc\u30cb\u30e3\u30fc\uff12",
-                "romaji": "YouTuNya 2"
             }
         },
         {
