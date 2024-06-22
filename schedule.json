@@ -1,5 +1,5 @@
 {
-    "__version__": 87,
+    "__version__": 88,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1718934900
+                "airingAt": 1719539700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1718964000
+                "airingAt": 1719568800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
@@ -149,7 +149,7 @@
             "id": 18941,
             "idMal": 18941,
             "nextAiringEpisode": {
-                "airingAt": 1719012600
+                "airingAt": 1719617400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18941.jpg",
@@ -165,7 +165,7 @@
             "id": 21552,
             "idMal": 32353,
             "nextAiringEpisode": {
-                "airingAt": 1719001320
+                "airingAt": 1719606120
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21552-MKlX4WRvlfjp.png",
@@ -213,7 +213,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1718962800
+                "airingAt": 1719567600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -223,6 +223,22 @@
                 "userPreferred": "Fushigi Dagashiya: Zenitendou",
                 "native": "\u3075\u3057\u304e\u99c4\u83d3\u5b50\u5c4b \u92ad\u5929\u5802",
                 "romaji": "Fushigi Dagashiya: Zenitendou"
+            }
+        },
+        {
+            "id": 126830,
+            "idMal": 56835,
+            "nextAiringEpisode": {
+                "airingAt": 1719558000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126830-Mx56p5DMIjiq.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126830-Mx56p5DMIjiq.png"
+            },
+            "title": {
+                "userPreferred": "Code Geass: Dakkan no Roz\u00e9",
+                "native": "\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9 \u596a\u9084\u306e\u30ed\u30bc",
+                "romaji": "Code Geass: Dakkan no Roz\u00e9"
             }
         },
         {
@@ -277,7 +293,7 @@
             "id": 137735,
             "idMal": 49559,
             "nextAiringEpisode": {
-                "airingAt": 1718935200
+                "airingAt": 1719540000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137735-hz635vd0h0td.png",
@@ -357,7 +373,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1719009000
+                "airingAt": 1719613800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -389,7 +405,7 @@
             "id": 143271,
             "idMal": 50713,
             "nextAiringEpisode": {
-                "airingAt": 1718980200
+                "airingAt": 1719585000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143271-o5wry0ohH9R3.jpg",
@@ -463,22 +479,6 @@
                 "userPreferred": "Date A Live V",
                 "native": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6V",
                 "romaji": "Date A Live V"
-            }
-        },
-        {
-            "id": 152302,
-            "idMal": 52405,
-            "nextAiringEpisode": {
-                "airingAt": 1718988780
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152302-afLOVyltWMSq.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152302-afLOVyltWMSq.jpg"
-            },
-            "title": {
-                "userPreferred": "HIGHSPEED \u00c9toile",
-                "native": "HIGHSPEED \u00c9toile",
-                "romaji": "HIGHSPEED \u00c9toile"
             }
         },
         {
@@ -565,7 +565,7 @@
             "id": 156822,
             "idMal": 53580,
             "nextAiringEpisode": {
-                "airingAt": 1718978400
+                "airingAt": 1719583200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156822-Jzo2ITWgm4kM.jpg",
@@ -613,7 +613,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1718963700
+                "airingAt": 1719568500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-FmWU8dacXDiA.jpg",
@@ -722,22 +722,6 @@
             }
         },
         {
-            "id": 162889,
-            "idMal": 54758,
-            "nextAiringEpisode": {
-                "airingAt": 1718986980
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162889-I61pWq5qN8QC.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162889-I61pWq5qN8QC.jpg"
-            },
-            "title": {
-                "userPreferred": "The iDOLM@STER: Shiny Colors",
-                "native": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
-                "romaji": "The iDOLM@STER: Shiny Colors"
-            }
-        },
-        {
             "id": 163024,
             "idMal": 54803,
             "nextAiringEpisode": {
@@ -821,7 +805,7 @@
             "id": 164212,
             "idMal": 55102,
             "nextAiringEpisode": {
-                "airingAt": 1718983800
+                "airingAt": 1719588600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164212-xjkAkp6SKaCZ.jpg",
@@ -831,22 +815,6 @@
                 "userPreferred": "Girls Band Cry",
                 "native": "\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30af\u30e9\u30a4",
                 "romaji": "Girls Band Cry"
-            }
-        },
-        {
-            "id": 164440,
-            "idMal": 55194,
-            "nextAiringEpisode": {
-                "airingAt": 1719018000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164440-VXOPw3qxGzdz.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164440-VXOPw3qxGzdz.jpg"
-            },
-            "title": {
-                "userPreferred": "Ooi! Tonbo",
-                "native": "\u30aa\u30fc\u30a4! \u3068\u3093\u307c",
-                "romaji": "Ooi! Tonbo"
             }
         },
         {
@@ -869,7 +837,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1718961900
+                "airingAt": 1719566700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -981,7 +949,7 @@
             "id": 168131,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1718935200
+                "airingAt": 1719540000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168131-qa5FMiIpXGQS.png",
@@ -1138,22 +1106,6 @@
             }
         },
         {
-            "id": 171040,
-            "idMal": 57391,
-            "nextAiringEpisode": {
-                "airingAt": 1718976600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171040-o1oMiDGZT98Z.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171040-o1oMiDGZT98Z.jpg"
-            },
-            "title": {
-                "userPreferred": "Astro Note",
-                "native": "\u30a2\u30b9\u30c8\u30ed\u30ce\u30aa\u30c8",
-                "romaji": "Astro Note"
-            }
-        },
-        {
             "id": 171080,
             "idMal": 57946,
             "nextAiringEpisode": {
@@ -1173,7 +1125,7 @@
             "id": 172187,
             "idMal": 57614,
             "nextAiringEpisode": {
-                "airingAt": 1719016200
+                "airingAt": 1719621000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172187-jy46HFMns8SD.jpg",
@@ -1183,22 +1135,6 @@
                 "userPreferred": "Shadowverse Flame: Arc-hen",
                 "native": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9F \u30a2\u30fc\u30af\u7de8",
                 "romaji": "Shadowverse Flame: Arc-hen"
-            }
-        },
-        {
-            "id": 172242,
-            "idMal": 57623,
-            "nextAiringEpisode": {
-                "airingAt": 1718974440
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172242-1VjrQuON0Zfu.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172242-1VjrQuON0Zfu.png"
-            },
-            "title": {
-                "userPreferred": "NIJIYON ANIMATION 2",
-                "native": "\u306b\u3058\u3088\u3093 \u3042\u306b\u3081\u30fc\u3057\u3087\u30932",
-                "romaji": "NIJIYON ANIMATION 2"
             }
         },
         {
@@ -1231,22 +1167,6 @@
                 "userPreferred": "Jongtama Kan!!",
                 "native": "\u3058\u3083\u3093\u305f\u307e \u30ab\u30f3\uff01\uff01",
                 "romaji": "Jongtama Kan!!"
-            }
-        },
-        {
-            "id": 173249,
-            "idMal": 58463,
-            "nextAiringEpisode": {
-                "airingAt": 1719007200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173249-wdL8HaSVtCgQ.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173249-wdL8HaSVtCgQ.png"
-            },
-            "title": {
-                "userPreferred": "Kumarba",
-                "native": "\u30af\u30de\u30fc\u30d0",
-                "romaji": "Kumarba"
             }
         },
         {
@@ -1298,22 +1218,6 @@
             }
         },
         {
-            "id": 176577,
-            "idMal": 58447,
-            "nextAiringEpisode": {
-                "airingAt": 1719007200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176577-h2LXHa7Irp3a.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176577-h2LXHa7Irp3a.png"
-            },
-            "title": {
-                "userPreferred": "SHIBUYA\u2661HACHI",
-                "native": "SHIBUYA\u2661HACHI",
-                "romaji": "SHIBUYA\u2661HACHI"
-            }
-        },
-        {
             "id": 176909,
             "idMal": 58644,
             "nextAiringEpisode": {
@@ -1349,7 +1253,7 @@
             "id": 177697,
             "idMal": 58883,
             "nextAiringEpisode": {
-                "airingAt": 1718938800
+                "airingAt": 1719543600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177697-Gxdbz8IoI3Gd.png",
@@ -1365,7 +1269,7 @@
             "id": 177798,
             "idMal": 58935,
             "nextAiringEpisode": {
-                "airingAt": 1719007200
+                "airingAt": 1719612000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177798-XudBFJvgWApo.jpg",
