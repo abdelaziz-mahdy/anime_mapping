@@ -1,5 +1,5 @@
 {
-    "__version__": 89,
+    "__version__": 90,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1719135000
+                "airingAt": 1719739800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1719178800
+                "airingAt": 1719783600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -101,7 +101,7 @@
             "id": 6149,
             "idMal": 6149,
             "nextAiringEpisode": {
-                "airingAt": 1719133200
+                "airingAt": 1719738000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
@@ -181,7 +181,7 @@
             "id": 109731,
             "idMal": 39894,
             "nextAiringEpisode": {
-                "airingAt": 1719129600
+                "airingAt": 1719734400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109731-PBjrX9CebGus.png",
@@ -197,7 +197,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1719133200
+                "airingAt": 1719738000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -581,7 +581,7 @@
             "id": 158417,
             "idMal": 53770,
             "nextAiringEpisode": {
-                "airingAt": 1719127800
+                "airingAt": 1719732600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158417-2jUaUdiGBZQ8.jpg",
@@ -629,7 +629,7 @@
             "id": 158898,
             "idMal": 53865,
             "nextAiringEpisode": {
-                "airingAt": 1719129600
+                "airingAt": 1719734400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png",
@@ -706,26 +706,10 @@
             }
         },
         {
-            "id": 160589,
-            "idMal": 54309,
-            "nextAiringEpisode": {
-                "airingAt": 1719153900
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160589-QBvUpgARwgMA.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160589-QBvUpgARwgMA.jpg"
-            },
-            "title": {
-                "userPreferred": "Blue Archive The Animation",
-                "native": "\u30d6\u30eb\u30fc\u30a2\u30fc\u30ab\u30a4\u30d6 The Animation",
-                "romaji": "Blue Archive The Animation"
-            }
-        },
-        {
             "id": 163024,
             "idMal": 54803,
             "nextAiringEpisode": {
-                "airingAt": 1719131400
+                "airingAt": 1719736200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163024-ZOvC0mgdXNm9.jpg",
@@ -818,22 +802,6 @@
             }
         },
         {
-            "id": 164702,
-            "idMal": 55265,
-            "nextAiringEpisode": {
-                "airingAt": 1719153000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164702-FjpM96MPdzVm.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg"
-            },
-            "title": {
-                "userPreferred": "Tensei Kizoku, Kantei Skill de Nariagaru",
-                "native": "\u8ee2\u751f\u8cb4\u65cf\u3001\u9451\u5b9a\u30b9\u30ad\u30eb\u3067\u6210\u308a\u4e0a\u304c\u308b",
-                "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru"
-            }
-        },
-        {
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
@@ -869,7 +837,7 @@
             "id": 166240,
             "idMal": 55701,
             "nextAiringEpisode": {
-                "airingAt": 1719152100
+                "airingAt": 1719756900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png",
@@ -885,7 +853,7 @@
             "id": 166873,
             "idMal": 55888,
             "nextAiringEpisode": {
-                "airingAt": 1719154800
+                "airingAt": 1719759600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166873-JC56ExYSC2YB.jpg",
@@ -949,7 +917,7 @@
             "id": 168163,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1719108000
+                "airingAt": 1719712800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168163-TiHA6iTauYZ0.jpg",
@@ -959,22 +927,6 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 2",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a2",
                 "romaji": "Dou Po Cangqiong: Nian Fan 2"
-            }
-        },
-        {
-            "id": 169584,
-            "idMal": 56738,
-            "nextAiringEpisode": {
-                "airingAt": 1719147600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169584-e9X229cmrh8j.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169584-e9X229cmrh8j.jpg"
-            },
-            "title": {
-                "userPreferred": "Shinigami Bocchan to Kuro Maid 3rd Season",
-                "native": "\u6b7b\u795e\u574a\u3061\u3083\u3093\u3068\u9ed2\u30e1\u30a4\u30c9 \u7b2c3\u671f",
-                "romaji": "Shinigami Bocchan to Kuro Maid 3rd Season"
             }
         },
         {
@@ -1039,22 +991,6 @@
                 "userPreferred": "Karasu wa Aruji wo Erabanai",
                 "native": "\u70cf\u306f\u4e3b\u3092\u9078\u3070\u306a\u3044",
                 "romaji": "Karasu wa Aruji wo Erabanai"
-            }
-        },
-        {
-            "id": 170604,
-            "idMal": 57031,
-            "nextAiringEpisode": {
-                "airingAt": 1719153000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170604-VwLdBL8Gip9Z.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170604-VwLdBL8Gip9Z.jpg"
-            },
-            "title": {
-                "userPreferred": "Vampire Dormitory",
-                "native": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u7537\u5b50\u5bee",
-                "romaji": "Vampire Dormitory"
             }
         },
         {
@@ -1311,6 +1247,22 @@
                 "userPreferred": "Yao Shen Ji 8",
                 "native": "\u5996\u795e\u8bb0 \u7b2c8\u5b63",
                 "romaji": "Yao Shen Ji 8"
+            }
+        },
+        {
+            "id": 178421,
+            "idMal": 59049,
+            "nextAiringEpisode": {
+                "airingAt": 1719593760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178421-6B4tVFKQEjn3.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178421-6B4tVFKQEjn3.png"
+            },
+            "title": {
+                "userPreferred": "Maarui Kanojo to Zannen na Kareshi",
+                "native": "\u307e\u3041\u308b\u3044\u5f7c\u5973\u3068\u6b8b\u5ff5\u306a\u5f7c\u6c0f",
+                "romaji": "Maarui Kanojo to Zannen na Kareshi"
             }
         }
     ]
