@@ -1,5 +1,5 @@
 {
-    "__version__": 91,
+    "__version__": 92,
     "data": [
         {
             "id": 21,
@@ -325,7 +325,7 @@
             "id": 141913,
             "idMal": 58476,
             "nextAiringEpisode": {
-                "airingAt": 1719284400
+                "airingAt": 1719889200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141913-pLkhRAMBr9zU.jpg",
@@ -469,7 +469,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1719280800
+                "airingAt": 1719626400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -527,22 +527,6 @@
                 "userPreferred": "Sentai Daishikkaku",
                 "native": "\u6226\u968a\u5927\u5931\u683c",
                 "romaji": "Sentai Daishikkaku"
-            }
-        },
-        {
-            "id": 158709,
-            "idMal": 53835,
-            "nextAiringEpisode": {
-                "airingAt": 1719325800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158709-WFA0RHloDvPl.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158709-WFA0RHloDvPl.jpg"
-            },
-            "title": {
-                "userPreferred": "Unnamed Memory",
-                "native": "Unnamed Memory",
-                "romaji": "Unnamed Memory"
             }
         },
         {
@@ -674,22 +658,6 @@
             }
         },
         {
-            "id": 163141,
-            "idMal": 54859,
-            "nextAiringEpisode": {
-                "airingAt": 1719325800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163141-dWqdA3MOGtYz.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163141-dWqdA3MOGtYz.png"
-            },
-            "title": {
-                "userPreferred": "Rinkai!",
-                "native": "\u30ea\u30f3\u30ab\u30a4\uff01",
-                "romaji": "Rinkai!"
-            }
-        },
-        {
             "id": 163270,
             "idMal": 54900,
             "nextAiringEpisode": {
@@ -757,7 +725,7 @@
             "id": 166219,
             "idMal": 56524,
             "nextAiringEpisode": {
-                "airingAt": 1719280800
+                "airingAt": 1719885600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166219-tREIb5l5huVe.png",
@@ -821,7 +789,7 @@
             "id": 167927,
             "idMal": 56165,
             "nextAiringEpisode": {
-                "airingAt": 1719327600
+                "airingAt": 1719932400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167927-eHWavr99BeTj.png",
@@ -1029,7 +997,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1719353220
+                "airingAt": 1719958020
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1071,6 +1039,38 @@
                 "userPreferred": "Yozakura-san Chi no Mini Sakusen",
                 "native": "\u591c\u685c\u3055\u3093\u3061\u306e\u30df\u30cb\u4f5c\u6226",
                 "romaji": "Yozakura-san Chi no Mini Sakusen"
+            }
+        },
+        {
+            "id": 177007,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1724770800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177007-YB4zktI7LqU5.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177007-YB4zktI7LqU5.png"
+            },
+            "title": {
+                "userPreferred": "Yuru Camp\u25b3 SEASON 3 OVA",
+                "native": "\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON\uff13OVA",
+                "romaji": "Yuru Camp\u25b3 SEASON 3 OVA"
+            }
+        },
+        {
+            "id": 177008,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1722351600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177008-o3yj8SmzROYv.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177008-o3yj8SmzROYv.png"
+            },
+            "title": {
+                "userPreferred": "Hibike! Euphonium 3: Extra Episodes",
+                "native": "\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13Extra Episode",
+                "romaji": "Hibike! Euphonium 3: Extra Episodes"
             }
         },
         {
@@ -1141,7 +1141,7 @@
             "id": 178351,
             "idMal": 58744,
             "nextAiringEpisode": {
-                "airingAt": 1719280800
+                "airingAt": 1719885600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178351-Cix3or7XuzgQ.jpg",
