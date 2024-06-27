@@ -1,5 +1,5 @@
 {
-    "__version__": 92,
+    "__version__": 93,
     "data": [
         {
             "id": 21,
@@ -277,7 +277,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1719367200
+                "airingAt": 1719972000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -418,22 +418,6 @@
             }
         },
         {
-            "id": 151380,
-            "idMal": 52196,
-            "nextAiringEpisode": {
-                "airingAt": 1719412200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151380-gvN5PjrybTw2.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg"
-            },
-            "title": {
-                "userPreferred": "Date A Live V",
-                "native": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6V",
-                "romaji": "Date A Live V"
-            }
-        },
-        {
             "id": 153288,
             "idMal": 52588,
             "nextAiringEpisode": {
@@ -453,7 +437,7 @@
             "id": 153493,
             "idMal": 56157,
             "nextAiringEpisode": {
-                "airingAt": 1719367200
+                "airingAt": 1719972000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153493-fOohrWTD6pGt.jpg",
@@ -562,22 +546,6 @@
             }
         },
         {
-            "id": 159039,
-            "idMal": 53912,
-            "nextAiringEpisode": {
-                "airingAt": 1719403200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159039-88kPltmhTzqU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159039-88kPltmhTzqU.jpg"
-            },
-            "title": {
-                "userPreferred": "Seiyuu Radio no Uraomote",
-                "native": "\u58f0\u512a\u30e9\u30b8\u30aa\u306e\u30a6\u30e9\u30aa\u30e2\u30c6",
-                "romaji": "Seiyuu Radio no Uraomote"
-            }
-        },
-        {
             "id": 159560,
             "idMal": 54040,
             "nextAiringEpisode": {
@@ -591,22 +559,6 @@
                 "userPreferred": "Tousouchuu: Great Mission",
                 "native": "\u9003\u8d70\u4e2d \u30b0\u30ec\u30fc\u30c8\u30df\u30c3\u30b7\u30e7\u30f3",
                 "romaji": "Tousouchuu: Great Mission"
-            }
-        },
-        {
-            "id": 160090,
-            "idMal": 54199,
-            "nextAiringEpisode": {
-                "airingAt": 1719408600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160090-EHP57CniSa7I.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160090-EHP57CniSa7I.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaii to Otome to Kamikakushi",
-                "native": "\u602a\u7570\u3068\u4e59\u5973\u3068\u795e\u96a0\u3057",
-                "romaji": "Kaii to Otome to Kamikakushi"
             }
         },
         {
@@ -751,6 +703,22 @@
                 "userPreferred": "Kimetsu no Yaiba: Hashira Geiko-hen",
                 "native": "\u9b3c\u6ec5\u306e\u5203 \u67f1\u7a3d\u53e4\u7de8",
                 "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen"
+            }
+        },
+        {
+            "id": 166710,
+            "idMal": 55848,
+            "nextAiringEpisode": {
+                "airingAt": 1720018800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166710-3G2croXhaCOm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg"
+            },
+            "title": {
+                "userPreferred": "Isekai Suicide Squad",
+                "native": "\u7570\u4e16\u754c\u30b9\u30fc\u30b5\u30a4\u30c9\u30fb\u30b9\u30af\u30ef\u30c3\u30c9",
+                "romaji": "Isekai Suicide Squad"
             }
         },
         {
@@ -978,19 +946,19 @@
             }
         },
         {
-            "id": 174653,
-            "idMal": 58080,
+            "id": 173584,
+            "idMal": 57876,
             "nextAiringEpisode": {
-                "airingAt": 1719417300
+                "airingAt": 1720013400
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174653-OsnK4BuENjUT.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174653-OsnK4BuENjUT.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173584-nyZElmr8218W.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
             },
             "title": {
-                "userPreferred": "Kenka Dokugaku",
-                "native": "\u55a7\u5629\u72ec\u5b66",
-                "romaji": "Kenka Dokugaku"
+                "userPreferred": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+                "native": "\u9b54\u738b\u8ecd\u6700\u5f37\u306e\u9b54\u8853\u5e2b\u306f\u4eba\u9593\u3060\u3063\u305f",
+                "romaji": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
             }
         },
         {
