@@ -1,5 +1,5 @@
 {
-    "__version__": 98,
+    "__version__": 99,
     "data": [
         {
             "id": 21,
@@ -306,22 +306,6 @@
             }
         },
         {
-            "id": 141913,
-            "idMal": 58476,
-            "nextAiringEpisode": {
-                "airingAt": 1719889200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141913-pLkhRAMBr9zU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141913-pLkhRAMBr9zU.jpg"
-            },
-            "title": {
-                "userPreferred": "Fanpai Chushihua",
-                "native": "\u53cd\u6d3e\u521d\u59cb\u5316",
-                "romaji": "Fanpai Chushihua"
-            }
-        },
-        {
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
@@ -389,7 +373,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1719885600
+                "airingAt": 1720231200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -533,7 +517,7 @@
             "id": 166219,
             "idMal": 56524,
             "nextAiringEpisode": {
-                "airingAt": 1719885600
+                "airingAt": 1720490400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166219-tREIb5l5huVe.png",
@@ -575,22 +559,6 @@
                 "userPreferred": "The Fable",
                 "native": "\u30b6\u30fb\u30d5\u30a1\u30d6\u30eb",
                 "romaji": "The Fable"
-            }
-        },
-        {
-            "id": 167927,
-            "idMal": 56165,
-            "nextAiringEpisode": {
-                "airingAt": 1719932400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167927-eHWavr99BeTj.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167927-eHWavr99BeTj.png"
-            },
-            "title": {
-                "userPreferred": "Boukyaku Battery (TV)",
-                "native": "\u5fd8\u5374\u30d0\u30c3\u30c6\u30ea\u30fc (TV)",
-                "romaji": "Boukyaku Battery (TV)"
             }
         },
         {
@@ -818,6 +786,22 @@
             }
         },
         {
+            "id": 174070,
+            "idMal": 57945,
+            "nextAiringEpisode": {
+                "airingAt": 1720544340
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg"
+            },
+            "title": {
+                "userPreferred": "Tasuuketsu",
+                "native": "\u591a\u6570\u6b20",
+                "romaji": "Tasuuketsu"
+            }
+        },
+        {
             "id": 175450,
             "idMal": 58272,
             "nextAiringEpisode": {
@@ -837,7 +821,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1719958020
+                "airingAt": 1720562820
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -883,7 +867,7 @@
         },
         {
             "id": 177008,
-            "idMal": null,
+            "idMal": 58856,
             "nextAiringEpisode": {
                 "airingAt": 1722351600
             },
@@ -965,7 +949,7 @@
             "id": 178351,
             "idMal": 58744,
             "nextAiringEpisode": {
-                "airingAt": 1719885600
+                "airingAt": 1720490400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178351-Cix3or7XuzgQ.jpg",
