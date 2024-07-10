@@ -1,5 +1,5 @@
 {
-    "__version__": 105,
+    "__version__": 106,
     "data": [
         {
             "id": 21,
@@ -370,6 +370,22 @@
             }
         },
         {
+            "id": 152137,
+            "idMal": 52367,
+            "nextAiringEpisode": {
+                "airingAt": 1721140200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152137-DOCIkAiaWALu.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+            },
+            "title": {
+                "userPreferred": "Isekai Shikkaku",
+                "native": "\u7570\u4e16\u754c\u5931\u683c",
+                "romaji": "Isekai Shikkaku"
+            }
+        },
+        {
             "id": 152681,
             "idMal": 52481,
             "nextAiringEpisode": {
@@ -421,7 +437,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1720490400
+                "airingAt": 1720836000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -725,7 +741,7 @@
             "id": 166219,
             "idMal": 56524,
             "nextAiringEpisode": {
-                "airingAt": 1720490400
+                "airingAt": 1721095200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166219-tREIb5l5huVe.png",
@@ -959,6 +975,22 @@
                 "userPreferred": "Na-Nare Hana-Nare",
                 "native": "\u83dc\u306a\u308c\u82b1\u306a\u308c",
                 "romaji": "Na-Nare Hana-Nare"
+            }
+        },
+        {
+            "id": 170938,
+            "idMal": 57217,
+            "nextAiringEpisode": {
+                "airingAt": 1721137500
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170938-kkeDCKGSUNaV.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170938-kkeDCKGSUNaV.jpg"
+            },
+            "title": {
+                "userPreferred": "Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.",
+                "native": "\u304b\u3064\u3066\u9b54\u6cd5\u5c11\u5973\u3068\u60aa\u306f\u6575\u5bfe\u3057\u3066\u3044\u305f\u3002",
+                "romaji": "Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita."
             }
         },
         {
@@ -1253,7 +1285,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1720544340
+                "airingAt": 1721149140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -1317,7 +1349,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1720562820
+                "airingAt": 1721167620
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1410,6 +1442,22 @@
             }
         },
         {
+            "id": 177097,
+            "idMal": 58926,
+            "nextAiringEpisode": {
+                "airingAt": 1721136600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177097-Tg5huoY2rqdF.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177097-Tg5huoY2rqdF.jpg"
+            },
+            "title": {
+                "userPreferred": "Egumi Legacy",
+                "native": "\u30a8\u30b0\u30df\u30ec\u30ac\u30b7\u30fc",
+                "romaji": "Egumi Legacy"
+            }
+        },
+        {
             "id": 177160,
             "idMal": null,
             "nextAiringEpisode": {
@@ -1461,7 +1509,7 @@
             "id": 177879,
             "idMal": 58985,
             "nextAiringEpisode": {
-                "airingAt": 1720900500
+                "airingAt": 1720947300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177879-IwqLLxo8cpHa.jpg",
@@ -1493,7 +1541,7 @@
             "id": 178351,
             "idMal": 58744,
             "nextAiringEpisode": {
-                "airingAt": 1720490400
+                "airingAt": 1721095200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178351-Cix3or7XuzgQ.jpg",
