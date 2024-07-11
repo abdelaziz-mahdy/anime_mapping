@@ -1,5 +1,5 @@
 {
-    "__version__": 106,
+    "__version__": 107,
     "data": [
         {
             "id": 21,
@@ -261,7 +261,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1720576800
+                "airingAt": 1721181600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -303,6 +303,22 @@
                 "userPreferred": "FAIRY TAIL: 100 YEARS QUEST",
                 "native": "FAIRY TAIL 100 YEARS QUEST",
                 "romaji": "FAIRY TAIL: 100 YEARS QUEST"
+            }
+        },
+        {
+            "id": 139825,
+            "idMal": 49981,
+            "nextAiringEpisode": {
+                "airingAt": 1721223000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139825-rFlrzdRZmlYK.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg"
+            },
+            "title": {
+                "userPreferred": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+                "native": "\u30ad\u30df\u3068\u50d5\u306e\u6700\u5f8c\u306e\u6226\u5834\u3001\u3042\u308b\u3044\u306f\u4e16\u754c\u304c\u59cb\u307e\u308b\u8056\u6226 Season II",
+                "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II"
             }
         },
         {
@@ -415,22 +431,6 @@
                 "userPreferred": "Kami no Tou: Tower of God 2nd SEASON",
                 "native": "\u795e\u4e4b\u5854 -Tower of God- 2nd SEASON",
                 "romaji": "Kami no Tou: Tower of God 2nd SEASON"
-            }
-        },
-        {
-            "id": 153493,
-            "idMal": 56157,
-            "nextAiringEpisode": {
-                "airingAt": 1720576800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153493-fOohrWTD6pGt.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153493-fOohrWTD6pGt.jpg"
-            },
-            "title": {
-                "userPreferred": "Xi Xing Ji: Nian Fan",
-                "native": "\u897f\u884c\u7eaa \u5e74\u756a",
-                "romaji": "Xi Xing Ji: Nian Fan"
             }
         },
         {
@@ -597,7 +597,7 @@
             "id": 162804,
             "idMal": 54744,
             "nextAiringEpisode": {
-                "airingAt": 1720621800
+                "airingAt": 1721226600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg",
@@ -773,7 +773,7 @@
             "id": 166531,
             "idMal": 55791,
             "nextAiringEpisode": {
-                "airingAt": 1720620000
+                "airingAt": 1721224800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166531-dAL5MsqDHUkj.jpg",
@@ -834,6 +834,22 @@
             }
         },
         {
+            "id": 167144,
+            "idMal": 55996,
+            "nextAiringEpisode": {
+                "airingAt": 1721223000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167144-tKDxH7M9z1Hb.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167144-tKDxH7M9z1Hb.png"
+            },
+            "title": {
+                "userPreferred": "Koi wa Futago de Warikirenai",
+                "native": "\u604b\u306f\u53cc\u5b50\u3067\u5272\u308a\u5207\u308c\u306a\u3044",
+                "romaji": "Koi wa Futago de Warikirenai"
+            }
+        },
+        {
             "id": 167420,
             "idMal": 56063,
             "nextAiringEpisode": {
@@ -863,6 +879,22 @@
                 "userPreferred": "Wanmei Shijie 4",
                 "native": "\u5b8c\u7f8e\u4e16\u754c \u7b2c4\u5b63",
                 "romaji": "Wanmei Shijie 4"
+            }
+        },
+        {
+            "id": 168163,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1720922400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168163-TiHA6iTauYZ0.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168163-TiHA6iTauYZ0.jpg"
+            },
+            "title": {
+                "userPreferred": "Dou Po Cangqiong: Nian Fan 2",
+                "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a2",
+                "romaji": "Dou Po Cangqiong: Nian Fan 2"
             }
         },
         {
@@ -1237,7 +1269,7 @@
             "id": 173584,
             "idMal": 57876,
             "nextAiringEpisode": {
-                "airingAt": 1720618200
+                "airingAt": 1721223000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173584-nyZElmr8218W.jpg",
@@ -1365,7 +1397,7 @@
             "id": 175977,
             "idMal": 58426,
             "nextAiringEpisode": {
-                "airingAt": 1720621800
+                "airingAt": 1721226600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175977-miHFASI6TXHH.jpg",
