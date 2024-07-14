@@ -1,11 +1,11 @@
 {
-    "__version__": 109,
+    "__version__": 110,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1720917000
+                "airingAt": 1721521800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-YCDoj1EkAxFn.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1720855800
+                "airingAt": 1721460600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -133,7 +133,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1720857600
+                "airingAt": 1721462400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
@@ -357,7 +357,7 @@
             "id": 142842,
             "idMal": 50607,
             "nextAiringEpisode": {
-                "airingAt": 1720909800
+                "airingAt": 1721514600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142842-sz1cRActqBe3.jpg",
@@ -428,16 +428,16 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
             },
             "title": {
-                "userPreferred": "Kami no Tou: Tower of God 2nd SEASON",
-                "native": "\u795e\u4e4b\u5854 -Tower of God- 2nd SEASON",
-                "romaji": "Kami no Tou: Tower of God 2nd SEASON"
+                "userPreferred": "Kami no Tou: Tower of God - Ouji no Kikan",
+                "native": "\u795e\u4e4b\u5854 -Tower of God- \u738b\u5b50\u306e\u5e30\u9084",
+                "romaji": "Kami no Tou: Tower of God - Ouji no Kikan"
             }
         },
         {
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1720836000
+                "airingAt": 1721095200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -466,10 +466,26 @@
             }
         },
         {
+            "id": 154963,
+            "idMal": 53128,
+            "nextAiringEpisode": {
+                "airingAt": 1721487600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154963-Ju6Ey3P5YHs2.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg"
+            },
+            "title": {
+                "userPreferred": "ATRI: My Dear Moments",
+                "native": "ATRI -My Dear Moments-",
+                "romaji": "ATRI: My Dear Moments"
+            }
+        },
+        {
             "id": 156062,
             "idMal": 57067,
             "nextAiringEpisode": {
-                "airingAt": 1720839600
+                "airingAt": 1721444400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156062-k53f18dT4HHr.jpg",
@@ -565,7 +581,7 @@
             "id": 159560,
             "idMal": 54040,
             "nextAiringEpisode": {
-                "airingAt": 1720915200
+                "airingAt": 1721520000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159560-SaH4QloCicfx.jpg",
@@ -629,7 +645,7 @@
             "id": 162896,
             "idMal": 54724,
             "nextAiringEpisode": {
-                "airingAt": 1720881000
+                "airingAt": 1721485800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162896-hSMTVceb50GY.jpg",
@@ -677,7 +693,7 @@
             "id": 163139,
             "idMal": 54789,
             "nextAiringEpisode": {
-                "airingAt": 1720859400
+                "airingAt": 1721464200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163139-JchZhUFlNTWU.jpg",
@@ -837,7 +853,7 @@
             "id": 166910,
             "idMal": 55911,
             "nextAiringEpisode": {
-                "airingAt": 1720886100
+                "airingAt": 1721490900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166910-pdgLmHMLdzUR.jpg",
@@ -863,6 +879,22 @@
                 "userPreferred": "Koi wa Futago de Warikirenai",
                 "native": "\u604b\u306f\u53cc\u5b50\u3067\u5272\u308a\u5207\u308c\u306a\u3044",
                 "romaji": "Koi wa Futago de Warikirenai"
+            }
+        },
+        {
+            "id": 167419,
+            "idMal": 56062,
+            "nextAiringEpisode": {
+                "airingAt": 1721482200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167419-yesWtncEBD9N.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg"
+            },
+            "title": {
+                "userPreferred": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+                "native": "\u306a\u305c\u50d5\u306e\u4e16\u754c\u3092\u8ab0\u3082\u899a\u3048\u3066\u3044\u306a\u3044\u306e\u304b\uff1f",
+                "romaji": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
             }
         },
         {
@@ -933,7 +965,7 @@
             "id": 168623,
             "idMal": 56449,
             "nextAiringEpisode": {
-                "airingAt": 1720872000
+                "airingAt": 1721476800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168623-30sdDCCLjsEW.jpg",
@@ -1061,7 +1093,7 @@
             "id": 171030,
             "idMal": 57390,
             "nextAiringEpisode": {
-                "airingAt": 1720913400
+                "airingAt": 1721518200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171030-U7zjkqv8pQFq.jpg",
@@ -1093,7 +1125,7 @@
             "id": 171080,
             "idMal": 57946,
             "nextAiringEpisode": {
-                "airingAt": 1720918800
+                "airingAt": 1721523600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171080-5d1bxwJRQ4vk.png",
@@ -1103,6 +1135,22 @@
                 "userPreferred": "Himitsu no AiPri",
                 "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea",
                 "romaji": "Himitsu no AiPri"
+            }
+        },
+        {
+            "id": 171457,
+            "idMal": 57524,
+            "nextAiringEpisode": {
+                "airingAt": 1721489400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171457-Z8tZRk7LhcZk.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
+            },
+            "title": {
+                "userPreferred": "Make Heroine ga Oosugiru!",
+                "native": "\u8ca0\u3051\u30d2\u30ed\u30a4\u30f3\u304c\u591a\u3059\u304e\u308b\uff01",
+                "romaji": "Make Heroine ga Oosugiru!"
             }
         },
         {
@@ -1141,7 +1189,7 @@
             "id": 172395,
             "idMal": 57798,
             "nextAiringEpisode": {
-                "airingAt": 1720913400
+                "airingAt": 1721518200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172395-TESU4M0kQ94c.jpg",
@@ -1157,7 +1205,7 @@
             "id": 172416,
             "idMal": 57646,
             "nextAiringEpisode": {
-                "airingAt": 1720875600
+                "airingAt": 1721480400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172416-RvQq9bWUxUWt.jpg",
@@ -1205,7 +1253,7 @@
             "id": 173295,
             "idMal": 57810,
             "nextAiringEpisode": {
-                "airingAt": 1720888200
+                "airingAt": 1721493000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173295-5DIOnrTYiF0a.jpg",
@@ -1237,7 +1285,7 @@
             "id": 173388,
             "idMal": 57845,
             "nextAiringEpisode": {
-                "airingAt": 1720888200
+                "airingAt": 1721493000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173388-iPHxsekSIFpg.png",
@@ -1269,7 +1317,7 @@
             "id": 173533,
             "idMal": 57864,
             "nextAiringEpisode": {
-                "airingAt": 1720875600
+                "airingAt": 1721480400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173533-0dZ2eV1Y0wQI.jpg",
@@ -1365,7 +1413,7 @@
             "id": 175450,
             "idMal": 58272,
             "nextAiringEpisode": {
-                "airingAt": 1720879200
+                "airingAt": 1721484000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175450-Wfjd6OqFOn2h.jpg",
@@ -1381,7 +1429,7 @@
             "id": 175868,
             "idMal": 58357,
             "nextAiringEpisode": {
-                "airingAt": 1720879200
+                "airingAt": 1721484000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175868-oSzeoiq8nAkj.jpg",
@@ -1439,6 +1487,22 @@
                 "userPreferred": "Harimaware! Koinu 2nd Season",
                 "native": "\u8cbc\u308a\u307e\u308f\u308c\uff01\u3053\u3044\u306c \u7b2c2\u671f",
                 "romaji": "Harimaware! Koinu 2nd Season"
+            }
+        },
+        {
+            "id": 176865,
+            "idMal": 59245,
+            "nextAiringEpisode": {
+                "airingAt": 1721440800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176865-vjwxAddTRzTC.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176865-vjwxAddTRzTC.jpg"
+            },
+            "title": {
+                "userPreferred": "Cang Yuan Tu 2",
+                "native": "\u6ca7\u5143\u56fe 2",
+                "romaji": "Cang Yuan Tu 2"
             }
         },
         {
@@ -1573,7 +1637,7 @@
             "id": 178067,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1720879200
+                "airingAt": 1722088800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178067-j2MvjB92scZL.jpg",
@@ -1605,7 +1669,7 @@
             "id": 179212,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1720882800
+                "airingAt": 1721487600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179212-DaKIRlCFhPC5.png",
@@ -1615,6 +1679,22 @@
                 "userPreferred": "Naoe-kun wa Yasesasetai.",
                 "native": "\u76f4\u6c5f\u304f\u3093\u306f\u75e9\u305b\u3055\u305b\u305f\u3044\u3002",
                 "romaji": "Naoe-kun wa Yasesasetai."
+            }
+        },
+        {
+            "id": 179408,
+            "idMal": 58944,
+            "nextAiringEpisode": {
+                "airingAt": 1721428500
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179408-Xr7bnqL2aGfw.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179408-Xr7bnqL2aGfw.png"
+            },
+            "title": {
+                "userPreferred": "JOCHUM",
+                "native": "JOCHUM",
+                "romaji": "JOCHUM"
             }
         }
     ]
