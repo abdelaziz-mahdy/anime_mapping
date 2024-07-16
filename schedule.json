@@ -1,5 +1,5 @@
 {
-    "__version__": 111,
+    "__version__": 112,
     "data": [
         {
             "id": 21,
@@ -245,7 +245,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1721008800
+                "airingAt": 1721613600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -373,7 +373,7 @@
             "id": 145728,
             "idMal": 51122,
             "nextAiringEpisode": {
-                "airingAt": 1721061000
+                "airingAt": 1721665800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145728-YUKXjN2E81Pq.jpg",
@@ -709,7 +709,7 @@
             "id": 163292,
             "idMal": 54913,
             "nextAiringEpisode": {
-                "airingAt": 1721062800
+                "airingAt": 1721667600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163292-1DkPP4r5UI9Y.jpg",
@@ -1157,7 +1157,7 @@
             "id": 171748,
             "idMal": 57567,
             "nextAiringEpisode": {
-                "airingAt": 1721055600
+                "airingAt": 1721660400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171748-yigmfmsgq6SR.jpg",
@@ -1365,7 +1365,7 @@
             "id": 174044,
             "idMal": 57947,
             "nextAiringEpisode": {
-                "airingAt": 1721050200
+                "airingAt": 1721655000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174044-HBvsyKjDVPyO.jpg",
@@ -1464,8 +1464,8 @@
                 "airingAt": 1721226600
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175977-miHFASI6TXHH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-miHFASI6TXHH.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175977-Pgrtv3p3ROe9.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg"
             },
             "title": {
                 "userPreferred": "Shikanoko Nokonoko Koshitantan",
@@ -1631,6 +1631,22 @@
                 "userPreferred": "0 Saiji Start Dash Monogatari",
                 "native": "0\u6b73\u5150\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u7269\u8a9e",
                 "romaji": "0 Saiji Start Dash Monogatari"
+            }
+        },
+        {
+            "id": 177922,
+            "idMal": 59010,
+            "nextAiringEpisode": {
+                "airingAt": 1721497800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177922-0o3zOw8QXYvE.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177922-0o3zOw8QXYvE.jpg"
+            },
+            "title": {
+                "userPreferred": "Yami Shibai 13",
+                "native": "\u95c7\u829d\u5c45 \u5341\u4e09\u671f",
+                "romaji": "Yami Shibai 13"
             }
         },
         {
