@@ -1,5 +1,5 @@
 {
-    "__version__": 125,
+    "__version__": 126,
     "data": [
         {
             "id": 21,
@@ -229,7 +229,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1722218400
+                "airingAt": 1722823200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -357,7 +357,7 @@
             "id": 145728,
             "idMal": 51122,
             "nextAiringEpisode": {
-                "airingAt": 1722270600
+                "airingAt": 1722875400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145728-YUKXjN2E81Pq.jpg",
@@ -373,7 +373,7 @@
             "id": 152137,
             "idMal": 52367,
             "nextAiringEpisode": {
-                "airingAt": 1722349800
+                "airingAt": 1722954600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152137-DOCIkAiaWALu.jpg",
@@ -421,7 +421,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1722304800
+                "airingAt": 1722650400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -693,7 +693,7 @@
             "id": 163292,
             "idMal": 54913,
             "nextAiringEpisode": {
-                "airingAt": 1722272400
+                "airingAt": 1722877200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163292-1DkPP4r5UI9Y.jpg",
@@ -751,22 +751,6 @@
                 "userPreferred": "Cardfight!! Vanguard: Divinez Season 2",
                 "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez Season2",
                 "romaji": "Cardfight!! Vanguard: Divinez Season 2"
-            }
-        },
-        {
-            "id": 166219,
-            "idMal": 56524,
-            "nextAiringEpisode": {
-                "airingAt": 1722304800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166219-tREIb5l5huVe.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166219-tREIb5l5huVe.png"
-            },
-            "title": {
-                "userPreferred": "Tunshi Xingkong 4",
-                "native": "\u541e\u566c\u661f\u7a7a \u7b2c\u56db\u5b63",
-                "romaji": "Tunshi Xingkong 4"
             }
         },
         {
@@ -997,7 +981,7 @@
             "id": 170938,
             "idMal": 57217,
             "nextAiringEpisode": {
-                "airingAt": 1722347100
+                "airingAt": 1722951900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170938-kkeDCKGSUNaV.jpg",
@@ -1093,7 +1077,7 @@
             "id": 171748,
             "idMal": 57567,
             "nextAiringEpisode": {
-                "airingAt": 1722265200
+                "airingAt": 1723474800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171748-yigmfmsgq6SR.jpg",
@@ -1285,7 +1269,7 @@
             "id": 174044,
             "idMal": 57947,
             "nextAiringEpisode": {
-                "airingAt": 1722259800
+                "airingAt": 1722864600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174044-HBvsyKjDVPyO.jpg",
@@ -1301,7 +1285,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1722358740
+                "airingAt": 1722963540
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -1365,7 +1349,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1722377220
+                "airingAt": 1722982020
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1477,7 +1461,7 @@
             "id": 177008,
             "idMal": 58856,
             "nextAiringEpisode": {
-                "airingAt": 1722351600
+                "airingAt": 1724770800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177008-o3yj8SmzROYv.png",
@@ -1493,7 +1477,7 @@
             "id": 177097,
             "idMal": 58926,
             "nextAiringEpisode": {
-                "airingAt": 1722346200
+                "airingAt": 1722951000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177097-Tg5huoY2rqdF.jpg",
@@ -1589,7 +1573,7 @@
             "id": 178351,
             "idMal": 58744,
             "nextAiringEpisode": {
-                "airingAt": 1722304800
+                "airingAt": 1722909600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178351-Cix3or7XuzgQ.jpg",
