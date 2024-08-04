@@ -1,5 +1,5 @@
 {
-    "__version__": 5339,
+    "__version__": 5340,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1145,7 +1145,7 @@
     "tsue-to-tsurugi-no-wistoria": 4,
     "kami-no-tou-ouji-no-kikan": 5,
     "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta": 5,
-    "na-nare-hana-nare": 4,
+    "na-nare-hana-nare": 5,
     "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu": 5,
     "kinnikuman-kanpeki-choujin-shiso-hen": 4,
     "mayonaka-punch": 4,
@@ -1187,5 +1187,6 @@
     "spy-x-family-movie-code-white": 1,
     "ultra-b": 3,
     "youkai-ningen-bem": 26,
-    "youkai-ningen-bem-2006": 1
+    "youkai-ningen-bem-2006": 1,
+    "super-zugan": 14
 }
