@@ -1,5 +1,5 @@
 {
-    "__version__": 131,
+    "__version__": 132,
     "data": [
         {
             "id": 21,
@@ -229,7 +229,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1722823200
+                "airingAt": 1723428000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -693,7 +693,7 @@
             "id": 163292,
             "idMal": 54913,
             "nextAiringEpisode": {
-                "airingAt": 1722877200
+                "airingAt": 1723482000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163292-1DkPP4r5UI9Y.jpg",
@@ -1285,7 +1285,7 @@
             "id": 174044,
             "idMal": 57947,
             "nextAiringEpisode": {
-                "airingAt": 1722864600
+                "airingAt": 1723469400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174044-HBvsyKjDVPyO.jpg",
@@ -1603,7 +1603,7 @@
         },
         {
             "id": 179954,
-            "idMal": null,
+            "idMal": 59148,
             "nextAiringEpisode": {
                 "airingAt": 1723223700
             },
@@ -1615,6 +1615,22 @@
                 "userPreferred": "Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho",
                 "native": "\u672a\u6765\u306e\u9ed2\u5e55\u7cfb\u60aa\u5f79\u4ee4\u5b22\u30e2\u30ea\u30a2\u30fc\u30c6\u30a3\u30fc\u306e\u7570\u4e16\u754c\u5b8c\u5168\u72af\u7f6a\u767d\u66f8",
                 "romaji": "Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho"
+            }
+        },
+        {
+            "id": 179991,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1722970800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png"
+            },
+            "title": {
+                "userPreferred": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2",
+                "native": "Fate/Grand Order \u85e4\u4e38\u7acb\u9999\u306f\u308f\u304b\u3089\u306a\u3044 Season2",
+                "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2"
             }
         }
     ]
