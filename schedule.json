@@ -1,5 +1,5 @@
 {
-    "__version__": 132,
+    "__version__": 133,
     "data": [
         {
             "id": 21,
@@ -290,22 +290,6 @@
             }
         },
         {
-            "id": 139825,
-            "idMal": 49981,
-            "nextAiringEpisode": {
-                "airingAt": 1723037400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139825-rFlrzdRZmlYK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg"
-            },
-            "title": {
-                "userPreferred": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
-                "native": "\u30ad\u30df\u3068\u50d5\u306e\u6700\u5f8c\u306e\u6226\u5834\u3001\u3042\u308b\u3044\u306f\u4e16\u754c\u304c\u59cb\u307e\u308b\u8056\u6226 Season II",
-                "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II"
-            }
-        },
-        {
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
@@ -373,7 +357,7 @@
             "id": 152137,
             "idMal": 52367,
             "nextAiringEpisode": {
-                "airingAt": 1722954600
+                "airingAt": 1723559400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152137-DOCIkAiaWALu.jpg",
@@ -383,6 +367,22 @@
                 "userPreferred": "Isekai Shikkaku",
                 "native": "\u7570\u4e16\u754c\u5931\u683c",
                 "romaji": "Isekai Shikkaku"
+            }
+        },
+        {
+            "id": 152184,
+            "idMal": 57192,
+            "nextAiringEpisode": {
+                "airingAt": 1723561200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152184-JnfzbmDYysqJ.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152184-JnfzbmDYysqJ.png"
+            },
+            "title": {
+                "userPreferred": "Yeosingangnim",
+                "native": "\uc5ec\uc2e0\uac15\ub9bc",
+                "romaji": "Yeosingangnim"
             }
         },
         {
@@ -421,7 +421,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1722909600
+                "airingAt": 1723255200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -677,7 +677,7 @@
             "id": 163139,
             "idMal": 54789,
             "nextAiringEpisode": {
-                "airingAt": 1723278600
+                "airingAt": 1723883400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163139-JchZhUFlNTWU.jpg",
@@ -997,7 +997,7 @@
             "id": 170938,
             "idMal": 57217,
             "nextAiringEpisode": {
-                "airingAt": 1722951900
+                "airingAt": 1723556700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170938-kkeDCKGSUNaV.jpg",
@@ -1365,7 +1365,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1722982020
+                "airingAt": 1723586820
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1477,7 +1477,7 @@
             "id": 177097,
             "idMal": 58926,
             "nextAiringEpisode": {
-                "airingAt": 1722951000
+                "airingAt": 1723555800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177097-Tg5huoY2rqdF.jpg",
@@ -1621,7 +1621,7 @@
             "id": 179991,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1722970800
+                "airingAt": 1723575600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png",
