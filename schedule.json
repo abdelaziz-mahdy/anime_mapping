@@ -1,5 +1,5 @@
 {
-    "__version__": 133,
+    "__version__": 134,
     "data": [
         {
             "id": 21,
@@ -245,7 +245,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1722996000
+                "airingAt": 1723600800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -373,7 +373,7 @@
             "id": 152184,
             "idMal": 57192,
             "nextAiringEpisode": {
-                "airingAt": 1723561200
+                "airingAt": 1723654800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152184-JnfzbmDYysqJ.png",
@@ -613,7 +613,7 @@
             "id": 162804,
             "idMal": 54744,
             "nextAiringEpisode": {
-                "airingAt": 1723041000
+                "airingAt": 1723645800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg",
@@ -773,7 +773,7 @@
             "id": 166531,
             "idMal": 55791,
             "nextAiringEpisode": {
-                "airingAt": 1723039200
+                "airingAt": 1723644000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166531-dAL5MsqDHUkj.jpg",
@@ -837,7 +837,7 @@
             "id": 167144,
             "idMal": 55996,
             "nextAiringEpisode": {
-                "airingAt": 1723041000
+                "airingAt": 1723645800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167144-tKDxH7M9z1Hb.png",
@@ -879,6 +879,22 @@
                 "userPreferred": "NieR:Automata Ver1.1a 2nd Season",
                 "native": "NieR:Automata Ver1.1a \u7b2c2\u671f",
                 "romaji": "NieR:Automata Ver1.1a 2nd Season"
+            }
+        },
+        {
+            "id": 167991,
+            "idMal": 56179,
+            "nextAiringEpisode": {
+                "airingAt": 1723649400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167991-uOu8ggPXzVUQ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167991-uOu8ggPXzVUQ.jpg"
+            },
+            "title": {
+                "userPreferred": "Delico's Nursery",
+                "native": "\u30c7\u30ea\u30b3\u30ba\u30fb\u30ca\u30fc\u30b5\u30ea\u30fc",
+                "romaji": "Delico's Nursery"
             }
         },
         {
@@ -1253,7 +1269,7 @@
             "id": 173584,
             "idMal": 57876,
             "nextAiringEpisode": {
-                "airingAt": 1723037400
+                "airingAt": 1723642200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173584-nyZElmr8218W.jpg",
@@ -1381,7 +1397,7 @@
             "id": 175977,
             "idMal": 58426,
             "nextAiringEpisode": {
-                "airingAt": 1723041000
+                "airingAt": 1723645800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175977-Pgrtv3p3ROe9.jpg",
@@ -1413,7 +1429,7 @@
             "id": 176660,
             "idMal": 58488,
             "nextAiringEpisode": {
-                "airingAt": 1723042800
+                "airingAt": 1723647600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
