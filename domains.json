@@ -1,4 +1,7 @@
 {
-    "__version__": 21,
-    "domains": []
+    "__version__": 22,
+    "domains": [
+        "https://gogoanime3.co",
+        "https://anitaku.pe"
+    ]
 }
