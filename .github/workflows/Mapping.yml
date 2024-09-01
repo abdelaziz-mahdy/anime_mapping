@@ -2,9 +2,9 @@ on:
   # schedule:
   #   - cron:  '0 16 * * 0'
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 name: mapping
 jobs:
   sync:
