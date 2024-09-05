@@ -1,5 +1,5 @@
 {
-    "__version__": 162,
+    "__version__": 163,
     "data": [
         {
             "id": 21,
@@ -245,7 +245,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1725415200
+                "airingAt": 1726020000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -402,6 +402,22 @@
             }
         },
         {
+            "id": 150930,
+            "idMal": 52080,
+            "nextAiringEpisode": {
+                "airingAt": 1726038000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150930-b4A2tGh7DMa9.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150930-b4A2tGh7DMa9.jpg"
+            },
+            "title": {
+                "userPreferred": "Murai no Koi",
+                "native": "\u6751\u4e95\u306e\u604b",
+                "romaji": "Murai no Koi"
+            }
+        },
+        {
             "id": 152137,
             "idMal": 52367,
             "nextAiringEpisode": {
@@ -421,7 +437,7 @@
             "id": 152184,
             "idMal": 57192,
             "nextAiringEpisode": {
-                "airingAt": 1725469200
+                "airingAt": 1726074000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152184-JnfzbmDYysqJ.png",
@@ -661,7 +677,7 @@
             "id": 162804,
             "idMal": 54744,
             "nextAiringEpisode": {
-                "airingAt": 1725460200
+                "airingAt": 1726065000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg",
@@ -869,7 +885,7 @@
             "id": 167144,
             "idMal": 55996,
             "nextAiringEpisode": {
-                "airingAt": 1725460200
+                "airingAt": 1726065000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167144-tKDxH7M9z1Hb.png",
@@ -917,7 +933,7 @@
             "id": 167991,
             "idMal": 56179,
             "nextAiringEpisode": {
-                "airingAt": 1725463800
+                "airingAt": 1726068600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167991-uOu8ggPXzVUQ.jpg",
@@ -1237,7 +1253,7 @@
             "id": 173313,
             "idMal": 57822,
             "nextAiringEpisode": {
-                "airingAt": 1725485400
+                "airingAt": 1728077400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173313-DirbTHTioULL.png",
@@ -1301,7 +1317,7 @@
             "id": 173584,
             "idMal": 57876,
             "nextAiringEpisode": {
-                "airingAt": 1725456600
+                "airingAt": 1726061400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173584-nyZElmr8218W.jpg",
@@ -1429,7 +1445,7 @@
             "id": 175977,
             "idMal": 58426,
             "nextAiringEpisode": {
-                "airingAt": 1725460200
+                "airingAt": 1726065000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175977-Pgrtv3p3ROe9.jpg",
@@ -1461,7 +1477,7 @@
             "id": 176660,
             "idMal": 58488,
             "nextAiringEpisode": {
-                "airingAt": 1725462000
+                "airingAt": 1726066800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
