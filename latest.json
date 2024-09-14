@@ -1,5 +1,5 @@
 {
-    "__version__": 5741,
+    "__version__": 5742,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1099,7 +1099,7 @@
     "kimitachi-wa-dou-ikiru-ka": 1,
     "maougun-saikyou-no-majutsushi-wa-ningen-datta": 12,
     "isekai-suicide-squad": 10,
-    "boku-no-tsuma-wa-kanjou-ga-nai": 11,
+    "boku-no-tsuma-wa-kanjou-ga-nai": 12,
     "gimai-seikatsu": 11,
     "shy-2nd-season": 10,
     "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru": 10,
@@ -1137,7 +1137,7 @@
     "madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life": 1,
     "mob-kara-hajimaru-tansaku-eiyuutan": 12,
     "monogatari-series-off-monster-season": 9,
-    "elf-san-wa-yaserarenai": 10,
+    "elf-san-wa-yaserarenai": 11,
     "nige-jouzu-no-wakagimi": 9.5,
     "tensui-no-sakuna-hime": 10,
     "shoushimin-series": 9,
@@ -1230,5 +1230,6 @@
     "michitekuru-toki-no-mukou-ni": 1,
     "yuusei-kamen": 13,
     "chikyuu-bouei-kazoku-special": 1,
-    "animal-1": 1
+    "animal-1": 1,
+    "pole-princess-movie": 1
 }
