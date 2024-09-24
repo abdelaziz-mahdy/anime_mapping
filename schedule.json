@@ -1,5 +1,5 @@
 {
-    "__version__": 181,
+    "__version__": 182,
     "data": [
         {
             "id": 21,
@@ -213,7 +213,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1727056800
+                "airingAt": 1727661600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -261,7 +261,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1727131200
+                "airingAt": 1727390400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -303,22 +303,6 @@
                 "userPreferred": "Yu\u2606Gi\u2606Oh! Go Rush!!",
                 "native": "\u904a\u2606\u622f\u2606\u738b\u30b4\u30fc\u30e9\u30c3\u30b7\u30e5!!",
                 "romaji": "Yu\u2606Gi\u2606Oh! Go Rush!!"
-            }
-        },
-        {
-            "id": 145728,
-            "idMal": 51122,
-            "nextAiringEpisode": {
-                "airingAt": 1727109000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145728-YUKXjN2E81Pq.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145728-YUKXjN2E81Pq.jpg"
-            },
-            "title": {
-                "userPreferred": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
-                "native": "\u72fc\u3068\u9999\u8f9b\u6599 MERCHANT MEETS THE WISE WOLF",
-                "romaji": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF"
             }
         },
         {
@@ -610,22 +594,6 @@
             }
         },
         {
-            "id": 163292,
-            "idMal": 54913,
-            "nextAiringEpisode": {
-                "airingAt": 1727111400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163292-1DkPP4r5UI9Y.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163292-1DkPP4r5UI9Y.jpg"
-            },
-            "title": {
-                "userPreferred": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
-                "native": "\u65b0\u7c73\u30aa\u30c3\u30b5\u30f3\u5192\u967a\u8005\u3001\u6700\u5f37\u30d1\u30fc\u30c6\u30a3\u306b\u6b7b\u306c\u307b\u3069\u935b\u3048\u3089\u308c\u3066\u7121\u6575\u306b\u306a\u308b\u3002",
-                "romaji": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru."
-            }
-        },
-        {
             "id": 165681,
             "idMal": 54143,
             "nextAiringEpisode": {
@@ -850,22 +818,6 @@
             }
         },
         {
-            "id": 171748,
-            "idMal": 57567,
-            "nextAiringEpisode": {
-                "airingAt": 1727104200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171748-yigmfmsgq6SR.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171748-yigmfmsgq6SR.jpg"
-            },
-            "title": {
-                "userPreferred": "SHY: Tokyo Dakkan-hen",
-                "native": "SHY \u6771\u4eac\u596a\u9084\u7de8 ",
-                "romaji": "SHY: Tokyo Dakkan-hen"
-            }
-        },
-        {
             "id": 172187,
             "idMal": 57614,
             "nextAiringEpisode": {
@@ -959,22 +911,6 @@
                 "userPreferred": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
                 "native": "\u30cf\u30ba\u30ec\u67a0\u306e\u3010\u72b6\u614b\u7570\u5e38\u30b9\u30ad\u30eb\u3011\u3067\u6700\u5f37\u306b\u306a\u3063\u305f\u4ffa\u304c\u3059\u3079\u3066\u3092\u8e42\u8e99\u3059\u308b\u307e\u3067",
                 "romaji": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made"
-            }
-        },
-        {
-            "id": 174044,
-            "idMal": 57947,
-            "nextAiringEpisode": {
-                "airingAt": 1727098200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174044-HBvsyKjDVPyO.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-HBvsyKjDVPyO.jpg"
-            },
-            "title": {
-                "userPreferred": "Mayonaka Punch",
-                "native": "\u771f\u591c\u4e2d\u3071\u3093\u30c1",
-                "romaji": "Mayonaka Punch"
             }
         },
         {
