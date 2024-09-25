@@ -1,5 +1,5 @@
 {
-    "__version__": 5832,
+    "__version__": 5833,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1246,5 +1246,7 @@
     "red-ash-gearworld": 1,
     "magic-knight-rayearth-pilot": 1,
     "ranma-nettou-uta-gassen": 2,
-    "princess-army-weddingcombat": 2
+    "princess-army-weddingcombat": 2,
+    "nijuushi-no-hitomi": 1,
+    "devadasy": 1.3
 }
