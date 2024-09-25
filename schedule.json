@@ -1,5 +1,5 @@
 {
-    "__version__": 182,
+    "__version__": 183,
     "data": [
         {
             "id": 21,
@@ -354,22 +354,6 @@
             }
         },
         {
-            "id": 152137,
-            "idMal": 52367,
-            "nextAiringEpisode": {
-                "airingAt": 1727188200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152137-DOCIkAiaWALu.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
-            },
-            "title": {
-                "userPreferred": "Isekai Shikkaku",
-                "native": "\u7570\u4e16\u754c\u5931\u683c",
-                "romaji": "Isekai Shikkaku"
-            }
-        },
-        {
             "id": 152184,
             "idMal": 57192,
             "nextAiringEpisode": {
@@ -389,7 +373,7 @@
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
-                "airingAt": 1727143200
+                "airingAt": 1727488800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
@@ -594,6 +578,22 @@
             }
         },
         {
+            "id": 165159,
+            "idMal": 56566,
+            "nextAiringEpisode": {
+                "airingAt": 1727429100
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png"
+            },
+            "title": {
+                "userPreferred": "BEYBLADE X",
+                "native": "BEYBLADE X",
+                "romaji": "BEYBLADE X"
+            }
+        },
+        {
             "id": 165681,
             "idMal": 54143,
             "nextAiringEpisode": {
@@ -754,22 +754,6 @@
             }
         },
         {
-            "id": 170938,
-            "idMal": 57217,
-            "nextAiringEpisode": {
-                "airingAt": 1727185560
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170938-kkeDCKGSUNaV.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170938-kkeDCKGSUNaV.jpg"
-            },
-            "title": {
-                "userPreferred": "Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.",
-                "native": "\u304b\u3064\u3066\u9b54\u6cd5\u5c11\u5973\u3068\u60aa\u306f\u6575\u5bfe\u3057\u3066\u3044\u305f\u3002",
-                "romaji": "Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita."
-            }
-        },
-        {
             "id": 171030,
             "idMal": 57390,
             "nextAiringEpisode": {
@@ -917,7 +901,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1727197800
+                "airingAt": 1727802600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -965,7 +949,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1727215620
+                "airingAt": 1727820420
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1029,7 +1013,7 @@
             "id": 177008,
             "idMal": 58856,
             "nextAiringEpisode": {
-                "airingAt": 1727190000
+                "airingAt": 1730214000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177008-rAEmoVJkVBLH.jpg",
@@ -1039,22 +1023,6 @@
                 "userPreferred": "Hibike! Euphonium 3: Extra Episodes",
                 "native": "\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13Extra Episode",
                 "romaji": "Hibike! Euphonium 3: Extra Episodes"
-            }
-        },
-        {
-            "id": 177097,
-            "idMal": 58926,
-            "nextAiringEpisode": {
-                "airingAt": 1727184600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177097-Tg5huoY2rqdF.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177097-Tg5huoY2rqdF.jpg"
-            },
-            "title": {
-                "userPreferred": "Egumi Legacy",
-                "native": "\u30a8\u30b0\u30df\u30ec\u30ac\u30b7\u30fc",
-                "romaji": "Egumi Legacy"
             }
         },
         {
@@ -1109,7 +1077,7 @@
             "id": 179991,
             "idMal": 59465,
             "nextAiringEpisode": {
-                "airingAt": 1727204400
+                "airingAt": 1727809200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png",
