@@ -1,5 +1,5 @@
 {
-    "__version__": 183,
+    "__version__": 184,
     "data": [
         {
             "id": 21,
@@ -229,7 +229,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1727229600
+                "airingAt": 1727834400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -341,7 +341,7 @@
             "id": 150930,
             "idMal": 52080,
             "nextAiringEpisode": {
-                "airingAt": 1727247600
+                "airingAt": 1727852400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150930-b4A2tGh7DMa9.jpg",
@@ -357,7 +357,7 @@
             "id": 152184,
             "idMal": 57192,
             "nextAiringEpisode": {
-                "airingAt": 1727283600
+                "airingAt": 1727888400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152184-JnfzbmDYysqJ.png",
@@ -367,6 +367,22 @@
                 "userPreferred": "Yeosingangnim",
                 "native": "\uc5ec\uc2e0\uac15\ub9bc",
                 "romaji": "Yeosingangnim"
+            }
+        },
+        {
+            "id": 153406,
+            "idMal": 52635,
+            "nextAiringEpisode": {
+                "airingAt": 1727618400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153406-dU2RLKgMUF2U.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
+            },
+            "title": {
+                "userPreferred": "Kami no Tou: Tower of God - Ouji no Kikan",
+                "native": "\u795e\u4e4b\u5854 -Tower of God- \u738b\u5b50\u306e\u5e30\u9084",
+                "romaji": "Kami no Tou: Tower of God - Ouji no Kikan"
             }
         },
         {
@@ -613,7 +629,7 @@
             "id": 166531,
             "idMal": 55791,
             "nextAiringEpisode": {
-                "airingAt": 1727272800
+                "airingAt": 1727877600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166531-dAL5MsqDHUkj.jpg",
@@ -639,22 +655,6 @@
                 "userPreferred": "The Fable",
                 "native": "\u30b6\u30fb\u30d5\u30a1\u30d6\u30eb",
                 "romaji": "The Fable"
-            }
-        },
-        {
-            "id": 167144,
-            "idMal": 55996,
-            "nextAiringEpisode": {
-                "airingAt": 1727274600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167144-tKDxH7M9z1Hb.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167144-tKDxH7M9z1Hb.png"
-            },
-            "title": {
-                "userPreferred": "Koi wa Futago de Warikirenai",
-                "native": "\u604b\u306f\u53cc\u5b50\u3067\u5272\u308a\u5207\u308c\u306a\u3044",
-                "romaji": "Koi wa Futago de Warikirenai"
             }
         },
         {
