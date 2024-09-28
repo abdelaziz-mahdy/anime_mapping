@@ -1,5 +1,5 @@
 {
-    "__version__": 5861,
+    "__version__": 5862,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1136,7 +1136,7 @@
     "cardfight-vanguard-divinez-season-2": 11,
     "madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life": 1,
     "mob-kara-hajimaru-tansaku-eiyuutan": 12,
-    "monogatari-series-off-monster-season": 10,
+    "monogatari-series-off-monster-season": 11,
     "elf-san-wa-yaserarenai": 12,
     "nige-jouzu-no-wakagimi": 11,
     "tensui-no-sakuna-hime": 12,
@@ -1255,5 +1255,6 @@
     "ranma-akumu-shunmin-kou": 1,
     "ultraman-graffiti": 1,
     "hitoribocchi-no-isekai-kouryaku": 1,
-    "nemurenu-yoru-no-chiisana-ohanashi": 3
+    "nemurenu-yoru-no-chiisana-ohanashi": 3,
+    "maou-sama-retry-r": 1
 }
