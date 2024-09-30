@@ -1,5 +1,5 @@
 {
-    "__version__": 187,
+    "__version__": 188,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1727602200
+                "airingAt": 1728207000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1727646000
+                "airingAt": 1728250800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -101,7 +101,7 @@
             "id": 6149,
             "idMal": 6149,
             "nextAiringEpisode": {
-                "airingAt": 1727600400
+                "airingAt": 1728205200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
@@ -178,10 +178,26 @@
             }
         },
         {
+            "id": 111314,
+            "idMal": 40333,
+            "nextAiringEpisode": {
+                "airingAt": 1728189000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png"
+            },
+            "title": {
+                "userPreferred": "Uzumaki",
+                "native": "\u3046\u305a\u307e\u304d",
+                "romaji": "Uzumaki"
+            }
+        },
+        {
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1727600400
+                "airingAt": 1728205200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -255,6 +271,22 @@
                 "userPreferred": "Jian Lai",
                 "native": "\u5251\u6765",
                 "romaji": "Jian Lai"
+            }
+        },
+        {
+            "id": 139095,
+            "idMal": 49785,
+            "nextAiringEpisode": {
+                "airingAt": 1728203400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139095-xXcToL6L4vuv.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
+            },
+            "title": {
+                "userPreferred": "FAIRY TAIL: 100 YEARS QUEST",
+                "native": "FAIRY TAIL 100 YEARS QUEST",
+                "romaji": "FAIRY TAIL: 100 YEARS QUEST"
             }
         },
         {
@@ -370,22 +402,6 @@
             }
         },
         {
-            "id": 153406,
-            "idMal": 52635,
-            "nextAiringEpisode": {
-                "airingAt": 1727618400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153406-dU2RLKgMUF2U.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
-            },
-            "title": {
-                "userPreferred": "Kami no Tou: Tower of God 2nd Season",
-                "native": "\u795e\u4e4b\u5854 -Tower of God- \u7b2c2\u671f",
-                "romaji": "Kami no Tou: Tower of God 2nd Season"
-            }
-        },
-        {
             "id": 153777,
             "idMal": 52765,
             "nextAiringEpisode": {
@@ -469,7 +485,7 @@
             "id": 158898,
             "idMal": 53865,
             "nextAiringEpisode": {
-                "airingAt": 1727596800
+                "airingAt": 1728201600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png",
@@ -591,6 +607,22 @@
                 "userPreferred": "Maou-sama, Retry! R",
                 "native": "\u9b54\u738b\u69d8\u3001\u30ea\u30c8\u30e9\u30a4\uff01R",
                 "romaji": "Maou-sama, Retry! R"
+            }
+        },
+        {
+            "id": 169931,
+            "idMal": 56843,
+            "nextAiringEpisode": {
+                "airingAt": 1728232200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169931-tPgDEKaHNkFr.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg"
+            },
+            "title": {
+                "userPreferred": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                "native": "\u5408\u30b3\u30f3\u306b\u884c\u3063\u305f\u3089\u5973\u304c\u3044\u306a\u304b\u3063\u305f\u8a71",
+                "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi"
             }
         },
         {
@@ -738,19 +770,19 @@
             }
         },
         {
-            "id": 174576,
-            "idMal": 58059,
+            "id": 175019,
+            "idMal": 58172,
             "nextAiringEpisode": {
-                "airingAt": 1727595000
+                "airingAt": 1728225000
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174576-tpKcHG0eO6CS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175019-8lLRmHID5fMd.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg"
             },
             "title": {
-                "userPreferred": "Tsue to Tsurugi no Wistoria",
-                "native": "\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2",
-                "romaji": "Tsue to Tsurugi no Wistoria"
+                "userPreferred": "Nageki no Bourei ha Intai Shitai",
+                "native": "\u5606\u304d\u306e\u4ea1\u970a\u306f\u5f15\u9000\u3057\u305f\u3044 ",
+                "romaji": "Nageki no Bourei ha Intai Shitai"
             }
         },
         {
@@ -837,7 +869,7 @@
             "id": 177922,
             "idMal": 59010,
             "nextAiringEpisode": {
-                "airingAt": 1727632200
+                "airingAt": 1728237000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177922-0o3zOw8QXYvE.jpg",
@@ -863,6 +895,22 @@
                 "userPreferred": "Girls' F1st!!!! GT",
                 "native": "\u30ac\u30fc\u30eb\u30ba\u30d5\u30a3\u30b9\u30c8!!!! GT",
                 "romaji": "Girls' F1st!!!! GT"
+            }
+        },
+        {
+            "id": 178434,
+            "idMal": 59131,
+            "nextAiringEpisode": {
+                "airingAt": 1728225000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178434-UtRCL4WqNcgv.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png"
+            },
+            "title": {
+                "userPreferred": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+                "native": "\u8ee2\u751f\u8cb4\u65cf\u3001\u9451\u5b9a\u30b9\u30ad\u30eb\u3067\u6210\u308a\u4e0a\u304c\u308b \u7b2c2\u671f",
+                "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season"
             }
         },
         {
@@ -895,6 +943,22 @@
                 "userPreferred": "Kankin Kuiki Level X",
                 "native": "\u76e3\u7981\u533a\u57df\u30ec\u30d9\u30ebX",
                 "romaji": "Kankin Kuiki Level X"
+            }
+        },
+        {
+            "id": 182301,
+            "idMal": 59881,
+            "nextAiringEpisode": {
+                "airingAt": 1728507000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182301-NLM4Tdc7y6nE.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182301-NLM4Tdc7y6nE.png"
+            },
+            "title": {
+                "userPreferred": "Wish Cat",
+                "native": "\uc704\uc2dc\ucea3",
+                "romaji": "Wish Cat"
             }
         }
     ]
