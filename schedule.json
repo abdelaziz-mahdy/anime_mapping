@@ -1,5 +1,5 @@
 {
-    "__version__": 189,
+    "__version__": 190,
     "data": [
         {
             "id": 21,
@@ -418,22 +418,6 @@
             }
         },
         {
-            "id": 153777,
-            "idMal": 52765,
-            "nextAiringEpisode": {
-                "airingAt": 1727748000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153777-FrjNCGMKjO9R.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153777-FrjNCGMKjO9R.png"
-            },
-            "title": {
-                "userPreferred": "Wan Jie Duzun 2",
-                "native": "\u4e07\u754c\u72ec\u5c0a \u7b2c\u4e8c\u5b63",
-                "romaji": "Wan Jie Duzun 2"
-            }
-        },
-        {
             "id": 154963,
             "idMal": 53128,
             "nextAiringEpisode": {
@@ -546,6 +530,22 @@
             }
         },
         {
+            "id": 164172,
+            "idMal": 55071,
+            "nextAiringEpisode": {
+                "airingAt": 1728399600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg"
+            },
+            "title": {
+                "userPreferred": "Amagami-san Chi no Enmusubi",
+                "native": "\u7518\u795e\u3055\u3093\u3061\u306e\u7e01\u7d50\u3073",
+                "romaji": "Amagami-san Chi no Enmusubi"
+            }
+        },
+        {
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
@@ -607,6 +607,22 @@
                 "userPreferred": "Delico's Nursery",
                 "native": "\u30c7\u30ea\u30b3\u30ba\u30fb\u30ca\u30fc\u30b5\u30ea\u30fc",
                 "romaji": "Delico's Nursery"
+            }
+        },
+        {
+            "id": 168139,
+            "idMal": 56228,
+            "nextAiringEpisode": {
+                "airingAt": 1728397800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168139-nGLXIdSksKCI.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
+            },
+            "title": {
+                "userPreferred": "Rekishi ni Nokoru Akujo ni Naruzo",
+                "native": "\u6b74\u53f2\u306b\u6b8b\u308b\u60aa\u5973\u306b\u306a\u308b\u305e",
+                "romaji": "Rekishi ni Nokoru Akujo ni Naruzo"
             }
         },
         {
@@ -770,22 +786,6 @@
             }
         },
         {
-            "id": 174070,
-            "idMal": 57945,
-            "nextAiringEpisode": {
-                "airingAt": 1727802600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg"
-            },
-            "title": {
-                "userPreferred": "Tasuuketsu",
-                "native": "\u591a\u6570\u6b20",
-                "romaji": "Tasuuketsu"
-            }
-        },
-        {
             "id": 175019,
             "idMal": 58172,
             "nextAiringEpisode": {
@@ -796,16 +796,16 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg"
             },
             "title": {
-                "userPreferred": "Nageki no Bourei ha Intai Shitai",
+                "userPreferred": "Nageki no Bourei wa Intai Shitai",
                 "native": "\u5606\u304d\u306e\u4ea1\u970a\u306f\u5f15\u9000\u3057\u305f\u3044 ",
-                "romaji": "Nageki no Bourei ha Intai Shitai"
+                "romaji": "Nageki no Bourei wa Intai Shitai"
             }
         },
         {
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1727820420
+                "airingAt": 1728425220
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -949,7 +949,7 @@
             "id": 179991,
             "idMal": 59465,
             "nextAiringEpisode": {
-                "airingAt": 1727809200
+                "airingAt": 1728414000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png",
@@ -997,7 +997,7 @@
             "id": 182386,
             "idMal": 59944,
             "nextAiringEpisode": {
-                "airingAt": 1727794800
+                "airingAt": 1728399600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182386-wG1FmJmd3LqK.png",
