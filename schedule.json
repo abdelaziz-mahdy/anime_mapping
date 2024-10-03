@@ -1,5 +1,5 @@
 {
-    "__version__": 190,
+    "__version__": 191,
     "data": [
         {
             "id": 21,
@@ -245,7 +245,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1727834400
+                "airingAt": 1728439200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -373,7 +373,7 @@
             "id": 150930,
             "idMal": 52080,
             "nextAiringEpisode": {
-                "airingAt": 1727852400
+                "airingAt": 1728457200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150930-b4A2tGh7DMa9.jpg",
@@ -389,7 +389,7 @@
             "id": 152184,
             "idMal": 57192,
             "nextAiringEpisode": {
-                "airingAt": 1727888400
+                "airingAt": 1728493200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152184-JnfzbmDYysqJ.png",
@@ -447,6 +447,22 @@
                 "userPreferred": "Fanren Xiu Xian Zhuan: Xinghai Feichi",
                 "native": "\u51e1\u4eba\u4fee\u4ed9\u4f20 \u661f\u6d77\u98de\u9a70",
                 "romaji": "Fanren Xiu Xian Zhuan: Xinghai Feichi"
+            }
+        },
+        {
+            "id": 157965,
+            "idMal": 53723,
+            "nextAiringEpisode": {
+                "airingAt": 1728478800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157965-YhogaZGde6tv.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157965-YhogaZGde6tv.jpg"
+            },
+            "title": {
+                "userPreferred": "Acro Trip",
+                "native": "\u30a2\u30af\u30ed\u30c8\u30ea\u30c3\u30d7",
+                "romaji": "Acro Trip"
             }
         },
         {
@@ -514,6 +530,22 @@
             }
         },
         {
+            "id": 163134,
+            "idMal": 54857,
+            "nextAiringEpisode": {
+                "airingAt": 1728476760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg"
+            },
+            "title": {
+                "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+                "native": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b 3rd season",
+                "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+            }
+        },
+        {
             "id": 163139,
             "idMal": 54789,
             "nextAiringEpisode": {
@@ -575,6 +607,22 @@
                 "userPreferred": "Cardfight!! Vanguard: Divinez Season 2",
                 "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez Season2",
                 "romaji": "Cardfight!! Vanguard: Divinez Season 2"
+            }
+        },
+        {
+            "id": 165810,
+            "idMal": 55570,
+            "nextAiringEpisode": {
+                "airingAt": 1728486000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165810-xEt3MeCRRRev.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-xEt3MeCRRRev.jpg"
+            },
+            "title": {
+                "userPreferred": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
+                "native": "\u65b0\u30c6\u30cb\u30b9\u306e\u738b\u5b50\u69d8 U-17 WORLD CUP SEMIFINAL",
+                "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL"
             }
         },
         {
@@ -703,6 +751,22 @@
                 "userPreferred": "Himitsu no AiPri",
                 "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea",
                 "romaji": "Himitsu no AiPri"
+            }
+        },
+        {
+            "id": 172199,
+            "idMal": 56967,
+            "nextAiringEpisode": {
+                "airingAt": 1728489360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172199-UC2KVjHyMDwI.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172199-UC2KVjHyMDwI.jpg"
+            },
+            "title": {
+                "userPreferred": "Kamierabi GOD.app Season 2",
+                "native": "\u30ab\u30df\u30a8\u30e9\u30d3 GOD.app \u30b7\u30fc\u30ba\u30f32",
+                "romaji": "Kamierabi GOD.app Season 2"
             }
         },
         {
@@ -1007,6 +1071,22 @@
                 "userPreferred": "POK\u00c9TOON (2024)",
                 "native": "POK\u00c9TOON (2024)",
                 "romaji": "POK\u00c9TOON (2024)"
+            }
+        },
+        {
+            "id": 182417,
+            "idMal": 60012,
+            "nextAiringEpisode": {
+                "airingAt": 1728486000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182417-zKlgy4KbGj1H.jpg"
+            },
+            "title": {
+                "userPreferred": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+                "native": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u4f11\u61a9\u6642\u9593(\u30d6\u30ec\u30a4\u30af\u30bf\u30a4\u30e0) 3rd Season",
+                "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season"
             }
         }
     ]
