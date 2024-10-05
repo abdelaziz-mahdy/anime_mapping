@@ -1,5 +1,5 @@
 {
-    "__version__": 192,
+    "__version__": 193,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1728006900
+                "airingAt": 1728611700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -149,7 +149,7 @@
             "id": 18941,
             "idMal": 18941,
             "nextAiringEpisode": {
-                "airingAt": 1728084600
+                "airingAt": 1728689400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18941.jpg",
@@ -165,7 +165,7 @@
             "id": 21552,
             "idMal": 32353,
             "nextAiringEpisode": {
-                "airingAt": 1728073320
+                "airingAt": 1728678120
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21552-MKlX4WRvlfjp.png",
@@ -175,6 +175,22 @@
                 "userPreferred": "BONOBONO (2016)",
                 "native": "\u307c\u306e\u307c\u306e (2016)",
                 "romaji": "BONOBONO (2016)"
+            }
+        },
+        {
+            "id": 107372,
+            "idMal": 58173,
+            "nextAiringEpisode": {
+                "airingAt": 1728665580
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107372-jRO0pY1kIRLl.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107372-jRO0pY1kIRLl.jpg"
+            },
+            "title": {
+                "userPreferred": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+                "native": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308c\u306a\u304b\u3063\u305f\u5973\u306e\u5b50\u306e\u8a71\u3002",
+                "romaji": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi."
             }
         },
         {
@@ -213,7 +229,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1728034800
+                "airingAt": 1728639600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -309,7 +325,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1728081000
+                "airingAt": 1728685800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -341,7 +357,7 @@
             "id": 146004,
             "idMal": 51768,
             "nextAiringEpisode": {
-                "airingAt": 1728036000
+                "airingAt": 1728640800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png",
@@ -357,7 +373,7 @@
             "id": 150103,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1728014400
+                "airingAt": 1728619200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150103-6rlFCeObUPlI.jpg",
@@ -485,7 +501,7 @@
             "id": 158559,
             "idMal": 53802,
             "nextAiringEpisode": {
-                "airingAt": 1728048600
+                "airingAt": 1728653400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158559-eVc9cNSmcUix.jpg",
@@ -578,6 +594,22 @@
             }
         },
         {
+            "id": 163146,
+            "idMal": 54865,
+            "nextAiringEpisode": {
+                "airingAt": 1728140400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-f2vYhmiGn6dM.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
+            },
+            "title": {
+                "userPreferred": "Blue Lock VS. U-20 JAPAN",
+                "native": "\u30d6\u30eb\u30fc\u30ed\u30c3\u30af VS. U-20 JAPAN",
+                "romaji": "Blue Lock VS. U-20 JAPAN"
+            }
+        },
+        {
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
@@ -597,7 +629,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1728033900
+                "airingAt": 1728638700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -613,7 +645,7 @@
             "id": 165681,
             "idMal": 54143,
             "nextAiringEpisode": {
-                "airingAt": 1728082800
+                "airingAt": 1728687600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165681-L45Ld92GVira.png",
@@ -671,6 +703,22 @@
                 "userPreferred": "[Oshi no Ko] 2nd Season",
                 "native": "\u3010\u63a8\u3057\u306e\u5b50\u3011\u7b2c2\u671f",
                 "romaji": "[Oshi no Ko] 2nd Season"
+            }
+        },
+        {
+            "id": 167141,
+            "idMal": 55994,
+            "nextAiringEpisode": {
+                "airingAt": 1728658800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167141-m8eOYiDpeN4R.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-m8eOYiDpeN4R.jpg"
+            },
+            "title": {
+                "userPreferred": "Sword Art Online Alternative: Gun Gale Online II",
+                "native": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6 \u30ac\u30f3\u30b2\u30a4\u30eb\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u2161",
+                "romaji": "Sword Art Online Alternative: Gun Gale Online II"
             }
         },
         {
@@ -789,7 +837,7 @@
             "id": 170732,
             "idMal": 57066,
             "nextAiringEpisode": {
-                "airingAt": 1728574200
+                "airingAt": 1728565200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170732-PwCMhnnOKdBu.jpg",
@@ -834,6 +882,22 @@
             }
         },
         {
+            "id": 171025,
+            "idMal": 57360,
+            "nextAiringEpisode": {
+                "airingAt": 1728655560
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171025-alBpVzKrgy1b.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171025-alBpVzKrgy1b.jpg"
+            },
+            "title": {
+                "userPreferred": "Kabushiki Gaisha Magi Lumiere",
+                "native": "\u682a\u5f0f\u4f1a\u793e\u30de\u30b8\u30eb\u30df\u30a8",
+                "romaji": "Kabushiki Gaisha Magi Lumiere"
+            }
+        },
+        {
             "id": 171030,
             "idMal": 57390,
             "nextAiringEpisode": {
@@ -863,6 +927,38 @@
                 "userPreferred": "Himitsu no AiPri",
                 "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea",
                 "romaji": "Himitsu no AiPri"
+            }
+        },
+        {
+            "id": 171637,
+            "idMal": 57554,
+            "nextAiringEpisode": {
+                "airingAt": 1728575760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png"
+            },
+            "title": {
+                "userPreferred": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+                "native": "\u308b\u308d\u3046\u306b\u5263\u5fc3 \uff0d\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a\uff0d\u4eac\u90fd\u52d5\u4e71",
+                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
+            }
+        },
+        {
+            "id": 171689,
+            "idMal": 57562,
+            "nextAiringEpisode": {
+                "airingAt": 1728651240
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171689-g58G2W9D5YiH.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171689-g58G2W9D5YiH.jpg"
+            },
+            "title": {
+                "userPreferred": "Hyakushou Kizoku 2nd Season",
+                "native": "\u767e\u59d3\u8cb4\u65cf \u7b2c2\u671f",
+                "romaji": "Hyakushou Kizoku 2nd Season"
             }
         },
         {
@@ -901,7 +997,7 @@
             "id": 173216,
             "idMal": 57538,
             "nextAiringEpisode": {
-                "airingAt": 1728079200
+                "airingAt": 1728684000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173216-gtERsAl4GB2j.png",
@@ -917,7 +1013,7 @@
             "id": 173263,
             "idMal": 57796,
             "nextAiringEpisode": {
-                "airingAt": 1728062580
+                "airingAt": 1728667380
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173263-c3geIX7XVEcH.jpg",
@@ -927,22 +1023,6 @@
                 "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku",
                 "native": "\u51cd\u724c\uff5e\u88cf\u30ec\u30fc\u30c8\u9ebb\u96c0\u95d8\u724c\u9332\uff5e",
                 "romaji": "Touhai: Ura Rate Mahjong Touhai Roku"
-            }
-        },
-        {
-            "id": 173313,
-            "idMal": 57822,
-            "nextAiringEpisode": {
-                "airingAt": 1728077400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173313-DirbTHTioULL.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173313-DirbTHTioULL.png"
-            },
-            "title": {
-                "userPreferred": "Atashin'chi NEXT",
-                "native": "\u3042\u305f\u3057\u30f3\u3061NEXT",
-                "romaji": "Atashin'chi NEXT"
             }
         },
         {
@@ -991,6 +1071,38 @@
                 "userPreferred": "Nageki no Bourei wa Intai Shitai",
                 "native": "\u5606\u304d\u306e\u4ea1\u970a\u306f\u5f15\u9000\u3057\u305f\u3044 ",
                 "romaji": "Nageki no Bourei wa Intai Shitai"
+            }
+        },
+        {
+            "id": 175473,
+            "idMal": 58275,
+            "nextAiringEpisode": {
+                "airingAt": 1728644400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175473-oaMqjL2stl4D.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175473-oaMqjL2stl4D.jpg"
+            },
+            "title": {
+                "userPreferred": "Duel Masters LOST:  Tsuioku no Suishou",
+                "native": "Duel Masters LOST \uff5e\u8ffd\u61b6\u306e\u6c34\u6676\uff5e",
+                "romaji": "Duel Masters LOST:  Tsuioku no Suishou"
+            }
+        },
+        {
+            "id": 175533,
+            "idMal": 58302,
+            "nextAiringEpisode": {
+                "airingAt": 1728663780
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175533-p3Oq5xfbYycS.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175533-p3Oq5xfbYycS.jpg"
+            },
+            "title": {
+                "userPreferred": "The iDOLM@STER: Shiny Colors 2nd season",
+                "native": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba 2nd season",
+                "romaji": "The iDOLM@STER: Shiny Colors 2nd season"
             }
         },
         {
@@ -1154,6 +1266,22 @@
             }
         },
         {
+            "id": 178395,
+            "idMal": 59123,
+            "nextAiringEpisode": {
+                "airingAt": 1728684000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178395-KrTKL6GTPgjd.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178395-KrTKL6GTPgjd.png"
+            },
+            "title": {
+                "userPreferred": "Kumarba Season 2",
+                "native": "\u30af\u30de\u30fc\u30d0\u30b7\u30fc\u30ba\u30f32",
+                "romaji": "Kumarba Season 2"
+            }
+        },
+        {
             "id": 178434,
             "idMal": 59131,
             "nextAiringEpisode": {
@@ -1167,6 +1295,22 @@
                 "userPreferred": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
                 "native": "\u8ee2\u751f\u8cb4\u65cf\u3001\u9451\u5b9a\u30b9\u30ad\u30eb\u3067\u6210\u308a\u4e0a\u304c\u308b \u7b2c2\u671f",
                 "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season"
+            }
+        },
+        {
+            "id": 178729,
+            "idMal": 59175,
+            "nextAiringEpisode": {
+                "airingAt": 1728694800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178729-Zo9MyiBE2sYp.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b178729-Zo9MyiBE2sYp.jpg"
+            },
+            "title": {
+                "userPreferred": "Ooi! Tonbo 2nd Season",
+                "native": "\u30aa\u30fc\u30a4! \u3068\u3093\u307c \u7b2c2\u671f",
+                "romaji": "Ooi! Tonbo 2nd Season"
             }
         },
         {
@@ -1205,7 +1349,7 @@
             "id": 180923,
             "idMal": 59505,
             "nextAiringEpisode": {
-                "airingAt": 1728060960
+                "airingAt": 1728665760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180923-6Rd1rrEgU6y0.jpg",
@@ -1215,6 +1359,22 @@
                 "userPreferred": "Kankin Kuiki Level X",
                 "native": "\u76e3\u7981\u533a\u57df\u30ec\u30d9\u30ebX",
                 "romaji": "Kankin Kuiki Level X"
+            }
+        },
+        {
+            "id": 181835,
+            "idMal": 59485,
+            "nextAiringEpisode": {
+                "airingAt": 1728684000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181835-OVS3M8qJ4Pkd.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181835-OVS3M8qJ4Pkd.png"
+            },
+            "title": {
+                "userPreferred": "Shibuya\u2661Hachi Part 2",
+                "native": "SHIBUYA\u2661HACHI \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Shibuya\u2661Hachi Part 2"
             }
         },
         {
