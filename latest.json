@@ -1,5 +1,5 @@
 {
-    "__version__": 5952,
+    "__version__": 5953,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -988,12 +988,12 @@
     "boku-no-hero-academia-memories": 4,
     "tonari-no-youkai-san": 13,
     "sentai-daishikkaku": 12,
-    "yozakura-san-chi-no-daisakusen": 26,
+    "yozakura-san-chi-no-daisakusen": 27,
     "shinigami-bocchan-to-kuro-maid-3rd-season": 12,
     "jiisan-baasan-wakagaeru": 11,
     "vampire-dormitory": 12,
     "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2": 12,
-    "shinkalion-change-the-world": 23,
+    "shinkalion-change-the-world": 24,
     "blue-archive-the-animation": 12,
     "tadaima-okaeri": 12,
     "himitsu-no-aipri": 25,
@@ -1141,7 +1141,7 @@
     "nige-jouzu-no-wakagimi": 12,
     "tensui-no-sakuna-hime": 13,
     "shoushimin-series": 10,
-    "fairy-tail-100-years-quest": 13,
+    "fairy-tail-100-years-quest": 13.5,
     "tsue-to-tsurugi-no-wistoria": 12,
     "kami-no-tou-ouji-no-kikan": 13,
     "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta": 12,
@@ -1348,5 +1348,6 @@
     "kimi-wa-meido-sama": 1,
     "kotetsu-no-daibouken": 2,
     "whats-michael-2": 1,
-    "punirunes-2": 1
+    "punirunes-2": 1,
+    "thunderbolt-fantasy-touriken-yuuki-4": 1
 }
