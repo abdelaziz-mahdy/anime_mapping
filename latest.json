@@ -1,5 +1,5 @@
 {
-    "__version__": 5994,
+    "__version__": 5995,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1303,7 +1303,7 @@
     "uji-ni-wa-monogatari-ga-aru": 1,
     "ryokunohara-labyrinth-sparkling-phantom": 1,
     "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored": 12,
-    "mecha-ude-tv": 1,
+    "mecha-ude-tv": 2,
     "sayounara-ryuusei-konnichiwa-jinsei": 1,
     "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran": 1,
     "trillion-game": 2,
@@ -1380,5 +1380,7 @@
     "kimagure-orangeroad-shounen-jump-special": 1,
     "ningyo-no-kizu": 1,
     "wasure-boshi": 1,
-    "karakuri-no-kimi": 1
+    "karakuri-no-kimi": 1,
+    "spacy": 1,
+    "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei": 4
 }
