@@ -1,5 +1,5 @@
 {
-    "__version__": 5998,
+    "__version__": 5999,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1383,5 +1383,6 @@
     "karakuri-no-kimi": 1,
     "spacy": 1,
     "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei": 4,
-    "kanashimi-no-belladonna": 1
+    "kanashimi-no-belladonna": 1,
+    "anemone": 1
 }
