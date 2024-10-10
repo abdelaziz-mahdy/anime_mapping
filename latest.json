@@ -1,5 +1,5 @@
 {
-    "__version__": 5999,
+    "__version__": 6000,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1384,5 +1384,6 @@
     "spacy": 1,
     "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei": 4,
     "kanashimi-no-belladonna": 1,
-    "anemone": 1
+    "anemone": 1,
+    "my-little-goat": 1
 }
