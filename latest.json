@@ -1,5 +1,5 @@
 {
-    "__version__": 6007,
+    "__version__": 6008,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1391,5 +1391,6 @@
     "yume-10-yoru": 1,
     "no-littering": 1,
     "candy-zip": 1,
-    "tomato-confit": 1
+    "tomato-confit": 1,
+    "sand-land": 1
 }
