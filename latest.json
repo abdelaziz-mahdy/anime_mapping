@@ -1,5 +1,5 @@
 {
-    "__version__": 6008,
+    "__version__": 6009,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1317,7 +1317,7 @@
     "haru-no-ashioto-the-movie-ourin-dakkan": 1,
     "bean-bandit": 1,
     "aoki-honoo": 1,
-    "kabushikigaisha-magi-lumiere": 1,
+    "kabushikigaisha-magi-lumiere": 2,
     "dokushin-apartment-dokudami-sou": 3,
     "blame-prologue": 2,
     "sword-art-online-alternative-gun-gale-online-ii": 1,
@@ -1392,5 +1392,6 @@
     "no-littering": 1,
     "candy-zip": 1,
     "tomato-confit": 1,
-    "sand-land": 1
+    "sand-land": 1,
+    "ihatov-gensou-kenji-no-haru": 1
 }
