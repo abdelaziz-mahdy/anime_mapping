@@ -1,5 +1,5 @@
 {
-    "__version__": 6010,
+    "__version__": 6011,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1320,7 +1320,7 @@
     "kabushikigaisha-magi-lumiere": 2,
     "dokushin-apartment-dokudami-sou": 3,
     "blame-prologue": 2,
-    "sword-art-online-alternative-gun-gale-online-ii": 1,
+    "sword-art-online-alternative-gun-gale-online-ii": 2,
     "delpower-x-bakuhatsu-miracle-genki": 1,
     "makaryuudo-demon-hunter": 1,
     "katte-ni-shirokuma": 1,
@@ -1394,5 +1394,6 @@
     "tomato-confit": 1,
     "sand-land": 1,
     "ihatov-gensou-kenji-no-haru": 1,
-    "mofumofuiction": 1
+    "mofumofuiction": 1,
+    "arara": 1
 }
