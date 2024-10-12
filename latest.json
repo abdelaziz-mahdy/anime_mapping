@@ -1,5 +1,5 @@
 {
-    "__version__": 6027,
+    "__version__": 6028,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1342,7 +1342,7 @@
     "blue-lock-vs-u-20-japan": 2,
     "bleach-sennen-kessen-hen-soukoku-tan": 2,
     "chi-chikyuu-no-undou-ni-tsuite": 3,
-    "ao-no-exorcist-yuki-no-hate-hen": 1,
+    "ao-no-exorcist-yuki-no-hate-hen": 2,
     "ranma-2024": 1,
     "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki": 1,
     "kimi-wa-meido-sama": 1,
@@ -1399,5 +1399,6 @@
     "mayonaka-punch-short-anime": 5,
     "dragon-ball-daima": 1,
     "artiswitch-rurus": 2,
-    "pop-pop-city": 1
+    "pop-pop-city": 1,
+    "maou-2099": 1
 }
