@@ -1,5 +1,5 @@
 {
-    "__version__": 6035,
+    "__version__": 6036,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1258,7 +1258,7 @@
     "nemurenu-yoru-no-chiisana-ohanashi": 3,
     "maou-sama-retry-r": 3,
     "one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log": 1,
-    "uzumaki": 2,
+    "uzumaki": 3,
     "genma-taisen": 1,
     "nakoruru-ano-hito-kara-no-okurimono": 1,
     "kitarou-tanjou-gegege-no-nazo": 1,
@@ -1402,5 +1402,6 @@
     "pop-pop-city": 1,
     "maou-2099": 1,
     "touhai-ura-rate-mahjong-touhai-roku": 1,
-    "god-of-learning": 1
+    "god-of-learning": 1,
+    "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season": 1
 }
