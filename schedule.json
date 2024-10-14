@@ -1,22 +1,6 @@
 {
-    "__version__": 201,
+    "__version__": 202,
     "data": [
-        {
-            "id": 21,
-            "idMal": 21,
-            "nextAiringEpisode": {
-                "airingAt": 1729384200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-YCDoj1EkAxFn.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
-            },
-            "title": {
-                "userPreferred": "ONE PIECE",
-                "native": "ONE PIECE",
-                "romaji": "ONE PIECE"
-            }
-        },
         {
             "id": 235,
             "idMal": 235,
@@ -69,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1728811800
+                "airingAt": 1729416600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +69,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1728855600
+                "airingAt": 1729460400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -101,7 +85,7 @@
             "id": 6149,
             "idMal": 6149,
             "nextAiringEpisode": {
-                "airingAt": 1728810000
+                "airingAt": 1729414800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
@@ -197,7 +181,7 @@
             "id": 111314,
             "idMal": 40333,
             "nextAiringEpisode": {
-                "airingAt": 1728793800
+                "airingAt": 1729398600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
@@ -213,7 +197,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1728810000
+                "airingAt": 1729414800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -293,7 +277,7 @@
             "id": 139095,
             "idMal": 49785,
             "nextAiringEpisode": {
-                "airingAt": 1728808200
+                "airingAt": 1729413000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139095-xXcToL6L4vuv.jpg",
@@ -453,7 +437,7 @@
             "id": 153406,
             "idMal": 52635,
             "nextAiringEpisode": {
-                "airingAt": 1728828000
+                "airingAt": 1729432800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153406-dU2RLKgMUF2U.jpg",
@@ -485,7 +469,7 @@
             "id": 155502,
             "idMal": 53287,
             "nextAiringEpisode": {
-                "airingAt": 1728806400
+                "airingAt": 1729411200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155502-8Dyh2np8o5GC.jpg",
@@ -581,7 +565,7 @@
             "id": 162785,
             "idMal": 54726,
             "nextAiringEpisode": {
-                "airingAt": 1728824400
+                "airingAt": 1729429200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162785-kqAuHBdvX283.jpg",
@@ -869,7 +853,7 @@
             "id": 169931,
             "idMal": 56843,
             "nextAiringEpisode": {
-                "airingAt": 1728837000
+                "airingAt": 1729441800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169931-tPgDEKaHNkFr.jpg",
@@ -1061,7 +1045,7 @@
             "id": 171400,
             "idMal": 57517,
             "nextAiringEpisode": {
-                "airingAt": 1728830760
+                "airingAt": 1729435560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171400-fbiXZGItjJtP.png",
@@ -1109,7 +1093,7 @@
             "id": 171642,
             "idMal": 57559,
             "nextAiringEpisode": {
-                "airingAt": 1728831600
+                "airingAt": 1729436400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171642-RyL10RY9uysQ.jpg",
@@ -1301,7 +1285,7 @@
             "id": 175019,
             "idMal": 58172,
             "nextAiringEpisode": {
-                "airingAt": 1728829800
+                "airingAt": 1729434600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175019-8lLRmHID5fMd.jpg",
@@ -1397,7 +1381,7 @@
             "id": 176292,
             "idMal": 58511,
             "nextAiringEpisode": {
-                "airingAt": 1728804600
+                "airingAt": 1729409400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176292-meJTWM8zQjjp.jpg",
@@ -1423,6 +1407,22 @@
                 "userPreferred": "Ao no Exorcist: Yuki no Hate-hen",
                 "native": "\u9752\u306e\u7953\u9b54\u5e2b \u96ea\u30ce\u679c\u7bc7",
                 "romaji": "Ao no Exorcist: Yuki no Hate-hen"
+            }
+        },
+        {
+            "id": 176508,
+            "idMal": 58572,
+            "nextAiringEpisode": {
+                "airingAt": 1729411200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-NHYHx5YJcU5i.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png"
+            },
+            "title": {
+                "userPreferred": "Shangri-La Frontier 2nd Season",
+                "native": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9\u30fb\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2 2nd season",
+                "romaji": "Shangri-La Frontier 2nd Season"
             }
         },
         {
@@ -1541,7 +1541,7 @@
             "id": 178434,
             "idMal": 59131,
             "nextAiringEpisode": {
-                "airingAt": 1728829800
+                "airingAt": 1729434600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178434-UtRCL4WqNcgv.png",
