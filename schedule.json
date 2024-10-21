@@ -1,11 +1,11 @@
 {
-    "__version__": 208,
+    "__version__": 209,
     "data": [
         {
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1729933200
+                "airingAt": 1730538000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-XucEZpR3CRaV.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1729416600
+                "airingAt": 1730021400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -69,7 +69,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1729460400
+                "airingAt": 1730065200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -85,7 +85,7 @@
             "id": 6149,
             "idMal": 6149,
             "nextAiringEpisode": {
-                "airingAt": 1729414800
+                "airingAt": 1730019600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
@@ -178,26 +178,10 @@
             }
         },
         {
-            "id": 111314,
-            "idMal": 40333,
-            "nextAiringEpisode": {
-                "airingAt": 1729398600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png"
-            },
-            "title": {
-                "userPreferred": "Uzumaki",
-                "native": "\u3046\u305a\u307e\u304d",
-                "romaji": "Uzumaki"
-            }
-        },
-        {
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1729414800
+                "airingAt": 1730019600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -277,7 +261,7 @@
             "id": 139095,
             "idMal": 49785,
             "nextAiringEpisode": {
-                "airingAt": 1729413000
+                "airingAt": 1730017800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139095-xXcToL6L4vuv.jpg",
@@ -421,7 +405,7 @@
             "id": 153406,
             "idMal": 52635,
             "nextAiringEpisode": {
-                "airingAt": 1729432800
+                "airingAt": 1730037600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153406-dU2RLKgMUF2U.jpg",
@@ -469,7 +453,7 @@
             "id": 155502,
             "idMal": 53287,
             "nextAiringEpisode": {
-                "airingAt": 1729411200
+                "airingAt": 1730016000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155502-8Dyh2np8o5GC.jpg",
@@ -549,7 +533,7 @@
             "id": 162785,
             "idMal": 54726,
             "nextAiringEpisode": {
-                "airingAt": 1729429200
+                "airingAt": 1730034000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162785-kqAuHBdvX283.jpg",
@@ -853,7 +837,7 @@
             "id": 169931,
             "idMal": 56843,
             "nextAiringEpisode": {
-                "airingAt": 1729441800
+                "airingAt": 1730046600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169931-tPgDEKaHNkFr.jpg",
@@ -1045,7 +1029,7 @@
             "id": 171400,
             "idMal": 57517,
             "nextAiringEpisode": {
-                "airingAt": 1729435560
+                "airingAt": 1730040360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171400-fbiXZGItjJtP.png",
@@ -1093,7 +1077,7 @@
             "id": 171642,
             "idMal": 57559,
             "nextAiringEpisode": {
-                "airingAt": 1729436400
+                "airingAt": 1730041200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171642-RyL10RY9uysQ.jpg",
@@ -1173,7 +1157,7 @@
             "id": 172395,
             "idMal": 57798,
             "nextAiringEpisode": {
-                "airingAt": 1729985400
+                "airingAt": 1730590200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172395-TESU4M0kQ94c.jpg",
@@ -1250,6 +1234,22 @@
             }
         },
         {
+            "id": 174070,
+            "idMal": 57945,
+            "nextAiringEpisode": {
+                "airingAt": 1729617900
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg"
+            },
+            "title": {
+                "userPreferred": "Tasuuketsu",
+                "native": "\u591a\u6570\u6b20",
+                "romaji": "Tasuuketsu"
+            }
+        },
+        {
             "id": 174390,
             "idMal": 57924,
             "nextAiringEpisode": {
@@ -1285,7 +1285,7 @@
             "id": 175019,
             "idMal": 58172,
             "nextAiringEpisode": {
-                "airingAt": 1729434600
+                "airingAt": 1730039400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175019-8lLRmHID5fMd.jpg",
@@ -1381,7 +1381,7 @@
             "id": 176292,
             "idMal": 58511,
             "nextAiringEpisode": {
-                "airingAt": 1729409400
+                "airingAt": 1730014200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176292-meJTWM8zQjjp.jpg",
@@ -1413,7 +1413,7 @@
             "id": 176508,
             "idMal": 58572,
             "nextAiringEpisode": {
-                "airingAt": 1729411200
+                "airingAt": 1730016000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-NHYHx5YJcU5i.png",
@@ -1541,7 +1541,7 @@
             "id": 178434,
             "idMal": 59131,
             "nextAiringEpisode": {
-                "airingAt": 1729434600
+                "airingAt": 1730039400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178434-UtRCL4WqNcgv.png",
@@ -1663,6 +1663,22 @@
                 "userPreferred": "Shibuya\u2661Hachi Part 2",
                 "native": "SHIBUYA\u2661HACHI \u7b2c2\u30af\u30fc\u30eb",
                 "romaji": "Shibuya\u2661Hachi Part 2"
+            }
+        },
+        {
+            "id": 182159,
+            "idMal": 59894,
+            "nextAiringEpisode": {
+                "airingAt": 1729760400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182159-hRd92GJxgLeq.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182159-hRd92GJxgLeq.png"
+            },
+            "title": {
+                "userPreferred": "Shooting Star Catch! Tiniping",
+                "native": "\uc288\ud305\uc2a4\ud0c0 \uce90\uce58! \ud2f0\ub2c8\ud551",
+                "romaji": "Shooting Star Catch! Tiniping"
             }
         },
         {
