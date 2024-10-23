@@ -1,5 +1,5 @@
 {
-    "__version__": 210,
+    "__version__": 211,
     "data": [
         {
             "id": 235,
@@ -597,7 +597,7 @@
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
-                "airingAt": 1729609200
+                "airingAt": 1730214000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
@@ -725,7 +725,7 @@
             "id": 168139,
             "idMal": 56228,
             "nextAiringEpisode": {
-                "airingAt": 1729607400
+                "airingAt": 1730212200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168139-nGLXIdSksKCI.jpg",
@@ -1045,7 +1045,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1729605600
+                "airingAt": 1730210400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -1237,7 +1237,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1729617900
+                "airingAt": 1730221140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -1333,7 +1333,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1729634820
+                "airingAt": 1730239620
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1439,22 +1439,6 @@
                 "userPreferred": "Sengoku Youko: Senma Konton-hen",
                 "native": "\u6226\u56fd\u5996\u72d0 \u5343\u9b54\u6df7\u6c8c\u7de8",
                 "romaji": "Sengoku Youko: Senma Konton-hen"
-            }
-        },
-        {
-            "id": 177007,
-            "idMal": 58855,
-            "nextAiringEpisode": {
-                "airingAt": 1729609200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177007-YB4zktI7LqU5.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177007-YB4zktI7LqU5.png"
-            },
-            "title": {
-                "userPreferred": "Yuru Camp\u25b3 SEASON 3 OVA",
-                "native": "\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON\uff13OVA",
-                "romaji": "Yuru Camp\u25b3 SEASON 3 OVA"
             }
         },
         {
@@ -1634,22 +1618,6 @@
             }
         },
         {
-            "id": 179991,
-            "idMal": 59465,
-            "nextAiringEpisode": {
-                "airingAt": 1729623600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179991-fn3cTANAc7xh.png"
-            },
-            "title": {
-                "userPreferred": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2",
-                "native": "Fate/Grand Order \u85e4\u4e38\u7acb\u9999\u306f\u308f\u304b\u3089\u306a\u3044 Season2",
-                "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2"
-            }
-        },
-        {
             "id": 181835,
             "idMal": 59485,
             "nextAiringEpisode": {
@@ -1733,7 +1701,7 @@
             "id": 182772,
             "idMal": 59732,
             "nextAiringEpisode": {
-                "airingAt": 1729614300
+                "airingAt": 1730219100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182772-eTZgs36WyIfF.png",
