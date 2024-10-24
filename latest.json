@@ -1,5 +1,5 @@
 {
-    "__version__": 6151,
+    "__version__": 6152,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1303,7 +1303,7 @@
     "uji-ni-wa-monogatari-ga-aru": 1,
     "ryokunohara-labyrinth-sparkling-phantom": 1,
     "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored": 12,
-    "mecha-ude-tv": 3,
+    "mecha-ude-tv": 4,
     "sayounara-ryuusei-konnichiwa-jinsei": 3,
     "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran": 3,
     "trillion-game": 4,
@@ -1469,5 +1469,8 @@
     "transformers-zone": 1,
     "lesson-xx": 1,
     "the-chocolate-panic-picture-show": 1,
-    "sakura-capsule": 1
+    "sakura-capsule": 1,
+    "quiz-magic-academy-the-original-animation-2": 1,
+    "quiz-magic-academy-the-original-animation": 1,
+    "dna-sights-999-9": 1
 }
