@@ -1,5 +1,5 @@
 {
-    "__version__": 6148,
+    "__version__": 6149,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1297,7 +1297,7 @@
     "kinoko-inu": 4,
     "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen": 4,
     "negaposi-angler": 4,
-    "kekkon-suru-tte-hontou-desu-ka": 3,
+    "kekkon-suru-tte-hontou-desu-ka": 4,
     "dandadan": 3,
     "ao-no-hako": 4,
     "uji-ni-wa-monogatari-ga-aru": 1,
@@ -1468,5 +1468,6 @@
     "tengai-makyou-ziria-oboro-hen": 2,
     "transformers-zone": 1,
     "lesson-xx": 1,
-    "the-chocolate-panic-picture-show": 1
+    "the-chocolate-panic-picture-show": 1,
+    "sakura-capsule": 1
 }
