@@ -1,5 +1,5 @@
 {
-    "__version__": 6274,
+    "__version__": 6275,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1504,5 +1504,7 @@
     "look-back": 1,
     "tentai-fu": 1,
     "tansui": 1,
-    "suisei": 1
+    "suisei": 1,
+    "shiroi-unabara": 1,
+    "wanna-bes": 1
 }
