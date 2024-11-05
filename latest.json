@@ -1,5 +1,5 @@
 {
-    "__version__": 6272,
+    "__version__": 6273,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -709,7 +709,7 @@
     "quan-zhi-ming": 6,
     "doraemon-movie-22-nobita-to-tsubasa-no-yuusha-tachi": 1,
     "doraemon-movie-boku-momotarou-no-nanna-no-sa": 1,
-    "youkaiden-nekome-kozou": 3,
+    "youkaiden-nekome-kozou": 6,
     "tensei-shitara-slime-datta-ken-coleus-no-yume": 3,
     "gegege-no-kitarou-1996": 13,
     "the-hakkenden-shin-shou": 7,
@@ -1496,5 +1496,10 @@
     "douwa-revenger": 1,
     "one-piece-gyojin-tou-hen": 1,
     "asatir-2-mirai-no-mukashi-banashi": 1,
-    "natsume-yuujinchou-shichi-dub": 3
+    "natsume-yuujinchou-shichi-dub": 3,
+    "hakubutsushi": 1,
+    "beluga": 1,
+    "chicken-papa": 1,
+    "duel-masters-lost-tsuioku-no-suishou": 1,
+    "look-back": 1
 }
