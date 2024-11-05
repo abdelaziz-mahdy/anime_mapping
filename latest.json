@@ -1,5 +1,5 @@
 {
-    "__version__": 6273,
+    "__version__": 6274,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1501,5 +1501,8 @@
     "beluga": 1,
     "chicken-papa": 1,
     "duel-masters-lost-tsuioku-no-suishou": 1,
-    "look-back": 1
+    "look-back": 1,
+    "tentai-fu": 1,
+    "tansui": 1,
+    "suisei": 1
 }
