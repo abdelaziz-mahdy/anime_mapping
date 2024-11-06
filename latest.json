@@ -1,5 +1,5 @@
 {
-    "__version__": 6282,
+    "__version__": 6283,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -1031,7 +1031,7 @@
     "jantama-kan": 13,
     "deltora-quest": 65,
     "mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami": 1,
-    "bakugan-battle-brawlers-gundalian-invaders": 28,
+    "bakugan-battle-brawlers-gundalian-invaders": 29,
     "remonster-dub": 5,
     "enter-the-garden": 1,
     "t-p-bon": 12,
@@ -1507,5 +1507,6 @@
     "suisei": 1,
     "shiroi-unabara": 1,
     "wanna-bes": 1,
-    "high-card-the-flowers-bloom": 1
+    "high-card-the-flowers-bloom": 1,
+    "eiji": 1
 }
