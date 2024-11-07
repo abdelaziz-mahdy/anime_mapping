@@ -1,5 +1,5 @@
 {
-    "__version__": 225,
+    "__version__": 226,
     "data": [
         {
             "id": 235,
@@ -229,7 +229,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1730858400
+                "airingAt": 1731463200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -341,7 +341,7 @@
             "id": 150930,
             "idMal": 52080,
             "nextAiringEpisode": {
-                "airingAt": 1730876400
+                "airingAt": 1731481200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150930-b4A2tGh7DMa9.jpg",
@@ -437,7 +437,7 @@
             "id": 157965,
             "idMal": 53723,
             "nextAiringEpisode": {
-                "airingAt": 1730898000
+                "airingAt": 1731502800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157965-YhogaZGde6tv.jpg",
@@ -517,7 +517,7 @@
             "id": 163134,
             "idMal": 54857,
             "nextAiringEpisode": {
-                "airingAt": 1730895960
+                "airingAt": 1731500760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg",
@@ -581,7 +581,7 @@
             "id": 164299,
             "idMal": 55150,
             "nextAiringEpisode": {
-                "airingAt": 1730898000
+                "airingAt": 1731502800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164299-j4yHiK4j1ON7.jpg",
@@ -629,7 +629,7 @@
             "id": 165810,
             "idMal": 55570,
             "nextAiringEpisode": {
-                "airingAt": 1730905200
+                "airingAt": 1731510000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165810-xEt3MeCRRRev.jpg",
@@ -677,7 +677,7 @@
             "id": 167991,
             "idMal": 56179,
             "nextAiringEpisode": {
-                "airingAt": 1730907000
+                "airingAt": 1731511800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167991-uOu8ggPXzVUQ.jpg",
@@ -1077,7 +1077,7 @@
             "id": 172199,
             "idMal": 56967,
             "nextAiringEpisode": {
-                "airingAt": 1730908560
+                "airingAt": 1731513360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172199-UC2KVjHyMDwI.jpg",
@@ -1365,7 +1365,7 @@
             "id": 176660,
             "idMal": 58488,
             "nextAiringEpisode": {
-                "airingAt": 1730905200
+                "airingAt": 1731510000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
@@ -1423,6 +1423,22 @@
                 "userPreferred": "Kinokoinu",
                 "native": "\u304d\u306e\u3053\u3044\u306c",
                 "romaji": "Kinokoinu"
+            }
+        },
+        {
+            "id": 177603,
+            "idMal": 58827,
+            "nextAiringEpisode": {
+                "airingAt": 1731502440
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177603-OLyvQoVBW101.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177603-OLyvQoVBW101.jpg"
+            },
+            "title": {
+                "userPreferred": "Okaimono Panda!",
+                "native": "\u304a\u8cb7\u3044\u3082\u306e\u30d1\u30f3\u30c0\uff01",
+                "romaji": "Okaimono Panda!"
             }
         },
         {
@@ -1573,7 +1589,7 @@
             "id": 182301,
             "idMal": 59881,
             "nextAiringEpisode": {
-                "airingAt": 1730926200
+                "airingAt": 1731531000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182301-NLM4Tdc7y6nE.png",
@@ -1586,26 +1602,10 @@
             }
         },
         {
-            "id": 182386,
-            "idMal": 59944,
-            "nextAiringEpisode": {
-                "airingAt": 1730883600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182386-wG1FmJmd3LqK.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182386-wG1FmJmd3LqK.png"
-            },
-            "title": {
-                "userPreferred": "POK\u00c9TOON (2024)",
-                "native": "POK\u00c9TOON (2024)",
-                "romaji": "POK\u00c9TOON (2024)"
-            }
-        },
-        {
             "id": 182417,
             "idMal": 60012,
             "nextAiringEpisode": {
-                "airingAt": 1730905200
+                "airingAt": 1731510000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
