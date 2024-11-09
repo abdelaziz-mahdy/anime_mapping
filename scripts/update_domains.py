@@ -16,7 +16,7 @@ print("domains ", domains)
 current_domains = latest.get('domains', [])
 
 # Update the list with new domains, preserving order and avoiding duplicates
-updated_domains = domains
+updated_domains = current_domains.copy()
 for domain in domains:
     if domain not in current_domains:
         updated_domains.append(domain)
