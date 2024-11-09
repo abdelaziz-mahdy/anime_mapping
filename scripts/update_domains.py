@@ -16,16 +16,15 @@ print("domains ", domains)
 current_domains = latest.get('domains', [])
 
 # Update the list with new domains, preserving order and avoiding duplicates
-updated_domains = current_domains[:]
+updated_domains = domains
 for domain in domains:
     if domain not in current_domains:
         updated_domains.append(domain)
-for domain in current_domains:
-    if domain not in domains:
-        updated_domains.remove(domain)
 # # sort the updated domains to make anything with gogo in it at the top
 # updated_domains.sort(key=lambda x: x.lower().find("gogo") if x.lower().find("gogo") != -1 else 999999999999999999, reverse=False)
 # Check if there are any new domains
+print("current domains ", current_domains)
+print("updated domains ", updated_domains)
 if updated_domains != current_domains:
     # Update the domains in the 'latest' dictionary
     latest['domains'] = updated_domains
