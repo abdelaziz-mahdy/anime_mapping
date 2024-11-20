@@ -1,5 +1,5 @@
 {
-    "__version__": 6424,
+    "__version__": 6425,
     "urusei-yatsura-2022": 23,
     "akiba-maid-sensou": 12,
     "mushikaburi-hime": 12,
@@ -132,7 +132,7 @@
     "buddy-daddies": 12,
     "ars-no-kyojuu": 12,
     "tsundere-akuyaku-reijou-liselotte-to-jikkyou-no-endou-kun-to-kaisetsu-no-kobayashi-san": 12,
-    "kinnikuman": 128,
+    "kinnikuman": 132,
     "kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life": 12,
     "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken": 12,
     "trigun-stampede": 12,
@@ -1542,5 +1542,6 @@
     "hokkyoku-hyakkaten-no-concierge-san": 1,
     "chou-tokkyuu-hikarian": 1,
     "nasu-suitcase-no-wataridori": 1,
-    "flag-directors-edition-issenman-no-kufura-no-kiroku": 1
+    "flag-directors-edition-issenman-no-kufura-no-kiroku": 1,
+    "kinnikuman-no-koutsuu-anzen": 1
 }
