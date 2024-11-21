@@ -1,5 +1,5 @@
 {
-    "__version__": 238,
+    "__version__": 239,
     "data": [
         {
             "id": 235,
@@ -229,7 +229,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1732068000
+                "airingAt": 1732672800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -338,22 +338,6 @@
             }
         },
         {
-            "id": 150930,
-            "idMal": 52080,
-            "nextAiringEpisode": {
-                "airingAt": 1732086000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150930-b4A2tGh7DMa9.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150930-b4A2tGh7DMa9.jpg"
-            },
-            "title": {
-                "userPreferred": "Murai no Koi",
-                "native": "\u6751\u4e95\u306e\u604b",
-                "romaji": "Murai no Koi"
-            }
-        },
-        {
             "id": 151514,
             "idMal": 52215,
             "nextAiringEpisode": {
@@ -437,7 +421,7 @@
             "id": 157965,
             "idMal": 53723,
             "nextAiringEpisode": {
-                "airingAt": 1732107600
+                "airingAt": 1732712400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157965-YhogaZGde6tv.jpg",
@@ -533,7 +517,7 @@
             "id": 163134,
             "idMal": 54857,
             "nextAiringEpisode": {
-                "airingAt": 1732105560
+                "airingAt": 1738758360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg",
@@ -597,7 +581,7 @@
             "id": 164299,
             "idMal": 55150,
             "nextAiringEpisode": {
-                "airingAt": 1732107600
+                "airingAt": 1732712400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164299-j4yHiK4j1ON7.jpg",
@@ -645,7 +629,7 @@
             "id": 165810,
             "idMal": 55570,
             "nextAiringEpisode": {
-                "airingAt": 1732114800
+                "airingAt": 1732719600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165810-xEt3MeCRRRev.jpg",
@@ -693,7 +677,7 @@
             "id": 167991,
             "idMal": 56179,
             "nextAiringEpisode": {
-                "airingAt": 1732116600
+                "airingAt": 1732721400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167991-uOu8ggPXzVUQ.jpg",
@@ -1093,7 +1077,7 @@
             "id": 172199,
             "idMal": 56967,
             "nextAiringEpisode": {
-                "airingAt": 1732118160
+                "airingAt": 1732722960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172199-UC2KVjHyMDwI.jpg",
@@ -1397,7 +1381,7 @@
             "id": 176660,
             "idMal": 58488,
             "nextAiringEpisode": {
-                "airingAt": 1732114800
+                "airingAt": 1732719600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
@@ -1461,7 +1445,7 @@
             "id": 177603,
             "idMal": 58827,
             "nextAiringEpisode": {
-                "airingAt": 1732107240
+                "airingAt": 1732712040
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177603-OLyvQoVBW101.jpg",
@@ -1589,7 +1573,7 @@
             "id": 181776,
             "idMal": 59892,
             "nextAiringEpisode": {
-                "airingAt": 1732118400
+                "airingAt": 1732723200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181776-VRNht9pkb9Ct.jpg",
@@ -1618,6 +1602,22 @@
             }
         },
         {
+            "id": 182157,
+            "idMal": 60052,
+            "nextAiringEpisode": {
+                "airingAt": 1732746120
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182157-p4NxtoGFIxlO.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182157-p4NxtoGFIxlO.png"
+            },
+            "title": {
+                "userPreferred": "Sylvanian Families: Freya no Piece of Secret",
+                "native": "\u30b7\u30eb\u30d0\u30cb\u30a2\u30d5\u30a1\u30df\u30ea\u30fc\u3000\u30d5\u30ec\u30a2\u306e\u30d4\u30fc\u30b9\u30fb\u30aa\u30d6\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
+                "romaji": "Sylvanian Families: Freya no Piece of Secret"
+            }
+        },
+        {
             "id": 182159,
             "idMal": 59894,
             "nextAiringEpisode": {
@@ -1637,7 +1637,7 @@
             "id": 182301,
             "idMal": 59881,
             "nextAiringEpisode": {
-                "airingAt": 1732135800
+                "airingAt": 1732740600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182301-NLM4Tdc7y6nE.png",
@@ -1650,26 +1650,10 @@
             }
         },
         {
-            "id": 182386,
-            "idMal": 59944,
-            "nextAiringEpisode": {
-                "airingAt": 1732093200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182386-wG1FmJmd3LqK.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182386-wG1FmJmd3LqK.png"
-            },
-            "title": {
-                "userPreferred": "POK\u00c9TOON (2024)",
-                "native": "POK\u00c9TOON (2024)",
-                "romaji": "POK\u00c9TOON (2024)"
-            }
-        },
-        {
             "id": 182417,
             "idMal": 60012,
             "nextAiringEpisode": {
-                "airingAt": 1732114800
+                "airingAt": 1732719600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
