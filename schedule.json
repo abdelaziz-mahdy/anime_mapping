@@ -1,5 +1,5 @@
 {
-    "__version__": 244,
+    "__version__": 245,
     "data": [
         {
             "id": 235,
@@ -565,7 +565,7 @@
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
-                "airingAt": 1732633200
+                "airingAt": 1733238000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
@@ -693,7 +693,7 @@
             "id": 168139,
             "idMal": 56228,
             "nextAiringEpisode": {
-                "airingAt": 1732631400
+                "airingAt": 1733236200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168139-nGLXIdSksKCI.jpg",
@@ -997,7 +997,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1732629600
+                "airingAt": 1733234400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -1189,7 +1189,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1732640340
+                "airingAt": 1733245140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -1285,7 +1285,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1732658820
+                "airingAt": 1733263620
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1391,22 +1391,6 @@
                 "userPreferred": "Sengoku Youko: Senma Konton-hen",
                 "native": "\u6226\u56fd\u5996\u72d0 \u5343\u9b54\u6df7\u6c8c\u7de8",
                 "romaji": "Sengoku Youko: Senma Konton-hen"
-            }
-        },
-        {
-            "id": 177008,
-            "idMal": 58856,
-            "nextAiringEpisode": {
-                "airingAt": 1732633200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177008-rAEmoVJkVBLH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177008-rAEmoVJkVBLH.jpg"
-            },
-            "title": {
-                "userPreferred": "Hibike! Euphonium 3: Extra Episodes",
-                "native": "\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13Extra Episode",
-                "romaji": "Hibike! Euphonium 3: Extra Episodes"
             }
         },
         {
@@ -1669,7 +1653,7 @@
             "id": 182772,
             "idMal": 59732,
             "nextAiringEpisode": {
-                "airingAt": 1732638300
+                "airingAt": 1733243100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182772-eTZgs36WyIfF.png",
