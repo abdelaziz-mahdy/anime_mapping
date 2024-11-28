@@ -1,5 +1,5 @@
 {
-    "__version__": 245,
+    "__version__": 246,
     "data": [
         {
             "id": 235,
@@ -229,7 +229,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1732672800
+                "airingAt": 1733277600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -421,7 +421,7 @@
             "id": 157965,
             "idMal": 53723,
             "nextAiringEpisode": {
-                "airingAt": 1732712400
+                "airingAt": 1733317200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157965-YhogaZGde6tv.jpg",
@@ -581,7 +581,7 @@
             "id": 164299,
             "idMal": 55150,
             "nextAiringEpisode": {
-                "airingAt": 1732712400
+                "airingAt": 1733317200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164299-j4yHiK4j1ON7.jpg",
@@ -629,7 +629,7 @@
             "id": 165810,
             "idMal": 55570,
             "nextAiringEpisode": {
-                "airingAt": 1732719600
+                "airingAt": 1733324400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165810-xEt3MeCRRRev.jpg",
@@ -671,22 +671,6 @@
                 "userPreferred": "Sword Art Online Alternative: Gun Gale Online II",
                 "native": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6 \u30ac\u30f3\u30b2\u30a4\u30eb\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u2161",
                 "romaji": "Sword Art Online Alternative: Gun Gale Online II"
-            }
-        },
-        {
-            "id": 167991,
-            "idMal": 56179,
-            "nextAiringEpisode": {
-                "airingAt": 1732721400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167991-uOu8ggPXzVUQ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167991-uOu8ggPXzVUQ.jpg"
-            },
-            "title": {
-                "userPreferred": "Delico's Nursery",
-                "native": "\u30c7\u30ea\u30b3\u30ba\u30fb\u30ca\u30fc\u30b5\u30ea\u30fc",
-                "romaji": "Delico's Nursery"
             }
         },
         {
@@ -1077,7 +1061,7 @@
             "id": 172199,
             "idMal": 56967,
             "nextAiringEpisode": {
-                "airingAt": 1732722960
+                "airingAt": 1733327760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172199-UC2KVjHyMDwI.jpg",
@@ -1381,7 +1365,7 @@
             "id": 176660,
             "idMal": 58488,
             "nextAiringEpisode": {
-                "airingAt": 1732719600
+                "airingAt": 1733324400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
@@ -1429,7 +1413,7 @@
             "id": 177603,
             "idMal": 58827,
             "nextAiringEpisode": {
-                "airingAt": 1732712040
+                "airingAt": 1733316840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177603-OLyvQoVBW101.jpg",
@@ -1557,7 +1541,7 @@
             "id": 181776,
             "idMal": 59892,
             "nextAiringEpisode": {
-                "airingAt": 1732723200
+                "airingAt": 1733328000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181776-VRNht9pkb9Ct.jpg",
@@ -1589,7 +1573,7 @@
             "id": 182157,
             "idMal": 60052,
             "nextAiringEpisode": {
-                "airingAt": 1732746120
+                "airingAt": 1733350920
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182157-p4NxtoGFIxlO.png",
@@ -1621,7 +1605,7 @@
             "id": 182301,
             "idMal": 59881,
             "nextAiringEpisode": {
-                "airingAt": 1732740600
+                "airingAt": 1733345400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182301-NLM4Tdc7y6nE.png",
@@ -1637,7 +1621,7 @@
             "id": 182417,
             "idMal": 60012,
             "nextAiringEpisode": {
-                "airingAt": 1732719600
+                "airingAt": 1733324400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
