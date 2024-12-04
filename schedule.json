@@ -1,5 +1,5 @@
 {
-    "__version__": 251,
+    "__version__": 252,
     "data": [
         {
             "id": 235,
@@ -565,7 +565,7 @@
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
-                "airingAt": 1733238000
+                "airingAt": 1733842800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
@@ -677,7 +677,7 @@
             "id": 168139,
             "idMal": 56228,
             "nextAiringEpisode": {
-                "airingAt": 1733236200
+                "airingAt": 1733841000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168139-nGLXIdSksKCI.jpg",
@@ -981,7 +981,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1733234400
+                "airingAt": 1733839200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -1173,7 +1173,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1733245140
+                "airingAt": 1733849940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -1253,7 +1253,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1733263620
+                "airingAt": 1733868420
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1621,7 +1621,7 @@
             "id": 182772,
             "idMal": 59732,
             "nextAiringEpisode": {
-                "airingAt": 1733243100
+                "airingAt": 1733847900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182772-eTZgs36WyIfF.png",
