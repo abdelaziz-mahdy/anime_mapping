@@ -1,5 +1,5 @@
 {
-    "__version__": 260,
+    "__version__": 261,
     "data": [
         {
             "id": 235,
@@ -101,7 +101,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1734041400
+                "airingAt": 1734646200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -245,7 +245,7 @@
             "id": 137672,
             "idMal": 59389,
             "nextAiringEpisode": {
-                "airingAt": 1733968800
+                "airingAt": 1734573600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137672-DpKhi0T6RAao.png",
@@ -277,7 +277,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1734043200
+                "airingAt": 1734388800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -389,7 +389,7 @@
             "id": 154673,
             "idMal": 53033,
             "nextAiringEpisode": {
-                "airingAt": 1734017400
+                "airingAt": 1734622200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154673-SCp0Qo62N1Q6.jpg",
@@ -597,7 +597,7 @@
             "id": 165790,
             "idMal": 55887,
             "nextAiringEpisode": {
-                "airingAt": 1734013800
+                "airingAt": 1734618600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165790-OwIZI9ArGR4Q.jpg",
@@ -709,7 +709,7 @@
             "id": 169098,
             "idMal": 56461,
             "nextAiringEpisode": {
-                "airingAt": 1734019200
+                "airingAt": 1734624000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169098-Uh57lj9NyLOY.jpg",
@@ -741,7 +741,7 @@
             "id": 169315,
             "idMal": 56662,
             "nextAiringEpisode": {
-                "airingAt": 1734022680
+                "airingAt": 1734625680
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169315-NtbOlSyDtSCZ.png",
@@ -821,7 +821,7 @@
             "id": 170732,
             "idMal": 57066,
             "nextAiringEpisode": {
-                "airingAt": 1734008400
+                "airingAt": 1734613200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170732-PwCMhnnOKdBu.jpg",
@@ -837,7 +837,7 @@
             "id": 170942,
             "idMal": 57181,
             "nextAiringEpisode": {
-                "airingAt": 1734015360
+                "airingAt": 1734620160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170942-B77wUSM1jQTu.jpg",
@@ -853,7 +853,7 @@
             "id": 171018,
             "idMal": 57334,
             "nextAiringEpisode": {
-                "airingAt": 1734017160
+                "airingAt": 1734621960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-2ldCj6QywuOa.jpg",
@@ -965,7 +965,7 @@
             "id": 171637,
             "idMal": 57554,
             "nextAiringEpisode": {
-                "airingAt": 1734018960
+                "airingAt": 1734623760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
@@ -1106,22 +1106,6 @@
             }
         },
         {
-            "id": 173693,
-            "idMal": 57891,
-            "nextAiringEpisode": {
-                "airingAt": 1734015600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173693-tRLdDE1BieXe.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png"
-            },
-            "title": {
-                "userPreferred": "Hitoribocchi no Isekai Kouryaku",
-                "native": "\u3072\u3068\u308a\u307c\u3063\u3061\u306e\u7570\u4e16\u754c\u653b\u7565",
-                "romaji": "Hitoribocchi no Isekai Kouryaku"
-            }
-        },
-        {
             "id": 174043,
             "idMal": 57944,
             "nextAiringEpisode": {
@@ -1157,7 +1141,7 @@
             "id": 174390,
             "idMal": 57924,
             "nextAiringEpisode": {
-                "airingAt": 1734008040
+                "airingAt": 1734612840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174390-SWbzfNExA59t.jpg",
@@ -1253,7 +1237,7 @@
             "id": 176053,
             "idMal": 58445,
             "nextAiringEpisode": {
-                "airingAt": 1734022800
+                "airingAt": 1734627600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176053-HfPo4pUm6Ktg.jpg",
@@ -1365,7 +1349,7 @@
             "id": 177581,
             "idMal": 58854,
             "nextAiringEpisode": {
-                "airingAt": 1734004800
+                "airingAt": 1734609600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177581-IiMPlgRFwktk.jpg",
@@ -1493,7 +1477,7 @@
             "id": 179919,
             "idMal": 59425,
             "nextAiringEpisode": {
-                "airingAt": 1734008400
+                "airingAt": 1734613200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179919-KLuGsnqnhkPb.jpg",
@@ -1557,7 +1541,7 @@
             "id": 182159,
             "idMal": 59894,
             "nextAiringEpisode": {
-                "airingAt": 1733994000
+                "airingAt": 1734598800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182159-hRd92GJxgLeq.png",
@@ -1634,22 +1618,6 @@
             }
         },
         {
-            "id": 183471,
-            "idMal": 60185,
-            "nextAiringEpisode": {
-                "airingAt": 1733994000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183471-JsXh7SKt5P7C.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183471-JsXh7SKt5P7C.png"
-            },
-            "title": {
-                "userPreferred": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
-                "native": "KUROMI'S PRETTY JOURNEY \u301c\u306f\u3061\u3083\u3081\u3061\u3083\uff01\u30de\u30eb\u30c1\u30d0\u30fc\u30b9\u5927\u8131\u51fa\uff01\u301c",
-                "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!"
-            }
-        },
-        {
             "id": 183473,
             "idMal": 60080,
             "nextAiringEpisode": {
@@ -1669,7 +1637,7 @@
             "id": 184288,
             "idMal": 60295,
             "nextAiringEpisode": {
-                "airingAt": 1733997600
+                "airingAt": 1734602400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184288-QIMsLkNX7MWq.png",
