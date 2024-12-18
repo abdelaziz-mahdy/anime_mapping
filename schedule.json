@@ -1,5 +1,5 @@
 {
-    "__version__": 265,
+    "__version__": 266,
     "data": [
         {
             "id": 235,
@@ -485,7 +485,7 @@
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
-                "airingAt": 1734447600
+                "airingAt": 1735052400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
@@ -597,7 +597,7 @@
             "id": 168139,
             "idMal": 56228,
             "nextAiringEpisode": {
-                "airingAt": 1734445800
+                "airingAt": 1735050600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168139-nGLXIdSksKCI.jpg",
@@ -853,7 +853,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1734444000
+                "airingAt": 1735048800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -1029,7 +1029,7 @@
             "id": 174070,
             "idMal": 57945,
             "nextAiringEpisode": {
-                "airingAt": 1734454740
+                "airingAt": 1735059540
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
@@ -1125,7 +1125,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1734473220
+                "airingAt": 1735078020
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -1493,7 +1493,7 @@
             "id": 182772,
             "idMal": 59732,
             "nextAiringEpisode": {
-                "airingAt": 1734452700
+                "airingAt": 1735057500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182772-eTZgs36WyIfF.png",
@@ -1583,6 +1583,22 @@
                 "userPreferred": "Dokodemo Makibao",
                 "native": "\u3069\u3053\u3067\u3082\u30de\u30ad\u30d0\u30aa\u30fc",
                 "romaji": "Dokodemo Makibao"
+            }
+        },
+        {
+            "id": 185539,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1735077600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185539-57P8xM9whe1b.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185539-57P8xM9whe1b.png"
+            },
+            "title": {
+                "userPreferred": "Alps no Roujin Heidi no Ojii-san",
+                "native": "\u30a2\u30eb\u30d7\u30b9\u306e\u8001\u4eba\u30cf\u30a4\u30b8\u306e\u304a\u3058\u3044\u3055\u3093",
+                "romaji": "Alps no Roujin Heidi no Ojii-san"
             }
         },
         {
