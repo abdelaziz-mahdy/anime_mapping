@@ -1,5 +1,5 @@
 {
-    "__version__": 270,
+    "__version__": 271,
     "data": [
         {
             "id": 235,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1734859800
+                "airingAt": 1735464600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -69,7 +69,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1734903600
+                "airingAt": 1735508400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -85,7 +85,7 @@
             "id": 6149,
             "idMal": 6149,
             "nextAiringEpisode": {
-                "airingAt": 1734858000
+                "airingAt": 1735462800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
@@ -133,7 +133,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1734858000
+                "airingAt": 1735462800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -197,7 +197,7 @@
             "id": 139095,
             "idMal": 49785,
             "nextAiringEpisode": {
-                "airingAt": 1734856200
+                "airingAt": 1735461000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139095-xXcToL6L4vuv.jpg",
@@ -293,7 +293,7 @@
             "id": 153406,
             "idMal": 52635,
             "nextAiringEpisode": {
-                "airingAt": 1734876000
+                "airingAt": 1735480800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153406-dU2RLKgMUF2U.jpg",
@@ -319,22 +319,6 @@
                 "userPreferred": "Arifureta Shokugyou de Sekai Saikyou 3rd season",
                 "native": "\u3042\u308a\u3075\u308c\u305f\u8077\u696d\u3067\u4e16\u754c\u6700\u5f37 3rd season",
                 "romaji": "Arifureta Shokugyou de Sekai Saikyou 3rd season"
-            }
-        },
-        {
-            "id": 155502,
-            "idMal": 53287,
-            "nextAiringEpisode": {
-                "airingAt": 1734854400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155502-8Dyh2np8o5GC.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-8Dyh2np8o5GC.jpg"
-            },
-            "title": {
-                "userPreferred": "Love Live! Superstar!! 3rd Season",
-                "native": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!! 3\u671f",
-                "romaji": "Love Live! Superstar!! 3rd Season"
             }
         },
         {
@@ -706,22 +690,6 @@
             }
         },
         {
-            "id": 171400,
-            "idMal": 57517,
-            "nextAiringEpisode": {
-                "airingAt": 1734878760
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171400-fbiXZGItjJtP.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171400-fbiXZGItjJtP.png"
-            },
-            "title": {
-                "userPreferred": "Puniru wa Kawaii Slime",
-                "native": "\u3077\u306b\u308b\u306f\u304b\u308f\u3044\u3044\u30b9\u30e9\u30a4\u30e0",
-                "romaji": "Puniru wa Kawaii Slime"
-            }
-        },
-        {
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
@@ -751,22 +719,6 @@
                 "userPreferred": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
                 "native": "\u308b\u308d\u3046\u306b\u5263\u5fc3 \uff0d\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a\uff0d\u4eac\u90fd\u52d5\u4e71",
                 "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
-            }
-        },
-        {
-            "id": 171642,
-            "idMal": 57559,
-            "nextAiringEpisode": {
-                "airingAt": 1734879600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171642-RyL10RY9uysQ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171642-RyL10RY9uysQ.jpg"
-            },
-            "title": {
-                "userPreferred": "MF Ghost 2nd Season",
-                "native": "MF\u30b4\u30fc\u30b9\u30c8 2nd Season",
-                "romaji": "MF Ghost 2nd Season"
             }
         },
         {
@@ -866,22 +818,6 @@
             }
         },
         {
-            "id": 175019,
-            "idMal": 58172,
-            "nextAiringEpisode": {
-                "airingAt": 1734877800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175019-8lLRmHID5fMd.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg"
-            },
-            "title": {
-                "userPreferred": "Nageki no Bourei wa Intai Shitai",
-                "native": "\u5606\u304d\u306e\u4ea1\u970a\u306f\u5f15\u9000\u3057\u305f\u3044 ",
-                "romaji": "Nageki no Bourei wa Intai Shitai"
-            }
-        },
-        {
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
@@ -933,7 +869,7 @@
             "id": 176292,
             "idMal": 58511,
             "nextAiringEpisode": {
-                "airingAt": 1734852600
+                "airingAt": 1735457400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176292-meJTWM8zQjjp.jpg",
@@ -946,10 +882,26 @@
             }
         },
         {
+            "id": 176311,
+            "idMal": 58516,
+            "nextAiringEpisode": {
+                "airingAt": 1736004600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176311-OZudERHrpJJ0.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-OZudERHrpJJ0.jpg"
+            },
+            "title": {
+                "userPreferred": "Ao no Exorcist: Yuki no Hate-hen",
+                "native": "\u9752\u306e\u7953\u9b54\u5e2b \u96ea\u30ce\u679c\u7bc7",
+                "romaji": "Ao no Exorcist: Yuki no Hate-hen"
+            }
+        },
+        {
             "id": 176508,
             "idMal": 58572,
             "nextAiringEpisode": {
-                "airingAt": 1734854400
+                "airingAt": 1735459200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-NHYHx5YJcU5i.png",
@@ -991,22 +943,6 @@
                 "userPreferred": "Okaimono Panda!",
                 "native": "\u304a\u8cb7\u3044\u3082\u306e\u30d1\u30f3\u30c0\uff01",
                 "romaji": "Okaimono Panda!"
-            }
-        },
-        {
-            "id": 178434,
-            "idMal": 59131,
-            "nextAiringEpisode": {
-                "airingAt": 1734877800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178434-UtRCL4WqNcgv.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png"
-            },
-            "title": {
-                "userPreferred": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-                "native": "\u8ee2\u751f\u8cb4\u65cf\u3001\u9451\u5b9a\u30b9\u30ad\u30eb\u3067\u6210\u308a\u4e0a\u304c\u308b \u7b2c2\u671f",
-                "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season"
             }
         },
         {
@@ -1138,22 +1074,6 @@
             }
         },
         {
-            "id": 182772,
-            "idMal": 59732,
-            "nextAiringEpisode": {
-                "airingAt": 1735057500
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182772-eTZgs36WyIfF.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182772-eTZgs36WyIfF.png"
-            },
-            "title": {
-                "userPreferred": "Pochars",
-                "native": "\u307d\u3061\u3083\u30fc\u30ba",
-                "romaji": "Pochars"
-            }
-        },
-        {
             "id": 183423,
             "idMal": 60108,
             "nextAiringEpisode": {
@@ -1189,7 +1109,7 @@
             "id": 185538,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1734904800
+                "airingAt": 1735164000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185538-3YVB6ishN7as.png",
