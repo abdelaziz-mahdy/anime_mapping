@@ -1,5 +1,5 @@
 {
-    "__version__": 272,
+    "__version__": 273,
     "data": [
         {
             "id": 235,
@@ -197,7 +197,7 @@
             "id": 139095,
             "idMal": 49785,
             "nextAiringEpisode": {
-                "airingAt": 1735461000
+                "airingAt": 1736065800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139095-xXcToL6L4vuv.jpg",
@@ -405,7 +405,7 @@
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
-                "airingAt": 1735052400
+                "airingAt": 1735657200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
@@ -463,22 +463,6 @@
                 "userPreferred": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
                 "native": "\u65b0\u30c6\u30cb\u30b9\u306e\u738b\u5b50\u69d8 U-17 WORLD CUP SEMIFINAL",
                 "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL"
-            }
-        },
-        {
-            "id": 168139,
-            "idMal": 56228,
-            "nextAiringEpisode": {
-                "airingAt": 1735050600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168139-nGLXIdSksKCI.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
-            },
-            "title": {
-                "userPreferred": "Rekishi ni Nokoru Akujo ni Naruzo",
-                "native": "\u6b74\u53f2\u306b\u6b8b\u308b\u60aa\u5973\u306b\u306a\u308b\u305e",
-                "romaji": "Rekishi ni Nokoru Akujo ni Naruzo"
             }
         },
         {
@@ -578,22 +562,6 @@
             }
         },
         {
-            "id": 170732,
-            "idMal": 57066,
-            "nextAiringEpisode": {
-                "airingAt": 1735218000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170732-PwCMhnnOKdBu.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170732-PwCMhnnOKdBu.jpg"
-            },
-            "title": {
-                "userPreferred": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-                "native": "\u30c0\u30f3\u30b8\u30e7\u30f3\u306b\u51fa\u4f1a\u3044\u3092\u6c42\u3081\u308b\u306e\u306f\u9593\u9055\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u304b\u2164 \u8c4a\u7a63\u306e\u5973\u795e\u7bc7",
-                "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen"
-            }
-        },
-        {
             "id": 170942,
             "idMal": 57181,
             "nextAiringEpisode": {
@@ -645,7 +613,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1735048800
+                "airingAt": 1735653600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -719,22 +687,6 @@
                 "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku",
                 "native": "\u51cd\u724c\uff5e\u88cf\u30ec\u30fc\u30c8\u9ebb\u96c0\u95d8\u724c\u9332\uff5e",
                 "romaji": "Touhai: Ura Rate Mahjong Touhai Roku"
-            }
-        },
-        {
-            "id": 174070,
-            "idMal": 57945,
-            "nextAiringEpisode": {
-                "airingAt": 1735059540
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174070-mrec0spMuATz.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg"
-            },
-            "title": {
-                "userPreferred": "Tasuuketsu",
-                "native": "\u591a\u6570\u6b20",
-                "romaji": "Tasuuketsu"
             }
         },
         {
@@ -1087,6 +1039,22 @@
                 "userPreferred": "Asatir 2: Mirai no Mukashibanashi",
                 "native": "\u30a2\u30b5\u30c6\u30a3\u30fc\u30eb2 \u672a\u6765\u306e\u6614\u3070\u306a\u3057",
                 "romaji": "Asatir 2: Mirai no Mukashibanashi"
+            }
+        },
+        {
+            "id": 185794,
+            "idMal": 59915,
+            "nextAiringEpisode": {
+                "airingAt": 1735599600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185794-8rVZfoeJU62O.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185794-8rVZfoeJU62O.jpg"
+            },
+            "title": {
+                "userPreferred": "Shendao Dizun",
+                "native": "\u795e\u9053\u5e1d\u5c0a",
+                "romaji": "Shendao Dizun"
             }
         }
     ]
