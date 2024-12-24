@@ -11,7 +11,8 @@ class HiAnimeParser:
 
     def fetch_recent_episodes(self, page=1):
         try:
-            response = self.client.get(f"{self.base_url}/recently-updated?page={page}")
+            response = self.client.get(
+                f"{self.base_url}/recently-updated?page={page}")
             print(f"Fetching: {self.base_url}/recently-updated?page={page}")
             soup = BeautifulSoup(response.text, "html.parser")
 
@@ -58,11 +59,12 @@ class HiAnimeParser:
             for i in range(len(urls)):
                 episodes.append(
                     {
-                        "id": urls[i].split("/")[-1],  # Assuming ID is part of the URL
+                        # Assuming ID is part of the URL
+                        "id": "/" + urls[i].split("/")[-1],
                         "title": titles[i],
                         "image": images[i],
                         "episodeNumber": int(last_episodes[i]),
-                        "url": f"{urls[i]}",
+                        "url": f"/{urls[i]}",
                     }
                 )
 
