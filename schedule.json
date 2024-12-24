@@ -1,5 +1,5 @@
 {
-    "__version__": 271,
+    "__version__": 272,
     "data": [
         {
             "id": 235,
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1734919200
+                "airingAt": 1735524000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -213,7 +213,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1734993600
+                "airingAt": 1735252800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -223,22 +223,6 @@
                 "userPreferred": "Chiikawa",
                 "native": "\u3061\u3044\u304b\u308f",
                 "romaji": "Chiikawa"
-            }
-        },
-        {
-            "id": 141182,
-            "idMal": 50306,
-            "nextAiringEpisode": {
-                "airingAt": 1734971400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141182-xNtdR0PenhRR.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg"
-            },
-            "title": {
-                "userPreferred": "Seirei Gensouki 2",
-                "native": "\u7cbe\u970a\u5e7b\u60f3\u8a182",
-                "romaji": "Seirei Gensouki 2"
             }
         },
         {
@@ -309,7 +293,7 @@
             "id": 154473,
             "idMal": 52995,
             "nextAiringEpisode": {
-                "airingAt": 1734962400
+                "airingAt": 1735567200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154473-o55309dVGP3G.jpg",
@@ -482,22 +466,6 @@
             }
         },
         {
-            "id": 166611,
-            "idMal": 55823,
-            "nextAiringEpisode": {
-                "airingAt": 1734966000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166611-MXGsOlPv2IKj.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166611-MXGsOlPv2IKj.png"
-            },
-            "title": {
-                "userPreferred": "Natsume Yuujinchou Shichi",
-                "native": "\u590f\u76ee\u53cb\u4eba\u5e33 \u6f06",
-                "romaji": "Natsume Yuujinchou Shichi"
-            }
-        },
-        {
             "id": 168139,
             "idMal": 56228,
             "nextAiringEpisode": {
@@ -578,6 +546,22 @@
             }
         },
         {
+            "id": 169966,
+            "idMal": 56853,
+            "nextAiringEpisode": {
+                "airingAt": 1735804800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169966-elyLBCoBAJxx.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg"
+            },
+            "title": {
+                "userPreferred": "I.CINNAMOROLL Animation",
+                "native": "I.CINNAMOROLL Animation",
+                "romaji": "I.CINNAMOROLL Animation"
+            }
+        },
+        {
             "id": 170083,
             "idMal": 56894,
             "nextAiringEpisode": {
@@ -591,22 +575,6 @@
                 "userPreferred": "Dragon Ball DAIMA",
                 "native": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebDAIMA",
                 "romaji": "Dragon Ball DAIMA"
-            }
-        },
-        {
-            "id": 170468,
-            "idMal": 56964,
-            "nextAiringEpisode": {
-                "airingAt": 1734962400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170468-kD2X9O2XM9KH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg"
-            },
-            "title": {
-                "userPreferred": "Raise wa Tanin ga Ii",
-                "native": "\u6765\u4e16\u306f\u4ed6\u4eba\u304c\u3044\u3044",
-                "romaji": "Raise wa Tanin ga Ii"
             }
         },
         {
@@ -645,7 +613,7 @@
             "id": 171030,
             "idMal": 57390,
             "nextAiringEpisode": {
-                "airingAt": 1735428600
+                "airingAt": 1736033400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171030-U7zjkqv8pQFq.jpg",
@@ -658,26 +626,10 @@
             }
         },
         {
-            "id": 171038,
-            "idMal": 57362,
-            "nextAiringEpisode": {
-                "airingAt": 1734960600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171038-lSjQqiSk1mQC.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg"
-            },
-            "title": {
-                "userPreferred": "Hoshi Furu Oukoku no Nina",
-                "native": "\u661f\u964d\u308b\u738b\u56fd\u306e\u30cb\u30ca",
-                "romaji": "Hoshi Furu Oukoku no Nina"
-            }
-        },
-        {
             "id": 171080,
             "idMal": 57946,
             "nextAiringEpisode": {
-                "airingAt": 1735434000
+                "airingAt": 1736038800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171080-5d1bxwJRQ4vk.png",
@@ -725,7 +677,7 @@
             "id": 172355,
             "idMal": 57635,
             "nextAiringEpisode": {
-                "airingAt": 1734960600
+                "airingAt": 1735565400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172355-D7J0LRyWZZhg.jpg",
@@ -741,7 +693,7 @@
             "id": 172395,
             "idMal": 57798,
             "nextAiringEpisode": {
-                "airingAt": 1735428600
+                "airingAt": 1736033400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172395-TESU4M0kQ94c.jpg",
@@ -805,7 +757,7 @@
             "id": 174913,
             "idMal": 58137,
             "nextAiringEpisode": {
-                "airingAt": 1735377960
+                "airingAt": 1737192360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174913-xwwD9Q2GteBR.png",
@@ -847,22 +799,6 @@
                 "userPreferred": "Chibi Godzilla no Gyakushuu 2",
                 "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972\uff12",
                 "romaji": "Chibi Godzilla no Gyakushuu 2"
-            }
-        },
-        {
-            "id": 176191,
-            "idMal": 58395,
-            "nextAiringEpisode": {
-                "airingAt": 1734926400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176191-RL4lEr65YFfE.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176191-RL4lEr65YFfE.jpg"
-            },
-            "title": {
-                "userPreferred": "Neko ni Tensei Shita Oji-san",
-                "native": "\u306d\u3053\u306b\u8ee2\u751f\u3057\u305f\u304a\u3058\u3055\u3093",
-                "romaji": "Neko ni Tensei Shita Oji-san"
             }
         },
         {
@@ -965,7 +901,7 @@
             "id": 179292,
             "idMal": 59512,
             "nextAiringEpisode": {
-                "airingAt": 1735431300
+                "airingAt": 1736036100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179292-jOcVLoMwkFKo.png",
