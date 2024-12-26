@@ -1,5 +1,5 @@
 {
-    "__version__": 274,
+    "__version__": 275,
     "data": [
         {
             "id": 235,
@@ -181,7 +181,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1735092000
+                "airingAt": 1735696800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -405,7 +405,7 @@
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
-                "airingAt": 1735657200
+                "airingAt": 1736866800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
@@ -415,22 +415,6 @@
                 "userPreferred": "Amagami-san Chi no Enmusubi",
                 "native": "\u7518\u795e\u3055\u3093\u3061\u306e\u7e01\u7d50\u3073",
                 "romaji": "Amagami-san Chi no Enmusubi"
-            }
-        },
-        {
-            "id": 164299,
-            "idMal": 55150,
-            "nextAiringEpisode": {
-                "airingAt": 1735131600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164299-j4yHiK4j1ON7.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164299-j4yHiK4j1ON7.jpg"
-            },
-            "title": {
-                "userPreferred": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu",
-                "native": "\u3084\u308a\u76f4\u3057\u4ee4\u5b22\u306f\u7adc\u5e1d\u965b\u4e0b\u3092\u653b\u7565\u4e2d",
-                "romaji": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu"
             }
         },
         {
@@ -447,22 +431,6 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
-            }
-        },
-        {
-            "id": 165810,
-            "idMal": 55570,
-            "nextAiringEpisode": {
-                "airingAt": 1735138800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165810-xEt3MeCRRRev.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-xEt3MeCRRRev.jpg"
-            },
-            "title": {
-                "userPreferred": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
-                "native": "\u65b0\u30c6\u30cb\u30b9\u306e\u738b\u5b50\u69d8 U-17 WORLD CUP SEMIFINAL",
-                "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL"
             }
         },
         {
@@ -725,7 +693,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1735124400
+                "airingAt": 1735729200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -802,26 +770,10 @@
             }
         },
         {
-            "id": 176660,
-            "idMal": 58488,
-            "nextAiringEpisode": {
-                "airingAt": 1735138800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176660-4sDfmx2fOZRJ.jpg"
-            },
-            "title": {
-                "userPreferred": "Sengoku Youko: Senma Konton-hen",
-                "native": "\u6226\u56fd\u5996\u72d0 \u5343\u9b54\u6df7\u6c8c\u7de8",
-                "romaji": "Sengoku Youko: Senma Konton-hen"
-            }
-        },
-        {
             "id": 177603,
             "idMal": 58827,
             "nextAiringEpisode": {
-                "airingAt": 1735131240
+                "airingAt": 1736340840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177603-OLyvQoVBW101.jpg",
@@ -869,7 +821,7 @@
             "id": 181776,
             "idMal": 59892,
             "nextAiringEpisode": {
-                "airingAt": 1735142400
+                "airingAt": 1735747200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181776-VRNht9pkb9Ct.jpg",
@@ -879,22 +831,6 @@
                 "userPreferred": "Murder Mystery of the Dead",
                 "native": "\u30de\u30fc\u30c0\u30fc\u30df\u30b9\u30c6\u30ea\u30fc\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c7\u30c3\u30c9",
                 "romaji": "Murder Mystery of the Dead"
-            }
-        },
-        {
-            "id": 182157,
-            "idMal": 60052,
-            "nextAiringEpisode": {
-                "airingAt": 1735165320
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182157-p4NxtoGFIxlO.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182157-p4NxtoGFIxlO.png"
-            },
-            "title": {
-                "userPreferred": "Sylvanian Families: Freya no Piece of Secret",
-                "native": "\u30b7\u30eb\u30d0\u30cb\u30a2\u30d5\u30a1\u30df\u30ea\u30fc\u3000\u30d5\u30ec\u30a2\u306e\u30d4\u30fc\u30b9\u30fb\u30aa\u30d6\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
-                "romaji": "Sylvanian Families: Freya no Piece of Secret"
             }
         },
         {
@@ -917,7 +853,7 @@
             "id": 182301,
             "idMal": 59881,
             "nextAiringEpisode": {
-                "airingAt": 1735159800
+                "airingAt": 1735764600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182301-NLM4Tdc7y6nE.png",
@@ -997,7 +933,7 @@
             "id": 185538,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1735164000
+                "airingAt": 1736373600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185538-3YVB6ishN7as.png",
