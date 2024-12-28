@@ -23,7 +23,8 @@ while gotNew:
         if anime["id"] in latest and latest[anime["id"]] == anime["episodeNumber"]:
             gotNew = False
         else:
-            latest[anime["id"]] = anime["episodeNumber"]
+            if anime.get("episodeNumber"):
+                latest[anime["id"]] = anime["episodeNumber"]
 
     page += 1
     if page > 5:
