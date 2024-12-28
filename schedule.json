@@ -1,5 +1,5 @@
 {
-    "__version__": 276,
+    "__version__": 277,
     "data": [
         {
             "id": 235,
@@ -37,7 +37,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1735264500
+                "airingAt": 1735869300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -149,7 +149,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1735292400
+                "airingAt": 1735897200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -421,7 +421,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1735291500
+                "airingAt": 1735896300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -517,7 +517,7 @@
             "id": 170083,
             "idMal": 56894,
             "nextAiringEpisode": {
-                "airingAt": 1735310400
+                "airingAt": 1736520000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170083-gDNBp0B4VHsG.jpg",
@@ -527,6 +527,22 @@
                 "userPreferred": "Dragon Ball DAIMA",
                 "native": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebDAIMA",
                 "romaji": "Dragon Ball DAIMA"
+            }
+        },
+        {
+            "id": 170166,
+            "idMal": 56752,
+            "nextAiringEpisode": {
+                "airingAt": 1735873200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170166-VpX7l0Horthq.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg"
+            },
+            "title": {
+                "userPreferred": "Shiguang Dailiren: Yingdu Pian",
+                "native": "\u65f6\u5149\u4ee3\u7406\u4eba\u82f1\u90fd\u7bc7",
+                "romaji": "Shiguang Dailiren: Yingdu Pian"
             }
         },
         {
