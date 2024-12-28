@@ -1,11 +1,11 @@
 {
-    "__version__": 277,
+    "__version__": 278,
     "data": [
         {
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1735376400
+                "airingAt": 1735981200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-XucEZpR3CRaV.jpg",
@@ -21,7 +21,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1735371000
+                "airingAt": 1735975800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -117,7 +117,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1735372800
+                "airingAt": 1735977600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
@@ -261,7 +261,7 @@
             "id": 151514,
             "idMal": 52215,
             "nextAiringEpisode": {
-                "airingAt": 1735397160
+                "airingAt": 1736001960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151514-BcU5RmSWhvv0.jpg",
@@ -370,38 +370,6 @@
             }
         },
         {
-            "id": 163135,
-            "idMal": 54853,
-            "nextAiringEpisode": {
-                "airingAt": 1735398000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163135-NjvXyXvTYSHH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163135-NjvXyXvTYSHH.jpg"
-            },
-            "title": {
-                "userPreferred": "Maou 2099",
-                "native": "\u9b54\u738b2099",
-                "romaji": "Maou 2099"
-            }
-        },
-        {
-            "id": 163146,
-            "idMal": 54865,
-            "nextAiringEpisode": {
-                "airingAt": 1735396200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-f2vYhmiGn6dM.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
-            },
-            "title": {
-                "userPreferred": "Blue Lock VS. U-20 JAPAN",
-                "native": "\u30d6\u30eb\u30fc\u30ed\u30c3\u30af VS. U-20 JAPAN",
-                "romaji": "Blue Lock VS. U-20 JAPAN"
-            }
-        },
-        {
             "id": 164172,
             "idMal": 55071,
             "nextAiringEpisode": {
@@ -453,7 +421,7 @@
             "id": 169258,
             "idMal": 56647,
             "nextAiringEpisode": {
-                "airingAt": 1735374600
+                "airingAt": 1735979400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169258-kj8qoomfAKsB.jpg",
@@ -479,22 +447,6 @@
                 "userPreferred": "Trillion Game",
                 "native": "\u30c8\u30ea\u30ea\u30aa\u30f3\u30b2\u30fc\u30e0",
                 "romaji": "Trillion Game"
-            }
-        },
-        {
-            "id": 169755,
-            "idMal": 56784,
-            "nextAiringEpisode": {
-                "airingAt": 1735394400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169755-Rqb7MjnzdTc6.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg"
-            },
-            "title": {
-                "userPreferred": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
-                "native": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7-\u76f8\u524b\u8b5a-",
-                "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan"
             }
         },
         {
@@ -738,6 +690,22 @@
             }
         },
         {
+            "id": 176158,
+            "idMal": 58473,
+            "nextAiringEpisode": {
+                "airingAt": 1735999200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176158-l0Ic9bAD6xJz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176158-l0Ic9bAD6xJz.jpg"
+            },
+            "title": {
+                "userPreferred": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
+                "native": "\uff33\u30e9\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300a\u30d9\u30d2\u30fc\u30e2\u30b9\u300b\u3060\u3051\u3069\u3001\u732b\u3068\u9593\u9055\u308f\u308c\u3066\u30a8\u30eb\u30d5\u5a18\u306e\u9a0e\u58eb\uff08\u30da\u30c3\u30c8\uff09\u3068\u3057\u3066\u66ae\u3089\u3057\u3066\u307e\u3059",
+                "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu"
+            }
+        },
+        {
             "id": 176292,
             "idMal": 58511,
             "nextAiringEpisode": {
@@ -898,22 +866,6 @@
             }
         },
         {
-            "id": 182434,
-            "idMal": 60029,
-            "nextAiringEpisode": {
-                "airingAt": 1735390800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182434-RFfa8KtGbu3G.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182434-RFfa8KtGbu3G.jpg"
-            },
-            "title": {
-                "userPreferred": "5-Oku-nen Button Part 2",
-                "native": "5\u5104\u5e74\u30dc\u30bf\u30f3 Part 2",
-                "romaji": "5-Oku-nen Button Part 2"
-            }
-        },
-        {
             "id": 183423,
             "idMal": 60108,
             "nextAiringEpisode": {
@@ -933,7 +885,7 @@
             "id": 183473,
             "idMal": 60080,
             "nextAiringEpisode": {
-                "airingAt": 1735354800
+                "airingAt": 1735959600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183473-jZR2gEFZQhVe.png",
