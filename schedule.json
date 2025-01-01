@@ -1,5 +1,5 @@
 {
-    "__version__": 281,
+    "__version__": 282,
     "data": [
         {
             "id": 235,
@@ -501,7 +501,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1735653600
+                "airingAt": 1736258400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -613,7 +613,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1735682820
+                "airingAt": 1736287620
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -671,6 +671,22 @@
                 "userPreferred": "Okaimono Panda!",
                 "native": "\u304a\u8cb7\u3044\u3082\u306e\u30d1\u30f3\u30c0\uff01",
                 "romaji": "Okaimono Panda!"
+            }
+        },
+        {
+            "id": 178100,
+            "idMal": 59002,
+            "nextAiringEpisode": {
+                "airingAt": 1736262000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178100-GF4dKSrkdByJ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178100-GF4dKSrkdByJ.jpg"
+            },
+            "title": {
+                "userPreferred": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
+                "native": "\u5916\u308c\u30b9\u30ad\u30eb\u300a\u6728\u306e\u5b9f\u30de\u30b9\u30bf\u30fc\u300b~\u30b9\u30ad\u30eb\u306e\u5b9f(\u98df\u3079\u305f\u3089\u6b7b\u306c)\u3092\u7121\u9650\u306b\u98df\u3079\u3089\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u4ef6\u306b\u3064\u3044\u3066~",
+                "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite"
             }
         },
         {
