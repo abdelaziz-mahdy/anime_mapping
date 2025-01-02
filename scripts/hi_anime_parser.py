@@ -47,7 +47,8 @@ class HiAnimeParser:
                     except ValueError:
                         # If it doesn't parse as integer, you can store as string or skip
                         episode_data["episodeNumber"] = last_ep_tag.get_text(strip=True)
-
+                else:
+                    episode_data["episodeNumber"] = 1
                 # Only add to list if there's at least one valid field
                 if episode_data:
                     episodes.append(episode_data)
