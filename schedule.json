@@ -1,5 +1,5 @@
 {
-    "__version__": 283,
+    "__version__": 284,
     "data": [
         {
             "id": 235,
@@ -402,6 +402,22 @@
             }
         },
         {
+            "id": 169295,
+            "idMal": 56653,
+            "nextAiringEpisode": {
+                "airingAt": 1736431200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169295-WxoGTeMbje4T.jpg"
+            },
+            "title": {
+                "userPreferred": "BanG Dream! Ave Mujica",
+                "native": "BanG Dream! Ave Mujica",
+                "romaji": "BanG Dream! Ave Mujica"
+            }
+        },
+        {
             "id": 169315,
             "idMal": 56662,
             "nextAiringEpisode": {
@@ -421,7 +437,7 @@
             "id": 169966,
             "idMal": 56853,
             "nextAiringEpisode": {
-                "airingAt": 1735804800
+                "airingAt": 1736409600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169966-elyLBCoBAJxx.jpg",
@@ -469,7 +485,7 @@
             "id": 170942,
             "idMal": 57181,
             "nextAiringEpisode": {
-                "airingAt": 1735829760
+                "airingAt": 1736434560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170942-B77wUSM1jQTu.jpg",
@@ -581,7 +597,7 @@
             "id": 174390,
             "idMal": 57924,
             "nextAiringEpisode": {
-                "airingAt": 1735822440
+                "airingAt": 1736427240
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174390-SWbzfNExA59t.jpg",
@@ -690,6 +706,22 @@
             }
         },
         {
+            "id": 177159,
+            "idMal": 58739,
+            "nextAiringEpisode": {
+                "airingAt": 1736433000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177159-Yt7VNCVjlnxR.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177159-Yt7VNCVjlnxR.jpg"
+            },
+            "title": {
+                "userPreferred": "Momentary Lily",
+                "native": "\u3082\u3081\u3093\u305f\u308a\u30fc\u30fb\u30ea\u30ea\u30a3",
+                "romaji": "Momentary Lily"
+            }
+        },
+        {
             "id": 177506,
             "idMal": 58822,
             "nextAiringEpisode": {
@@ -789,7 +821,7 @@
             "id": 182159,
             "idMal": 59894,
             "nextAiringEpisode": {
-                "airingAt": 1735808400
+                "airingAt": 1736413200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182159-hRd92GJxgLeq.png",
