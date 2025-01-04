@@ -1,5 +1,5 @@
 {
-    "__version__": 285,
+    "__version__": 286,
     "data": [
         {
             "id": 235,
@@ -37,7 +37,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1735869300
+                "airingAt": 1736474100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1735897200
+                "airingAt": 1736502000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -469,7 +469,7 @@
             "id": 170166,
             "idMal": 56752,
             "nextAiringEpisode": {
-                "airingAt": 1735873200
+                "airingAt": 1736478000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170166-VpX7l0Horthq.jpg",
@@ -479,6 +479,22 @@
                 "userPreferred": "Shiguang Dailiren: Yingdu Pian",
                 "native": "\u65f6\u5149\u4ee3\u7406\u4eba\u82f1\u90fd\u7bc7",
                 "romaji": "Shiguang Dailiren: Yingdu Pian"
+            }
+        },
+        {
+            "id": 170631,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1736002800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170631-KZppgnit79JN.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170631-KZppgnit79JN.png"
+            },
+            "title": {
+                "userPreferred": "1 Cho",
+                "native": "1\ucd08",
+                "romaji": "1 Cho"
             }
         },
         {
@@ -607,6 +623,22 @@
                 "userPreferred": "Tono to Inu",
                 "native": "\u6bbf\u3068\u72ac",
                 "romaji": "Tono to Inu"
+            }
+        },
+        {
+            "id": 174596,
+            "idMal": 58066,
+            "nextAiringEpisode": {
+                "airingAt": 1736524800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174596-GbgKrUtBBuIg.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174596-GbgKrUtBBuIg.jpg"
+            },
+            "title": {
+                "userPreferred": "Sorairo Utility (TV)",
+                "native": "\u7a7a\u8272\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3 (TV)",
+                "romaji": "Sorairo Utility (TV)"
             }
         },
         {
@@ -770,19 +802,35 @@
             }
         },
         {
-            "id": 178729,
-            "idMal": 59175,
+            "id": 178462,
+            "idMal": 59135,
             "nextAiringEpisode": {
-                "airingAt": 1735952400
+                "airingAt": 1736519400
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178729-SkLnIC30dvLB.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178462-YW6BgSGGP4az.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178462-YW6BgSGGP4az.jpg"
             },
             "title": {
-                "userPreferred": "Ooi! Tonbo 2nd Season",
-                "native": "\u30aa\u30fc\u30a4! \u3068\u3093\u307c \u7b2c2\u671f",
-                "romaji": "Ooi! Tonbo 2nd Season"
+                "userPreferred": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
+                "native": "\u30af\u30e9\u30b9\u306e\u5927\u5acc\u3044\u306a\u5973\u5b50\u3068\u7d50\u5a5a\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
+                "romaji": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta."
+            }
+        },
+        {
+            "id": 178495,
+            "idMal": 59136,
+            "nextAiringEpisode": {
+                "airingAt": 1736515800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178495-RJCGa2YRdKBU.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178495-RJCGa2YRdKBU.jpg"
+            },
+            "title": {
+                "userPreferred": "Tasokare Hotel",
+                "native": "\u8ab0\u30bd\u5f7c\u30db\u30c6\u30eb",
+                "romaji": "Tasokare Hotel"
             }
         },
         {
