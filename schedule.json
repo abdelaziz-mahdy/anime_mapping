@@ -1,11 +1,11 @@
 {
-    "__version__": 286,
+    "__version__": 287,
     "data": [
         {
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1735981200
+                "airingAt": 1736586000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-XucEZpR3CRaV.jpg",
@@ -21,7 +21,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1735975800
+                "airingAt": 1736580600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -101,7 +101,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1735977600
+                "airingAt": 1736582400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
@@ -229,7 +229,7 @@
             "id": 142842,
             "idMal": 50607,
             "nextAiringEpisode": {
-                "airingAt": 1736029800
+                "airingAt": 1736634600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142842-sz1cRActqBe3.jpg",
@@ -248,8 +248,8 @@
                 "airingAt": 1736352000
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-yblQOQLAKk6M.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-yblQOQLAKk6M.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-KtUZ6O59DaDq.jpg"
             },
             "title": {
                 "userPreferred": "Grisaia: Phantom Trigger THE ANIMATION (TV)",
@@ -261,7 +261,7 @@
             "id": 151514,
             "idMal": 52215,
             "nextAiringEpisode": {
-                "airingAt": 1736001960
+                "airingAt": 1736606760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151514-BcU5RmSWhvv0.jpg",
@@ -309,7 +309,7 @@
             "id": 159560,
             "idMal": 54040,
             "nextAiringEpisode": {
-                "airingAt": 1736035200
+                "airingAt": 1736640000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159560-SaH4QloCicfx.jpg",
@@ -370,10 +370,42 @@
             }
         },
         {
+            "id": 165171,
+            "idMal": 55318,
+            "nextAiringEpisode": {
+                "airingAt": 1736613000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165171-nTOHsbh3pThN.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg"
+            },
+            "title": {
+                "userPreferred": "Medalist",
+                "native": "\u30e1\u30c0\u30ea\u30b9\u30c8",
+                "romaji": "Medalist"
+            }
+        },
+        {
+            "id": 166699,
+            "idMal": 55842,
+            "nextAiringEpisode": {
+                "airingAt": 1736611200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166699-ELqlQLrZwTrG.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166699-ELqlQLrZwTrG.jpg"
+            },
+            "title": {
+                "userPreferred": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru",
+                "native": "\u6c96\u7e04\u3067\u597d\u304d\u306b\u306a\u3063\u305f\u5b50\u304c\u65b9\u8a00\u3059\u304e\u3066\u30c4\u30e9\u3059\u304e\u308b",
+                "romaji": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
+            }
+        },
+        {
             "id": 168164,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1736035200
+                "airingAt": 1736640000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168164-u56VsAe2DUAH.png",
@@ -383,22 +415,6 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 3",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a3",
                 "romaji": "Dou Po Cangqiong: Nian Fan 3"
-            }
-        },
-        {
-            "id": 169258,
-            "idMal": 56647,
-            "nextAiringEpisode": {
-                "airingAt": 1735979400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169258-kj8qoomfAKsB.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg"
-            },
-            "title": {
-                "userPreferred": "Ao no Miburo",
-                "native": "\u9752\u306e\u30df\u30d6\u30ed",
-                "romaji": "Ao no Miburo"
             }
         },
         {
@@ -485,7 +501,7 @@
             "id": 170631,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1736002800
+                "airingAt": 1736607600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170631-KZppgnit79JN.png",
@@ -517,7 +533,7 @@
             "id": 171030,
             "idMal": 57390,
             "nextAiringEpisode": {
-                "airingAt": 1736033400
+                "airingAt": 1736638200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171030-U7zjkqv8pQFq.jpg",
@@ -533,7 +549,7 @@
             "id": 171080,
             "idMal": 57946,
             "nextAiringEpisode": {
-                "airingAt": 1736038800
+                "airingAt": 1736643600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171080-5d1bxwJRQ4vk.png",
@@ -581,7 +597,7 @@
             "id": 172395,
             "idMal": 57798,
             "nextAiringEpisode": {
-                "airingAt": 1736033400
+                "airingAt": 1736638200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172395-TESU4M0kQ94c.jpg",
@@ -642,6 +658,22 @@
             }
         },
         {
+            "id": 174654,
+            "idMal": 58082,
+            "nextAiringEpisode": {
+                "airingAt": 1736607600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174654-J8OduNFjRpVY.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174654-J8OduNFjRpVY.jpg"
+            },
+            "title": {
+                "userPreferred": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
+                "native": "\u30cb\u30fc\u30c8\u304f\u30ce\u4e00\u3068\u306a\u305c\u304b\u540c\u68f2\u306f\u3058\u3081\u307e\u3057\u305f",
+                "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita"
+            }
+        },
+        {
             "id": 174913,
             "idMal": 58137,
             "nextAiringEpisode": {
@@ -693,7 +725,7 @@
             "id": 176158,
             "idMal": 58473,
             "nextAiringEpisode": {
-                "airingAt": 1735999200
+                "airingAt": 1736604000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176158-l0Ic9bAD6xJz.jpg",
@@ -703,6 +735,22 @@
                 "userPreferred": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
                 "native": "\uff33\u30e9\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300a\u30d9\u30d2\u30fc\u30e2\u30b9\u300b\u3060\u3051\u3069\u3001\u732b\u3068\u9593\u9055\u308f\u308c\u3066\u30a8\u30eb\u30d5\u5a18\u306e\u9a0e\u58eb\uff08\u30da\u30c3\u30c8\uff09\u3068\u3057\u3066\u66ae\u3089\u3057\u3066\u307e\u3059",
                 "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu"
+            }
+        },
+        {
+            "id": 176496,
+            "idMal": 58567,
+            "nextAiringEpisode": {
+                "airingAt": 1736607600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-xCNtU4llsUpu.png"
+            },
+            "title": {
+                "userPreferred": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+                "native": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2 -Arise from the Shadow-",
+                "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow"
             }
         },
         {
@@ -837,7 +885,7 @@
             "id": 179292,
             "idMal": 59512,
             "nextAiringEpisode": {
-                "airingAt": 1736036100
+                "airingAt": 1736640900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179292-jOcVLoMwkFKo.png",
@@ -917,7 +965,7 @@
             "id": 183423,
             "idMal": 60108,
             "nextAiringEpisode": {
-                "airingAt": 1736037000
+                "airingAt": 1736641800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183423-wt4YjEiCWVVD.jpg",
@@ -933,7 +981,7 @@
             "id": 183473,
             "idMal": 60080,
             "nextAiringEpisode": {
-                "airingAt": 1735959600
+                "airingAt": 1736564400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183473-jZR2gEFZQhVe.png",
@@ -943,6 +991,22 @@
                 "userPreferred": "Nui Story 2",
                 "native": "\u306c\u3044\u30b9\u30c8\u30fc\u30ea\u30fc2",
                 "romaji": "Nui Story 2"
+            }
+        },
+        {
+            "id": 185088,
+            "idMal": 60410,
+            "nextAiringEpisode": {
+                "airingAt": 1736099400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185088-pY2KxbG0KIoO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185088-pY2KxbG0KIoO.jpg"
+            },
+            "title": {
+                "userPreferred": "Yami Shibai 14",
+                "native": "\u95c7\u829d\u5c45 \u5341\u56db\u671f",
+                "romaji": "Yami Shibai 14"
             }
         },
         {
@@ -981,7 +1045,7 @@
             "id": 185541,
             "idMal": 59499,
             "nextAiringEpisode": {
-                "airingAt": 1736002800
+                "airingAt": 1736607600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185541-XaTttukXApVj.jpg",
@@ -1007,6 +1071,22 @@
                 "userPreferred": "Shendao Dizun",
                 "native": "\u795e\u9053\u5e1d\u5c0a",
                 "romaji": "Shendao Dizun"
+            }
+        },
+        {
+            "id": 185880,
+            "idMal": 59226,
+            "nextAiringEpisode": {
+                "airingAt": 1736609400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185880-efBIcDBzPiHP.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185880-efBIcDBzPiHP.jpg"
+            },
+            "title": {
+                "userPreferred": "Ao no Exorcist: Yosuga-hen",
+                "native": "\u9752\u306e\u7953\u9b54\u5e2b \u7d42\u591c\u7bc7",
+                "romaji": "Ao no Exorcist: Yosuga-hen"
             }
         }
     ]
