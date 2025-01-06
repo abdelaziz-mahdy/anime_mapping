@@ -1,5 +1,5 @@
 {
-    "__version__": 287,
+    "__version__": 288,
     "data": [
         {
             "id": 235,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1736069400
+                "airingAt": 1736674200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -69,7 +69,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1736113200
+                "airingAt": 1736718000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1736067600
+                "airingAt": 1736672400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -175,22 +175,6 @@
                 "userPreferred": "Zhe Tian",
                 "native": "\u906e\u5929",
                 "romaji": "Zhe Tian"
-            }
-        },
-        {
-            "id": 139095,
-            "idMal": 49785,
-            "nextAiringEpisode": {
-                "airingAt": 1736065800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139095-xXcToL6L4vuv.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
-            },
-            "title": {
-                "userPreferred": "FAIRY TAIL: 100 YEARS QUEST",
-                "native": "FAIRY TAIL 100 YEARS QUEST",
-                "romaji": "FAIRY TAIL: 100 YEARS QUEST"
             }
         },
         {
@@ -418,6 +402,22 @@
             }
         },
         {
+            "id": 169258,
+            "idMal": 56647,
+            "nextAiringEpisode": {
+                "airingAt": 1736584200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169258-kj8qoomfAKsB.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg"
+            },
+            "title": {
+                "userPreferred": "Ao no Miburo",
+                "native": "\u9752\u306e\u30df\u30d6\u30ed",
+                "romaji": "Ao no Miburo"
+            }
+        },
+        {
             "id": 169295,
             "idMal": 56653,
             "nextAiringEpisode": {
@@ -511,6 +511,22 @@
                 "userPreferred": "1 Cho",
                 "native": "1\ucd08",
                 "romaji": "1 Cho"
+            }
+        },
+        {
+            "id": 170650,
+            "idMal": 57050,
+            "nextAiringEpisode": {
+                "airingAt": 1736686800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170650-iVQC67atMVj3.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png"
+            },
+            "title": {
+                "userPreferred": "Kisaki Kyouiku kara Nigetai Watashi",
+                "native": "\u5983\u6559\u80b2\u304b\u3089\u9003\u3052\u305f\u3044\u79c1",
+                "romaji": "Kisaki Kyouiku kara Nigetai Watashi"
             }
         },
         {
@@ -738,6 +754,22 @@
             }
         },
         {
+            "id": 176273,
+            "idMal": 58502,
+            "nextAiringEpisode": {
+                "airingAt": 1736693160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176273-whKlFCswinEm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176273-whKlFCswinEm.jpg"
+            },
+            "title": {
+                "userPreferred": "Zenshuu.",
+                "native": "\u5168\u4fee\u3002",
+                "romaji": "Zenshuu."
+            }
+        },
+        {
             "id": 176496,
             "idMal": 58567,
             "nextAiringEpisode": {
@@ -757,7 +789,7 @@
             "id": 176508,
             "idMal": 58572,
             "nextAiringEpisode": {
-                "airingAt": 1736064000
+                "airingAt": 1736668800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-NHYHx5YJcU5i.png",
@@ -997,7 +1029,7 @@
             "id": 185088,
             "idMal": 60410,
             "nextAiringEpisode": {
-                "airingAt": 1736099400
+                "airingAt": 1736704200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185088-pY2KxbG0KIoO.jpg",
