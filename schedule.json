@@ -1,5 +1,5 @@
 {
-    "__version__": 288,
+    "__version__": 289,
     "data": [
         {
             "id": 235,
@@ -149,7 +149,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1736128800
+                "airingAt": 1736733600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -181,7 +181,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1736203200
+                "airingAt": 1736462400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -450,6 +450,22 @@
             }
         },
         {
+            "id": 169441,
+            "idMal": 56701,
+            "nextAiringEpisode": {
+                "airingAt": 1736775000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-wIQe1xfCc1XS.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg"
+            },
+            "title": {
+                "userPreferred": "Watashi no Shiawase na Kekkon 2nd Season",
+                "native": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a \u7b2c\u4e8c\u671f",
+                "romaji": "Watashi no Shiawase na Kekkon 2nd Season"
+            }
+        },
+        {
             "id": 169966,
             "idMal": 56853,
             "nextAiringEpisode": {
@@ -527,6 +543,22 @@
                 "userPreferred": "Kisaki Kyouiku kara Nigetai Watashi",
                 "native": "\u5983\u6559\u80b2\u304b\u3089\u9003\u3052\u305f\u3044\u79c1",
                 "romaji": "Kisaki Kyouiku kara Nigetai Watashi"
+            }
+        },
+        {
+            "id": 170916,
+            "idMal": 57152,
+            "nextAiringEpisode": {
+                "airingAt": 1736773200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170916-WNdKmGcOQhuO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170916-WNdKmGcOQhuO.jpg"
+            },
+            "title": {
+                "userPreferred": "Mahoutsukai no Yakusoku",
+                "native": "\u9b54\u6cd5\u4f7f\u3044\u306e\u7d04\u675f",
+                "romaji": "Mahoutsukai no Yakusoku"
             }
         },
         {
@@ -738,6 +770,22 @@
             }
         },
         {
+            "id": 176063,
+            "idMal": 58437,
+            "nextAiringEpisode": {
+                "airingAt": 1736785800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176063-dIL2xrjmOLs1.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176063-dIL2xrjmOLs1.jpg"
+            },
+            "title": {
+                "userPreferred": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita",
+                "native": "\u6ca1\u843d\u4e88\u5b9a\u306e\u8cb4\u65cf\u3060\u3051\u3069\u3001\u6687\u3060\u3063\u305f\u304b\u3089\u9b54\u6cd5\u3092\u6975\u3081\u3066\u307f\u305f",
+                "romaji": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita"
+            }
+        },
+        {
             "id": 176158,
             "idMal": 58473,
             "nextAiringEpisode": {
@@ -850,6 +898,22 @@
             }
         },
         {
+            "id": 177552,
+            "idMal": 58853,
+            "nextAiringEpisode": {
+                "airingAt": 1736780400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177552-JPx2rIXeprne.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177552-JPx2rIXeprne.jpg"
+            },
+            "title": {
+                "userPreferred": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+                "native": "\u9ed2\u5ca9\u30e1\u30c0\u30ab\u306b\u79c1\u306e\u53ef\u611b\u3044\u304c\u901a\u3058\u306a\u3044",
+                "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai"
+            }
+        },
+        {
             "id": 177603,
             "idMal": 58827,
             "nextAiringEpisode": {
@@ -933,7 +997,7 @@
             "id": 179689,
             "idMal": 59349,
             "nextAiringEpisode": {
-                "airingAt": 1736343000
+                "airingAt": 1736778600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179689-kmlqdU3IbxeM.jpg",
@@ -943,6 +1007,22 @@
                 "userPreferred": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
                 "native": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u304c\u7570\u4e16\u754c\u306b\u884c\u3063\u305f\u3089\u56db\u5929\u738b\u306b\u306a\u3063\u305f\u8a71",
                 "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi"
+            }
+        },
+        {
+            "id": 179696,
+            "idMal": 59361,
+            "nextAiringEpisode": {
+                "airingAt": 1736776800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179696-1MAqXYVXT7IT.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179696-1MAqXYVXT7IT.jpg"
+            },
+            "title": {
+                "userPreferred": "Kono Kaisha ni Suki na Hito ga Imasu",
+                "native": "\u3053\u306e\u4f1a\u793e\u306b\u597d\u304d\u306a\u4eba\u304c\u3044\u307e\u3059",
+                "romaji": "Kono Kaisha ni Suki na Hito ga Imasu"
             }
         },
         {
@@ -1093,7 +1173,7 @@
             "id": 185794,
             "idMal": 59915,
             "nextAiringEpisode": {
-                "airingAt": 1736204400
+                "airingAt": 1736809200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185794-8rVZfoeJU62O.jpg",
