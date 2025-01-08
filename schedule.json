@@ -1,6 +1,22 @@
 {
-    "__version__": 289,
+    "__version__": 290,
     "data": [
+        {
+            "id": 21,
+            "idMal": 21,
+            "nextAiringEpisode": {
+                "airingAt": 1743948960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-YCDoj1EkAxFn.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+            },
+            "title": {
+                "userPreferred": "ONE PIECE",
+                "native": "ONE PIECE",
+                "romaji": "ONE PIECE"
+            }
+        },
         {
             "id": 235,
             "idMal": 235,
@@ -613,7 +629,7 @@
             "id": 171545,
             "idMal": 57533,
             "nextAiringEpisode": {
-                "airingAt": 1736258400
+                "airingAt": 1736863200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
@@ -757,7 +773,7 @@
             "id": 175869,
             "idMal": 58351,
             "nextAiringEpisode": {
-                "airingAt": 1736287620
+                "airingAt": 1736892420
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
@@ -930,10 +946,26 @@
             }
         },
         {
+            "id": 178022,
+            "idMal": 59055,
+            "nextAiringEpisode": {
+                "airingAt": 1736872140
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178022-gB3zAfazGBJ6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178022-gB3zAfazGBJ6.jpg"
+            },
+            "title": {
+                "userPreferred": "Hana wa Saku, Shura no Gotoku",
+                "native": "\u82b1\u306f\u54b2\u304f\u3001\u4fee\u7f85\u306e\u5982\u304f",
+                "romaji": "Hana wa Saku, Shura no Gotoku"
+            }
+        },
+        {
             "id": 178100,
             "idMal": 59002,
             "nextAiringEpisode": {
-                "airingAt": 1736262000
+                "airingAt": 1736866800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178100-GF4dKSrkdByJ.jpg",
@@ -975,6 +1007,22 @@
                 "userPreferred": "Tasokare Hotel",
                 "native": "\u8ab0\u30bd\u5f7c\u30db\u30c6\u30eb",
                 "romaji": "Tasokare Hotel"
+            }
+        },
+        {
+            "id": 178550,
+            "idMal": 59142,
+            "nextAiringEpisode": {
+                "airingAt": 1736865000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178550-1mjYHtOwiqkC.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178550-1mjYHtOwiqkC.jpg"
+            },
+            "title": {
+                "userPreferred": "Unnamed Memory Act.2",
+                "native": "Unnamed Memory Act.2",
+                "romaji": "Unnamed Memory Act.2"
             }
         },
         {
@@ -1141,7 +1189,7 @@
             "id": 185539,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1736287200
+                "airingAt": 1736892000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185539-57P8xM9whe1b.png",
