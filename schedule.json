@@ -1,5 +1,5 @@
 {
-    "__version__": 290,
+    "__version__": 291,
     "data": [
         {
             "id": 21,
@@ -181,7 +181,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1736301600
+                "airingAt": 1736906400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -245,7 +245,7 @@
             "id": 145740,
             "idMal": 51119,
             "nextAiringEpisode": {
-                "airingAt": 1736352000
+                "airingAt": 1736956800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
@@ -757,7 +757,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1736334000
+                "airingAt": 1736938800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -767,6 +767,22 @@
                 "userPreferred": "Yoru wa Neko to Issho Season 3",
                 "native": "\u591c\u306f\u732b\u3068\u3044\u3063\u3057\u3087Season3",
                 "romaji": "Yoru wa Neko to Issho Season 3"
+            }
+        },
+        {
+            "id": 175443,
+            "idMal": 58271,
+            "nextAiringEpisode": {
+                "airingAt": 1736956500
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175443-NSk51qiEwIEh.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-NSk51qiEwIEh.jpg"
+            },
+            "title": {
+                "userPreferred": "Honey Lemon Soda",
+                "native": "\u30cf\u30cb\u30fc\u30ec\u30e2\u30f3\u30bd\u30fc\u30c0",
+                "romaji": "Honey Lemon Soda"
             }
         },
         {
@@ -815,6 +831,22 @@
                 "userPreferred": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
                 "native": "\uff33\u30e9\u30f3\u30af\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u300a\u30d9\u30d2\u30fc\u30e2\u30b9\u300b\u3060\u3051\u3069\u3001\u732b\u3068\u9593\u9055\u308f\u308c\u3066\u30a8\u30eb\u30d5\u5a18\u306e\u9a0e\u58eb\uff08\u30da\u30c3\u30c8\uff09\u3068\u3057\u3066\u66ae\u3089\u3057\u3066\u307e\u3059",
                 "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu"
+            }
+        },
+        {
+            "id": 176234,
+            "idMal": 58484,
+            "nextAiringEpisode": {
+                "airingAt": 1736949600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176234-Wx2rAYr7YSD8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176234-Wx2rAYr7YSD8.jpg"
+            },
+            "title": {
+                "userPreferred": "Ishura 2nd Season",
+                "native": "\u7570\u4fee\u7f85 \u7b2c2\u671f",
+                "romaji": "Ishura 2nd Season"
             }
         },
         {
@@ -869,7 +901,7 @@
             "id": 176642,
             "idMal": 58600,
             "nextAiringEpisode": {
-                "airingAt": 1736348400
+                "airingAt": 1736953200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176642-lgDtPlodCMRm.jpg",
@@ -901,7 +933,7 @@
             "id": 177506,
             "idMal": 58822,
             "nextAiringEpisode": {
-                "airingAt": 1736343000
+                "airingAt": 1736947800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177506-in4J0GNzjOZL.jpg",
@@ -933,7 +965,7 @@
             "id": 177603,
             "idMal": 58827,
             "nextAiringEpisode": {
-                "airingAt": 1736340840
+                "airingAt": 1736945640
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177603-OLyvQoVBW101.jpg",
@@ -1042,6 +1074,22 @@
             }
         },
         {
+            "id": 179297,
+            "idMal": 59265,
+            "nextAiringEpisode": {
+                "airingAt": 1736953200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179297-qaG8nCqMpR3o.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179297-qaG8nCqMpR3o.jpg"
+            },
+            "title": {
+                "userPreferred": "Magic Maker: Isekai Mahou no Tsukurikata",
+                "native": "\u30de\u30b8\u30c3\u30af\u30fb\u30e1\u30a4\u30ab\u30fc\u3000\uff5e\u7570\u4e16\u754c\u9b54\u6cd5\u306e\u4f5c\u308a\u65b9\uff5e",
+                "romaji": "Magic Maker: Isekai Mahou no Tsukurikata"
+            }
+        },
+        {
             "id": 179689,
             "idMal": 59349,
             "nextAiringEpisode": {
@@ -1093,7 +1141,7 @@
             "id": 182301,
             "idMal": 59881,
             "nextAiringEpisode": {
-                "airingAt": 1736369400
+                "airingAt": 1736974200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182301-NLM4Tdc7y6nE.png",
@@ -1170,10 +1218,26 @@
             }
         },
         {
+            "id": 185462,
+            "idMal": 60425,
+            "nextAiringEpisode": {
+                "airingAt": 1736672100
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg"
+            },
+            "title": {
+                "userPreferred": "0-saiji Start Dash Monogatari Season 2",
+                "native": "0\u6b73\u5150\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u7269\u8a9e \u30b7\u30fc\u30ba\u30f32",
+                "romaji": "0-saiji Start Dash Monogatari Season 2"
+            }
+        },
+        {
             "id": 185538,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1736373600
+                "airingAt": 1736805600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185538-3YVB6ishN7as.png",
