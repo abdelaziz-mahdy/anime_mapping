@@ -1,5 +1,5 @@
 {
-    "__version__": 294,
+    "__version__": 295,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1736674200
+                "airingAt": 1737279000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1736718000
+                "airingAt": 1737322800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -133,7 +133,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1736672400
+                "airingAt": 1737277200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -613,7 +613,7 @@
             "id": 170650,
             "idMal": 57050,
             "nextAiringEpisode": {
-                "airingAt": 1736686800
+                "airingAt": 1737291600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170650-iVQC67atMVj3.png",
@@ -623,6 +623,22 @@
                 "userPreferred": "Kisaki Kyouiku kara Nigetai Watashi",
                 "native": "\u5983\u6559\u80b2\u304b\u3089\u9003\u3052\u305f\u3044\u79c1",
                 "romaji": "Kisaki Kyouiku kara Nigetai Watashi"
+            }
+        },
+        {
+            "id": 170892,
+            "idMal": 53924,
+            "nextAiringEpisode": {
+                "airingAt": 1737271800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170892-VFCGRI41xFUF.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg"
+            },
+            "title": {
+                "userPreferred": "Jibaku Shounen Hanako-kun 2",
+                "native": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u3093\uff12",
+                "romaji": "Jibaku Shounen Hanako-kun 2"
             }
         },
         {
@@ -738,6 +754,22 @@
             }
         },
         {
+            "id": 172258,
+            "idMal": 57616,
+            "nextAiringEpisode": {
+                "airingAt": 1737293400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172258-CFvhqor0blLV.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172258-CFvhqor0blLV.jpg"
+            },
+            "title": {
+                "userPreferred": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
+                "native": "\u541b\u306e\u3053\u3068\u304c\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a100\u4eba\u306e\u5f7c\u5973 \u7b2c2\u671f",
+                "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season"
+            }
+        },
+        {
             "id": 172395,
             "idMal": 57798,
             "nextAiringEpisode": {
@@ -799,6 +831,22 @@
                 "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku",
                 "native": "\u51cd\u724c\uff5e\u88cf\u30ec\u30fc\u30c8\u9ebb\u96c0\u95d8\u724c\u9332\uff5e",
                 "romaji": "Touhai: Ura Rate Mahjong Touhai Roku"
+            }
+        },
+        {
+            "id": 173333,
+            "idMal": 57827,
+            "nextAiringEpisode": {
+                "airingAt": 1737275400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173333-lqvM2Ya74nN9.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg"
+            },
+            "title": {
+                "userPreferred": "Mashin Souzouden Wataru",
+                "native": "\u9b54\u795e\u5275\u9020\u4f1d\u30ef\u30bf\u30eb",
+                "romaji": "Mashin Souzouden Wataru"
             }
         },
         {
@@ -1013,7 +1061,7 @@
             "id": 176273,
             "idMal": 58502,
             "nextAiringEpisode": {
-                "airingAt": 1736693160
+                "airingAt": 1737297960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176273-whKlFCswinEm.jpg",
@@ -1061,7 +1109,7 @@
             "id": 176508,
             "idMal": 58572,
             "nextAiringEpisode": {
-                "airingAt": 1736668800
+                "airingAt": 1737273600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-NHYHx5YJcU5i.png",
@@ -1346,6 +1394,22 @@
             }
         },
         {
+            "id": 180052,
+            "idMal": 59514,
+            "nextAiringEpisode": {
+                "airingAt": 1737297000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180052-i29SxOyEBtXB.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180052-i29SxOyEBtXB.jpg"
+            },
+            "title": {
+                "userPreferred": "Sentai Red Isekai de Boukensha ni Naru",
+                "native": "\u6226\u968a\u30ec\u30c3\u30c9\u7570\u4e16\u754c\u3067\u5192\u967a\u8005\u306b\u306a\u308b",
+                "romaji": "Sentai Red Isekai de Boukensha ni Naru"
+            }
+        },
+        {
             "id": 180292,
             "idMal": 59561,
             "nextAiringEpisode": {
@@ -1375,6 +1439,22 @@
                 "userPreferred": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
                 "native": "A\u30e9\u30f3\u30af\u30d1\u30fc\u30c6\u30a3\u3092\u96e2\u8131\u3057\u305f\u4ffa\u306f\u3001\u5143\u6559\u3048\u5b50\u305f\u3061\u3068\u8ff7\u5bae\u6df1\u90e8\u3092\u76ee\u6307\u3059\u3002",
                 "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu."
+            }
+        },
+        {
+            "id": 181886,
+            "idMal": 59914,
+            "nextAiringEpisode": {
+                "airingAt": 1737297000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181886-gEqtKp6Wt2U2.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181886-gEqtKp6Wt2U2.jpg"
+            },
+            "title": {
+                "userPreferred": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+                "native": "\u30ad\u30f3\u8089\u30de\u30f3 \u5b8c\u74a7\u8d85\u4eba\u59cb\u7956\u7de8 Season 2",
+                "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2"
             }
         },
         {
@@ -1477,7 +1557,7 @@
             "id": 185088,
             "idMal": 60410,
             "nextAiringEpisode": {
-                "airingAt": 1736704200
+                "airingAt": 1737309000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185088-pY2KxbG0KIoO.jpg",
@@ -1493,7 +1573,7 @@
             "id": 185462,
             "idMal": 60425,
             "nextAiringEpisode": {
-                "airingAt": 1736672100
+                "airingAt": 1737276900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
