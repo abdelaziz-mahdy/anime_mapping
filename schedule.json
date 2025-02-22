@@ -1,5 +1,5 @@
 {
-    "__version__": 334,
+    "__version__": 335,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1740102900
+                "airingAt": 1740707700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -149,7 +149,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1740130800
+                "airingAt": 1740735600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -213,7 +213,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1740177000
+                "airingAt": 1740781800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -277,7 +277,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1740131700
+                "airingAt": 1740736500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-FmWU8dacXDiA.jpg",
@@ -373,7 +373,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1740129900
+                "airingAt": 1740734700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -421,7 +421,7 @@
             "id": 167143,
             "idMal": 55997,
             "nextAiringEpisode": {
-                "airingAt": 1740150000
+                "airingAt": 1740754800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167143-SoFo5kOvlkbO.jpg",
@@ -549,7 +549,7 @@
             "id": 170083,
             "idMal": 56894,
             "nextAiringEpisode": {
-                "airingAt": 1740148800
+                "airingAt": 1740753600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170083-GTwRrhTApcLR.png",
@@ -725,7 +725,7 @@
             "id": 172439,
             "idMal": 57648,
             "nextAiringEpisode": {
-                "airingAt": 1740142800
+                "airingAt": 1740747600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172439-sTda7baXB0Fh.jpg",
@@ -757,7 +757,7 @@
             "id": 173263,
             "idMal": 57796,
             "nextAiringEpisode": {
-                "airingAt": 1740158580
+                "airingAt": 1740763380
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173263-c3geIX7XVEcH.jpg",
@@ -805,7 +805,7 @@
             "id": 174596,
             "idMal": 58066,
             "nextAiringEpisode": {
-                "airingAt": 1740153600
+                "airingAt": 1740758400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174596-GbgKrUtBBuIg.jpg",
@@ -869,7 +869,7 @@
             "id": 175198,
             "idMal": 58216,
             "nextAiringEpisode": {
-                "airingAt": 1740151800
+                "airingAt": 1740756600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175198-AtWwEQPTjQ6N.jpg",
@@ -1013,7 +1013,7 @@
             "id": 176301,
             "idMal": 58514,
             "nextAiringEpisode": {
-                "airingAt": 1740146400
+                "airingAt": 1740751200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-AclxpmzlKoBM.jpg",
@@ -1173,7 +1173,7 @@
             "id": 178312,
             "idMal": 59113,
             "nextAiringEpisode": {
-                "airingAt": 1740144600
+                "airingAt": 1740749400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178312-iGhE7xvvCReS.jpg",
@@ -1189,7 +1189,7 @@
             "id": 178462,
             "idMal": 59135,
             "nextAiringEpisode": {
-                "airingAt": 1740148200
+                "airingAt": 1740753000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178462-YW6BgSGGP4az.jpg",
@@ -1205,7 +1205,7 @@
             "id": 178495,
             "idMal": 59136,
             "nextAiringEpisode": {
-                "airingAt": 1740144600
+                "airingAt": 1740749400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178495-RJCGa2YRdKBU.jpg",
@@ -1426,6 +1426,22 @@
             }
         },
         {
+            "id": 182877,
+            "idMal": 60094,
+            "nextAiringEpisode": {
+                "airingAt": 1740763380
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182877-In2sD6eEJdvw.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182877-In2sD6eEJdvw.png"
+            },
+            "title": {
+                "userPreferred": "Kankin Kuiki Level X (Zoku-hen)",
+                "native": "\u76e3\u7981\u533a\u57df\u30ec\u30d9\u30ebX \u7d9a\u7de8",
+                "romaji": "Kankin Kuiki Level X (Zoku-hen)"
+            }
+        },
+        {
             "id": 182920,
             "idMal": 54144,
             "nextAiringEpisode": {
@@ -1589,7 +1605,7 @@
             "id": 186300,
             "idMal": 60480,
             "nextAiringEpisode": {
-                "airingAt": 1740128400
+                "airingAt": 1740733200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
@@ -1605,7 +1621,7 @@
             "id": 186752,
             "idMal": 60677,
             "nextAiringEpisode": {
-                "airingAt": 1740175200
+                "airingAt": 1740780000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186752-UxPh2YSqf7rO.png",
