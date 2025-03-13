@@ -1,5 +1,5 @@
 {
-    "__version__": 353,
+    "__version__": 354,
     "data": [
         {
             "id": 21,
@@ -181,7 +181,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1741744800
+                "airingAt": 1742349600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -191,6 +191,22 @@
                 "userPreferred": "Zhe Tian",
                 "native": "\u906e\u5929",
                 "romaji": "Zhe Tian"
+            }
+        },
+        {
+            "id": 139825,
+            "idMal": 49981,
+            "nextAiringEpisode": {
+                "airingAt": 1746703800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139825-rFlrzdRZmlYK.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg"
+            },
+            "title": {
+                "userPreferred": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+                "native": "\u30ad\u30df\u3068\u50d5\u306e\u6700\u5f8c\u306e\u6226\u5834\u3001\u3042\u308b\u3044\u306f\u4e16\u754c\u304c\u59cb\u307e\u308b\u8056\u6226 Season II",
+                "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II"
             }
         },
         {
@@ -245,7 +261,7 @@
             "id": 145740,
             "idMal": 51119,
             "nextAiringEpisode": {
-                "airingAt": 1741795200
+                "airingAt": 1742400000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
@@ -341,7 +357,7 @@
             "id": 163134,
             "idMal": 54857,
             "nextAiringEpisode": {
-                "airingAt": 1741786200
+                "airingAt": 1742391000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg",
@@ -821,7 +837,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1741777200
+                "airingAt": 1742382000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -885,7 +901,7 @@
             "id": 175443,
             "idMal": 58271,
             "nextAiringEpisode": {
-                "airingAt": 1741794900
+                "airingAt": 1742399700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175443-yeamxYxCwLSe.jpg",
@@ -965,7 +981,7 @@
             "id": 176234,
             "idMal": 58484,
             "nextAiringEpisode": {
-                "airingAt": 1741788000
+                "airingAt": 1742392800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176234-Wx2rAYr7YSD8.jpg",
@@ -1077,7 +1093,7 @@
             "id": 177506,
             "idMal": 58822,
             "nextAiringEpisode": {
-                "airingAt": 1741786200
+                "airingAt": 1742391000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177506-in4J0GNzjOZL.jpg",
@@ -1151,6 +1167,22 @@
                 "userPreferred": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
                 "native": "\u5916\u308c\u30b9\u30ad\u30eb\u300a\u6728\u306e\u5b9f\u30de\u30b9\u30bf\u30fc\u300b~\u30b9\u30ad\u30eb\u306e\u5b9f(\u98df\u3079\u305f\u3089\u6b7b\u306c)\u3092\u7121\u9650\u306b\u98df\u3079\u3089\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u4ef6\u306b\u3064\u3044\u3066~",
                 "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite"
+            }
+        },
+        {
+            "id": 178126,
+            "idMal": 58805,
+            "nextAiringEpisode": {
+                "airingAt": 1742828400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178126-ocTBj6yxsNeR.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178126-ocTBj6yxsNeR.jpg"
+            },
+            "title": {
+                "userPreferred": "Luka to Taiyou no Hana",
+                "native": "\u30eb\u30ab\u3068\u592a\u967d\u306e\u82b1",
+                "romaji": "Luka to Taiyou no Hana"
             }
         },
         {
@@ -1253,7 +1285,7 @@
             "id": 179297,
             "idMal": 59265,
             "nextAiringEpisode": {
-                "airingAt": 1741791600
+                "airingAt": 1742396400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179297-qaG8nCqMpR3o.jpg",
@@ -1381,7 +1413,7 @@
             "id": 182417,
             "idMal": 60012,
             "nextAiringEpisode": {
-                "airingAt": 1741791600
+                "airingAt": 1742396400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
@@ -1509,7 +1541,7 @@
             "id": 185538,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1741816800
+                "airingAt": 1742162400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185538-3YVB6ishN7as.png",
