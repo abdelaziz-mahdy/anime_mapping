@@ -1,5 +1,5 @@
 {
-    "__version__": 361,
+    "__version__": 362,
     "data": [
         {
             "id": 21,
@@ -101,7 +101,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1742508600
+                "airingAt": 1743113400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -213,7 +213,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1742510400
+                "airingAt": 1742856000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -325,7 +325,7 @@
             "id": 162921,
             "idMal": 54769,
             "nextAiringEpisode": {
-                "airingAt": 1742484600
+                "airingAt": 1743089400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162921-ByoCP2VvLjeT.jpg",
@@ -485,7 +485,7 @@
             "id": 169295,
             "idMal": 56653,
             "nextAiringEpisode": {
-                "airingAt": 1742479200
+                "airingAt": 1743084000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg",
@@ -501,7 +501,7 @@
             "id": 169315,
             "idMal": 56662,
             "nextAiringEpisode": {
-                "airingAt": 1742488080
+                "airingAt": 1743092880
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169315-NtbOlSyDtSCZ.png",
@@ -517,7 +517,7 @@
             "id": 169441,
             "idMal": 56701,
             "nextAiringEpisode": {
-                "airingAt": 1742823000
+                "airingAt": 1743427800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-wIQe1xfCc1XS.jpg",
@@ -533,7 +533,7 @@
             "id": 169966,
             "idMal": 56853,
             "nextAiringEpisode": {
-                "airingAt": 1742457600
+                "airingAt": 1743062400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169966-elyLBCoBAJxx.jpg",
@@ -594,22 +594,6 @@
             }
         },
         {
-            "id": 170942,
-            "idMal": 57181,
-            "nextAiringEpisode": {
-                "airingAt": 1742482560
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170942-B77wUSM1jQTu.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg"
-            },
-            "title": {
-                "userPreferred": "Ao no Hako",
-                "native": "\u30a2\u30aa\u306e\u30cf\u30b3",
-                "romaji": "Ao no Hako"
-            }
-        },
-        {
             "id": 171080,
             "idMal": 57946,
             "nextAiringEpisode": {
@@ -642,26 +626,10 @@
             }
         },
         {
-            "id": 171637,
-            "idMal": 57554,
-            "nextAiringEpisode": {
-                "airingAt": 1742486160
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png"
-            },
-            "title": {
-                "userPreferred": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-                "native": "\u308b\u308d\u3046\u306b\u5263\u5fc3 \uff0d\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a\uff0d\u4eac\u90fd\u52d5\u4e71",
-                "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
-            }
-        },
-        {
             "id": 172019,
             "idMal": 57592,
             "nextAiringEpisode": {
-                "airingAt": 1742475600
+                "airingAt": 1743080400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172019-y0dLlAdingR2.jpg",
@@ -709,7 +677,7 @@
             "id": 172453,
             "idMal": 57719,
             "nextAiringEpisode": {
-                "airingAt": 1742484360
+                "airingAt": 1743089160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172453-7iYNTAEZpNsJ.png",
@@ -751,22 +719,6 @@
                 "userPreferred": "Mashin Souzouden Wataru",
                 "native": "\u9b54\u795e\u5275\u9020\u4f1d\u30ef\u30bf\u30eb",
                 "romaji": "Mashin Souzouden Wataru"
-            }
-        },
-        {
-            "id": 174390,
-            "idMal": 57924,
-            "nextAiringEpisode": {
-                "airingAt": 1742475240
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174390-SWbzfNExA59t.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174390-SWbzfNExA59t.jpg"
-            },
-            "title": {
-                "userPreferred": "Tono to Inu",
-                "native": "\u6bbf\u3068\u72ac",
-                "romaji": "Tono to Inu"
             }
         },
         {
@@ -837,7 +789,7 @@
             "id": 175409,
             "idMal": 58259,
             "nextAiringEpisode": {
-                "airingAt": 1742488080
+                "airingAt": 1743092880
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175409-ZYYEw0H6QypN.jpg",
@@ -1013,7 +965,7 @@
             "id": 177159,
             "idMal": 58739,
             "nextAiringEpisode": {
-                "airingAt": 1742481000
+                "airingAt": 1743085800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177159-Yt7VNCVjlnxR.jpg",
@@ -1125,7 +1077,7 @@
             "id": 178548,
             "idMal": 59144,
             "nextAiringEpisode": {
-                "airingAt": 1742481000
+                "airingAt": 1743085800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178548-4QkzBuJAx8w7.jpg",
@@ -1221,7 +1173,7 @@
             "id": 180292,
             "idMal": 59561,
             "nextAiringEpisode": {
-                "airingAt": 1742472000
+                "airingAt": 1743076800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180292-GG0nwYZ5HeN7.jpg",
@@ -1269,7 +1221,7 @@
             "id": 182159,
             "idMal": 59894,
             "nextAiringEpisode": {
-                "airingAt": 1742461200
+                "airingAt": 1743066000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182159-hRd92GJxgLeq.png",
@@ -1325,7 +1277,7 @@
             },
             "title": {
                 "userPreferred": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
-                "native": "\u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u30c7\u30e9\u30c3\u30af\u30b9\u7de8",
+                "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u30c7\u30e9\u30c3\u30af\u30b9\u7de8",
                 "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen"
             }
         },
@@ -1407,22 +1359,6 @@
                 "userPreferred": "0-saiji Start Dash Monogatari Season 2",
                 "native": "0\u6b73\u5150\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u7269\u8a9e \u30b7\u30fc\u30ba\u30f32",
                 "romaji": "0-saiji Start Dash Monogatari Season 2"
-            }
-        },
-        {
-            "id": 185794,
-            "idMal": 59915,
-            "nextAiringEpisode": {
-                "airingAt": 1742857200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185794-8rVZfoeJU62O.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185794-8rVZfoeJU62O.jpg"
-            },
-            "title": {
-                "userPreferred": "Shendao Dizun",
-                "native": "\u795e\u9053\u5e1d\u5c0a",
-                "romaji": "Shendao Dizun"
             }
         },
         {
