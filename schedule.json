@@ -1,5 +1,5 @@
 {
-    "__version__": 362,
+    "__version__": 363,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1742522100
+                "airingAt": 1743126900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -149,7 +149,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1742550000
+                "airingAt": 1743154800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -229,7 +229,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1742596200
+                "airingAt": 1743201000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -277,7 +277,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1742550900
+                "airingAt": 1744365300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-FmWU8dacXDiA.jpg",
@@ -373,7 +373,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1742549100
+                "airingAt": 1743153900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -402,6 +402,22 @@
             }
         },
         {
+            "id": 166442,
+            "idMal": 60057,
+            "nextAiringEpisode": {
+                "airingAt": 1743127200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166442-np5Y0OPNJKQp.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166442-np5Y0OPNJKQp.jpg"
+            },
+            "title": {
+                "userPreferred": "Chao Neng Lifang",
+                "native": "\u8d85\u80fd\u7acb\u65b9",
+                "romaji": "Chao Neng Lifang"
+            }
+        },
+        {
             "id": 166699,
             "idMal": 55842,
             "nextAiringEpisode": {
@@ -421,7 +437,7 @@
             "id": 167143,
             "idMal": 55997,
             "nextAiringEpisode": {
-                "airingAt": 1742569200
+                "airingAt": 1743174000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167143-SoFo5kOvlkbO.jpg",
@@ -661,7 +677,7 @@
             "id": 172439,
             "idMal": 57648,
             "nextAiringEpisode": {
-                "airingAt": 1742562000
+                "airingAt": 1743166800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172439-sTda7baXB0Fh.jpg",
@@ -693,7 +709,7 @@
             "id": 173263,
             "idMal": 57796,
             "nextAiringEpisode": {
-                "airingAt": 1742577780
+                "airingAt": 1743182580
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173263-c3geIX7XVEcH.jpg",
@@ -719,22 +735,6 @@
                 "userPreferred": "Mashin Souzouden Wataru",
                 "native": "\u9b54\u795e\u5275\u9020\u4f1d\u30ef\u30bf\u30eb",
                 "romaji": "Mashin Souzouden Wataru"
-            }
-        },
-        {
-            "id": 174596,
-            "idMal": 58066,
-            "nextAiringEpisode": {
-                "airingAt": 1742572800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174596-GbgKrUtBBuIg.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174596-GbgKrUtBBuIg.jpg"
-            },
-            "title": {
-                "userPreferred": "Sorairo Utility (TV)",
-                "native": "\u7a7a\u8272\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3 (TV)",
-                "romaji": "Sorairo Utility (TV)"
             }
         },
         {
@@ -773,7 +773,7 @@
             "id": 175198,
             "idMal": 58216,
             "nextAiringEpisode": {
-                "airingAt": 1742571000
+                "airingAt": 1743175800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175198-AtWwEQPTjQ6N.jpg",
@@ -901,7 +901,7 @@
             "id": 176301,
             "idMal": 58514,
             "nextAiringEpisode": {
-                "airingAt": 1742565600
+                "airingAt": 1743170400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-AclxpmzlKoBM.jpg",
@@ -1029,7 +1029,7 @@
             "id": 178312,
             "idMal": 59113,
             "nextAiringEpisode": {
-                "airingAt": 1742563800
+                "airingAt": 1743168600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178312-iGhE7xvvCReS.jpg",
@@ -1039,38 +1039,6 @@
                 "userPreferred": "FARMAGIA",
                 "native": "\u30d5\u30a1\u30fc\u30de\u30ae\u30a2",
                 "romaji": "FARMAGIA"
-            }
-        },
-        {
-            "id": 178462,
-            "idMal": 59135,
-            "nextAiringEpisode": {
-                "airingAt": 1742567400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178462-YW6BgSGGP4az.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178462-YW6BgSGGP4az.jpg"
-            },
-            "title": {
-                "userPreferred": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
-                "native": "\u30af\u30e9\u30b9\u306e\u5927\u5acc\u3044\u306a\u5973\u5b50\u3068\u7d50\u5a5a\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
-                "romaji": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta."
-            }
-        },
-        {
-            "id": 178495,
-            "idMal": 59136,
-            "nextAiringEpisode": {
-                "airingAt": 1742563800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178495-RJCGa2YRdKBU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178495-RJCGa2YRdKBU.jpg"
-            },
-            "title": {
-                "userPreferred": "Tasokare Hotel",
-                "native": "\u8ab0\u30bd\u5f7c\u30db\u30c6\u30eb",
-                "romaji": "Tasokare Hotel"
             }
         },
         {
@@ -1253,7 +1221,7 @@
             "id": 182877,
             "idMal": 60094,
             "nextAiringEpisode": {
-                "airingAt": 1742577780
+                "airingAt": 1743182580
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182877-In2sD6eEJdvw.png",
@@ -1269,7 +1237,7 @@
             "id": 182920,
             "idMal": 54144,
             "nextAiringEpisode": {
-                "airingAt": 1742598000
+                "airingAt": 1743202800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182920-kGMtP4dBBJBO.jpg",
@@ -1381,7 +1349,7 @@
             "id": 186300,
             "idMal": 60480,
             "nextAiringEpisode": {
-                "airingAt": 1742547600
+                "airingAt": 1743152400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
@@ -1391,22 +1359,6 @@
                 "userPreferred": "minute! kaiju no. 8",
                 "native": "\u30df\u30cb\u3063\u3068\uff01\u304b\u3044\u3058\u3085\u3046\uff18\u53f7",
                 "romaji": "minute! kaiju no. 8"
-            }
-        },
-        {
-            "id": 186752,
-            "idMal": 60677,
-            "nextAiringEpisode": {
-                "airingAt": 1742594400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186752-UxPh2YSqf7rO.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186752-UxPh2YSqf7rO.png"
-            },
-            "title": {
-                "userPreferred": "minini Animation Series",
-                "native": "\ubbf8\ub2c8\ub2c8 \uc560\ub2c8\uba54\uc774\uc158 \uc2dc\ub9ac\uc988",
-                "romaji": "minini Animation Series"
             }
         }
     ]
