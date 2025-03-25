@@ -1,5 +1,5 @@
 {
-    "__version__": 365,
+    "__version__": 366,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1742781600
+                "airingAt": 1743386400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -213,7 +213,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1742856000
+                "airingAt": 1743115200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -562,22 +562,6 @@
             }
         },
         {
-            "id": 170916,
-            "idMal": 57152,
-            "nextAiringEpisode": {
-                "airingAt": 1742821200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170916-WNdKmGcOQhuO.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170916-WNdKmGcOQhuO.jpg"
-            },
-            "title": {
-                "userPreferred": "Mahoutsukai no Yakusoku",
-                "native": "\u9b54\u6cd5\u4f7f\u3044\u306e\u7d04\u675f",
-                "romaji": "Mahoutsukai no Yakusoku"
-            }
-        },
-        {
             "id": 171080,
             "idMal": 57946,
             "nextAiringEpisode": {
@@ -821,7 +805,7 @@
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
-                "airingAt": 1742788800
+                "airingAt": 1743393600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176191-RL4lEr65YFfE.jpg",
@@ -930,22 +914,6 @@
             }
         },
         {
-            "id": 177552,
-            "idMal": 58853,
-            "nextAiringEpisode": {
-                "airingAt": 1742828400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177552-JPx2rIXeprne.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177552-JPx2rIXeprne.jpg"
-            },
-            "title": {
-                "userPreferred": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-                "native": "\u9ed2\u5ca9\u30e1\u30c0\u30ab\u306b\u79c1\u306e\u53ef\u611b\u3044\u304c\u901a\u3058\u306a\u3044",
-                "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai"
-            }
-        },
-        {
             "id": 178022,
             "idMal": 59055,
             "nextAiringEpisode": {
@@ -959,22 +927,6 @@
                 "userPreferred": "Hana wa Saku, Shura no Gotoku",
                 "native": "\u82b1\u306f\u54b2\u304f\u3001\u4fee\u7f85\u306e\u5982\u304f",
                 "romaji": "Hana wa Saku, Shura no Gotoku"
-            }
-        },
-        {
-            "id": 178126,
-            "idMal": 58805,
-            "nextAiringEpisode": {
-                "airingAt": 1742828400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178126-ocTBj6yxsNeR.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178126-ocTBj6yxsNeR.jpg"
-            },
-            "title": {
-                "userPreferred": "Luka to Taiyou no Hana",
-                "native": "\u30eb\u30ab\u3068\u592a\u967d\u306e\u82b1",
-                "romaji": "Luka to Taiyou no Hana"
             }
         },
         {
@@ -1055,22 +1007,6 @@
                 "userPreferred": "Magic Maker: Isekai Mahou no Tsukurikata",
                 "native": "\u30de\u30b8\u30c3\u30af\u30fb\u30e1\u30a4\u30ab\u30fc\u3000\uff5e\u7570\u4e16\u754c\u9b54\u6cd5\u306e\u4f5c\u308a\u65b9\uff5e",
                 "romaji": "Magic Maker: Isekai Mahou no Tsukurikata"
-            }
-        },
-        {
-            "id": 179696,
-            "idMal": 59361,
-            "nextAiringEpisode": {
-                "airingAt": 1742824800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179696-1MAqXYVXT7IT.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179696-1MAqXYVXT7IT.jpg"
-            },
-            "title": {
-                "userPreferred": "Kono Kaisha ni Suki na Hito ga Imasu",
-                "native": "\u3053\u306e\u4f1a\u793e\u306b\u597d\u304d\u306a\u4eba\u304c\u3044\u307e\u3059",
-                "romaji": "Kono Kaisha ni Suki na Hito ga Imasu"
             }
         },
         {
