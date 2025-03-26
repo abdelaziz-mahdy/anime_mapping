@@ -1,5 +1,5 @@
 {
-    "__version__": 366,
+    "__version__": 367,
     "data": [
         {
             "id": 21,
@@ -258,6 +258,22 @@
             }
         },
         {
+            "id": 144779,
+            "idMal": 50855,
+            "nextAiringEpisode": {
+                "airingAt": 1744297200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144779-WJ8aJbYk3o5t.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png"
+            },
+            "title": {
+                "userPreferred": "Yamato yo Towa ni: REBEL3199",
+                "native": "\u30e4\u30de\u30c8\u3088\u6c38\u9060\u306b REBEL3199",
+                "romaji": "Yamato yo Towa ni: REBEL3199"
+            }
+        },
+        {
             "id": 145740,
             "idMal": 51119,
             "nextAiringEpisode": {
@@ -351,22 +367,6 @@
                 "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
                 "native": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b 3rd season",
                 "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
-            }
-        },
-        {
-            "id": 164172,
-            "idMal": 55071,
-            "nextAiringEpisode": {
-                "airingAt": 1742914800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164172-GY2aqItIuqtR.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg"
-            },
-            "title": {
-                "userPreferred": "Amagami-san Chi no Enmusubi",
-                "native": "\u7518\u795e\u3055\u3093\u3061\u306e\u7e01\u7d50\u3073",
-                "romaji": "Amagami-san Chi no Enmusubi"
             }
         },
         {
@@ -578,22 +578,6 @@
             }
         },
         {
-            "id": 171545,
-            "idMal": 57533,
-            "nextAiringEpisode": {
-                "airingAt": 1742911200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171545-j9foxkHeXec7.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg"
-            },
-            "title": {
-                "userPreferred": "Youkai Gakkou no Sensei Hajimemashita!",
-                "native": "\u5996\u602a\u5b66\u6821\u306e\u5148\u751f\u306f\u3058\u3081\u307e\u3057\u305f\uff01",
-                "romaji": "Youkai Gakkou no Sensei Hajimemashita!"
-            }
-        },
-        {
             "id": 172019,
             "idMal": 57592,
             "nextAiringEpisode": {
@@ -786,22 +770,6 @@
             }
         },
         {
-            "id": 175869,
-            "idMal": 58351,
-            "nextAiringEpisode": {
-                "airingAt": 1742940420
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175869-SpbuxMwNGGZc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175869-SpbuxMwNGGZc.jpg"
-            },
-            "title": {
-                "userPreferred": "Chibi Godzilla no Gyakushuu 2",
-                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972\uff12",
-                "romaji": "Chibi Godzilla no Gyakushuu 2"
-            }
-        },
-        {
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
@@ -914,22 +882,6 @@
             }
         },
         {
-            "id": 178022,
-            "idMal": 59055,
-            "nextAiringEpisode": {
-                "airingAt": 1742920200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178022-gB3zAfazGBJ6.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178022-gB3zAfazGBJ6.jpg"
-            },
-            "title": {
-                "userPreferred": "Hana wa Saku, Shura no Gotoku",
-                "native": "\u82b1\u306f\u54b2\u304f\u3001\u4fee\u7f85\u306e\u5982\u304f",
-                "romaji": "Hana wa Saku, Shura no Gotoku"
-            }
-        },
-        {
             "id": 178312,
             "idMal": 59113,
             "nextAiringEpisode": {
@@ -959,22 +911,6 @@
                 "userPreferred": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
                 "native": "\u4e0d\u9047\u8077\u3010\u9451\u5b9a\u58eb\u3011\u304c\u5b9f\u306f\u6700\u5f37\u3060\u3063\u305f\uff5e\u5948\u843d\u3067\u935b\u3048\u305f\u6700\u5f37\u306e\u3010\u795e\u773c\u3011\u3067\u7121\u53cc\u3059\u308b\uff5e",
                 "romaji": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru"
-            }
-        },
-        {
-            "id": 178550,
-            "idMal": 59142,
-            "nextAiringEpisode": {
-                "airingAt": 1742913000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178550-1mjYHtOwiqkC.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178550-1mjYHtOwiqkC.jpg"
-            },
-            "title": {
-                "userPreferred": "Unnamed Memory Act.2",
-                "native": "Unnamed Memory Act.2",
-                "romaji": "Unnamed Memory Act.2"
             }
         },
         {
@@ -1215,6 +1151,22 @@
                 "userPreferred": "minute! kaiju no. 8",
                 "native": "\u30df\u30cb\u3063\u3068\uff01\u304b\u3044\u3058\u3085\u3046\uff18\u53f7",
                 "romaji": "minute! kaiju no. 8"
+            }
+        },
+        {
+            "id": 188239,
+            "idMal": 61258,
+            "nextAiringEpisode": {
+                "airingAt": 1744160400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
+            },
+            "title": {
+                "userPreferred": "Transformers: Wild King",
+                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
+                "romaji": "Transformers: Wild King"
             }
         }
     ]
