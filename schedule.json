@@ -1,5 +1,5 @@
 {
-    "__version__": 367,
+    "__version__": 368,
     "data": [
         {
             "id": 21,
@@ -181,7 +181,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1742954400
+                "airingAt": 1743559200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -274,22 +274,6 @@
             }
         },
         {
-            "id": 145740,
-            "idMal": 51119,
-            "nextAiringEpisode": {
-                "airingAt": 1743004800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145740-KtUZ6O59DaDq.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-KtUZ6O59DaDq.jpg"
-            },
-            "title": {
-                "userPreferred": "Grisaia: Phantom Trigger THE ANIMATION (TV)",
-                "native": "\u30b0\u30ea\u30b6\u30a4\u30a2\uff1a\u30d5\u30a1\u30f3\u30c8\u30e0\u30c8\u30ea\u30ac\u30fc THE ANIMATION (TV)",
-                "romaji": "Grisaia: Phantom Trigger THE ANIMATION (TV)"
-            }
-        },
-        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -351,22 +335,6 @@
                 "userPreferred": "Sousei no Aquarion: Myth of Emotions",
                 "native": "\u60f3\u661f\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3 Myth of Emotions",
                 "romaji": "Sousei no Aquarion: Myth of Emotions"
-            }
-        },
-        {
-            "id": 163134,
-            "idMal": 54857,
-            "nextAiringEpisode": {
-                "airingAt": 1742995800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg"
-            },
-            "title": {
-                "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-                "native": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b 3rd season",
-                "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
             }
         },
         {
@@ -693,7 +661,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1742986800
+                "airingAt": 1743591600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -754,22 +722,6 @@
             }
         },
         {
-            "id": 175443,
-            "idMal": 58271,
-            "nextAiringEpisode": {
-                "airingAt": 1743004500
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175443-yeamxYxCwLSe.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-yeamxYxCwLSe.jpg"
-            },
-            "title": {
-                "userPreferred": "Honey Lemon Soda",
-                "native": "\u30cf\u30cb\u30fc\u30ec\u30e2\u30f3\u30bd\u30fc\u30c0",
-                "romaji": "Honey Lemon Soda"
-            }
-        },
-        {
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
@@ -783,22 +735,6 @@
                 "userPreferred": "Neko ni Tensei Shita Oji-san",
                 "native": "\u306d\u3053\u306b\u8ee2\u751f\u3057\u305f\u304a\u3058\u3055\u3093",
                 "romaji": "Neko ni Tensei Shita Oji-san"
-            }
-        },
-        {
-            "id": 176234,
-            "idMal": 58484,
-            "nextAiringEpisode": {
-                "airingAt": 1742997600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176234-Wx2rAYr7YSD8.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176234-Wx2rAYr7YSD8.jpg"
-            },
-            "title": {
-                "userPreferred": "Ishura 2nd Season",
-                "native": "\u7570\u4fee\u7f85 \u7b2c2\u671f",
-                "romaji": "Ishura 2nd Season"
             }
         },
         {
@@ -853,7 +789,7 @@
             "id": 176642,
             "idMal": 58600,
             "nextAiringEpisode": {
-                "airingAt": 1743001200
+                "airingAt": 1743606000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176642-lgDtPlodCMRm.jpg",
@@ -927,22 +863,6 @@
                 "userPreferred": "Punirunes Puni 2",
                 "native": "\u3077\u306b\u308b\u3093\u305a \u3077\u306b\uff12",
                 "romaji": "Punirunes Puni 2"
-            }
-        },
-        {
-            "id": 179297,
-            "idMal": 59265,
-            "nextAiringEpisode": {
-                "airingAt": 1743001200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179297-qaG8nCqMpR3o.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179297-qaG8nCqMpR3o.jpg"
-            },
-            "title": {
-                "userPreferred": "Magic Maker: Isekai Mahou no Tsukurikata",
-                "native": "\u30de\u30b8\u30c3\u30af\u30fb\u30e1\u30a4\u30ab\u30fc\u3000\uff5e\u7570\u4e16\u754c\u9b54\u6cd5\u306e\u4f5c\u308a\u65b9\uff5e",
-                "romaji": "Magic Maker: Isekai Mahou no Tsukurikata"
             }
         },
         {
@@ -1023,22 +943,6 @@
                 "userPreferred": "Shooting Star Catch! Tiniping",
                 "native": "\uc288\ud305\uc2a4\ud0c0 \uce90\uce58! \ud2f0\ub2c8\ud551",
                 "romaji": "Shooting Star Catch! Tiniping"
-            }
-        },
-        {
-            "id": 182417,
-            "idMal": 60012,
-            "nextAiringEpisode": {
-                "airingAt": 1743001200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182417-zKlgy4KbGj1H.jpg"
-            },
-            "title": {
-                "userPreferred": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
-                "native": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u4f11\u61a9\u6642\u9593(\u30d6\u30ec\u30a4\u30af\u30bf\u30a4\u30e0) 3rd Season",
-                "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season"
             }
         },
         {
