@@ -1,5 +1,5 @@
 {
-    "__version__": 370,
+    "__version__": 371,
     "data": [
         {
             "id": 21,
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1743233400
+                "airingAt": 1743838200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -117,7 +117,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1743235200
+                "airingAt": 1743840000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
@@ -242,22 +242,6 @@
             }
         },
         {
-            "id": 142842,
-            "idMal": 50607,
-            "nextAiringEpisode": {
-                "airingAt": 1743287400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142842-sz1cRActqBe3.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142842-sz1cRActqBe3.jpg"
-            },
-            "title": {
-                "userPreferred": "Yu\u2606Gi\u2606Oh! Go Rush!!",
-                "native": "\u904a\u2606\u622f\u2606\u738b\u30b4\u30fc\u30e9\u30c3\u30b7\u30e5!!",
-                "romaji": "Yu\u2606Gi\u2606Oh! Go Rush!!"
-            }
-        },
-        {
             "id": 144779,
             "idMal": 50855,
             "nextAiringEpisode": {
@@ -290,38 +274,6 @@
             }
         },
         {
-            "id": 159560,
-            "idMal": 54040,
-            "nextAiringEpisode": {
-                "airingAt": 1743292800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159560-SaH4QloCicfx.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159560-SaH4QloCicfx.jpg"
-            },
-            "title": {
-                "userPreferred": "Tousouchuu: Great Mission",
-                "native": "\u9003\u8d70\u4e2d \u30b0\u30ec\u30fc\u30c8\u30df\u30c3\u30b7\u30e7\u30f3",
-                "romaji": "Tousouchuu: Great Mission"
-            }
-        },
-        {
-            "id": 162722,
-            "idMal": 54717,
-            "nextAiringEpisode": {
-                "airingAt": 1743267600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162722-w30E3QgBvG7H.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162722-w30E3QgBvG7H.jpg"
-            },
-            "title": {
-                "userPreferred": "Mahoutsukai Precure!! MIRAI DAYS",
-                "native": "\u9b54\u6cd5\u3064\u304b\u3044\u30d7\u30ea\u30ad\u30e5\u30a2\uff01\uff01\uff5eMIRAI DAYS\uff5e",
-                "romaji": "Mahoutsukai Precure!! MIRAI DAYS"
-            }
-        },
-        {
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
@@ -335,22 +287,6 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
-            }
-        },
-        {
-            "id": 165171,
-            "idMal": 55318,
-            "nextAiringEpisode": {
-                "airingAt": 1743265800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165171-nTOHsbh3pThN.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg"
-            },
-            "title": {
-                "userPreferred": "Medalist",
-                "native": "\u30e1\u30c0\u30ea\u30b9\u30c8",
-                "romaji": "Medalist"
             }
         },
         {
@@ -370,26 +306,10 @@
             }
         },
         {
-            "id": 167742,
-            "idMal": 56135,
-            "nextAiringEpisode": {
-                "airingAt": 1743258600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167742-fFAj38cj7Wxo.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167742-fFAj38cj7Wxo.png"
-            },
-            "title": {
-                "userPreferred": "UniteUp!: Uni:Birth",
-                "native": "UniteUp! -Uni:Birth-",
-                "romaji": "UniteUp!: Uni:Birth"
-            }
-        },
-        {
             "id": 168164,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1743292800
+                "airingAt": 1743897600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168164-u56VsAe2DUAH.png",
@@ -399,22 +319,6 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 3",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a3",
                 "romaji": "Dou Po Cangqiong: Nian Fan 3"
-            }
-        },
-        {
-            "id": 169258,
-            "idMal": 56647,
-            "nextAiringEpisode": {
-                "airingAt": 1743237000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169258-kj8qoomfAKsB.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg"
-            },
-            "title": {
-                "userPreferred": "Ao no Miburo",
-                "native": "\u9752\u306e\u30df\u30d6\u30ed",
-                "romaji": "Ao no Miburo"
             }
         },
         {
@@ -463,22 +367,6 @@
                 "userPreferred": "Jibaku Shounen Hanako-kun 2",
                 "native": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u3093\uff12",
                 "romaji": "Jibaku Shounen Hanako-kun 2"
-            }
-        },
-        {
-            "id": 171080,
-            "idMal": 57946,
-            "nextAiringEpisode": {
-                "airingAt": 1743296400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171080-5d1bxwJRQ4vk.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171080-5d1bxwJRQ4vk.png"
-            },
-            "title": {
-                "userPreferred": "Himitsu no AiPri",
-                "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea",
-                "romaji": "Himitsu no AiPri"
             }
         },
         {
@@ -546,22 +434,6 @@
             }
         },
         {
-            "id": 175422,
-            "idMal": 58265,
-            "nextAiringEpisode": {
-                "airingAt": 1743258600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175422-4I9gEsW7px6C.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175422-4I9gEsW7px6C.png"
-            },
-            "title": {
-                "userPreferred": "Baban Baban Ban Vampire",
-                "native": "\u30d0\u30d0\u30f3\u30d0\u30d0\u30f3\u30d0\u30f3\u30d0\u30f3\u30d1\u30a4\u30a2",
-                "romaji": "Baban Baban Ban Vampire"
-            }
-        },
-        {
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
@@ -594,22 +466,6 @@
             }
         },
         {
-            "id": 176496,
-            "idMal": 58567,
-            "nextAiringEpisode": {
-                "airingAt": 1743260400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-xCNtU4llsUpu.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-xCNtU4llsUpu.png"
-            },
-            "title": {
-                "userPreferred": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
-                "native": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2 -Arise from the Shadow-",
-                "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow"
-            }
-        },
-        {
             "id": 176508,
             "idMal": 58572,
             "nextAiringEpisode": {
@@ -639,22 +495,6 @@
                 "userPreferred": "Ameku Takao no Suiri Karte",
                 "native": "\u5929\u4e45\u9df9\u592e\u306e\u63a8\u7406\u30ab\u30eb\u30c6",
                 "romaji": "Ameku Takao no Suiri Karte"
-            }
-        },
-        {
-            "id": 179292,
-            "idMal": 59512,
-            "nextAiringEpisode": {
-                "airingAt": 1743293700
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179292-jOcVLoMwkFKo.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179292-jOcVLoMwkFKo.png"
-            },
-            "title": {
-                "userPreferred": "Punirunes Puni 2",
-                "native": "\u3077\u306b\u308b\u3093\u305a \u3077\u306b\uff12",
-                "romaji": "Punirunes Puni 2"
             }
         },
         {
@@ -693,7 +533,7 @@
             "id": 180812,
             "idMal": 59730,
             "nextAiringEpisode": {
-                "airingAt": 1743260400
+                "airingAt": 1743865200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180812-162w2RBaqJzE.jpg",
@@ -754,26 +594,10 @@
             }
         },
         {
-            "id": 183423,
-            "idMal": 60108,
-            "nextAiringEpisode": {
-                "airingAt": 1743294600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183423-wt4YjEiCWVVD.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg"
-            },
-            "title": {
-                "userPreferred": "ONE PIECE: Gyojin Tou-hen",
-                "native": "SPECIAL EDITED VERSION\u300eONE PIECE\u300f\u9b5a\u4eba\u5cf6\u7de8",
-                "romaji": "ONE PIECE: Gyojin Tou-hen"
-            }
-        },
-        {
             "id": 183473,
             "idMal": 60080,
             "nextAiringEpisode": {
-                "airingAt": 1743217200
+                "airingAt": 1743822000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183473-jZR2gEFZQhVe.png",
@@ -789,7 +613,7 @@
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
-                "airingAt": 1743291000
+                "airingAt": 1743895800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-qxDBOwjnK3wN.png",
