@@ -1,5 +1,5 @@
 {
-    "__version__": 371,
+    "__version__": 372,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1743327000
+                "airingAt": 1743931800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1743370800
+                "airingAt": 1743975600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -133,7 +133,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1743325200
+                "airingAt": 1743930000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -306,6 +306,22 @@
             }
         },
         {
+            "id": 167742,
+            "idMal": 56135,
+            "nextAiringEpisode": {
+                "airingAt": 1743865200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167742-fFAj38cj7Wxo.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167742-fFAj38cj7Wxo.png"
+            },
+            "title": {
+                "userPreferred": "UniteUp!: Uni:Birth",
+                "native": "UniteUp! -Uni:Birth-",
+                "romaji": "UniteUp!: Uni:Birth"
+            }
+        },
+        {
             "id": 168164,
             "idMal": null,
             "nextAiringEpisode": {
@@ -354,38 +370,6 @@
             }
         },
         {
-            "id": 170892,
-            "idMal": 53924,
-            "nextAiringEpisode": {
-                "airingAt": 1743319800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170892-VFCGRI41xFUF.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg"
-            },
-            "title": {
-                "userPreferred": "Jibaku Shounen Hanako-kun 2",
-                "native": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u3093\uff12",
-                "romaji": "Jibaku Shounen Hanako-kun 2"
-            }
-        },
-        {
-            "id": 172258,
-            "idMal": 57616,
-            "nextAiringEpisode": {
-                "airingAt": 1743341400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172258-CFvhqor0blLV.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172258-CFvhqor0blLV.jpg"
-            },
-            "title": {
-                "userPreferred": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
-                "native": "\u541b\u306e\u3053\u3068\u304c\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a100\u4eba\u306e\u5f7c\u5973 \u7b2c2\u671f",
-                "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season"
-            }
-        },
-        {
             "id": 173263,
             "idMal": 57796,
             "nextAiringEpisode": {
@@ -399,22 +383,6 @@
                 "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku",
                 "native": "\u51cd\u724c\uff5e\u88cf\u30ec\u30fc\u30c8\u9ebb\u96c0\u95d8\u724c\u9332\uff5e",
                 "romaji": "Touhai: Ura Rate Mahjong Touhai Roku"
-            }
-        },
-        {
-            "id": 173333,
-            "idMal": 57827,
-            "nextAiringEpisode": {
-                "airingAt": 1743323400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173333-lqvM2Ya74nN9.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg"
-            },
-            "title": {
-                "userPreferred": "Mashin Souzouden Wataru",
-                "native": "\u9b54\u795e\u5275\u9020\u4f1d\u30ef\u30bf\u30eb",
-                "romaji": "Mashin Souzouden Wataru"
             }
         },
         {
@@ -466,22 +434,6 @@
             }
         },
         {
-            "id": 176508,
-            "idMal": 58572,
-            "nextAiringEpisode": {
-                "airingAt": 1743321600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-NHYHx5YJcU5i.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png"
-            },
-            "title": {
-                "userPreferred": "Shangri-La Frontier 2nd Season",
-                "native": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9\u30fb\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2 2nd season",
-                "romaji": "Shangri-La Frontier 2nd Season"
-            }
-        },
-        {
             "id": 176642,
             "idMal": 58600,
             "nextAiringEpisode": {
@@ -495,22 +447,6 @@
                 "userPreferred": "Ameku Takao no Suiri Karte",
                 "native": "\u5929\u4e45\u9df9\u592e\u306e\u63a8\u7406\u30ab\u30eb\u30c6",
                 "romaji": "Ameku Takao no Suiri Karte"
-            }
-        },
-        {
-            "id": 180052,
-            "idMal": 59514,
-            "nextAiringEpisode": {
-                "airingAt": 1743345000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180052-i29SxOyEBtXB.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180052-i29SxOyEBtXB.jpg"
-            },
-            "title": {
-                "userPreferred": "Sentai Red Isekai de Boukensha ni Naru",
-                "native": "\u6226\u968a\u30ec\u30c3\u30c9\u7570\u4e16\u754c\u3067\u5192\u967a\u8005\u306b\u306a\u308b",
-                "romaji": "Sentai Red Isekai de Boukensha ni Naru"
             }
         },
         {
@@ -546,22 +482,6 @@
             }
         },
         {
-            "id": 181886,
-            "idMal": 59914,
-            "nextAiringEpisode": {
-                "airingAt": 1743345000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181886-gEqtKp6Wt2U2.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181886-gEqtKp6Wt2U2.jpg"
-            },
-            "title": {
-                "userPreferred": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
-                "native": "\u30ad\u30f3\u8089\u30de\u30f3 \u5b8c\u74a7\u8d85\u4eba\u59cb\u7956\u7de8 Season 2",
-                "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2"
-            }
-        },
-        {
             "id": 182159,
             "idMal": 59894,
             "nextAiringEpisode": {
@@ -591,6 +511,22 @@
                 "userPreferred": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
                 "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u30c7\u30e9\u30c3\u30af\u30b9\u7de8",
                 "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen"
+            }
+        },
+        {
+            "id": 183133,
+            "idMal": 60140,
+            "nextAiringEpisode": {
+                "airingAt": 1743946200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183133-SSeg5j1UrMDG.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183133-SSeg5j1UrMDG.png"
+            },
+            "title": {
+                "userPreferred": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+                "native": "\u52d8\u9055\u3044\u306e\u5de5\u623f\u4e3b\uff5e\u82f1\u96c4\u30d1\u30fc\u30c6\u30a3\u306e\u5143\u96d1\u7528\u4fc2\u304c\u3001\u5b9f\u306f\u6226\u95d8\u4ee5\u5916\u304cSSS\u30e9\u30f3\u30af\u3060\u3063\u305f\u3068\u3044\u3046\u3088\u304f\u3042\u308b\u8a71\uff5e",
+                "romaji": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi"
             }
         },
         {
