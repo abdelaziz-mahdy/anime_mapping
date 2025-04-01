@@ -1,5 +1,5 @@
 {
-    "__version__": 372,
+    "__version__": 373,
     "data": [
         {
             "id": 21,
@@ -8,8 +8,8 @@
                 "airingAt": 1743948960
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-YCDoj1EkAxFn.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-iDIATTJirloJ.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-iDIATTJirloJ.png"
             },
             "title": {
                 "userPreferred": "ONE PIECE",
@@ -120,8 +120,8 @@
                 "airingAt": 1743840000
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-O2a8DzjKebzA.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-O2a8DzjKebzA.png"
             },
             "title": {
                 "userPreferred": "Doraemon (2005)",
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1743386400
+                "airingAt": 1743991200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -210,22 +210,6 @@
             }
         },
         {
-            "id": 140842,
-            "idMal": 50250,
-            "nextAiringEpisode": {
-                "airingAt": 1743460800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg"
-            },
-            "title": {
-                "userPreferred": "Chiikawa",
-                "native": "\u3061\u3044\u304b\u308f",
-                "romaji": "Chiikawa"
-            }
-        },
-        {
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
@@ -239,6 +223,22 @@
                 "userPreferred": "Ninjala",
                 "native": "\u30cb\u30f3\u30b8\u30e3\u30e9",
                 "romaji": "Ninjala"
+            }
+        },
+        {
+            "id": 143598,
+            "idMal": 49778,
+            "nextAiringEpisode": {
+                "airingAt": 1744038000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143598-FCvAhQJLllSP.png"
+            },
+            "title": {
+                "userPreferred": "Kijin Gentoushou",
+                "native": "\u9b3c\u4eba\u5e7b\u71c8\u6284",
+                "romaji": "Kijin Gentoushou"
             }
         },
         {
@@ -264,8 +264,8 @@
                 "airingAt": 1744365300
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-FmWU8dacXDiA.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-BM1dGPVNlzlY.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-BM1dGPVNlzlY.png"
             },
             "title": {
                 "userPreferred": "Pocket Monsters (2023)",
@@ -296,8 +296,8 @@
                 "airingAt": 1743732000
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166442-np5Y0OPNJKQp.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166442-np5Y0OPNJKQp.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166442-Ep45IpapzLEP.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166442-Ep45IpapzLEP.png"
             },
             "title": {
                 "userPreferred": "Chao Neng Lifang",
@@ -341,11 +341,11 @@
             "id": 169441,
             "idMal": 56701,
             "nextAiringEpisode": {
-                "airingAt": 1743427800
+                "airingAt": 1744201560
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-wIQe1xfCc1XS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-md0M2yMJ0ULF.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-md0M2yMJ0ULF.png"
             },
             "title": {
                 "userPreferred": "Watashi no Shiawase na Kekkon 2nd Season",
@@ -405,7 +405,7 @@
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
-                "airingAt": 1743393600
+                "airingAt": 1743998400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176191-RL4lEr65YFfE.jpg",
@@ -424,8 +424,8 @@
                 "airingAt": 1743775200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-AclxpmzlKoBM.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-AclxpmzlKoBM.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-ZaF2sPefNF3S.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-ZaF2sPefNF3S.jpg"
             },
             "title": {
                 "userPreferred": "Kusuriya no Hitorigoto 2nd Season",
@@ -552,8 +552,8 @@
                 "airingAt": 1743895800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-qxDBOwjnK3wN.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-qxDBOwjnK3wN.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-Spt6YUVWxy3s.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-Spt6YUVWxy3s.png"
             },
             "title": {
                 "userPreferred": "Kimi to Idol Precure\u266a",
@@ -607,6 +607,22 @@
                 "userPreferred": "Transformers: Wild King",
                 "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
                 "romaji": "Transformers: Wild King"
+            }
+        },
+        {
+            "id": 188668,
+            "idMal": 61293,
+            "nextAiringEpisode": {
+                "airingAt": 1743519600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg"
+            },
+            "title": {
+                "userPreferred": "Koisuru ONE PIECE",
+                "native": "\u604b\u3059\u308b\u30ef\u30f3\u30d4\u30fc\u30b9",
+                "romaji": "Koisuru ONE PIECE"
             }
         }
     ]
