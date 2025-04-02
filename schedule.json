@@ -1,5 +1,5 @@
 {
-    "__version__": 373,
+    "__version__": 374,
     "data": [
         {
             "id": 21,
@@ -24,8 +24,8 @@
                 "airingAt": 1744448400
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-XucEZpR3CRaV.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-ZHBHQx34MFJj.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-ZHBHQx34MFJj.png"
             },
             "title": {
                 "userPreferred": "Meitantei Conan",
@@ -264,8 +264,8 @@
                 "airingAt": 1744365300
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-BM1dGPVNlzlY.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-BM1dGPVNlzlY.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg"
             },
             "title": {
                 "userPreferred": "Pocket Monsters (2023)",
@@ -450,6 +450,22 @@
             }
         },
         {
+            "id": 178701,
+            "idMal": 59169,
+            "nextAiringEpisode": {
+                "airingAt": 1744122600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178701-OA537qbje5AU.jpg"
+            },
+            "title": {
+                "userPreferred": "Aru Majo ga Shinu Made",
+                "native": "\u3042\u308b\u9b54\u5973\u304c\u6b7b\u306c\u307e\u3067",
+                "romaji": "Aru Majo ga Shinu Made"
+            }
+        },
+        {
             "id": 180292,
             "idMal": 59561,
             "nextAiringEpisode": {
@@ -546,6 +562,22 @@
             }
         },
         {
+            "id": 184279,
+            "idMal": 60293,
+            "nextAiringEpisode": {
+                "airingAt": 1744124400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184279-dw02k4DPxwGz.png"
+            },
+            "title": {
+                "userPreferred": "Ballpark de Tsukamaete!",
+                "native": "\u30dc\u30fc\u30eb\u30d1\u30fc\u30af\u3067\u3064\u304b\u307e\u3048\u3066\uff01",
+                "romaji": "Ballpark de Tsukamaete!"
+            }
+        },
+        {
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
@@ -613,7 +645,7 @@
             "id": 188668,
             "idMal": 61293,
             "nextAiringEpisode": {
-                "airingAt": 1743519600
+                "airingAt": 1743606000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg",
