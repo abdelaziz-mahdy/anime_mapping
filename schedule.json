@@ -1,5 +1,5 @@
 {
-    "__version__": 375,
+    "__version__": 376,
     "data": [
         {
             "id": 21,
@@ -101,7 +101,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1743718200
+                "airingAt": 1744323000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -389,7 +389,7 @@
             "id": 169966,
             "idMal": 56853,
             "nextAiringEpisode": {
-                "airingAt": 1743667200
+                "airingAt": 1744272000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169966-elyLBCoBAJxx.jpg",
@@ -450,6 +450,22 @@
             }
         },
         {
+            "id": 175872,
+            "idMal": 58359,
+            "nextAiringEpisode": {
+                "airingAt": 1744295400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175872-d55nfiC4WWHO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg"
+            },
+            "title": {
+                "userPreferred": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
+                "native": "\u4e00\u77ac\u3067\u6cbb\u7642\u3057\u3066\u3044\u305f\u306e\u306b\u5f79\u7acb\u305f\u305a\u3068\u8ffd\u653e\u3055\u308c\u305f\u5929\u624d\u6cbb\u7652\u5e2b\u3001\u95c7\u30d2\u30fc\u30e9\u30fc\u3068\u3057\u3066\u697d\u3057\u304f\u751f\u304d\u308b",
+                "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru"
+            }
+        },
+        {
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
@@ -498,6 +514,22 @@
             }
         },
         {
+            "id": 178680,
+            "idMal": 59160,
+            "nextAiringEpisode": {
+                "airingAt": 1744298760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178680-nIAhCizY46ZU.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-nIAhCizY46ZU.jpg"
+            },
+            "title": {
+                "userPreferred": "WIND BREAKER Season 2",
+                "native": "WIND BREAKER Season 2",
+                "romaji": "WIND BREAKER Season 2"
+            }
+        },
+        {
             "id": 178701,
             "idMal": 59169,
             "nextAiringEpisode": {
@@ -514,6 +546,22 @@
             }
         },
         {
+            "id": 179694,
+            "idMal": 59360,
+            "nextAiringEpisode": {
+                "airingAt": 1744296960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179694-7zhc0T6IImor.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-7zhc0T6IImor.jpg"
+            },
+            "title": {
+                "userPreferred": "Rock wa Lady no Tashinami Deshite",
+                "native": "\u30ed\u30c3\u30af\u306f\u6dd1\u5973\u306e\u55dc\u307f\u3067\u3057\u3066",
+                "romaji": "Rock wa Lady no Tashinami Deshite"
+            }
+        },
+        {
             "id": 179965,
             "idMal": 59457,
             "nextAiringEpisode": {
@@ -527,22 +575,6 @@
                 "userPreferred": "Haite Kudasai, Takamine-san",
                 "native": "\u5c65\u3044\u3066\u304f\u3060\u3055\u3044\u3001\u9df9\u5cf0\u3055\u3093",
                 "romaji": "Haite Kudasai, Takamine-san"
-            }
-        },
-        {
-            "id": 180292,
-            "idMal": 59561,
-            "nextAiringEpisode": {
-                "airingAt": 1743681600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180292-GG0nwYZ5HeN7.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg"
-            },
-            "title": {
-                "userPreferred": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
-                "native": "\u30a2\u30e9\u30d5\u30a9\u30fc\u7537\u306e\u7570\u4e16\u754c\u901a\u8ca9\u751f\u6d3b",
-                "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu"
             }
         },
         {
@@ -565,7 +597,7 @@
             "id": 182159,
             "idMal": 59894,
             "nextAiringEpisode": {
-                "airingAt": 1743670800
+                "airingAt": 1744275600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182159-hRd92GJxgLeq.png",
@@ -722,6 +754,38 @@
             }
         },
         {
+            "id": 186313,
+            "idMal": 60947,
+            "nextAiringEpisode": {
+                "airingAt": 1744304280
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg"
+            },
+            "title": {
+                "userPreferred": "Nmeneko",
+                "native": "\u30f3\u3081\u306d\u3053",
+                "romaji": "Nmeneko"
+            }
+        },
+        {
+            "id": 187998,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1744308960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187998-eWArrPyKvfw8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187998-eWArrPyKvfw8.jpg"
+            },
+            "title": {
+                "userPreferred": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
+                "native": "\u304a\u3044\u3067\u3088\u9b54\u6cd5\u5c11\u5973\u6751\uff08\u4e0d\u6cd5\u5360\u62e0\uff09",
+                "romaji": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)"
+            }
+        },
+        {
             "id": 188239,
             "idMal": 61258,
             "nextAiringEpisode": {
@@ -738,10 +802,26 @@
             }
         },
         {
+            "id": 188394,
+            "idMal": 61272,
+            "nextAiringEpisode": {
+                "airingAt": 1744277400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188394-4oTa98gvtw8R.jpg"
+            },
+            "title": {
+                "userPreferred": "PetitCure: Precure Fairies",
+                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e",
+                "romaji": "PetitCure: Precure Fairies"
+            }
+        },
+        {
             "id": 188668,
             "idMal": 61293,
             "nextAiringEpisode": {
-                "airingAt": 1743692400
+                "airingAt": 1743778800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg",
@@ -751,6 +831,22 @@
                 "userPreferred": "Koisuru ONE PIECE",
                 "native": "\u604b\u3059\u308b\u30ef\u30f3\u30d4\u30fc\u30b9",
                 "romaji": "Koisuru ONE PIECE"
+            }
+        },
+        {
+            "id": 188884,
+            "idMal": 61300,
+            "nextAiringEpisode": {
+                "airingAt": 1744324200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188884-pmEMLEcpTovv.png"
+            },
+            "title": {
+                "userPreferred": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+                "native": "\u3059\u307f\u3063\u30b3\u3050\u3089\u3057 \u3053\u3053\u304c\u304a\u3061\u3064\u304f\u3093\u3067\u3059",
+                "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu"
             }
         },
         {
