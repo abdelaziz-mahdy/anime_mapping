@@ -1,11 +1,11 @@
 {
-    "__version__": 376,
+    "__version__": 377,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1743948960
+                "airingAt": 1743854400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1743731700
+                "airingAt": 1744336500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -149,7 +149,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1743759600
+                "airingAt": 1744364400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -213,7 +213,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1743805800
+                "airingAt": 1744410600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -258,6 +258,38 @@
             }
         },
         {
+            "id": 149118,
+            "idMal": 51818,
+            "nextAiringEpisode": {
+                "airingAt": 1744390380
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg"
+            },
+            "title": {
+                "userPreferred": "Enen no Shouboutai: San no Shou",
+                "native": "\u708e\u708e\u30ce\u6d88\u9632\u968a \u53c2\u30ce\u7ae0",
+                "romaji": "Enen no Shouboutai: San no Shou"
+            }
+        },
+        {
+            "id": 153554,
+            "idMal": 52709,
+            "nextAiringEpisode": {
+                "airingAt": 1744378200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153554-hHYe9aV6Gvlv.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153554-hHYe9aV6Gvlv.jpg"
+            },
+            "title": {
+                "userPreferred": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+                "native": "\u7537\u5973\u306e\u53cb\u60c5\u306f\u6210\u7acb\u3059\u308b\uff1f\uff08\u3044\u3084\u3001 \u3057\u306a\u3044\u3063!!\uff09",
+                "romaji": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)"
+            }
+        },
+        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -277,7 +309,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1743758700
+                "airingAt": 1744363500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -309,7 +341,7 @@
             "id": 166442,
             "idMal": 60057,
             "nextAiringEpisode": {
-                "airingAt": 1743732000
+                "airingAt": 1744336800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166442-JTkdzIQpgf8M.jpg",
@@ -402,22 +434,6 @@
             }
         },
         {
-            "id": 173263,
-            "idMal": 57796,
-            "nextAiringEpisode": {
-                "airingAt": 1743787380
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173263-c3geIX7XVEcH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173263-c3geIX7XVEcH.jpg"
-            },
-            "title": {
-                "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku",
-                "native": "\u51cd\u724c\uff5e\u88cf\u30ec\u30fc\u30c8\u9ebb\u96c0\u95d8\u724c\u9332\uff5e",
-                "romaji": "Touhai: Ura Rate Mahjong Touhai Roku"
-            }
-        },
-        {
             "id": 173333,
             "idMal": 57827,
             "nextAiringEpisode": {
@@ -485,7 +501,7 @@
             "id": 176301,
             "idMal": 58514,
             "nextAiringEpisode": {
-                "airingAt": 1743775200
+                "airingAt": 1744380000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg",
@@ -591,6 +607,38 @@
                 "userPreferred": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
                 "native": "A\u30e9\u30f3\u30af\u30d1\u30fc\u30c6\u30a3\u3092\u96e2\u8131\u3057\u305f\u4ffa\u306f\u3001\u5143\u6559\u3048\u5b50\u305f\u3061\u3068\u8ff7\u5bae\u6df1\u90e8\u3092\u76ee\u6307\u3059\u3002",
                 "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu."
+            }
+        },
+        {
+            "id": 181078,
+            "idMal": 59819,
+            "nextAiringEpisode": {
+                "airingAt": 1744381800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181078-zBCMinL0WhzA.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-zBCMinL0WhzA.jpg"
+            },
+            "title": {
+                "userPreferred": "Bye Bye, Earth Season 2",
+                "native": "\u3070\u3044\u3070\u3044\u3001\u30a2\u30fc\u30b9 \u30b7\u30fc\u30ba\u30f32",
+                "romaji": "Bye Bye, Earth Season 2"
+            }
+        },
+        {
+            "id": 181182,
+            "idMal": 59828,
+            "nextAiringEpisode": {
+                "airingAt": 1743870600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181182-lnlfAByYD7X6.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181182-lnlfAByYD7X6.png"
+            },
+            "title": {
+                "userPreferred": "Shoushimin Series 2nd Season",
+                "native": "\u5c0f\u5e02\u6c11\u30b7\u30ea\u30fc\u30ba \u7b2c2\u671f",
+                "romaji": "Shoushimin Series 2nd Season"
             }
         },
         {
@@ -706,6 +754,54 @@
             }
         },
         {
+            "id": 184289,
+            "idMal": 60070,
+            "nextAiringEpisode": {
+                "airingAt": 1744408800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
+            },
+            "title": {
+                "userPreferred": "Kaijyu Sekai Seifuku",
+                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
+                "romaji": "Kaijyu Sekai Seifuku"
+            }
+        },
+        {
+            "id": 184639,
+            "idMal": 60334,
+            "nextAiringEpisode": {
+                "airingAt": 1744406760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184639-tmj8NbTroNeI.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tmj8NbTroNeI.jpg"
+            },
+            "title": {
+                "userPreferred": "Anne Shirley",
+                "native": "\u30a2\u30f3\u30fb\u30b7\u30e3\u30fc\u30ea\u30fc",
+                "romaji": "Anne Shirley"
+            }
+        },
+        {
+            "id": 184989,
+            "idMal": 60377,
+            "nextAiringEpisode": {
+                "airingAt": 1744381800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184989-9i29Wrdrak11.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-9i29Wrdrak11.png"
+            },
+            "title": {
+                "userPreferred": "Nazotoki wa Dinner no Ato de",
+                "native": "\u8b0e\u89e3\u304d\u306f\u30c7\u30a3\u30ca\u30fc\u306e\u3042\u3068\u3067",
+                "romaji": "Nazotoki wa Dinner no Ato de"
+            }
+        },
+        {
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
@@ -738,10 +834,58 @@
             }
         },
         {
+            "id": 185584,
+            "idMal": 60535,
+            "nextAiringEpisode": {
+                "airingAt": 1744387980
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185584-a5oABU1uknYX.jpg"
+            },
+            "title": {
+                "userPreferred": "Everyday Host",
+                "native": "\u3048\u3076\u308a\u3067\u3044\u30db\u30b9\u30c8",
+                "romaji": "Everyday Host"
+            }
+        },
+        {
+            "id": 185645,
+            "idMal": 58631,
+            "nextAiringEpisode": {
+                "airingAt": 1744416000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185645-oURiWI3bVWgq.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185645-oURiWI3bVWgq.png"
+            },
+            "title": {
+                "userPreferred": "Oshiri Tantei 9",
+                "native": "\u304a\u3057\u308a\u305f\u3093\u3066\u3044(\u7b2c9\u30b7\u30ea\u30fc\u30ba)",
+                "romaji": "Oshiri Tantei 9"
+            }
+        },
+        {
+            "id": 185715,
+            "idMal": 60612,
+            "nextAiringEpisode": {
+                "airingAt": 1744408800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185715-S5OtxSJTo5k1.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png"
+            },
+            "title": {
+                "userPreferred": "SHIBUYA\u2661HACHI 2nd Season",
+                "native": "SHIBUYA\u2661HACHI \u7b2c2\u671f",
+                "romaji": "SHIBUYA\u2661HACHI 2nd Season"
+            }
+        },
+        {
             "id": 186300,
             "idMal": 60480,
             "nextAiringEpisode": {
-                "airingAt": 1743757200
+                "airingAt": 1744362000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
@@ -815,22 +959,6 @@
                 "userPreferred": "PetitCure: Precure Fairies",
                 "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e",
                 "romaji": "PetitCure: Precure Fairies"
-            }
-        },
-        {
-            "id": 188668,
-            "idMal": 61293,
-            "nextAiringEpisode": {
-                "airingAt": 1743778800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg"
-            },
-            "title": {
-                "userPreferred": "Koisuru ONE PIECE",
-                "native": "\u604b\u3059\u308b\u30ef\u30f3\u30d4\u30fc\u30b9",
-                "romaji": "Koisuru ONE PIECE"
             }
         },
         {
