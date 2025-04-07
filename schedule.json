@@ -1,11 +1,11 @@
 {
-    "__version__": 378,
+    "__version__": 379,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1743948960
+                "airingAt": 1744553760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1743931800
+                "airingAt": 1744536600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 4459,
             "idMal": 4459,
             "nextAiringEpisode": {
-                "airingAt": 1743975600
+                "airingAt": 1744580400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
@@ -133,7 +133,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1743930000
+                "airingAt": 1744534800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -402,6 +402,22 @@
             }
         },
         {
+            "id": 167336,
+            "idMal": 56038,
+            "nextAiringEpisode": {
+                "airingAt": 1744516800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167336-KpGIIBie71OX.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-KpGIIBie71OX.png"
+            },
+            "title": {
+                "userPreferred": "Lazarus",
+                "native": "\u30e9\u30b6\u30ed",
+                "romaji": "Lazarus"
+            }
+        },
+        {
             "id": 168164,
             "idMal": null,
             "nextAiringEpisode": {
@@ -453,7 +469,7 @@
             "id": 173333,
             "idMal": 57827,
             "nextAiringEpisode": {
-                "airingAt": 1743928200
+                "airingAt": 1744533000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173333-lqvM2Ya74nN9.jpg",
@@ -546,6 +562,22 @@
             }
         },
         {
+            "id": 177509,
+            "idMal": 58833,
+            "nextAiringEpisode": {
+                "airingAt": 1744561200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177509-LzpyXGnjitvF.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177509-LzpyXGnjitvF.jpg"
+            },
+            "title": {
+                "userPreferred": "Kakushite! Makina-san!!",
+                "native": "\u304b\u304f\u3057\u3066!! \u30de\u30ad\u30ca\u3055\u3093\uff01",
+                "romaji": "Kakushite! Makina-san!!"
+            }
+        },
+        {
             "id": 177633,
             "idMal": 58908,
             "nextAiringEpisode": {
@@ -559,6 +591,22 @@
                 "userPreferred": "MUZIK TIGER In the Forest",
                 "native": "MUZIK TIGER In the Forest",
                 "romaji": "MUZIK TIGER In the Forest"
+            }
+        },
+        {
+            "id": 177678,
+            "idMal": 58888,
+            "nextAiringEpisode": {
+                "airingAt": 1744556400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177678-4ZRG0wXfjubO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177678-4ZRG0wXfjubO.jpg"
+            },
+            "title": {
+                "userPreferred": "Yatara Yarashii Fukami-kun",
+                "native": "\u3084\u305f\u3089\u3084\u3089\u3057\u3044\u6df1\u898b\u304f\u3093",
+                "romaji": "Yatara Yarashii Fukami-kun"
             }
         },
         {
@@ -706,6 +754,38 @@
             }
         },
         {
+            "id": 180367,
+            "idMal": 59597,
+            "nextAiringEpisode": {
+                "airingAt": 1744531200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180367-GlRuB2lG7Kaa.jpg"
+            },
+            "title": {
+                "userPreferred": "Witch Watch",
+                "native": "\u30a6\u30a3\u30c3\u30c1\u30a6\u30a9\u30c3\u30c1",
+                "romaji": "Witch Watch"
+            }
+        },
+        {
+            "id": 180516,
+            "idMal": 59636,
+            "nextAiringEpisode": {
+                "airingAt": 1744529400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180516-lebpoKLkw6E3.jpg"
+            },
+            "title": {
+                "userPreferred": "Uma Musume: Cinderella Gray",
+                "native": "\u30a6\u30de\u5a18 \u30b7\u30f3\u30c7\u30ec\u30e9\u30b0\u30ec\u30a4",
+                "romaji": "Uma Musume: Cinderella Gray"
+            }
+        },
+        {
             "id": 180812,
             "idMal": 59730,
             "nextAiringEpisode": {
@@ -722,14 +802,46 @@
             }
         },
         {
+            "id": 180825,
+            "idMal": 59744,
+            "nextAiringEpisode": {
+                "airingAt": 1744551000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180825-trzjP1VDF19U.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180825-trzjP1VDF19U.jpg"
+            },
+            "title": {
+                "userPreferred": "Maebashi Witches",
+                "native": "\u524d\u6a4b\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba",
+                "romaji": "Maebashi Witches"
+            }
+        },
+        {
+            "id": 180829,
+            "idMal": 59745,
+            "nextAiringEpisode": {
+                "airingAt": 1744560360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180829-jHViG8fIkaIJ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180829-jHViG8fIkaIJ.jpg"
+            },
+            "title": {
+                "userPreferred": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
+                "native": "\u3061\u3087\u3063\u3068\u3060\u3051\u611b\u304c\u91cd\u3044\u30c0\u30fc\u30af\u30a8\u30eb\u30d5\u304c\u7570\u4e16\u754c\u304b\u3089\u8ffd\u3044\u304b\u3051\u3066\u304d\u305f",
+                "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita"
+            }
+        },
+        {
             "id": 181078,
             "idMal": 59819,
             "nextAiringEpisode": {
                 "airingAt": 1744381800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181078-zBCMinL0WhzA.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-zBCMinL0WhzA.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181078-4ooHGXSnDQL4.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-4ooHGXSnDQL4.jpg"
             },
             "title": {
                 "userPreferred": "Bye Bye, Earth Season 2",
@@ -751,6 +863,22 @@
                 "userPreferred": "Shoushimin Series 2nd Season",
                 "native": "\u5c0f\u5e02\u6c11\u30b7\u30ea\u30fc\u30ba \u7b2c2\u671f",
                 "romaji": "Shoushimin Series 2nd Season"
+            }
+        },
+        {
+            "id": 182060,
+            "idMal": 59935,
+            "nextAiringEpisode": {
+                "airingAt": 1744554600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182060-r0ihNqhiyvpT.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182060-r0ihNqhiyvpT.jpg"
+            },
+            "title": {
+                "userPreferred": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+                "native": "\u30b4\u30ea\u30e9\u306e\u795e\u304b\u3089\u52a0\u8b77\u3055\u308c\u305f\u4ee4\u5b22\u306f\u738b\u7acb\u9a0e\u58eb\u56e3\u3067\u53ef\u611b\u304c\u3089\u308c\u308b",
+                "romaji": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru"
             }
         },
         {
@@ -805,7 +933,7 @@
             "id": 183133,
             "idMal": 60140,
             "nextAiringEpisode": {
-                "airingAt": 1743946200
+                "airingAt": 1744551000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183133-SSeg5j1UrMDG.png",
@@ -908,9 +1036,9 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
             },
             "title": {
-                "userPreferred": "Kaijyu Sekai Seifuku",
+                "userPreferred": "Kaijuu Sekai Seifuku",
                 "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
-                "romaji": "Kaijyu Sekai Seifuku"
+                "romaji": "Kaijuu Sekai Seifuku"
             }
         },
         {
@@ -978,22 +1106,6 @@
             }
         },
         {
-            "id": 185088,
-            "idMal": 60410,
-            "nextAiringEpisode": {
-                "airingAt": 1743961800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185088-pY2KxbG0KIoO.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185088-pY2KxbG0KIoO.jpg"
-            },
-            "title": {
-                "userPreferred": "Yami Shibai 14",
-                "native": "\u95c7\u829d\u5c45 \u5341\u56db\u671f",
-                "romaji": "Yami Shibai 14"
-            }
-        },
-        {
             "id": 185259,
             "idMal": 60446,
             "nextAiringEpisode": {
@@ -1039,6 +1151,22 @@
                 "userPreferred": "Oshiri Tantei 9",
                 "native": "\u304a\u3057\u308a\u305f\u3093\u3066\u3044(\u7b2c9\u30b7\u30ea\u30fc\u30ba)",
                 "romaji": "Oshiri Tantei 9"
+            }
+        },
+        {
+            "id": 185646,
+            "idMal": 60534,
+            "nextAiringEpisode": {
+                "airingAt": 1744500480
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg"
+            },
+            "title": {
+                "userPreferred": "Koupen-chan",
+                "native": "\u30b3\u30a6\u30da\u30f3\u3061\u3083\u3093",
+                "romaji": "Koupen-chan"
             }
         },
         {
@@ -1106,8 +1234,24 @@
             }
         },
         {
+            "id": 186522,
+            "idMal": 60506,
+            "nextAiringEpisode": {
+                "airingAt": 1744300440
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186522-ZDp8LzI6FjuE.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186522-ZDp8LzI6FjuE.jpg"
+            },
+            "title": {
+                "userPreferred": "Araiguma Calcal-dan",
+                "native": "\u3042\u3089\u3044\u3050\u307e \u30ab\u30eb\u30ab\u30eb\u56e3",
+                "romaji": "Araiguma Calcal-dan"
+            }
+        },
+        {
             "id": 187998,
-            "idMal": null,
+            "idMal": 61206,
             "nextAiringEpisode": {
                 "airingAt": 1744308960
             },
@@ -1215,6 +1359,22 @@
                 "userPreferred": "Yurukawa Mell-chan",
                 "native": "\u3086\u308b\u304b\u308f\u30e1\u30eb\u3061\u3083\u3093",
                 "romaji": "Yurukawa Mell-chan"
+            }
+        },
+        {
+            "id": 189832,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1744560360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189832-ef4szjfj2BFb.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189832-ef4szjfj2BFb.png"
+            },
+            "title": {
+                "userPreferred": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou",
+                "native": "\u3061\u3087\u3063\u3068\u3060\u3051\u611b\u304c\u91cd\u3044\u30c0\u30fc\u30af\u30a8\u30eb\u30d5\u304c\u7570\u4e16\u754c\u304b\u3089\u8ffd\u3044\u304b\u3051\u3066\u304d\u305f\u30df\u30cb\u30a2\u30cb\u30e1\u5287\u5834",
+                "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou"
             }
         }
     ]
