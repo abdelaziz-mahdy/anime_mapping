@@ -1,5 +1,5 @@
 {
-    "__version__": 380,
+    "__version__": 381,
     "data": [
         {
             "id": 21,
@@ -530,6 +530,22 @@
             }
         },
         {
+            "id": 174802,
+            "idMal": 58131,
+            "nextAiringEpisode": {
+                "airingAt": 1744723800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174802-ILahIZlNWN3R.jpg"
+            },
+            "title": {
+                "userPreferred": "Shiunji-ke no Kodomotachi",
+                "native": "\u7d2b\u96f2\u5bfa\u5bb6\u306e\u5b50\u4f9b\u305f\u3061",
+                "romaji": "Shiunji-ke no Kodomotachi"
+            }
+        },
+        {
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
@@ -709,7 +725,7 @@
             "id": 178701,
             "idMal": 59169,
             "nextAiringEpisode": {
-                "airingAt": 1744122600
+                "airingAt": 1744727400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
@@ -847,6 +863,22 @@
                 "userPreferred": "Uma Musume: Cinderella Gray",
                 "native": "\u30a6\u30de\u5a18 \u30b7\u30f3\u30c7\u30ec\u30e9\u30b0\u30ec\u30a4",
                 "romaji": "Uma Musume: Cinderella Gray"
+            }
+        },
+        {
+            "id": 180675,
+            "idMal": 59675,
+            "nextAiringEpisode": {
+                "airingAt": 1744734840
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180675-YEwsxiMsnyvL.png"
+            },
+            "title": {
+                "userPreferred": "Apocalypse Hotel",
+                "native": "\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9\u30db\u30c6\u30eb",
+                "romaji": "Apocalypse Hotel"
             }
         },
         {
@@ -1093,7 +1125,7 @@
             "id": 184279,
             "idMal": 60293,
             "nextAiringEpisode": {
-                "airingAt": 1744124400
+                "airingAt": 1744729200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
@@ -1183,6 +1215,22 @@
                 "userPreferred": "Kimi to Idol Precure\u266a",
                 "native": "\u30ad\u30df\u3068\u30a2\u30a4\u30c9\u30eb\u30d7\u30ea\u30ad\u30e5\u30a2\u266a",
                 "romaji": "Kimi to Idol Precure\u266a"
+            }
+        },
+        {
+            "id": 185213,
+            "idMal": 60449,
+            "nextAiringEpisode": {
+                "airingAt": 1744730940
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185213-RKQN0qxKlqd6.jpg"
+            },
+            "title": {
+                "userPreferred": "Kidou Senshi Gundam GQuuuuuuX",
+                "native": "\u6a5f\u52d5\u6226\u58ebGundam GQuuuuuuX",
+                "romaji": "Kidou Senshi Gundam GQuuuuuuX"
             }
         },
         {
@@ -1362,19 +1410,19 @@
             }
         },
         {
-            "id": 188239,
-            "idMal": 61258,
+            "id": 188131,
+            "idMal": 61238,
             "nextAiringEpisode": {
-                "airingAt": 1744160400
+                "airingAt": 1744721760
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188131-99m0d0jIBAUg.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188131-99m0d0jIBAUg.png"
             },
             "title": {
-                "userPreferred": "Transformers: Wild King",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
-                "romaji": "Transformers: Wild King"
+                "userPreferred": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku ",
+                "native": "\u3061\u304f\u308f\u6226\u8a18\uff5e\u304a\u308c\u306e\u30ab\u30ef\u30a4\u30a4\u3067\u5730\u7403\u4fb5\u7565\uff5e",
+                "romaji": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku "
             }
         },
         {
