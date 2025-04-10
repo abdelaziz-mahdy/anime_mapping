@@ -1,5 +1,5 @@
 {
-    "__version__": 382,
+    "__version__": 383,
     "data": [
         {
             "id": 21,
@@ -402,10 +402,26 @@
             }
         },
         {
+            "id": 166371,
+            "idMal": 55710,
+            "nextAiringEpisode": {
+                "airingAt": 1744810200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166371-9YKL41d3r9RS.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166371-9YKL41d3r9RS.jpg"
+            },
+            "title": {
+                "userPreferred": "HANA-Doll*: Reinterpretation of Flowering",
+                "native": "\u83efDoll*-Reinterpretation of Flowering-",
+                "romaji": "HANA-Doll*: Reinterpretation of Flowering"
+            }
+        },
+        {
             "id": 166373,
             "idMal": 55727,
             "nextAiringEpisode": {
-                "airingAt": 1744219800
+                "airingAt": 1744824600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166373-97U2bjAxD3l7.jpg",
@@ -437,7 +453,7 @@
             "id": 167142,
             "idMal": 55995,
             "nextAiringEpisode": {
-                "airingAt": 1744209900
+                "airingAt": 1744814700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167142-dJwdHptpILkF.jpg",
@@ -479,22 +495,6 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 3",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a3",
                 "romaji": "Dou Po Cangqiong: Nian Fan 3"
-            }
-        },
-        {
-            "id": 169441,
-            "idMal": 56701,
-            "nextAiringEpisode": {
-                "airingAt": 1744201560
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169441-DHutDkhkC8EN.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-DHutDkhkC8EN.jpg"
-            },
-            "title": {
-                "userPreferred": "Watashi no Shiawase na Kekkon 2nd Season",
-                "native": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a \u7b2c\u4e8c\u671f",
-                "romaji": "Watashi no Shiawase na Kekkon 2nd Season"
             }
         },
         {
@@ -549,7 +549,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1744196400
+                "airingAt": 1744801200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -645,7 +645,7 @@
             "id": 177633,
             "idMal": 58908,
             "nextAiringEpisode": {
-                "airingAt": 1744196340
+                "airingAt": 1744801140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177633-LY9wFxN1TRF6.png",
@@ -805,7 +805,7 @@
             "id": 179965,
             "idMal": 59457,
             "nextAiringEpisode": {
-                "airingAt": 1744205400
+                "airingAt": 1744810200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179965-EwqzG3xSyxwc.jpg",
@@ -1061,7 +1061,7 @@
             "id": 183161,
             "idMal": 60146,
             "nextAiringEpisode": {
-                "airingAt": 1744213560
+                "airingAt": 1744818360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183161-5M054tuPmZJX.jpg",
@@ -1093,7 +1093,7 @@
             "id": 183275,
             "idMal": 60157,
             "nextAiringEpisode": {
-                "airingAt": 1744210800
+                "airingAt": 1744815600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183275-WtAo77sYDFW8.png",
@@ -1119,6 +1119,22 @@
                 "userPreferred": "Nui Story 2",
                 "native": "\u306c\u3044\u30b9\u30c8\u30fc\u30ea\u30fc2",
                 "romaji": "Nui Story 2"
+            }
+        },
+        {
+            "id": 184182,
+            "idMal": 60280,
+            "nextAiringEpisode": {
+                "airingAt": 1744808160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184182-1VaS86GSiMOE.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184182-1VaS86GSiMOE.png"
+            },
+            "title": {
+                "userPreferred": "Zenryoku Usagi Season 2",
+                "native": "\u5168\u529b\u30a6\u30b5\u30ae\u30b7\u30fc\u30ba\u30f32",
+                "romaji": "Zenryoku Usagi Season 2"
             }
         },
         {
@@ -1192,13 +1208,29 @@
                 "airingAt": 1744381800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184989-9i29Wrdrak11.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-9i29Wrdrak11.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184989-UaWWbrRn2vWV.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-UaWWbrRn2vWV.jpg"
             },
             "title": {
                 "userPreferred": "Nazotoki wa Dinner no Ato de",
                 "native": "\u8b0e\u89e3\u304d\u306f\u30c7\u30a3\u30ca\u30fc\u306e\u3042\u3068\u3067",
                 "romaji": "Nazotoki wa Dinner no Ato de"
+            }
+        },
+        {
+            "id": 185070,
+            "idMal": 60401,
+            "nextAiringEpisode": {
+                "airingAt": 1744815600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185070-VKzUA4B9kmaX.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185070-VKzUA4B9kmaX.jpg"
+            },
+            "title": {
+                "userPreferred": "Uchuujin MuuMuu",
+                "native": "\u5b87\u5b99\u4eba\u30e0\u30fc\u30e0\u30fc",
+                "romaji": "Uchuujin MuuMuu"
             }
         },
         {
@@ -1423,6 +1455,22 @@
                 "userPreferred": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku ",
                 "native": "\u3061\u304f\u308f\u6226\u8a18\uff5e\u304a\u308c\u306e\u30ab\u30ef\u30a4\u30a4\u3067\u5730\u7403\u4fb5\u7565\uff5e",
                 "romaji": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku "
+            }
+        },
+        {
+            "id": 188239,
+            "idMal": 61258,
+            "nextAiringEpisode": {
+                "airingAt": 1745370000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
+            },
+            "title": {
+                "userPreferred": "Transformers: Wild King",
+                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
+                "romaji": "Transformers: Wild King"
             }
         },
         {
