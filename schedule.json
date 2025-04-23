@@ -1,5 +1,5 @@
 {
-    "__version__": 395,
+    "__version__": 396,
     "data": [
         {
             "id": 21,
@@ -533,7 +533,7 @@
             "id": 174802,
             "idMal": 58131,
             "nextAiringEpisode": {
-                "airingAt": 1745328600
+                "airingAt": 1745933400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
@@ -773,7 +773,7 @@
             "id": 178701,
             "idMal": 59169,
             "nextAiringEpisode": {
-                "airingAt": 1745332200
+                "airingAt": 1745937000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
@@ -965,7 +965,7 @@
             "id": 180675,
             "idMal": 59675,
             "nextAiringEpisode": {
-                "airingAt": 1745339640
+                "airingAt": 1745944440
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
@@ -1221,7 +1221,7 @@
             "id": 184279,
             "idMal": 60293,
             "nextAiringEpisode": {
-                "airingAt": 1745334000
+                "airingAt": 1745938800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
@@ -1333,7 +1333,7 @@
             "id": 185213,
             "idMal": 60449,
             "nextAiringEpisode": {
-                "airingAt": 1745335740
+                "airingAt": 1745940540
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
@@ -1541,7 +1541,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1745361960
+                "airingAt": 1745966760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1557,7 +1557,7 @@
             "id": 188131,
             "idMal": 61238,
             "nextAiringEpisode": {
-                "airingAt": 1745326560
+                "airingAt": 1745931360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188131-99m0d0jIBAUg.png",
@@ -1567,22 +1567,6 @@
                 "userPreferred": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku ",
                 "native": "\u3061\u304f\u308f\u6226\u8a18\uff5e\u304a\u308c\u306e\u30ab\u30ef\u30a4\u30a4\u3067\u5730\u7403\u4fb5\u7565\uff5e",
                 "romaji": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku "
-            }
-        },
-        {
-            "id": 188239,
-            "idMal": 61258,
-            "nextAiringEpisode": {
-                "airingAt": 1745370000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
-            },
-            "title": {
-                "userPreferred": "Transformers: Wild King",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
-                "romaji": "Transformers: Wild King"
             }
         },
         {
@@ -1695,6 +1679,22 @@
                 "userPreferred": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou",
                 "native": "\u3061\u3087\u3063\u3068\u3060\u3051\u611b\u304c\u91cd\u3044\u30c0\u30fc\u30af\u30a8\u30eb\u30d5\u304c\u7570\u4e16\u754c\u304b\u3089\u8ffd\u3044\u304b\u3051\u3066\u304d\u305f\u30df\u30cb\u30a2\u30cb\u30e1\u5287\u5834",
                 "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou"
+            }
+        },
+        {
+            "id": 191374,
+            "idMal": 61485,
+            "nextAiringEpisode": {
+                "airingAt": 1745645400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191374-BijC3ZcNSpJo.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191374-BijC3ZcNSpJo.png"
+            },
+            "title": {
+                "userPreferred": "Jigu-eui Juin-eun Goyang-ida",
+                "native": "\uc9c0\uad6c\uc758 \uc8fc\uc778\uc740 \uace0\uc591\uc774\ub2e4",
+                "romaji": "Jigu-eui Juin-eun Goyang-ida"
             }
         }
     ]
