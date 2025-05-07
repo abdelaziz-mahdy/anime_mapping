@@ -1,5 +1,5 @@
 {
-    "__version__": 409,
+    "__version__": 410,
     "data": [
         {
             "id": 21,
@@ -501,7 +501,7 @@
             "id": 174802,
             "idMal": 58131,
             "nextAiringEpisode": {
-                "airingAt": 1746538200
+                "airingAt": 1747143000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
@@ -741,7 +741,7 @@
             "id": 178701,
             "idMal": 59169,
             "nextAiringEpisode": {
-                "airingAt": 1746541800
+                "airingAt": 1747146600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
@@ -933,7 +933,7 @@
             "id": 180675,
             "idMal": 59675,
             "nextAiringEpisode": {
-                "airingAt": 1746549240
+                "airingAt": 1747154040
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
@@ -1173,7 +1173,7 @@
             "id": 184279,
             "idMal": 60293,
             "nextAiringEpisode": {
-                "airingAt": 1746543600
+                "airingAt": 1747148400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
@@ -1285,7 +1285,7 @@
             "id": 185213,
             "idMal": 60449,
             "nextAiringEpisode": {
-                "airingAt": 1746545340
+                "airingAt": 1747150140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
@@ -1493,7 +1493,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1746571560
+                "airingAt": 1747176360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1509,7 +1509,7 @@
             "id": 188131,
             "idMal": 61238,
             "nextAiringEpisode": {
-                "airingAt": 1746536160
+                "airingAt": 1747140960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188131-99m0d0jIBAUg.png",
@@ -1613,7 +1613,7 @@
             },
             "title": {
                 "userPreferred": "YouTuNya 3",
-                "native": "\u30e6\u30fc\u30c1\u30e5\u30fc\u30cb\u30e3\u30fc3",
+                "native": "\u30e6\u30fc\u30c1\u30e5\u30fc\u30cb\u30e3\u30fc \u7b2c3\u671f ",
                 "romaji": "YouTuNya 3"
             }
         },
@@ -1663,22 +1663,6 @@
                 "userPreferred": "Jigu-eui Juin-eun Goyang-ida",
                 "native": "\uc9c0\uad6c\uc758 \uc8fc\uc778\uc740 \uace0\uc591\uc774\ub2e4",
                 "romaji": "Jigu-eui Juin-eun Goyang-ida"
-            }
-        },
-        {
-            "id": 191689,
-            "idMal": 61579,
-            "nextAiringEpisode": {
-                "airingAt": 1746500400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191689-GcPVOgZLgdMa.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191689-GcPVOgZLgdMa.png"
-            },
-            "title": {
-                "userPreferred": "Umayuru: Pretty Gray",
-                "native": "\u3046\u307e\u3086\u308b \u3077\u308a\u3066\u3043\uff5e\u3050\u308c\u3044",
-                "romaji": "Umayuru: Pretty Gray"
             }
         }
     ]
