@@ -1,5 +1,5 @@
 {
-    "__version__": 416,
+    "__version__": 417,
     "data": [
         {
             "id": 21,
@@ -501,7 +501,7 @@
             "id": 174802,
             "idMal": 58131,
             "nextAiringEpisode": {
-                "airingAt": 1747143000
+                "airingAt": 1747747800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
@@ -741,7 +741,7 @@
             "id": 178701,
             "idMal": 59169,
             "nextAiringEpisode": {
-                "airingAt": 1747146600
+                "airingAt": 1747751400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
@@ -933,7 +933,7 @@
             "id": 180675,
             "idMal": 59675,
             "nextAiringEpisode": {
-                "airingAt": 1747154040
+                "airingAt": 1747758840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
@@ -1173,7 +1173,7 @@
             "id": 184279,
             "idMal": 60293,
             "nextAiringEpisode": {
-                "airingAt": 1747148400
+                "airingAt": 1747753200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
@@ -1285,7 +1285,7 @@
             "id": 185213,
             "idMal": 60449,
             "nextAiringEpisode": {
-                "airingAt": 1747150140
+                "airingAt": 1747754940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
@@ -1493,7 +1493,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1747176360
+                "airingAt": 1747781160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1503,38 +1503,6 @@
                 "userPreferred": "Rainbow Bubblegem 2: Secret",
                 "native": "\ub808\uc778\ubcf4\uc6b0 \ubc84\ube14\uc82c 2 \uc2dc\ud06c\ub9bf",
                 "romaji": "Rainbow Bubblegem 2: Secret"
-            }
-        },
-        {
-            "id": 188131,
-            "idMal": 61238,
-            "nextAiringEpisode": {
-                "airingAt": 1747140960
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188131-99m0d0jIBAUg.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188131-99m0d0jIBAUg.png"
-            },
-            "title": {
-                "userPreferred": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku ",
-                "native": "\u3061\u304f\u308f\u6226\u8a18\uff5e\u304a\u308c\u306e\u30ab\u30ef\u30a4\u30a4\u3067\u5730\u7403\u4fb5\u7565\uff5e",
-                "romaji": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku "
-            }
-        },
-        {
-            "id": 188239,
-            "idMal": 61258,
-            "nextAiringEpisode": {
-                "airingAt": 1747184400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
-            },
-            "title": {
-                "userPreferred": "Transformers: Wild King",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
-                "romaji": "Transformers: Wild King"
             }
         },
         {
