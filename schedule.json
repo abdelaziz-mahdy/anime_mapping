@@ -1,5 +1,5 @@
 {
-    "__version__": 437,
+    "__version__": 438,
     "data": [
         {
             "id": 21,
@@ -485,7 +485,7 @@
             "id": 174802,
             "idMal": 58131,
             "nextAiringEpisode": {
-                "airingAt": 1748957400
+                "airingAt": 1749562200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
@@ -709,7 +709,7 @@
             "id": 178701,
             "idMal": 59169,
             "nextAiringEpisode": {
-                "airingAt": 1748961000
+                "airingAt": 1749565800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
@@ -885,7 +885,7 @@
             "id": 180675,
             "idMal": 59675,
             "nextAiringEpisode": {
-                "airingAt": 1748968440
+                "airingAt": 1749573240
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
@@ -1125,7 +1125,7 @@
             "id": 184279,
             "idMal": 60293,
             "nextAiringEpisode": {
-                "airingAt": 1748962800
+                "airingAt": 1749567600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
@@ -1237,7 +1237,7 @@
             "id": 185213,
             "idMal": 60449,
             "nextAiringEpisode": {
-                "airingAt": 1748964540
+                "airingAt": 1749569340
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
@@ -1279,22 +1279,6 @@
                 "userPreferred": "Everyday Host",
                 "native": "\u3048\u3076\u308a\u3067\u3044\u30db\u30b9\u30c8",
                 "romaji": "Everyday Host"
-            }
-        },
-        {
-            "id": 185645,
-            "idMal": 58631,
-            "nextAiringEpisode": {
-                "airingAt": 1749254400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185645-oURiWI3bVWgq.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185645-oURiWI3bVWgq.png"
-            },
-            "title": {
-                "userPreferred": "Oshiri Tantei 9",
-                "native": "\u304a\u3057\u308a\u305f\u3093\u3066\u3044(\u7b2c9\u30b7\u30ea\u30fc\u30ba)",
-                "romaji": "Oshiri Tantei 9"
             }
         },
         {
@@ -1445,7 +1429,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1748990760
+                "airingAt": 1749595560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1455,22 +1439,6 @@
                 "userPreferred": "Rainbow Bubblegem 2: Secret",
                 "native": "\ub808\uc778\ubcf4\uc6b0 \ubc84\ube14\uc82c 2 \uc2dc\ud06c\ub9bf",
                 "romaji": "Rainbow Bubblegem 2: Secret"
-            }
-        },
-        {
-            "id": 188239,
-            "idMal": 61258,
-            "nextAiringEpisode": {
-                "airingAt": 1748998800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
-            },
-            "title": {
-                "userPreferred": "Transformers: Wild King",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
-                "romaji": "Transformers: Wild King"
             }
         },
         {
