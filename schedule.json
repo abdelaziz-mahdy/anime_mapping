@@ -1,11 +1,11 @@
 {
-    "__version__": 449,
+    "__version__": 450,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1749996960
+                "airingAt": 1750601760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1749979800
+                "airingAt": 1750584600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1749978000
+                "airingAt": 1750582800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -175,6 +175,22 @@
                 "userPreferred": "Xian Ni",
                 "native": "\u4ed9\u9006",
                 "romaji": "Xian Ni"
+            }
+        },
+        {
+            "id": 137681,
+            "idMal": 61752,
+            "nextAiringEpisode": {
+                "airingAt": 1750640400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137681-JAAyM4sjezdo.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137681-JAAyM4sjezdo.png"
+            },
+            "title": {
+                "userPreferred": "Xi Xing Ji: Da Yuan Hun",
+                "native": "\u897f\u884c\u7eaa\u4e4b\u5927\u733f\u9b42",
+                "romaji": "Xi Xing Ji: Da Yuan Hun"
             }
         },
         {
@@ -421,7 +437,7 @@
             "id": 167336,
             "idMal": 56038,
             "nextAiringEpisode": {
-                "airingAt": 1749960000
+                "airingAt": 1750564800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167336-KpGIIBie71OX.png",
@@ -453,7 +469,7 @@
             "id": 173333,
             "idMal": 57827,
             "nextAiringEpisode": {
-                "airingAt": 1749976200
+                "airingAt": 1750581000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173333-lqvM2Ya74nN9.jpg",
@@ -613,7 +629,7 @@
             "id": 177509,
             "idMal": 58833,
             "nextAiringEpisode": {
-                "airingAt": 1750004400
+                "airingAt": 1750609200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177509-LzpyXGnjitvF.jpg",
@@ -693,7 +709,7 @@
             "id": 178781,
             "idMal": 59189,
             "nextAiringEpisode": {
-                "airingAt": 1749997800
+                "airingAt": 1750602600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178781-pbk5FgfiAJxS.jpg",
@@ -741,7 +757,7 @@
             "id": 179541,
             "idMal": 59322,
             "nextAiringEpisode": {
-                "airingAt": 1749983400
+                "airingAt": 1750588200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179541-lZwENMAHZS9Y.jpg",
@@ -821,7 +837,7 @@
             "id": 180367,
             "idMal": 59597,
             "nextAiringEpisode": {
-                "airingAt": 1749974400
+                "airingAt": 1750579200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
@@ -837,7 +853,7 @@
             "id": 180516,
             "idMal": 59636,
             "nextAiringEpisode": {
-                "airingAt": 1749972600
+                "airingAt": 1750577400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg",
@@ -885,7 +901,7 @@
             "id": 180825,
             "idMal": 59744,
             "nextAiringEpisode": {
-                "airingAt": 1749994200
+                "airingAt": 1750599000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180825-trzjP1VDF19U.jpg",
@@ -901,7 +917,7 @@
             "id": 180829,
             "idMal": 59745,
             "nextAiringEpisode": {
-                "airingAt": 1750003560
+                "airingAt": 1750608360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180829-jHViG8fIkaIJ.jpg",
@@ -933,7 +949,7 @@
             "id": 182060,
             "idMal": 59935,
             "nextAiringEpisode": {
-                "airingAt": 1749997800
+                "airingAt": 1750602600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182060-r0ihNqhiyvpT.jpg",
@@ -975,22 +991,6 @@
                 "userPreferred": "Kowloon Generic Romance",
                 "native": "\u4e5d\u9f8d\u30b8\u30a7\u30cd\u30ea\u30c3\u30af\u30ed\u30de\u30f3\u30b9",
                 "romaji": "Kowloon Generic Romance"
-            }
-        },
-        {
-            "id": 183133,
-            "idMal": 60140,
-            "nextAiringEpisode": {
-                "airingAt": 1749994200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183133-SSeg5j1UrMDG.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183133-SSeg5j1UrMDG.png"
-            },
-            "title": {
-                "userPreferred": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
-                "native": "\u52d8\u9055\u3044\u306e\u5de5\u623f\u4e3b\uff5e\u82f1\u96c4\u30d1\u30fc\u30c6\u30a3\u306e\u5143\u96d1\u7528\u4fc2\u304c\u3001\u5b9f\u306f\u6226\u95d8\u4ee5\u5916\u304cSSS\u30e9\u30f3\u30af\u3060\u3063\u305f\u3068\u3044\u3046\u3088\u304f\u3042\u308b\u8a71\uff5e",
-                "romaji": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi"
             }
         },
         {
@@ -1509,7 +1509,7 @@
             "id": 189832,
             "idMal": 61410,
             "nextAiringEpisode": {
-                "airingAt": 1750003560
+                "airingAt": 1750608360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189832-ef4szjfj2BFb.png",
