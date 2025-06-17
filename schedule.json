@@ -1,5 +1,5 @@
 {
-    "__version__": 450,
+    "__version__": 451,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1750039200
+                "airingAt": 1750644000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -229,7 +229,7 @@
             "id": 143200,
             "idMal": 50694,
             "nextAiringEpisode": {
-                "airingAt": 1750084200
+                "airingAt": 1750689000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
@@ -261,7 +261,7 @@
             "id": 143598,
             "idMal": 49778,
             "nextAiringEpisode": {
-                "airingAt": 1750086000
+                "airingAt": 1750681800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
@@ -341,7 +341,7 @@
             "id": 158287,
             "idMal": 53762,
             "nextAiringEpisode": {
-                "airingAt": 1750086000
+                "airingAt": 1750690800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158287-4RDt0M820Ays.jpg",
@@ -389,7 +389,7 @@
             "id": 165445,
             "idMal": 55514,
             "nextAiringEpisode": {
-                "airingAt": 1750078800
+                "airingAt": 1750683600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165445-qwVP0w5NIaBW.jpg",
@@ -533,7 +533,7 @@
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
-                "airingAt": 1750046400
+                "airingAt": 1750651200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176191-RL4lEr65YFfE.jpg",
@@ -821,7 +821,7 @@
             "id": 179979,
             "idMal": 59466,
             "nextAiringEpisode": {
-                "airingAt": 1750078800
+                "airingAt": 1750683600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179979-OiIKSkhJRmvo.jpg",
@@ -965,7 +965,7 @@
             "id": 182419,
             "idMal": 60009,
             "nextAiringEpisode": {
-                "airingAt": 1750077000
+                "airingAt": 1750681800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182419-6l9Cb3tNseZr.png",
@@ -1285,7 +1285,7 @@
             "id": 185736,
             "idMal": 60593,
             "nextAiringEpisode": {
-                "airingAt": 1750082400
+                "airingAt": 1750687200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185736-Ci6AiGwjKKtp.jpg",
@@ -1327,6 +1327,22 @@
                 "userPreferred": "Hibi wa Sugiredo Meshi Umashi",
                 "native": "\u65e5\u3005\u306f\u904e\u304e\u308c\u3069\u98ef\u3046\u307e\u3057",
                 "romaji": "Hibi wa Sugiredo Meshi Umashi"
+            }
+        },
+        {
+            "id": 186151,
+            "idMal": 60651,
+            "nextAiringEpisode": {
+                "airingAt": 1750388400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186151-oUFvXQXVBMMP.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186151-oUFvXQXVBMMP.png"
+            },
+            "title": {
+                "userPreferred": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
+                "native": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
+                "romaji": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)"
             }
         },
         {
@@ -1477,7 +1493,7 @@
             "id": 189602,
             "idMal": 61363,
             "nextAiringEpisode": {
-                "airingAt": 1750111200
+                "airingAt": 1750716000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189602-LVMPUosYYjAW.png",
@@ -1541,7 +1557,7 @@
             "id": 193242,
             "idMal": 61491,
             "nextAiringEpisode": {
-                "airingAt": 1750086000
+                "airingAt": 1750690800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193242-0pIv8EQ3ijOA.png",
