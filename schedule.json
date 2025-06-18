@@ -1,5 +1,5 @@
 {
-    "__version__": 451,
+    "__version__": 452,
     "data": [
         {
             "id": 21,
@@ -485,7 +485,7 @@
             "id": 174802,
             "idMal": 58131,
             "nextAiringEpisode": {
-                "airingAt": 1750167000
+                "airingAt": 1750771800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
@@ -690,22 +690,6 @@
             }
         },
         {
-            "id": 178701,
-            "idMal": 59169,
-            "nextAiringEpisode": {
-                "airingAt": 1750170600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178701-OA537qbje5AU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178701-OA537qbje5AU.jpg"
-            },
-            "title": {
-                "userPreferred": "Aru Majo ga Shinu Made",
-                "native": "\u3042\u308b\u9b54\u5973\u304c\u6b7b\u306c\u307e\u3067",
-                "romaji": "Aru Majo ga Shinu Made"
-            }
-        },
-        {
             "id": 178781,
             "idMal": 59189,
             "nextAiringEpisode": {
@@ -869,7 +853,7 @@
             "id": 180675,
             "idMal": 59675,
             "nextAiringEpisode": {
-                "airingAt": 1750178040
+                "airingAt": 1750782840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
@@ -1074,22 +1058,6 @@
             }
         },
         {
-            "id": 184279,
-            "idMal": 60293,
-            "nextAiringEpisode": {
-                "airingAt": 1750172400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184279-dw02k4DPxwGz.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184279-dw02k4DPxwGz.png"
-            },
-            "title": {
-                "userPreferred": "Ballpark de Tsukamaete!",
-                "native": "\u30dc\u30fc\u30eb\u30d1\u30fc\u30af\u3067\u3064\u304b\u307e\u3048\u3066\uff01",
-                "romaji": "Ballpark de Tsukamaete!"
-            }
-        },
-        {
             "id": 184289,
             "idMal": 60070,
             "nextAiringEpisode": {
@@ -1189,7 +1157,7 @@
             "id": 185213,
             "idMal": 60449,
             "nextAiringEpisode": {
-                "airingAt": 1750174140
+                "airingAt": 1750778940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
@@ -1397,7 +1365,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1750200360
+                "airingAt": 1750805160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
