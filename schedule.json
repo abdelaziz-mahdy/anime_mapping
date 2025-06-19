@@ -1,5 +1,5 @@
 {
-    "__version__": 452,
+    "__version__": 453,
     "data": [
         {
             "id": 21,
@@ -405,7 +405,7 @@
             "id": 166371,
             "idMal": 55710,
             "nextAiringEpisode": {
-                "airingAt": 1750253400
+                "airingAt": 1750858200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166371-9YKL41d3r9RS.jpg",
@@ -421,7 +421,7 @@
             "id": 167142,
             "idMal": 55995,
             "nextAiringEpisode": {
-                "airingAt": 1750257900
+                "airingAt": 1750862700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167142-dJwdHptpILkF.jpg",
@@ -501,7 +501,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1750244400
+                "airingAt": 1750849200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -645,7 +645,7 @@
             "id": 177633,
             "idMal": 58908,
             "nextAiringEpisode": {
-                "airingAt": 1750244340
+                "airingAt": 1750849140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177633-LY9wFxN1TRF6.png",
@@ -783,22 +783,6 @@
                 "userPreferred": "Katainaka no Ossan, Kensei ni Naru",
                 "native": "\u7247\u7530\u820e\u306e\u304a\u3063\u3055\u3093\u3001\u5263\u8056\u306b\u306a\u308b",
                 "romaji": "Katainaka no Ossan, Kensei ni Naru"
-            }
-        },
-        {
-            "id": 179965,
-            "idMal": 59457,
-            "nextAiringEpisode": {
-                "airingAt": 1750253400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179965-EwqzG3xSyxwc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179965-EwqzG3xSyxwc.jpg"
-            },
-            "title": {
-                "userPreferred": "Haite Kudasai, Takamine-san",
-                "native": "\u5c65\u3044\u3066\u304f\u3060\u3055\u3044\u3001\u9df9\u5cf0\u3055\u3093",
-                "romaji": "Haite Kudasai, Takamine-san"
             }
         },
         {
@@ -978,22 +962,6 @@
             }
         },
         {
-            "id": 183161,
-            "idMal": 60146,
-            "nextAiringEpisode": {
-                "airingAt": 1750261560
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183161-5M054tuPmZJX.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg"
-            },
-            "title": {
-                "userPreferred": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
-                "native": "\u6700\u5f37\u306e\u738b\u69d8\u3001\u4e8c\u5ea6\u76ee\u306e\u4eba\u751f\u306f \u4f55\u3092\u3059\u308b? ",
-                "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?"
-            }
-        },
-        {
             "id": 183274,
             "idMal": 60154,
             "nextAiringEpisode": {
@@ -1007,22 +975,6 @@
                 "userPreferred": "Ore wa Seikan Kokka no Akutoku Ryoushu! ",
                 "native": "\u4ffa\u306f\u661f\u9593\u56fd\u5bb6\u306e\u60aa\u5fb3\u9818\u4e3b!",
                 "romaji": "Ore wa Seikan Kokka no Akutoku Ryoushu! "
-            }
-        },
-        {
-            "id": 183275,
-            "idMal": 60157,
-            "nextAiringEpisode": {
-                "airingAt": 1750258800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183275-WtAo77sYDFW8.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183275-WtAo77sYDFW8.png"
-            },
-            "title": {
-                "userPreferred": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
-                "native": "\u5b8c\u74a7\u3059\u304e\u3066\u53ef\u611b\u3052\u304c\u306a\u3044\u3068\u5a5a\u7d04\u7834\u68c4\u3055\u308c\u305f\u8056\u5973\u306f\u96a3\u56fd\u306b\u58f2\u3089\u308c\u308b",
-                "romaji": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru"
             }
         },
         {
@@ -1045,7 +997,7 @@
             "id": 184182,
             "idMal": 60280,
             "nextAiringEpisode": {
-                "airingAt": 1750251360
+                "airingAt": 1750856160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184182-1VaS86GSiMOE.png",
@@ -1125,7 +1077,7 @@
             "id": 185070,
             "idMal": 60401,
             "nextAiringEpisode": {
-                "airingAt": 1750258800
+                "airingAt": 1750863600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185070-VKzUA4B9kmaX.jpg",
