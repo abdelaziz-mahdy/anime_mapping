@@ -1,5 +1,5 @@
 {
-    "__version__": 453,
+    "__version__": 454,
     "data": [
         {
             "id": 21,
@@ -85,7 +85,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1750371000
+                "airingAt": 1750975800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -197,7 +197,7 @@
             "id": 139825,
             "idMal": 49981,
             "nextAiringEpisode": {
-                "airingAt": 1750332600
+                "airingAt": 1750937400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139825-rFlrzdRZmlYK.jpg",
@@ -514,22 +514,6 @@
             }
         },
         {
-            "id": 175872,
-            "idMal": 58359,
-            "nextAiringEpisode": {
-                "airingAt": 1750343400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175872-d55nfiC4WWHO.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg"
-            },
-            "title": {
-                "userPreferred": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
-                "native": "\u4e00\u77ac\u3067\u6cbb\u7642\u3057\u3066\u3044\u305f\u306e\u306b\u5f79\u7acb\u305f\u305a\u3068\u8ffd\u653e\u3055\u308c\u305f\u5929\u624d\u6cbb\u7652\u5e2b\u3001\u95c7\u30d2\u30fc\u30e9\u30fc\u3068\u3057\u3066\u697d\u3057\u304f\u751f\u304d\u308b",
-                "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru"
-            }
-        },
-        {
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
@@ -597,7 +581,7 @@
             "id": 177120,
             "idMal": 58725,
             "nextAiringEpisode": {
-                "airingAt": 1750336200
+                "airingAt": 1750941000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177120-xRucIg2WDr77.png",
@@ -674,22 +658,6 @@
             }
         },
         {
-            "id": 178680,
-            "idMal": 59160,
-            "nextAiringEpisode": {
-                "airingAt": 1750346760
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178680-nIAhCizY46ZU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-nIAhCizY46ZU.jpg"
-            },
-            "title": {
-                "userPreferred": "WIND BREAKER Season 2",
-                "native": "WIND BREAKER Season 2",
-                "romaji": "WIND BREAKER Season 2"
-            }
-        },
-        {
             "id": 178781,
             "idMal": 59189,
             "nextAiringEpisode": {
@@ -757,7 +725,7 @@
             "id": 179694,
             "idMal": 59360,
             "nextAiringEpisode": {
-                "airingAt": 1750344960
+                "airingAt": 1750949760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179694-7zhc0T6IImor.jpg",
@@ -1266,42 +1234,10 @@
             }
         },
         {
-            "id": 186313,
-            "idMal": 60947,
-            "nextAiringEpisode": {
-                "airingAt": 1750352280
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg"
-            },
-            "title": {
-                "userPreferred": "Nmeneko",
-                "native": "\u30f3\u3081\u306d\u3053",
-                "romaji": "Nmeneko"
-            }
-        },
-        {
-            "id": 186522,
-            "idMal": 60506,
-            "nextAiringEpisode": {
-                "airingAt": 1750348440
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186522-ZDp8LzI6FjuE.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186522-ZDp8LzI6FjuE.jpg"
-            },
-            "title": {
-                "userPreferred": "Araiguma Calcal-dan",
-                "native": "\u3042\u3089\u3044\u3050\u307e \u30ab\u30eb\u30ab\u30eb\u56e3",
-                "romaji": "Araiguma Calcal-dan"
-            }
-        },
-        {
             "id": 187998,
             "idMal": 61206,
             "nextAiringEpisode": {
-                "airingAt": 1750356960
+                "airingAt": 1750961760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187998-eWArrPyKvfw8.jpg",
@@ -1349,7 +1285,7 @@
             "id": 188394,
             "idMal": 61272,
             "nextAiringEpisode": {
-                "airingAt": 1750325400
+                "airingAt": 1750930200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
@@ -1381,7 +1317,7 @@
             "id": 188884,
             "idMal": 61300,
             "nextAiringEpisode": {
-                "airingAt": 1750372200
+                "airingAt": 1750977000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
@@ -1429,7 +1365,7 @@
             "id": 189716,
             "idMal": 61379,
             "nextAiringEpisode": {
-                "airingAt": 1750337640
+                "airingAt": 1750942440
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189716-6r2f88YG3XNP.png",
