@@ -1,5 +1,5 @@
 {
-    "__version__": 454,
+    "__version__": 455,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1750384500
+                "airingAt": 1750989300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1750412400
+                "airingAt": 1751017200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -149,7 +149,7 @@
             "id": 135580,
             "idMal": 60570,
             "nextAiringEpisode": {
-                "airingAt": 1750384800
+                "airingAt": 1750989600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135580-9aYDdfUwCYuF.png",
@@ -213,7 +213,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1750458600
+                "airingAt": 1751063400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -290,38 +290,6 @@
             }
         },
         {
-            "id": 149118,
-            "idMal": 51818,
-            "nextAiringEpisode": {
-                "airingAt": 1750438380
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149118-AOQb0xuTssGl.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg"
-            },
-            "title": {
-                "userPreferred": "Enen no Shouboutai: San no Shou",
-                "native": "\u708e\u708e\u30ce\u6d88\u9632\u968a \u53c2\u30ce\u7ae0",
-                "romaji": "Enen no Shouboutai: San no Shou"
-            }
-        },
-        {
-            "id": 153554,
-            "idMal": 52709,
-            "nextAiringEpisode": {
-                "airingAt": 1750426200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153554-hHYe9aV6Gvlv.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153554-hHYe9aV6Gvlv.jpg"
-            },
-            "title": {
-                "userPreferred": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
-                "native": "\u7537\u5973\u306e\u53cb\u60c5\u306f\u6210\u7acb\u3059\u308b\uff1f\uff08\u3044\u3084\u3001 \u3057\u306a\u3044\u3063!!\uff09",
-                "romaji": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)"
-            }
-        },
-        {
             "id": 156092,
             "idMal": 53447,
             "nextAiringEpisode": {
@@ -357,7 +325,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1750413300
+                "airingAt": 1751018100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -373,7 +341,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1750411500
+                "airingAt": 1751016300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -565,7 +533,7 @@
             "id": 176702,
             "idMal": 58614,
             "nextAiringEpisode": {
-                "airingAt": 1750433400
+                "airingAt": 1751038200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176702-sD5AnHf8g4zi.jpg",
@@ -978,22 +946,6 @@
             }
         },
         {
-            "id": 184289,
-            "idMal": 60070,
-            "nextAiringEpisode": {
-                "airingAt": 1750456800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaijuu Sekai Seifuku",
-                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
-                "romaji": "Kaijuu Sekai Seifuku"
-            }
-        },
-        {
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
@@ -1023,22 +975,6 @@
                 "userPreferred": "Anne Shirley",
                 "native": "\u30a2\u30f3\u30fb\u30b7\u30e3\u30fc\u30ea\u30fc",
                 "romaji": "Anne Shirley"
-            }
-        },
-        {
-            "id": 184989,
-            "idMal": 60377,
-            "nextAiringEpisode": {
-                "airingAt": 1750429800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184989-UaWWbrRn2vWV.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-UaWWbrRn2vWV.jpg"
-            },
-            "title": {
-                "userPreferred": "Nazotoki wa Dinner no Ato de",
-                "native": "\u8b0e\u89e3\u304d\u306f\u30c7\u30a3\u30ca\u30fc\u306e\u3042\u3068\u3067",
-                "romaji": "Nazotoki wa Dinner no Ato de"
             }
         },
         {
@@ -1109,7 +1045,7 @@
             "id": 185584,
             "idMal": 60535,
             "nextAiringEpisode": {
-                "airingAt": 1750435980
+                "airingAt": 1751040780
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg",
@@ -1135,22 +1071,6 @@
                 "userPreferred": "Koupen-chan",
                 "native": "\u30b3\u30a6\u30da\u30f3\u3061\u3083\u3093",
                 "romaji": "Koupen-chan"
-            }
-        },
-        {
-            "id": 185715,
-            "idMal": 60612,
-            "nextAiringEpisode": {
-                "airingAt": 1750456800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185715-S5OtxSJTo5k1.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png"
-            },
-            "title": {
-                "userPreferred": "SHIBUYA\u2661HACHI 2nd Season",
-                "native": "SHIBUYA\u2661HACHI \u7b2c2\u671f",
-                "romaji": "SHIBUYA\u2661HACHI 2nd Season"
             }
         },
         {
@@ -1189,7 +1109,7 @@
             "id": 185778,
             "idMal": 60200,
             "nextAiringEpisode": {
-                "airingAt": 1750420800
+                "airingAt": 1751025600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185778-Zl01zbfShlCc.jpg",
@@ -1215,22 +1135,6 @@
                 "userPreferred": "Hibi wa Sugiredo Meshi Umashi",
                 "native": "\u65e5\u3005\u306f\u904e\u304e\u308c\u3069\u98ef\u3046\u307e\u3057",
                 "romaji": "Hibi wa Sugiredo Meshi Umashi"
-            }
-        },
-        {
-            "id": 186151,
-            "idMal": 60651,
-            "nextAiringEpisode": {
-                "airingAt": 1750388400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186151-oUFvXQXVBMMP.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186151-oUFvXQXVBMMP.png"
-            },
-            "title": {
-                "userPreferred": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
-                "native": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
-                "romaji": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)"
             }
         },
         {
