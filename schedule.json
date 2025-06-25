@@ -1,5 +1,5 @@
 {
-    "__version__": 458,
+    "__version__": 459,
     "data": [
         {
             "id": 21,
@@ -386,22 +386,6 @@
             }
         },
         {
-            "id": 174802,
-            "idMal": 58131,
-            "nextAiringEpisode": {
-                "airingAt": 1750771800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174802-ILahIZlNWN3R.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174802-ILahIZlNWN3R.jpg"
-            },
-            "title": {
-                "userPreferred": "Shiunji-ke no Kodomotachi",
-                "native": "\u7d2b\u96f2\u5bfa\u5bb6\u306e\u5b50\u4f9b\u305f\u3061",
-                "romaji": "Shiunji-ke no Kodomotachi"
-            }
-        },
-        {
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
@@ -658,22 +642,6 @@
             }
         },
         {
-            "id": 180675,
-            "idMal": 59675,
-            "nextAiringEpisode": {
-                "airingAt": 1750782840
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180675-YEwsxiMsnyvL.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180675-YEwsxiMsnyvL.png"
-            },
-            "title": {
-                "userPreferred": "Apocalypse Hotel",
-                "native": "\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9\u30db\u30c6\u30eb",
-                "romaji": "Apocalypse Hotel"
-            }
-        },
-        {
             "id": 180812,
             "idMal": 59730,
             "nextAiringEpisode": {
@@ -815,22 +783,6 @@
                 "userPreferred": "Kimi to Idol Precure\u266a",
                 "native": "\u30ad\u30df\u3068\u30a2\u30a4\u30c9\u30eb\u30d7\u30ea\u30ad\u30e5\u30a2\u266a",
                 "romaji": "Kimi to Idol Precure\u266a"
-            }
-        },
-        {
-            "id": 185213,
-            "idMal": 60449,
-            "nextAiringEpisode": {
-                "airingAt": 1750778940
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185213-RKQN0qxKlqd6.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185213-RKQN0qxKlqd6.jpg"
-            },
-            "title": {
-                "userPreferred": "Kidou Senshi Gundam GQuuuuuuX",
-                "native": "\u6a5f\u52d5\u6226\u58ebGundam GQuuuuuuX",
-                "romaji": "Kidou Senshi Gundam GQuuuuuuX"
             }
         },
         {
@@ -997,7 +949,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1750805160
+                "airingAt": 1751409960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1013,7 +965,7 @@
             "id": 188239,
             "idMal": 61258,
             "nextAiringEpisode": {
-                "airingAt": 1750813200
+                "airingAt": 1752627600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
