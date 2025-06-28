@@ -1,5 +1,5 @@
 {
-    "__version__": 461,
+    "__version__": 462,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1750989300
+                "airingAt": 1751594100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1751017200
+                "airingAt": 1751622000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -149,7 +149,7 @@
             "id": 135580,
             "idMal": 60570,
             "nextAiringEpisode": {
-                "airingAt": 1750989600
+                "airingAt": 1751594400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135580-9aYDdfUwCYuF.png",
@@ -197,7 +197,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1751063400
+                "airingAt": 1751668200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -277,7 +277,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1751018100
+                "airingAt": 1751622900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -293,7 +293,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1751016300
+                "airingAt": 1751621100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -389,7 +389,7 @@
             "id": 176301,
             "idMal": 58514,
             "nextAiringEpisode": {
-                "airingAt": 1751032800
+                "airingAt": 1751637600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg",
@@ -399,22 +399,6 @@
                 "userPreferred": "Kusuriya no Hitorigoto 2nd Season",
                 "native": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c2\u671f",
                 "romaji": "Kusuriya no Hitorigoto 2nd Season"
-            }
-        },
-        {
-            "id": 176702,
-            "idMal": 58614,
-            "nextAiringEpisode": {
-                "airingAt": 1751038200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176702-sD5AnHf8g4zi.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176702-sD5AnHf8g4zi.jpg"
-            },
-            "title": {
-                "userPreferred": "Teogonia",
-                "native": "\u795e\u7d71\u8a18",
-                "romaji": "Teogonia"
             }
         },
         {
@@ -610,22 +594,6 @@
             }
         },
         {
-            "id": 184289,
-            "idMal": 60070,
-            "nextAiringEpisode": {
-                "airingAt": 1751061600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaijuu Sekai Seifuku",
-                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
-                "romaji": "Kaijuu Sekai Seifuku"
-            }
-        },
-        {
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
@@ -690,10 +658,26 @@
             }
         },
         {
+            "id": 185407,
+            "idMal": 60489,
+            "nextAiringEpisode": {
+                "airingAt": 1751641200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-K8o5pta80AU0.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185407-K8o5pta80AU0.jpg"
+            },
+            "title": {
+                "userPreferred": "Takopii no Genzai",
+                "native": "\u30bf\u30b3\u30d4\u30fc\u306e\u539f\u7f6a",
+                "romaji": "Takopii no Genzai"
+            }
+        },
+        {
             "id": 185584,
             "idMal": 60535,
             "nextAiringEpisode": {
-                "airingAt": 1751040780
+                "airingAt": 1751645580
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg",
@@ -719,22 +703,6 @@
                 "userPreferred": "Koupen-chan",
                 "native": "\u30b3\u30a6\u30da\u30f3\u3061\u3083\u3093",
                 "romaji": "Koupen-chan"
-            }
-        },
-        {
-            "id": 185715,
-            "idMal": 60612,
-            "nextAiringEpisode": {
-                "airingAt": 1751061600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185715-S5OtxSJTo5k1.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png"
-            },
-            "title": {
-                "userPreferred": "SHIBUYA\u2661HACHI 2nd Season",
-                "native": "SHIBUYA\u2661HACHI \u7b2c2\u671f",
-                "romaji": "SHIBUYA\u2661HACHI 2nd Season"
             }
         },
         {
@@ -767,22 +735,6 @@
                 "userPreferred": "Vigilante: Boku no Hero Academia ILLEGALS",
                 "native": "\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6 -\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 ILLEGALS-",
                 "romaji": "Vigilante: Boku no Hero Academia ILLEGALS"
-            }
-        },
-        {
-            "id": 185778,
-            "idMal": 60200,
-            "nextAiringEpisode": {
-                "airingAt": 1751025600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185778-Zl01zbfShlCc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185778-Zl01zbfShlCc.jpg"
-            },
-            "title": {
-                "userPreferred": "Terra Live",
-                "native": "\u30c6\u30e9\u30e9\u30a4\u30d6",
-                "romaji": "Terra Live"
             }
         },
         {
