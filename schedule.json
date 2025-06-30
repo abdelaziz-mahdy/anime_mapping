@@ -1,11 +1,11 @@
 {
-    "__version__": 463,
+    "__version__": 464,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1751206560
+                "airingAt": 1751811360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1751706000
+                "airingAt": 1752915600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1751189400
+                "airingAt": 1751794200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1751187600
+                "airingAt": 1751792400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -197,7 +197,7 @@
             "id": 137681,
             "idMal": 61752,
             "nextAiringEpisode": {
-                "airingAt": 1751245200
+                "airingAt": 1751850000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137681-JAAyM4sjezdo.png",
@@ -322,22 +322,6 @@
             }
         },
         {
-            "id": 167336,
-            "idMal": 56038,
-            "nextAiringEpisode": {
-                "airingAt": 1751169600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167336-KpGIIBie71OX.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-KpGIIBie71OX.png"
-            },
-            "title": {
-                "userPreferred": "Lazarus",
-                "native": "\u30e9\u30b6\u30ed",
-                "romaji": "Lazarus"
-            }
-        },
-        {
             "id": 168164,
             "idMal": null,
             "nextAiringEpisode": {
@@ -360,8 +344,8 @@
                 "airingAt": 1751733000
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170113-fq1NyxPRvLKc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170113-fq1NyxPRvLKc.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170113-dk9h9ybZnGnZ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170113-dk9h9ybZnGnZ.jpg"
             },
             "title": {
                 "userPreferred": "Koujo Denka no Katei Kyoushi",
@@ -421,7 +405,7 @@
             "id": 177476,
             "idMal": 58812,
             "nextAiringEpisode": {
-                "airingAt": 1751704200
+                "airingAt": 1752309000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177476-kduwwEfxcZtU.jpg",
@@ -466,42 +450,10 @@
             }
         },
         {
-            "id": 178781,
-            "idMal": 59189,
-            "nextAiringEpisode": {
-                "airingAt": 1751207400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178781-pbk5FgfiAJxS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg"
-            },
-            "title": {
-                "userPreferred": "Sentai Daishikkaku 2nd Season",
-                "native": "\u6226\u968a\u5927\u5931\u683c 2nd season",
-                "romaji": "Sentai Daishikkaku 2nd Season"
-            }
-        },
-        {
-            "id": 179541,
-            "idMal": 59322,
-            "nextAiringEpisode": {
-                "airingAt": 1751193000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179541-lZwENMAHZS9Y.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg"
-            },
-            "title": {
-                "userPreferred": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
-                "native": "\u767d\u8c5a\u8cb4\u65cf\u3067\u3059\u304c\u524d\u4e16\u306e\u8a18\u61b6\u304c\u751f\u3048\u305f\u306e\u3067 \u3072\u3088\u3053\u306a\u5f1f\u80b2\u3066\u307e\u3059",
-                "romaji": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu"
-            }
-        },
-        {
             "id": 180367,
             "idMal": 59597,
             "nextAiringEpisode": {
-                "airingAt": 1751184000
+                "airingAt": 1751788800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
@@ -511,22 +463,6 @@
                 "userPreferred": "Witch Watch",
                 "native": "\u30a6\u30a3\u30c3\u30c1\u30a6\u30a9\u30c3\u30c1",
                 "romaji": "Witch Watch"
-            }
-        },
-        {
-            "id": 180516,
-            "idMal": 59636,
-            "nextAiringEpisode": {
-                "airingAt": 1751182200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180516-lebpoKLkw6E3.jpg"
-            },
-            "title": {
-                "userPreferred": "Uma Musume: Cinderella Gray",
-                "native": "\u30a6\u30de\u5a18 \u30b7\u30f3\u30c7\u30ec\u30e9\u30b0\u30ec\u30a4",
-                "romaji": "Uma Musume: Cinderella Gray"
             }
         },
         {
