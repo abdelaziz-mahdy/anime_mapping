@@ -1,5 +1,5 @@
 {
-    "__version__": 464,
+    "__version__": 465,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1751248800
+                "airingAt": 1751853600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -229,7 +229,7 @@
             "id": 143200,
             "idMal": 50694,
             "nextAiringEpisode": {
-                "airingAt": 1751293800
+                "airingAt": 1751898600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
@@ -373,7 +373,7 @@
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
-                "airingAt": 1751256000
+                "airingAt": 1751860800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176191-RL4lEr65YFfE.jpg",
@@ -626,22 +626,6 @@
             }
         },
         {
-            "id": 185736,
-            "idMal": 60593,
-            "nextAiringEpisode": {
-                "airingAt": 1751292000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185736-Ci6AiGwjKKtp.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg"
-            },
-            "title": {
-                "userPreferred": "Vigilante: Boku no Hero Academia ILLEGALS",
-                "native": "\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6 -\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 ILLEGALS-",
-                "romaji": "Vigilante: Boku no Hero Academia ILLEGALS"
-            }
-        },
-        {
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
@@ -751,22 +735,6 @@
                 "userPreferred": "Sousou no Frieren: \u25cf\u25cf no Mahou Part 2",
                 "native": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \uff5e\u25cf\u25cf\u306e\u9b54\u6cd5\uff5e 2\u30af\u30fc\u30eb",
                 "romaji": "Sousou no Frieren: \u25cf\u25cf no Mahou Part 2"
-            }
-        },
-        {
-            "id": 189602,
-            "idMal": 61363,
-            "nextAiringEpisode": {
-                "airingAt": 1751320800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189602-LVMPUosYYjAW.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189602-LVMPUosYYjAW.png"
-            },
-            "title": {
-                "userPreferred": "YouTuNya 3",
-                "native": "\u30e6\u30fc\u30c1\u30e5\u30fc\u30cb\u30e3\u30fc \u7b2c3\u671f ",
-                "romaji": "YouTuNya 3"
             }
         },
         {
