@@ -1,5 +1,5 @@
 {
-    "__version__": 465,
+    "__version__": 466,
     "data": [
         {
             "id": 21,
@@ -450,6 +450,22 @@
             }
         },
         {
+            "id": 179344,
+            "idMal": 59277,
+            "nextAiringEpisode": {
+                "airingAt": 1751979600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179344-GQzJfehpQI72.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png"
+            },
+            "title": {
+                "userPreferred": "Kanojo, Okarishimasu 4th Season",
+                "native": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059 \u7b2c4\u671f",
+                "romaji": "Kanojo, Okarishimasu 4th Season"
+            }
+        },
+        {
             "id": 180367,
             "idMal": 59597,
             "nextAiringEpisode": {
@@ -463,6 +479,22 @@
                 "userPreferred": "Witch Watch",
                 "native": "\u30a6\u30a3\u30c3\u30c1\u30a6\u30a9\u30c3\u30c1",
                 "romaji": "Witch Watch"
+            }
+        },
+        {
+            "id": 180460,
+            "idMal": 59632,
+            "nextAiringEpisode": {
+                "airingAt": 1751985000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180460-rZn4pp9YNqW0.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180460-rZn4pp9YNqW0.jpg"
+            },
+            "title": {
+                "userPreferred": "Mattaku Saikin no Tantei to Kitara",
+                "native": "\u307e\u3063\u305f\u304f\u6700\u8fd1\u306e\u63a2\u5075\u3068\u304d\u305f\u3089",
+                "romaji": "Mattaku Saikin no Tantei to Kitara"
             }
         },
         {
@@ -578,6 +610,22 @@
             }
         },
         {
+            "id": 185505,
+            "idMal": 60505,
+            "nextAiringEpisode": {
+                "airingAt": 1751985000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185505-l2ZcSDvdzhd8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-l2ZcSDvdzhd8.jpg"
+            },
+            "title": {
+                "userPreferred": "Necronomico no Cosmic Horror Show",
+                "native": "\u30cd\u30af\u30ed\u30ce\u30df\u5b50\u306e\u30b3\u30ba\u30df\u30c3\u30af\u30db\u30e9\u30fc\u30b7\u30e7\u30a6",
+                "romaji": "Necronomico no Cosmic Horror Show"
+            }
+        },
+        {
             "id": 185584,
             "idMal": 60535,
             "nextAiringEpisode": {
@@ -658,10 +706,26 @@
             }
         },
         {
+            "id": 186789,
+            "idMal": 61023,
+            "nextAiringEpisode": {
+                "airingAt": 1751990400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186789-MNl0ZBiRzDqY.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186789-MNl0ZBiRzDqY.jpg"
+            },
+            "title": {
+                "userPreferred": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite",
+                "native": "\u4eba\u59bb\u306e\u5507\u306f\u7f36\u30c1\u30e5\u30fc\u30cf\u30a4\u306e\u5473\u304c\u3057\u3066",
+                "romaji": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite"
+            }
+        },
+        {
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1751409960
+                "airingAt": 1752014760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -751,6 +815,22 @@
                 "userPreferred": "Jigu-eui Juin-eun Goyang-ida",
                 "native": "\uc9c0\uad6c\uc758 \uc8fc\uc778\uc740 \uace0\uc591\uc774\ub2e4",
                 "romaji": "Jigu-eui Juin-eun Goyang-ida"
+            }
+        },
+        {
+            "id": 193883,
+            "idMal": 61765,
+            "nextAiringEpisode": {
+                "airingAt": 1752012360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg"
+            },
+            "title": {
+                "userPreferred": "Chibi Godzilla no Gyakushuu 3",
+                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
+                "romaji": "Chibi Godzilla no Gyakushuu 3"
             }
         }
     ]
