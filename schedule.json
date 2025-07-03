@@ -1,5 +1,5 @@
 {
-    "__version__": 466,
+    "__version__": 467,
     "data": [
         {
             "id": 21,
@@ -274,6 +274,22 @@
             }
         },
         {
+            "id": 155838,
+            "idMal": 53397,
+            "nextAiringEpisode": {
+                "airingAt": 1752081360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155838-0zx6MTeoo5sk.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155838-0zx6MTeoo5sk.jpg"
+            },
+            "title": {
+                "userPreferred": "Tsuyokute New Saga",
+                "native": "\u5f37\u304f\u3066\u30cb\u30e5\u30fc\u30b5\u30fc\u30ac",
+                "romaji": "Tsuyokute New Saga"
+            }
+        },
+        {
             "id": 156092,
             "idMal": 53447,
             "nextAiringEpisode": {
@@ -338,6 +354,22 @@
             }
         },
         {
+            "id": 169440,
+            "idMal": 56700,
+            "nextAiringEpisode": {
+                "airingAt": 1752066000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169440-MhlOxaIyASRu.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169440-MhlOxaIyASRu.jpg"
+            },
+            "title": {
+                "userPreferred": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+                "native": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u306b\u751f\u307e\u308c\u5909\u308f\u3063\u305f\u4ffa\u306f\u8ff7\u5bae\u3092\u5f77\u5fa8\u3046 2nd Season",
+                "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season"
+            }
+        },
+        {
             "id": 170113,
             "idMal": 56907,
             "nextAiringEpisode": {
@@ -357,7 +389,7 @@
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
-                "airingAt": 1751454000
+                "airingAt": 1752058800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
@@ -418,22 +450,6 @@
             }
         },
         {
-            "id": 177633,
-            "idMal": 58908,
-            "nextAiringEpisode": {
-                "airingAt": 1751453940
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177633-LY9wFxN1TRF6.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177633-LY9wFxN1TRF6.png"
-            },
-            "title": {
-                "userPreferred": "MUZIK TIGER In the Forest",
-                "native": "MUZIK TIGER In the Forest",
-                "romaji": "MUZIK TIGER In the Forest"
-            }
-        },
-        {
             "id": 178052,
             "idMal": 59078,
             "nextAiringEpisode": {
@@ -450,6 +466,22 @@
             }
         },
         {
+            "id": 178869,
+            "idMal": 59205,
+            "nextAiringEpisode": {
+                "airingAt": 1752066000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178869-qiEz0gQD8H5N.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178869-qiEz0gQD8H5N.png"
+            },
+            "title": {
+                "userPreferred": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
+                "native": "\u30af\u30ec\u30d0\u30c6\u30b9-\u9b54\u7363\u306e\u738b\u3068\u8d64\u5b50\u3068\u5c4d\u306e\u52c7\u8005",
+                "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha"
+            }
+        },
+        {
             "id": 179344,
             "idMal": 59277,
             "nextAiringEpisode": {
@@ -463,6 +495,22 @@
                 "userPreferred": "Kanojo, Okarishimasu 4th Season",
                 "native": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059 \u7b2c4\u671f",
                 "romaji": "Kanojo, Okarishimasu 4th Season"
+            }
+        },
+        {
+            "id": 179678,
+            "idMal": 59342,
+            "nextAiringEpisode": {
+                "airingAt": 1752072300
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179678-1isykDVghv8Q.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179678-1isykDVghv8Q.png"
+            },
+            "title": {
+                "userPreferred": "Jigoku Sensei Nube (2025)",
+                "native": "\u5730\u7344\u5148\u751f\u306c\uff5e\u3079\uff5e (2025)",
+                "romaji": "Jigoku Sensei Nube (2025)"
             }
         },
         {
@@ -565,7 +613,7 @@
             "id": 185070,
             "idMal": 60401,
             "nextAiringEpisode": {
-                "airingAt": 1751468400
+                "airingAt": 1752073200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185070-VKzUA4B9kmaX.jpg",
@@ -658,6 +706,22 @@
             }
         },
         {
+            "id": 185660,
+            "idMal": 60543,
+            "nextAiringEpisode": {
+                "airingAt": 1751556360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-uB8RUMBGovGr.jpg"
+            },
+            "title": {
+                "userPreferred": "Dandadan 2nd Season",
+                "native": "\u30c0\u30f3\u30c0\u30c0\u30f3 \u7b2c2\u671f",
+                "romaji": "Dandadan 2nd Season"
+            }
+        },
+        {
             "id": 185718,
             "idMal": 60596,
             "nextAiringEpisode": {
@@ -719,6 +783,22 @@
                 "userPreferred": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite",
                 "native": "\u4eba\u59bb\u306e\u5507\u306f\u7f36\u30c1\u30e5\u30fc\u30cf\u30a4\u306e\u5473\u304c\u3057\u3066",
                 "romaji": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite"
+            }
+        },
+        {
+            "id": 187387,
+            "idMal": 61150,
+            "nextAiringEpisode": {
+                "airingAt": 1752075960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187387-dbi9hPNKyA35.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187387-dbi9hPNKyA35.jpg"
+            },
+            "title": {
+                "userPreferred": "Onmyo Kaiten Re:verse",
+                "native": "\u9670\u967d\u5efb\u5929 Re:\u30d0\u30fc\u30b9",
+                "romaji": "Onmyo Kaiten Re:verse"
             }
         },
         {
@@ -789,7 +869,7 @@
             "id": 189513,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1751450400
+                "airingAt": 1754474400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189513-1R9Sryve0K53.png",
