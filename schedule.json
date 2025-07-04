@@ -1,5 +1,5 @@
 {
-    "__version__": 467,
+    "__version__": 468,
     "data": [
         {
             "id": 21,
@@ -85,7 +85,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1751580600
+                "airingAt": 1752185400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -386,6 +386,22 @@
             }
         },
         {
+            "id": 173335,
+            "idMal": 57820,
+            "nextAiringEpisode": {
+                "airingAt": 1752159360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173335-iWDaWkuSuZW5.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173335-iWDaWkuSuZW5.jpg"
+            },
+            "title": {
+                "userPreferred": "Kamitsubaki-shi Kensetsuchuu.",
+                "native": "\u795e\u693f\u5e02\u5efa\u8a2d\u4e2d\u3002",
+                "romaji": "Kamitsubaki-shi Kensetsuchuu."
+            }
+        },
+        {
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
@@ -674,6 +690,22 @@
             }
         },
         {
+            "id": 185544,
+            "idMal": 60523,
+            "nextAiringEpisode": {
+                "airingAt": 1752159600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185544-V9XoC8yJ906f.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg"
+            },
+            "title": {
+                "userPreferred": "Tsuihousha Shokudou e Youkoso!",
+                "native": "\u8ffd\u653e\u8005\u98df\u5802\u3078\u3088\u3046\u3053\u305d\uff01",
+                "romaji": "Tsuihousha Shokudou e Youkoso!"
+            }
+        },
+        {
             "id": 185584,
             "idMal": 60535,
             "nextAiringEpisode": {
@@ -709,7 +741,7 @@
             "id": 185660,
             "idMal": 60543,
             "nextAiringEpisode": {
-                "airingAt": 1751556360
+                "airingAt": 1752161160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg",
@@ -738,10 +770,26 @@
             }
         },
         {
+            "id": 186052,
+            "idMal": 60732,
+            "nextAiringEpisode": {
+                "airingAt": 1752164880
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186052-zq8h0Qo0O0sP.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-zq8h0Qo0O0sP.jpg"
+            },
+            "title": {
+                "userPreferred": "Mizu Zokusei no Mahou Tsukai",
+                "native": "\u6c34\u5c5e\u6027\u306e\u9b54\u6cd5\u4f7f\u3044",
+                "romaji": "Mizu Zokusei no Mahou Tsukai"
+            }
+        },
+        {
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1751561880
+                "airingAt": 1752166680
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -757,7 +805,7 @@
             "id": 186522,
             "idMal": 60506,
             "nextAiringEpisode": {
-                "airingAt": 1751558040
+                "airingAt": 1752162840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186522-ZDp8LzI6FjuE.jpg",
@@ -837,7 +885,7 @@
             "id": 188394,
             "idMal": 61272,
             "nextAiringEpisode": {
-                "airingAt": 1751535000
+                "airingAt": 1752139800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
@@ -853,7 +901,7 @@
             "id": 188884,
             "idMal": 61300,
             "nextAiringEpisode": {
-                "airingAt": 1751581800
+                "airingAt": 1752186600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
@@ -863,6 +911,22 @@
                 "userPreferred": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
                 "native": "\u3059\u307f\u3063\u30b3\u3050\u3089\u3057 \u3053\u3053\u304c\u304a\u3061\u3064\u304f\u3093\u3067\u3059",
                 "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu"
+            }
+        },
+        {
+            "id": 189069,
+            "idMal": 61274,
+            "nextAiringEpisode": {
+                "airingAt": 1752152040
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189069-mDKZPNUNKFOD.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189069-mDKZPNUNKFOD.jpg"
+            },
+            "title": {
+                "userPreferred": "Ginga Tokkyuu Milky\u2606Subway",
+                "native": "\u9280\u6cb3\u7279\u6025 \u30df\u30eb\u30ad\u30fc\u2606\u30b5\u30d6\u30a6\u30a7\u30a4",
+                "romaji": "Ginga Tokkyuu Milky\u2606Subway"
             }
         },
         {
