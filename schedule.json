@@ -1,5 +1,5 @@
 {
-    "__version__": 468,
+    "__version__": 469,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1751594100
+                "airingAt": 1752198900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1751622000
+                "airingAt": 1752226800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -149,7 +149,7 @@
             "id": 135580,
             "idMal": 60570,
             "nextAiringEpisode": {
-                "airingAt": 1751594400
+                "airingAt": 1752199200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135580-9aYDdfUwCYuF.png",
@@ -213,7 +213,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1751668200
+                "airingAt": 1752273000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -306,10 +306,26 @@
             }
         },
         {
+            "id": 156395,
+            "idMal": 53512,
+            "nextAiringEpisode": {
+                "airingAt": 1752240600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156395-LW98bhT54IuM.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156395-LW98bhT54IuM.png"
+            },
+            "title": {
+                "userPreferred": "Busu ni Hanataba wo.",
+                "native": "\u30d6\u30b9\u306b\u82b1\u675f\u3092\u3002",
+                "romaji": "Busu ni Hanataba wo."
+            }
+        },
+        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1751622900
+                "airingAt": 1752832500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -325,7 +341,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1751621100
+                "airingAt": 1752830700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -351,6 +367,22 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 3",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a3",
                 "romaji": "Dou Po Cangqiong: Nian Fan 3"
+            }
+        },
+        {
+            "id": 169420,
+            "idMal": 56693,
+            "nextAiringEpisode": {
+                "airingAt": 1752249600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169420-u4wDhHlTfX9P.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg"
+            },
+            "title": {
+                "userPreferred": "Watari-kun no xx ga Houkai Sunzen",
+                "native": "\u6e21\u304f\u3093\u306e\u00d7\u00d7\u304c\u5d29\u58ca\u5bf8\u524d",
+                "romaji": "Watari-kun no xx ga Houkai Sunzen"
             }
         },
         {
@@ -418,6 +450,22 @@
             }
         },
         {
+            "id": 175914,
+            "idMal": 58390,
+            "nextAiringEpisode": {
+                "airingAt": 1752244200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175914-VsbL90WzuqoM.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175914-VsbL90WzuqoM.jpg"
+            },
+            "title": {
+                "userPreferred": "Yofukashi no Uta Season 2",
+                "native": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f Season 2",
+                "romaji": "Yofukashi no Uta Season 2"
+            }
+        },
+        {
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
@@ -434,19 +482,19 @@
             }
         },
         {
-            "id": 176301,
-            "idMal": 58514,
+            "id": 177175,
+            "idMal": 58749,
             "nextAiringEpisode": {
-                "airingAt": 1751637600
+                "airingAt": 1752244200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177175-cr5tlJIj7dEi.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177175-cr5tlJIj7dEi.jpg"
             },
             "title": {
-                "userPreferred": "Kusuriya no Hitorigoto 2nd Season",
-                "native": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c2\u671f",
-                "romaji": "Kusuriya no Hitorigoto 2nd Season"
+                "userPreferred": "Arknights: Enshin Shomei",
+                "native": "\u30a2\u30fc\u30af\u30ca\u30a4\u30c4 \u7114\u71fc\u66d9\u660e",
+                "romaji": "Arknights: Enshin Shomei"
             }
         },
         {
@@ -530,6 +578,38 @@
             }
         },
         {
+            "id": 179879,
+            "idMal": 59421,
+            "nextAiringEpisode": {
+                "airingAt": 1752252780
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179879-569v3MdQeVmt.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179879-569v3MdQeVmt.jpg"
+            },
+            "title": {
+                "userPreferred": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+                "native": "\u305a\u305f\u307c\u308d\u4ee4\u5b22\u306f\u59c9\u306e\u5143\u5a5a\u7d04\u8005\u306b\u6eba\u611b\u3055\u308c\u308b",
+                "romaji": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru"
+            }
+        },
+        {
+            "id": 179966,
+            "idMal": 59459,
+            "nextAiringEpisode": {
+                "airingAt": 1752246000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179966-g0EU7rVe2Og7.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179966-g0EU7rVe2Og7.jpg"
+            },
+            "title": {
+                "userPreferred": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+                "native": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30fb\u30a6\u30a3\u30c3\u30c1 \u6c88\u9ed9\u306e\u9b54\u5973\u306e\u96a0\u3057\u3054\u3068",
+                "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto"
+            }
+        },
+        {
             "id": 180367,
             "idMal": 59597,
             "nextAiringEpisode": {
@@ -581,7 +661,7 @@
             "id": 184289,
             "idMal": 60070,
             "nextAiringEpisode": {
-                "airingAt": 1751666400
+                "airingAt": 1752271200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
@@ -661,7 +741,7 @@
             "id": 185407,
             "idMal": 60489,
             "nextAiringEpisode": {
-                "airingAt": 1751641200
+                "airingAt": 1752246000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-K8o5pta80AU0.jpg",
@@ -709,7 +789,7 @@
             "id": 185584,
             "idMal": 60535,
             "nextAiringEpisode": {
-                "airingAt": 1751645580
+                "airingAt": 1752250380
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg",
@@ -959,6 +1039,38 @@
                 "userPreferred": "Jigu-eui Juin-eun Goyang-ida",
                 "native": "\uc9c0\uad6c\uc758 \uc8fc\uc778\uc740 \uace0\uc591\uc774\ub2e4",
                 "romaji": "Jigu-eui Juin-eun Goyang-ida"
+            }
+        },
+        {
+            "id": 191994,
+            "idMal": 54145,
+            "nextAiringEpisode": {
+                "airingAt": 1752274800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191994-hRBORUotkRjI.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191994-hRBORUotkRjI.jpg"
+            },
+            "title": {
+                "userPreferred": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+                "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u30c7\u30e9\u30c3\u30af\u30b9\u6c7a\u52dd\u7de8",
+                "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen"
+            }
+        },
+        {
+            "id": 193238,
+            "idMal": 61731,
+            "nextAiringEpisode": {
+                "airingAt": 1752271200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193238-iOCgM9VCiFgo.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193238-iOCgM9VCiFgo.png"
+            },
+            "title": {
+                "userPreferred": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
+                "native": "\u5b66\u6821\u3067\u306f\u6559\u3048\u3066\u304f\u308c\u306a\u3044\u5927\u5207\u306a\u3053\u3068",
+                "romaji": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto"
             }
         },
         {
