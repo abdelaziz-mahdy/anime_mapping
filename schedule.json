@@ -1,11 +1,11 @@
 {
-    "__version__": 470,
+    "__version__": 471,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1751811360
+                "airingAt": 1752416160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1751794200
+                "airingAt": 1752399000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1751792400
+                "airingAt": 1752397200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -197,7 +197,7 @@
             "id": 137681,
             "idMal": 61752,
             "nextAiringEpisode": {
-                "airingAt": 1751850000
+                "airingAt": 1752454800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137681-JAAyM4sjezdo.png",
@@ -303,6 +303,22 @@
                 "userPreferred": "Tsuyokute New Saga",
                 "native": "\u5f37\u304f\u3066\u30cb\u30e5\u30fc\u30b5\u30fc\u30ac",
                 "romaji": "Tsuyokute New Saga"
+            }
+        },
+        {
+            "id": 156092,
+            "idMal": 53447,
+            "nextAiringEpisode": {
+                "airingAt": 1752366600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156092-yHqgQZOF2mbg.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg"
+            },
+            "title": {
+                "userPreferred": "Tu Bian Yingxiong X",
+                "native": "\u51f8\u53d8\u82f1\u96c4X",
+                "romaji": "Tu Bian Yingxiong X"
             }
         },
         {
@@ -450,6 +466,22 @@
             }
         },
         {
+            "id": 175124,
+            "idMal": 58197,
+            "nextAiringEpisode": {
+                "airingAt": 1752415200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175124-eDYbn0W5F4to.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175124-eDYbn0W5F4to.jpg"
+            },
+            "title": {
+                "userPreferred": "Nyaight of the Living Cat",
+                "native": "\u30cb\u30e3\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30ea\u30d3\u30f3\u30b0\u30ad\u30e3\u30c3\u30c8",
+                "romaji": "Nyaight of the Living Cat"
+            }
+        },
+        {
             "id": 175137,
             "idMal": 58199,
             "nextAiringEpisode": {
@@ -562,6 +594,22 @@
             }
         },
         {
+            "id": 178025,
+            "idMal": 59062,
+            "nextAiringEpisode": {
+                "airingAt": 1752417000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg"
+            },
+            "title": {
+                "userPreferred": "Gachiakuta",
+                "native": "\u30ac\u30c1\u30a2\u30af\u30bf",
+                "romaji": "Gachiakuta"
+            }
+        },
+        {
             "id": 178052,
             "idMal": 59078,
             "nextAiringEpisode": {
@@ -575,6 +623,22 @@
                 "userPreferred": "Princess-Session Orchestra",
                 "native": "\u30d5\u309a\u30ea\u30f3\u30bb\u30c3\u30b7\u30e7\u30f3\u30fb\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
                 "romaji": "Princess-Session Orchestra"
+            }
+        },
+        {
+            "id": 178433,
+            "idMal": 59130,
+            "nextAiringEpisode": {
+                "airingAt": 1752413400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178433-8KzNsjTmdAvw.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg"
+            },
+            "title": {
+                "userPreferred": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+                "native": "\u7570\u4e16\u754c\u9ed9\u793a\u9332\u30de\u30a4\u30ce\u30b0\u30fc\u30e9 \uff5e\u7834\u6ec5\u306e\u6587\u660e\u3067\u59cb\u3081\u308b\u4e16\u754c\u5f81\u670d\uff5e",
+                "romaji": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku"
             }
         },
         {
@@ -693,7 +757,7 @@
             "id": 180367,
             "idMal": 59597,
             "nextAiringEpisode": {
-                "airingAt": 1751788800
+                "airingAt": 1752393600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
@@ -738,6 +802,38 @@
             }
         },
         {
+            "id": 180794,
+            "idMal": 59689,
+            "nextAiringEpisode": {
+                "airingAt": 1752417000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180794-rQGxkguEc2ov.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-rQGxkguEc2ov.png"
+            },
+            "title": {
+                "userPreferred": "GaCen Shoujo to Ibunka Kouryuu",
+                "native": "\u30b2\u30fc\u30bb\u30f3\u5c11\u5973\u3068\u7570\u6587\u5316\u4ea4\u6d41",
+                "romaji": "GaCen Shoujo to Ibunka Kouryuu"
+            }
+        },
+        {
+            "id": 180929,
+            "idMal": 59791,
+            "nextAiringEpisode": {
+                "airingAt": 1752409800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180929-ytdzqbrOhots.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180929-ytdzqbrOhots.jpg"
+            },
+            "title": {
+                "userPreferred": "Ruri no Houseki",
+                "native": "\u7460\u7483\u306e\u5b9d\u77f3",
+                "romaji": "Ruri no Houseki"
+            }
+        },
+        {
             "id": 181444,
             "idMal": 59845,
             "nextAiringEpisode": {
@@ -754,6 +850,22 @@
             }
         },
         {
+            "id": 181841,
+            "idMal": 59898,
+            "nextAiringEpisode": {
+                "airingAt": 1752418800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181841-9TcjIyZefot2.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-9TcjIyZefot2.jpg"
+            },
+            "title": {
+                "userPreferred": "CITY THE ANIMATION",
+                "native": "CITY THE ANIMATION",
+                "romaji": "CITY THE ANIMATION"
+            }
+        },
+        {
             "id": 183473,
             "idMal": 60080,
             "nextAiringEpisode": {
@@ -767,6 +879,22 @@
                 "userPreferred": "Nui Story 2",
                 "native": "\u306c\u3044\u30b9\u30c8\u30fc\u30ea\u30fc2",
                 "romaji": "Nui Story 2"
+            }
+        },
+        {
+            "id": 184034,
+            "idMal": 60260,
+            "nextAiringEpisode": {
+                "airingAt": 1752417960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184034-gjIi5TIHJpZv.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-gjIi5TIHJpZv.jpg"
+            },
+            "title": {
+                "userPreferred": "Hotel Inhumans",
+                "native": "\u30db\u30c6\u30eb\u30fb\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30ba",
+                "romaji": "Hotel Inhumans"
             }
         },
         {
@@ -799,6 +927,38 @@
                 "userPreferred": "Himitsu no AiPri: Ring-hen",
                 "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea \u30ea\u30f3\u30b0\u7de8",
                 "romaji": "Himitsu no AiPri: Ring-hen"
+            }
+        },
+        {
+            "id": 184574,
+            "idMal": 60315,
+            "nextAiringEpisode": {
+                "airingAt": 1752411600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184574-Mb2qvX1e3RgG.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg"
+            },
+            "title": {
+                "userPreferred": "Dekin no Mogura",
+                "native": "\u51fa\u7981\u306e\u30e2\u30b0\u30e9",
+                "romaji": "Dekin no Mogura"
+            }
+        },
+        {
+            "id": 184575,
+            "idMal": 60316,
+            "nextAiringEpisode": {
+                "airingAt": 1752417000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184575-hEzI5V8o818U.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184575-hEzI5V8o818U.png"
+            },
+            "title": {
+                "userPreferred": "Busamen Gachi Fighter",
+                "native": "\u30d6\u30b5\u30e1\u30f3\u30ac\u30c1\u30d5\u30a1\u30a4\u30bf\u30fc",
+                "romaji": "Busamen Gachi Fighter"
             }
         },
         {
@@ -959,6 +1119,22 @@
                 "userPreferred": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
                 "native": "\u6700\u5f37\u738b\u56f3\u9451 \uff5eThe Ultimate Tournament\uff5e",
                 "romaji": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament"
+            }
+        },
+        {
+            "id": 185755,
+            "idMal": 60603,
+            "nextAiringEpisode": {
+                "airingAt": 1752395400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185755-xMle6RCAPwA6.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185755-xMle6RCAPwA6.png"
+            },
+            "title": {
+                "userPreferred": "Puniru wa Kawaii Slime 2nd Season",
+                "native": "\u3077\u306b\u308b\u306f\u304b\u308f\u3044\u3044\u30b9\u30e9\u30a4\u30e0 \u7b2c2\u671f",
+                "romaji": "Puniru wa Kawaii Slime 2nd Season"
             }
         },
         {
@@ -1167,6 +1343,22 @@
                 "userPreferred": "Ginga Tokkyuu Milky\u2606Subway",
                 "native": "\u9280\u6cb3\u7279\u6025 \u30df\u30eb\u30ad\u30fc\u2606\u30b5\u30d6\u30a6\u30a7\u30a4",
                 "romaji": "Ginga Tokkyuu Milky\u2606Subway"
+            }
+        },
+        {
+            "id": 189326,
+            "idMal": 61339,
+            "nextAiringEpisode": {
+                "airingAt": 1752391800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189326-kaYdWFxyyYdx.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189326-kaYdWFxyyYdx.jpg"
+            },
+            "title": {
+                "userPreferred": "Jibaku Shounen Hanako-kun 2 Part 2",
+                "native": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u3093\uff12 \u5f8c\u7de8",
+                "romaji": "Jibaku Shounen Hanako-kun 2 Part 2"
             }
         },
         {
