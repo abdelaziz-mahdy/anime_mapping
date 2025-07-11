@@ -1,5 +1,5 @@
 {
-    "__version__": 474,
+    "__version__": 475,
     "data": [
         {
             "id": 21,
@@ -85,7 +85,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1752185400
+                "airingAt": 1752790200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -485,7 +485,7 @@
             "id": 173335,
             "idMal": 57820,
             "nextAiringEpisode": {
-                "airingAt": 1752159360
+                "airingAt": 1752764160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173335-iWDaWkuSuZW5.jpg",
@@ -1221,7 +1221,7 @@
             "id": 185544,
             "idMal": 60523,
             "nextAiringEpisode": {
-                "airingAt": 1752159600
+                "airingAt": 1752764400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185544-V9XoC8yJ906f.jpg",
@@ -1269,7 +1269,7 @@
             "id": 185660,
             "idMal": 60543,
             "nextAiringEpisode": {
-                "airingAt": 1752161160
+                "airingAt": 1752765960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg",
@@ -1314,6 +1314,22 @@
             }
         },
         {
+            "id": 185965,
+            "idMal": 60665,
+            "nextAiringEpisode": {
+                "airingAt": 1752766200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185965-LlzTLSTBUbEA.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg"
+            },
+            "title": {
+                "userPreferred": "Futari Solo Camp",
+                "native": "\u3075\u305f\u308a\u30bd\u30ed\u30ad\u30e3\u30f3\u30d7",
+                "romaji": "Futari Solo Camp"
+            }
+        },
+        {
             "id": 186003,
             "idMal": 60697,
             "nextAiringEpisode": {
@@ -1333,7 +1349,7 @@
             "id": 186052,
             "idMal": 60732,
             "nextAiringEpisode": {
-                "airingAt": 1752164880
+                "airingAt": 1752769680
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186052-zq8h0Qo0O0sP.jpg",
@@ -1349,7 +1365,7 @@
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1752166680
+                "airingAt": 1752771480
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -1365,7 +1381,7 @@
             "id": 186522,
             "idMal": 60506,
             "nextAiringEpisode": {
-                "airingAt": 1752162840
+                "airingAt": 1752767640
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186522-ZDp8LzI6FjuE.jpg",
@@ -1477,7 +1493,7 @@
             "id": 188394,
             "idMal": 61272,
             "nextAiringEpisode": {
-                "airingAt": 1752139800
+                "airingAt": 1752744600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
@@ -1509,7 +1525,7 @@
             "id": 188884,
             "idMal": 61300,
             "nextAiringEpisode": {
-                "airingAt": 1752186600
+                "airingAt": 1752791400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
@@ -1525,7 +1541,7 @@
             "id": 189069,
             "idMal": 61274,
             "nextAiringEpisode": {
-                "airingAt": 1752152040
+                "airingAt": 1752756840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189069-mDKZPNUNKFOD.jpg",
@@ -1535,6 +1551,22 @@
                 "userPreferred": "Ginga Tokkyuu Milky\u2606Subway",
                 "native": "\u9280\u6cb3\u7279\u6025 \u30df\u30eb\u30ad\u30fc\u2606\u30b5\u30d6\u30a6\u30a7\u30a4",
                 "romaji": "Ginga Tokkyuu Milky\u2606Subway"
+            }
+        },
+        {
+            "id": 189117,
+            "idMal": 61322,
+            "nextAiringEpisode": {
+                "airingAt": 1752757200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189117-EJQHOFjLoK2k.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-EJQHOFjLoK2k.png"
+            },
+            "title": {
+                "userPreferred": "Dr.STONE SCIENCE FUTURE Part 2",
+                "native": "Dr.STONE SCIENCE FUTURE 2\u30af\u30fc\u30eb",
+                "romaji": "Dr.STONE SCIENCE FUTURE Part 2"
             }
         },
         {
