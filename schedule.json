@@ -1,5 +1,5 @@
 {
-    "__version__": 479,
+    "__version__": 480,
     "data": [
         {
             "id": 21,
@@ -210,22 +210,6 @@
             }
         },
         {
-            "id": 140842,
-            "idMal": 50250,
-            "nextAiringEpisode": {
-                "airingAt": 1752544800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg"
-            },
-            "title": {
-                "userPreferred": "Chiikawa",
-                "native": "\u3061\u3044\u304b\u308f",
-                "romaji": "Chiikawa"
-            }
-        },
-        {
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
@@ -370,6 +354,22 @@
             }
         },
         {
+            "id": 157960,
+            "idMal": 53722,
+            "nextAiringEpisode": {
+                "airingAt": 1755010800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157960-IrnEWE1pvoT3.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157960-IrnEWE1pvoT3.jpg"
+            },
+            "title": {
+                "userPreferred": "BULLET/BULLET",
+                "native": "BULLET/BULLET",
+                "romaji": "BULLET/BULLET"
+            }
+        },
+        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -389,7 +389,7 @@
             "id": 159483,
             "idMal": 54028,
             "nextAiringEpisode": {
-                "airingAt": 1752596940
+                "airingAt": 1753201740
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159483-nQKJ2EEqoo8x.jpg",
@@ -677,7 +677,7 @@
             "id": 177880,
             "idMal": 58996,
             "nextAiringEpisode": {
-                "airingAt": 1752591600
+                "airingAt": 1753196400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177880-0TLsu8WXPaJy.jpg",
@@ -805,7 +805,7 @@
             "id": 179344,
             "idMal": 59277,
             "nextAiringEpisode": {
-                "airingAt": 1752584400
+                "airingAt": 1753189200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179344-GQzJfehpQI72.png",
@@ -837,7 +837,7 @@
             "id": 179828,
             "idMal": 59402,
             "nextAiringEpisode": {
-                "airingAt": 1752588000
+                "airingAt": 1753192800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179828-Yc1b1R2dxQyc.jpg",
@@ -933,7 +933,7 @@
             "id": 180460,
             "idMal": 59632,
             "nextAiringEpisode": {
-                "airingAt": 1752589800
+                "airingAt": 1753194600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180460-rZn4pp9YNqW0.jpg",
@@ -1071,6 +1071,22 @@
                 "userPreferred": "Hotel Inhumans",
                 "native": "\u30db\u30c6\u30eb\u30fb\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30ba",
                 "romaji": "Hotel Inhumans"
+            }
+        },
+        {
+            "id": 184237,
+            "idMal": 60285,
+            "nextAiringEpisode": {
+                "airingAt": 1753110000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-OJAksU2fsIPx.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg"
+            },
+            "title": {
+                "userPreferred": "SAKAMOTO DAYS Part 2",
+                "native": "SAKAMOTO DAYS \u7b2c\uff12\u30af\u30fc\u30eb",
+                "romaji": "SAKAMOTO DAYS Part 2"
             }
         },
         {
@@ -1221,7 +1237,7 @@
             "id": 185505,
             "idMal": 60505,
             "nextAiringEpisode": {
-                "airingAt": 1752589800
+                "airingAt": 1753194600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185505-l2ZcSDvdzhd8.jpg",
@@ -1445,7 +1461,7 @@
             "id": 186789,
             "idMal": 61023,
             "nextAiringEpisode": {
-                "airingAt": 1752595200
+                "airingAt": 1753200000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186789-MNl0ZBiRzDqY.jpg",
@@ -1477,7 +1493,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1752619560
+                "airingAt": 1753224360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1509,7 +1525,7 @@
             "id": 188239,
             "idMal": 61258,
             "nextAiringEpisode": {
-                "airingAt": 1752627600
+                "airingAt": 1754442000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
@@ -1669,7 +1685,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1752617160
+                "airingAt": 1753221960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
