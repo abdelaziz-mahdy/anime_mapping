@@ -1,5 +1,5 @@
 {
-    "__version__": 507,
+    "__version__": 508,
     "data": [
         {
             "id": 21,
@@ -354,22 +354,6 @@
             }
         },
         {
-            "id": 157960,
-            "idMal": 53722,
-            "nextAiringEpisode": {
-                "airingAt": 1755010800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157960-IrnEWE1pvoT3.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157960-IrnEWE1pvoT3.jpg"
-            },
-            "title": {
-                "userPreferred": "BULLET/BULLET",
-                "native": "BULLET/BULLET",
-                "romaji": "BULLET/BULLET"
-            }
-        },
-        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -389,7 +373,7 @@
             "id": 159483,
             "idMal": 54028,
             "nextAiringEpisode": {
-                "airingAt": 1755016140
+                "airingAt": 1755620940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159483-nQKJ2EEqoo8x.jpg",
@@ -693,7 +677,7 @@
             "id": 177880,
             "idMal": 58996,
             "nextAiringEpisode": {
-                "airingAt": 1755010800
+                "airingAt": 1755615600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177880-54MNSycPEMFA.jpg",
@@ -837,7 +821,7 @@
             "id": 179344,
             "idMal": 59277,
             "nextAiringEpisode": {
-                "airingAt": 1755003600
+                "airingAt": 1755608400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179344-GQzJfehpQI72.png",
@@ -869,7 +853,7 @@
             "id": 179828,
             "idMal": 59402,
             "nextAiringEpisode": {
-                "airingAt": 1755007200
+                "airingAt": 1755612000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179828-Yc1b1R2dxQyc.jpg",
@@ -965,7 +949,7 @@
             "id": 180460,
             "idMal": 59632,
             "nextAiringEpisode": {
-                "airingAt": 1755009000
+                "airingAt": 1755613800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180460-rZn4pp9YNqW0.jpg",
@@ -1269,7 +1253,7 @@
             "id": 185505,
             "idMal": 60505,
             "nextAiringEpisode": {
-                "airingAt": 1755009000
+                "airingAt": 1755613800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185505-l2ZcSDvdzhd8.jpg",
@@ -1493,7 +1477,7 @@
             "id": 186789,
             "idMal": 61023,
             "nextAiringEpisode": {
-                "airingAt": 1755014400
+                "airingAt": 1755619200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186789-MNl0ZBiRzDqY.jpg",
@@ -1525,7 +1509,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1755038760
+                "airingAt": 1755643560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1701,7 +1685,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1755036360
+                "airingAt": 1755641160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
