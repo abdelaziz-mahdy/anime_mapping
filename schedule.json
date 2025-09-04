@@ -1,5 +1,5 @@
 {
-    "__version__": 529,
+    "__version__": 530,
     "data": [
         {
             "id": 21,
@@ -261,7 +261,7 @@
             "id": 151799,
             "idMal": 52293,
             "nextAiringEpisode": {
-                "airingAt": 1756915200
+                "airingAt": 1757520000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151799-igwbH3AffgHc.jpg",
@@ -293,7 +293,7 @@
             "id": 155838,
             "idMal": 53397,
             "nextAiringEpisode": {
-                "airingAt": 1756919760
+                "airingAt": 1757524560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155838-0zx6MTeoo5sk.jpg",
@@ -437,7 +437,7 @@
             "id": 169440,
             "idMal": 56700,
             "nextAiringEpisode": {
-                "airingAt": 1756904400
+                "airingAt": 1757509200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169440-MhlOxaIyASRu.jpg",
@@ -501,7 +501,7 @@
             "id": 173780,
             "idMal": 57907,
             "nextAiringEpisode": {
-                "airingAt": 1756900800
+                "airingAt": 1757505600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173780-O7v1YfXg61JT.png",
@@ -543,22 +543,6 @@
                 "userPreferred": "Nyaight of the Living Cat",
                 "native": "\u30cb\u30e3\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30ea\u30d3\u30f3\u30b0\u30ad\u30e3\u30c3\u30c8",
                 "romaji": "Nyaight of the Living Cat"
-            }
-        },
-        {
-            "id": 175137,
-            "idMal": 58199,
-            "nextAiringEpisode": {
-                "airingAt": 1756897200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175137-dS5txKBSuiR1.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175137-dS5txKBSuiR1.png"
-            },
-            "title": {
-                "userPreferred": "Yoru wa Neko to Issho Season 3",
-                "native": "\u591c\u306f\u732b\u3068\u3044\u3063\u3057\u3087Season3",
-                "romaji": "Yoru wa Neko to Issho Season 3"
             }
         },
         {
@@ -725,7 +709,7 @@
             "id": 178090,
             "idMal": 59095,
             "nextAiringEpisode": {
-                "airingAt": 1756911600
+                "airingAt": 1757516400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178090-1OOScJqXLjRd.png",
@@ -789,7 +773,7 @@
             "id": 178869,
             "idMal": 59205,
             "nextAiringEpisode": {
-                "airingAt": 1756904400
+                "airingAt": 1757509200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178869-qiEz0gQD8H5N.png",
@@ -805,7 +789,7 @@
             "id": 178886,
             "idMal": 59207,
             "nextAiringEpisode": {
-                "airingAt": 1756912800
+                "airingAt": 1757517600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178886-KjzSXyEB61zX.jpg",
@@ -837,7 +821,7 @@
             "id": 179678,
             "idMal": 59342,
             "nextAiringEpisode": {
-                "airingAt": 1756910700
+                "airingAt": 1757515500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179678-1isykDVghv8Q.png",
@@ -1237,7 +1221,7 @@
             "id": 185070,
             "idMal": 60401,
             "nextAiringEpisode": {
-                "airingAt": 1756911600
+                "airingAt": 1757516400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185070-VKzUA4B9kmaX.jpg",
@@ -1477,7 +1461,7 @@
             "id": 187387,
             "idMal": 61150,
             "nextAiringEpisode": {
-                "airingAt": 1756914360
+                "airingAt": 1757519160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187387-dbi9hPNKyA35.jpg",
@@ -1618,22 +1602,6 @@
             }
         },
         {
-            "id": 189513,
-            "idMal": null,
-            "nextAiringEpisode": {
-                "airingAt": 1756893600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189513-1R9Sryve0K53.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189513-1R9Sryve0K53.png"
-            },
-            "title": {
-                "userPreferred": "Sousou no Frieren: \u25cf\u25cf no Mahou Part 2",
-                "native": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \uff5e\u25cf\u25cf\u306e\u9b54\u6cd5\uff5e 2\u30af\u30fc\u30eb",
-                "romaji": "Sousou no Frieren: \u25cf\u25cf no Mahou Part 2"
-            }
-        },
-        {
             "id": 191994,
             "idMal": 54145,
             "nextAiringEpisode": {
@@ -1701,7 +1669,7 @@
             "id": 195209,
             "idMal": 59961,
             "nextAiringEpisode": {
-                "airingAt": 1756913400
+                "airingAt": 1757518200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195209-IwHhCJUcmoK0.jpg",
