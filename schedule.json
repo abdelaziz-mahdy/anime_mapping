@@ -1,5 +1,5 @@
 {
-    "__version__": 534,
+    "__version__": 535,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1757296800
+                "airingAt": 1757901600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -181,7 +181,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1757371200
+                "airingAt": 1757630400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -213,7 +213,7 @@
             "id": 143200,
             "idMal": 50694,
             "nextAiringEpisode": {
-                "airingAt": 1757341800
+                "airingAt": 1757946600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
@@ -229,7 +229,7 @@
             "id": 143598,
             "idMal": 49778,
             "nextAiringEpisode": {
-                "airingAt": 1757343600
+                "airingAt": 1758553200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
@@ -565,7 +565,7 @@
             "id": 176191,
             "idMal": 58395,
             "nextAiringEpisode": {
-                "airingAt": 1757304000
+                "airingAt": 1757908800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176191-RL4lEr65YFfE.jpg",
@@ -997,7 +997,7 @@
             "id": 181867,
             "idMal": 59865,
             "nextAiringEpisode": {
-                "airingAt": 1757336040
+                "airingAt": 1757940840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181867-mRwcaXoo0cl4.png",
@@ -1013,7 +1013,7 @@
             "id": 182309,
             "idMal": 59986,
             "nextAiringEpisode": {
-                "airingAt": 1757345400
+                "airingAt": 1757950200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182309-tThxqSRn3At1.jpg",
@@ -1093,7 +1093,7 @@
             "id": 184237,
             "idMal": 60285,
             "nextAiringEpisode": {
-                "airingAt": 1757343600
+                "airingAt": 1757948400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-OJAksU2fsIPx.jpg",
@@ -1173,7 +1173,7 @@
             "id": 184591,
             "idMal": 60326,
             "nextAiringEpisode": {
-                "airingAt": 1757347200
+                "airingAt": 1757952000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184591-jRXZ29bN61Zc.jpg",
@@ -1477,7 +1477,7 @@
             "id": 188138,
             "idMal": 61239,
             "nextAiringEpisode": {
-                "airingAt": 1757340000
+                "airingAt": 1757944800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188138-uflx1ZZo5XsE.jpg",
@@ -1589,7 +1589,7 @@
             "id": 191994,
             "idMal": 54145,
             "nextAiringEpisode": {
-                "airingAt": 1757718000
+                "airingAt": 1758322800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191994-hRBORUotkRjI.jpg",
@@ -1695,6 +1695,22 @@
                 "userPreferred": "Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)",
                 "native": "\u30c8\u30df\u30ab\u30d2\u30fc\u30ed\u30fc\u30ba \u30b8\u30e7\u30d6\u30ec\u30a4\u30d0\u30fc \u7279\u88c5\u5408\u4f53\u30ed\u30dc (TV)",
                 "romaji": "Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)"
+            }
+        },
+        {
+            "id": 198408,
+            "idMal": 62268,
+            "nextAiringEpisode": {
+                "airingAt": 1757670000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198408-LAwH4Bbk3xkp.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198408-LAwH4Bbk3xkp.png"
+            },
+            "title": {
+                "userPreferred": "Chikyuu no Latair",
+                "native": "\u5730\u7403\u306e\u30e9\u30c6\u30fc\u30eb",
+                "romaji": "Chikyuu no Latair"
             }
         }
     ]
