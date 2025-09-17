@@ -1,5 +1,5 @@
 {
-    "__version__": 542,
+    "__version__": 543,
     "data": [
         {
             "id": 21,
@@ -325,7 +325,7 @@
             "id": 159483,
             "idMal": 54028,
             "nextAiringEpisode": {
-                "airingAt": 1758040140
+                "airingAt": 1758644940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159483-nQKJ2EEqoo8x.jpg",
@@ -597,7 +597,7 @@
             "id": 177880,
             "idMal": 58996,
             "nextAiringEpisode": {
-                "airingAt": 1758034800
+                "airingAt": 1758639600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177880-54MNSycPEMFA.jpg",
@@ -738,22 +738,6 @@
             }
         },
         {
-            "id": 179344,
-            "idMal": 59277,
-            "nextAiringEpisode": {
-                "airingAt": 1758027600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179344-GQzJfehpQI72.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png"
-            },
-            "title": {
-                "userPreferred": "Kanojo, Okarishimasu 4th Season",
-                "native": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059 \u7b2c4\u671f",
-                "romaji": "Kanojo, Okarishimasu 4th Season"
-            }
-        },
-        {
             "id": 179678,
             "idMal": 59342,
             "nextAiringEpisode": {
@@ -773,7 +757,7 @@
             "id": 179828,
             "idMal": 59402,
             "nextAiringEpisode": {
-                "airingAt": 1758031200
+                "airingAt": 1758636000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179828-Yc1b1R2dxQyc.jpg",
@@ -863,22 +847,6 @@
                 "userPreferred": "Ame to Kimi to",
                 "native": "\u96e8\u3068\u541b\u3068",
                 "romaji": "Ame to Kimi to"
-            }
-        },
-        {
-            "id": 180460,
-            "idMal": 59632,
-            "nextAiringEpisode": {
-                "airingAt": 1758033000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180460-rZn4pp9YNqW0.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180460-rZn4pp9YNqW0.jpg"
-            },
-            "title": {
-                "userPreferred": "Mattaku Saikin no Tantei to Kitara",
-                "native": "\u307e\u3063\u305f\u304f\u6700\u8fd1\u306e\u63a2\u5075\u3068\u304d\u305f\u3089",
-                "romaji": "Mattaku Saikin no Tantei to Kitara"
             }
         },
         {
@@ -1170,22 +1138,6 @@
             }
         },
         {
-            "id": 185505,
-            "idMal": 60505,
-            "nextAiringEpisode": {
-                "airingAt": 1758033000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185505-l2ZcSDvdzhd8.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-l2ZcSDvdzhd8.jpg"
-            },
-            "title": {
-                "userPreferred": "Necronomico no Cosmic Horror Show",
-                "native": "\u30cd\u30af\u30ed\u30ce\u30df\u5b50\u306e\u30b3\u30ba\u30df\u30c3\u30af\u30db\u30e9\u30fc\u30b7\u30e7\u30a6",
-                "romaji": "Necronomico no Cosmic Horror Show"
-            }
-        },
-        {
             "id": 185544,
             "idMal": 60523,
             "nextAiringEpisode": {
@@ -1381,7 +1333,7 @@
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
-                "airingAt": 1758062760
+                "airingAt": 1758667560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
@@ -1573,7 +1525,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1758060360
+                "airingAt": 1758665160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
