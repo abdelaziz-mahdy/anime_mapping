@@ -1,5 +1,5 @@
 {
-    "__version__": 543,
+    "__version__": 544,
     "data": [
         {
             "id": 21,
@@ -245,7 +245,7 @@
             "id": 151799,
             "idMal": 52293,
             "nextAiringEpisode": {
-                "airingAt": 1758124800
+                "airingAt": 1758729600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151799-igwbH3AffgHc.jpg",
@@ -271,22 +271,6 @@
                 "userPreferred": "Sono Bisque Doll wa Koi wo Suru Season 2",
                 "native": "\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b Season 2",
                 "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2"
-            }
-        },
-        {
-            "id": 155838,
-            "idMal": 53397,
-            "nextAiringEpisode": {
-                "airingAt": 1758129360
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155838-0zx6MTeoo5sk.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155838-0zx6MTeoo5sk.jpg"
-            },
-            "title": {
-                "userPreferred": "Tsuyokute New Saga",
-                "native": "\u5f37\u304f\u3066\u30cb\u30e5\u30fc\u30b5\u30fc\u30ac",
-                "romaji": "Tsuyokute New Saga"
             }
         },
         {
@@ -402,22 +386,6 @@
             }
         },
         {
-            "id": 169440,
-            "idMal": 56700,
-            "nextAiringEpisode": {
-                "airingAt": 1758114000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169440-MhlOxaIyASRu.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169440-MhlOxaIyASRu.jpg"
-            },
-            "title": {
-                "userPreferred": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-                "native": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u306b\u751f\u307e\u308c\u5909\u308f\u3063\u305f\u4ffa\u306f\u8ff7\u5bae\u3092\u5f77\u5fa8\u3046 2nd Season",
-                "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season"
-            }
-        },
-        {
             "id": 170113,
             "idMal": 56907,
             "nextAiringEpisode": {
@@ -469,7 +437,7 @@
             "id": 173780,
             "idMal": 57907,
             "nextAiringEpisode": {
-                "airingAt": 1758110400
+                "airingAt": 1758715200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173780-O7v1YfXg61JT.png",
@@ -645,7 +613,7 @@
             "id": 178090,
             "idMal": 59095,
             "nextAiringEpisode": {
-                "airingAt": 1758121200
+                "airingAt": 1758726000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178090-1OOScJqXLjRd.png",
@@ -706,42 +674,10 @@
             }
         },
         {
-            "id": 178869,
-            "idMal": 59205,
-            "nextAiringEpisode": {
-                "airingAt": 1758114000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178869-qiEz0gQD8H5N.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178869-qiEz0gQD8H5N.png"
-            },
-            "title": {
-                "userPreferred": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
-                "native": "\u30af\u30ec\u30d0\u30c6\u30b9-\u9b54\u7363\u306e\u738b\u3068\u8d64\u5b50\u3068\u5c4d\u306e\u52c7\u8005",
-                "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha"
-            }
-        },
-        {
-            "id": 178886,
-            "idMal": 59207,
-            "nextAiringEpisode": {
-                "airingAt": 1758122400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178886-KjzSXyEB61zX.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-KjzSXyEB61zX.jpg"
-            },
-            "title": {
-                "userPreferred": "Mikadono Sanshimai wa Angai, Choroi.",
-                "native": "\u5e1d\u4e43\u4e09\u59c9\u59b9\u306f\u6848\u5916\u3001\u30c1\u30e7\u30ed\u3044\u3002",
-                "romaji": "Mikadono Sanshimai wa Angai, Choroi."
-            }
-        },
-        {
             "id": 179678,
             "idMal": 59342,
             "nextAiringEpisode": {
-                "airingAt": 1758120360
+                "airingAt": 1758725160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179678-1isykDVghv8Q.png",
@@ -1106,22 +1042,6 @@
             }
         },
         {
-            "id": 185070,
-            "idMal": 60401,
-            "nextAiringEpisode": {
-                "airingAt": 1758121200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185070-VKzUA4B9kmaX.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185070-VKzUA4B9kmaX.jpg"
-            },
-            "title": {
-                "userPreferred": "Uchuujin MuuMuu",
-                "native": "\u5b87\u5b99\u4eba\u30e0\u30fc\u30e0\u30fc",
-                "romaji": "Uchuujin MuuMuu"
-            }
-        },
-        {
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
@@ -1311,22 +1231,6 @@
                 "userPreferred": "Kizetsu Yuusha to Ansatsu Hime",
                 "native": "\u6c17\u7d76\u52c7\u8005\u3068\u6697\u6bba\u59eb",
                 "romaji": "Kizetsu Yuusha to Ansatsu Hime"
-            }
-        },
-        {
-            "id": 187387,
-            "idMal": 61150,
-            "nextAiringEpisode": {
-                "airingAt": 1758123960
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187387-dbi9hPNKyA35.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187387-dbi9hPNKyA35.jpg"
-            },
-            "title": {
-                "userPreferred": "Onmyo Kaiten Re:verse",
-                "native": "\u9670\u967d\u5efb\u5929 Re:\u30d0\u30fc\u30b9",
-                "romaji": "Onmyo Kaiten Re:verse"
             }
         },
         {
@@ -1557,7 +1461,7 @@
             "id": 195209,
             "idMal": 59961,
             "nextAiringEpisode": {
-                "airingAt": 1758123000
+                "airingAt": 1758727800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195209-IwHhCJUcmoK0.jpg",
