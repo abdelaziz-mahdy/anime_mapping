@@ -1,5 +1,5 @@
 {
-    "__version__": 545,
+    "__version__": 546,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1758246900
+                "airingAt": 1758851700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1758274800
+                "airingAt": 1758879600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1758321000
+                "airingAt": 1758925800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -277,7 +277,7 @@
             "id": 156395,
             "idMal": 53512,
             "nextAiringEpisode": {
-                "airingAt": 1758288600
+                "airingAt": 1758893400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156395-LW98bhT54IuM.png",
@@ -293,7 +293,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1758275700
+                "airingAt": 1760090100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -325,7 +325,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1758273900
+                "airingAt": 1758878700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -357,7 +357,7 @@
             "id": 169420,
             "idMal": 56693,
             "nextAiringEpisode": {
-                "airingAt": 1758297600
+                "airingAt": 1758902400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169420-u4wDhHlTfX9P.jpg",
@@ -437,7 +437,7 @@
             "id": 174188,
             "idMal": 57969,
             "nextAiringEpisode": {
-                "airingAt": 1758301560
+                "airingAt": 1758906360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174188-fZg8iePD9Dca.jpg",
@@ -466,26 +466,10 @@
             }
         },
         {
-            "id": 175914,
-            "idMal": 58390,
-            "nextAiringEpisode": {
-                "airingAt": 1758292200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175914-VsbL90WzuqoM.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175914-VsbL90WzuqoM.jpg"
-            },
-            "title": {
-                "userPreferred": "Yofukashi no Uta Season 2",
-                "native": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f Season 2",
-                "romaji": "Yofukashi no Uta Season 2"
-            }
-        },
-        {
             "id": 177474,
             "idMal": 58811,
             "nextAiringEpisode": {
-                "airingAt": 1758290400
+                "airingAt": 1758895200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177474-oHil1yLWldfl.jpg",
@@ -690,22 +674,6 @@
             }
         },
         {
-            "id": 179879,
-            "idMal": 59421,
-            "nextAiringEpisode": {
-                "airingAt": 1758300780
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179879-569v3MdQeVmt.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179879-569v3MdQeVmt.jpg"
-            },
-            "title": {
-                "userPreferred": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
-                "native": "\u305a\u305f\u307c\u308d\u4ee4\u5b22\u306f\u59c9\u306e\u5143\u5a5a\u7d04\u8005\u306b\u6eba\u611b\u3055\u308c\u308b",
-                "romaji": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru"
-            }
-        },
-        {
             "id": 179885,
             "idMal": 59424,
             "nextAiringEpisode": {
@@ -725,7 +693,7 @@
             "id": 179966,
             "idMal": 59459,
             "nextAiringEpisode": {
-                "airingAt": 1758294000
+                "airingAt": 1758898800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179966-g0EU7rVe2Og7.jpg",
@@ -911,22 +879,6 @@
                 "userPreferred": "Hotel Inhumans",
                 "native": "\u30db\u30c6\u30eb\u30fb\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30ba",
                 "romaji": "Hotel Inhumans"
-            }
-        },
-        {
-            "id": 184289,
-            "idMal": 60070,
-            "nextAiringEpisode": {
-                "airingAt": 1758319200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaijuu Sekai Seifuku",
-                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
-                "romaji": "Kaijuu Sekai Seifuku"
             }
         },
         {
@@ -1218,10 +1170,26 @@
             }
         },
         {
+            "id": 188394,
+            "idMal": 61272,
+            "nextAiringEpisode": {
+                "airingAt": 1758792600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188394-4oTa98gvtw8R.jpg"
+            },
+            "title": {
+                "userPreferred": "PetitCure: Precure Fairies",
+                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e",
+                "romaji": "PetitCure: Precure Fairies"
+            }
+        },
+        {
             "id": 188653,
             "idMal": 61290,
             "nextAiringEpisode": {
-                "airingAt": 1758329100
+                "airingAt": 1758933900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188653-B24R4Eo7GMi2.jpg",
@@ -1301,7 +1269,7 @@
             "id": 191994,
             "idMal": 54145,
             "nextAiringEpisode": {
-                "airingAt": 1758322800
+                "airingAt": 1758927600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191994-hRBORUotkRjI.jpg",
@@ -1317,7 +1285,7 @@
             "id": 193238,
             "idMal": 61731,
             "nextAiringEpisode": {
-                "airingAt": 1758319200
+                "airingAt": 1758924000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193238-iOCgM9VCiFgo.png",
@@ -1413,7 +1381,7 @@
             "id": 198408,
             "idMal": 62268,
             "nextAiringEpisode": {
-                "airingAt": 1758274800
+                "airingAt": 1758879600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198408-LAwH4Bbk3xkp.png",
