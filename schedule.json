@@ -1,5 +1,5 @@
 {
-    "__version__": 548,
+    "__version__": 549,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1758506400
+                "airingAt": 1759111200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1758580800
+                "airingAt": 1758840000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -197,7 +197,7 @@
             "id": 143200,
             "idMal": 50694,
             "nextAiringEpisode": {
-                "airingAt": 1758551400
+                "airingAt": 1759156200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143200-42OaDCS6VEy3.png",
@@ -213,7 +213,7 @@
             "id": 143598,
             "idMal": 49778,
             "nextAiringEpisode": {
-                "airingAt": 1758553200
+                "airingAt": 1759158000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143598-FCvAhQJLllSP.png",
@@ -706,38 +706,6 @@
             }
         },
         {
-            "id": 181867,
-            "idMal": 59865,
-            "nextAiringEpisode": {
-                "airingAt": 1758545640
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181867-mRwcaXoo0cl4.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181867-mRwcaXoo0cl4.png"
-            },
-            "title": {
-                "userPreferred": "Shinobanai! Crypto Ninja Sakuya San no Maki",
-                "native": "\u5fcd\u3070\u306a\u3044\uff01\u30af\u30ea\u30d7\u30c8\u30cb\u30f3\u30b8\u30e3\u54b2\u8036\u3000\u53c2\u30ce\u5dfb",
-                "romaji": "Shinobanai! Crypto Ninja Sakuya San no Maki"
-            }
-        },
-        {
-            "id": 182309,
-            "idMal": 59986,
-            "nextAiringEpisode": {
-                "airingAt": 1758555000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182309-tThxqSRn3At1.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-tThxqSRn3At1.jpg"
-            },
-            "title": {
-                "userPreferred": "Grand Blue Season 2",
-                "native": "\u3050\u3089\u3093\u3076\u308b Season 2",
-                "romaji": "Grand Blue Season 2"
-            }
-        },
-        {
             "id": 183127,
             "idMal": 60131,
             "nextAiringEpisode": {
@@ -799,22 +767,6 @@
                 "userPreferred": "Himitsu no AiPri: Ring-hen",
                 "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea \u30ea\u30f3\u30b0\u7de8",
                 "romaji": "Himitsu no AiPri: Ring-hen"
-            }
-        },
-        {
-            "id": 184591,
-            "idMal": 60326,
-            "nextAiringEpisode": {
-                "airingAt": 1758556800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184591-jRXZ29bN61Zc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184591-jRXZ29bN61Zc.jpg"
-            },
-            "title": {
-                "userPreferred": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (\u203bMuri ja Nakatta!?)",
-                "native": "\u308f\u305f\u3057\u304c\u604b\u4eba\u306b\u306a\u308c\u308b\u308f\u3051\u306a\u3044\u3058\u3083\u3093\u3001\u30e0\u30ea\u30e0\u30ea! (\u203b\u30e0\u30ea\u3058\u3083\u306a\u304b\u3063\u305f!?)",
-                "romaji": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (\u203bMuri ja Nakatta!?)"
             }
         },
         {
@@ -962,6 +914,22 @@
             }
         },
         {
+            "id": 186495,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1761058800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186495-D8i7Ru1kCxwL.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186495-D8i7Ru1kCxwL.jpg"
+            },
+            "title": {
+                "userPreferred": "MILGRAM Third Season",
+                "native": "\u30df\u30eb\u30b0\u30e9\u30e0 \u7b2c\u4e09\u5be9",
+                "romaji": "MILGRAM Third Season"
+            }
+        },
+        {
             "id": 188039,
             "idMal": 60689,
             "nextAiringEpisode": {
@@ -975,22 +943,6 @@
                 "userPreferred": "Rainbow Bubblegem 2: Secret",
                 "native": "\ub808\uc778\ubcf4\uc6b0 \ubc84\ube14\uc82c 2 \uc2dc\ud06c\ub9bf",
                 "romaji": "Rainbow Bubblegem 2: Secret"
-            }
-        },
-        {
-            "id": 188138,
-            "idMal": 61239,
-            "nextAiringEpisode": {
-                "airingAt": 1758549600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188138-uflx1ZZo5XsE.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188138-uflx1ZZo5XsE.jpg"
-            },
-            "title": {
-                "userPreferred": "Binan Koukou Chikyuu Bouei-bu Haikara!",
-                "native": "\u7f8e\u7537\u9ad8\u6821\u5730\u7403\u9632\u885b\u90e8\u30cf\u30a4\u30ab\u30e9\uff01",
-                "romaji": "Binan Koukou Chikyuu Bouei-bu Haikara!"
             }
         },
         {
