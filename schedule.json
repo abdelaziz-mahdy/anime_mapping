@@ -1,5 +1,5 @@
 {
-    "__version__": 550,
+    "__version__": 551,
     "data": [
         {
             "id": 21,
@@ -242,22 +242,6 @@
             }
         },
         {
-            "id": 151799,
-            "idMal": 52293,
-            "nextAiringEpisode": {
-                "airingAt": 1758729600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151799-igwbH3AffgHc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151799-igwbH3AffgHc.jpg"
-            },
-            "title": {
-                "userPreferred": "New PANTY & STOCKING with GARTERBELT",
-                "native": "New PANTY&STOCKING with GARTERBELT",
-                "romaji": "New PANTY & STOCKING with GARTERBELT"
-            }
-        },
-        {
             "id": 156395,
             "idMal": 53512,
             "nextAiringEpisode": {
@@ -338,6 +322,22 @@
             }
         },
         {
+            "id": 169969,
+            "idMal": 56854,
+            "nextAiringEpisode": {
+                "airingAt": 1759323600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169969-SqCjoqYT4A6Z.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-SqCjoqYT4A6Z.jpg"
+            },
+            "title": {
+                "userPreferred": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
+                "native": "\u7121\u8077\u306e\u82f1\u96c4 \u5225\u306b\u30b9\u30ad\u30eb\u306a\u3093\u304b\u8981\u3089\u306a\u304b\u3063\u305f\u3093\u3060\u304c",
+                "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga"
+            }
+        },
+        {
             "id": 171046,
             "idMal": 57433,
             "nextAiringEpisode": {
@@ -367,22 +367,6 @@
                 "userPreferred": "Kamitsubaki-shi Kensetsuchuu.",
                 "native": "\u795e\u693f\u5e02\u5efa\u8a2d\u4e2d\u3002",
                 "romaji": "Kamitsubaki-shi Kensetsuchuu."
-            }
-        },
-        {
-            "id": 173780,
-            "idMal": 57907,
-            "nextAiringEpisode": {
-                "airingAt": 1758715200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173780-O7v1YfXg61JT.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173780-O7v1YfXg61JT.png"
-            },
-            "title": {
-                "userPreferred": "Tate no Yuusha no Nariagari Season 4",
-                "native": "\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 4",
-                "romaji": "Tate no Yuusha no Nariagari Season 4"
             }
         },
         {
@@ -514,22 +498,6 @@
             }
         },
         {
-            "id": 178090,
-            "idMal": 59095,
-            "nextAiringEpisode": {
-                "airingAt": 1758726000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178090-1OOScJqXLjRd.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178090-1OOScJqXLjRd.png"
-            },
-            "title": {
-                "userPreferred": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season",
-                "native": "\u8ee2\u751f\u3057\u305f\u3089\u7b2c\u4e03\u738b\u5b50\u3060\u3063\u305f\u306e\u3067\u3001\u6c17\u307e\u307e\u306b\u9b54\u8853\u3092\u6975\u3081\u307e\u3059 \u7b2c2\u671f",
-                "romaji": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season"
-            }
-        },
-        {
             "id": 178433,
             "idMal": 59130,
             "nextAiringEpisode": {
@@ -559,22 +527,6 @@
                 "userPreferred": "Kaijuu 8-gou 2nd Season",
                 "native": "\u602a\u7363\uff18\u53f7 \u7b2c\uff12\u671f",
                 "romaji": "Kaijuu 8-gou 2nd Season"
-            }
-        },
-        {
-            "id": 179678,
-            "idMal": 59342,
-            "nextAiringEpisode": {
-                "airingAt": 1758725160
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179678-1isykDVghv8Q.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179678-1isykDVghv8Q.png"
-            },
-            "title": {
-                "userPreferred": "Jigoku Sensei Nube (2025)",
-                "native": "\u5730\u7344\u5148\u751f\u306c\uff5e\u3079\uff5e (2025)",
-                "romaji": "Jigoku Sensei Nube (2025)"
             }
         },
         {
@@ -1071,22 +1023,6 @@
                 "userPreferred": "Yami Shibai 15",
                 "native": "\u95c7\u829d\u5c45 \u5341\u4e94\u671f ",
                 "romaji": "Yami Shibai 15"
-            }
-        },
-        {
-            "id": 195209,
-            "idMal": 59961,
-            "nextAiringEpisode": {
-                "airingAt": 1758727800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195209-IwHhCJUcmoK0.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195209-IwHhCJUcmoK0.jpg"
-            },
-            "title": {
-                "userPreferred": "Kizu darake Seijo yori Houfuku wo Komete",
-                "native": "\u50b7\u3060\u3089\u3051\u8056\u5973\u3088\u308a\u5831\u5fa9\u3092\u3053\u3081\u3066",
-                "romaji": "Kizu darake Seijo yori Houfuku wo Komete"
             }
         },
         {
