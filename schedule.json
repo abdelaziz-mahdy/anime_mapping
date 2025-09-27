@@ -1,5 +1,5 @@
 {
-    "__version__": 552,
+    "__version__": 553,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1758851700
+                "airingAt": 1759456500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1758879600
+                "airingAt": 1759484400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1758925800
+                "airingAt": 1759530600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -242,22 +242,6 @@
             }
         },
         {
-            "id": 156395,
-            "idMal": 53512,
-            "nextAiringEpisode": {
-                "airingAt": 1758893400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156395-LW98bhT54IuM.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156395-LW98bhT54IuM.png"
-            },
-            "title": {
-                "userPreferred": "Busu ni Hanataba wo.",
-                "native": "\u30d6\u30b9\u306b\u82b1\u675f\u3092\u3002",
-                "romaji": "Busu ni Hanataba wo."
-            }
-        },
-        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -274,26 +258,10 @@
             }
         },
         {
-            "id": 165159,
-            "idMal": 56566,
-            "nextAiringEpisode": {
-                "airingAt": 1758878700
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png"
-            },
-            "title": {
-                "userPreferred": "BEYBLADE X",
-                "native": "BEYBLADE X",
-                "romaji": "BEYBLADE X"
-            }
-        },
-        {
             "id": 169420,
             "idMal": 56693,
             "nextAiringEpisode": {
-                "airingAt": 1758902400
+                "airingAt": 1759507200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169420-u4wDhHlTfX9P.jpg",
@@ -338,26 +306,10 @@
             }
         },
         {
-            "id": 174188,
-            "idMal": 57969,
-            "nextAiringEpisode": {
-                "airingAt": 1758906360
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174188-fZg8iePD9Dca.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174188-fZg8iePD9Dca.jpg"
-            },
-            "title": {
-                "userPreferred": "Nukitashi THE ANIMATION",
-                "native": "\u306c\u304d\u305f\u3057 THE ANIMATION",
-                "romaji": "Nukitashi THE ANIMATION"
-            }
-        },
-        {
             "id": 177474,
             "idMal": 58811,
             "nextAiringEpisode": {
-                "airingAt": 1758895200
+                "airingAt": 1759500000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177474-oHil1yLWldfl.jpg",
@@ -501,7 +453,7 @@
             "id": 179966,
             "idMal": 59459,
             "nextAiringEpisode": {
-                "airingAt": 1758898800
+                "airingAt": 1759590000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179966-g0EU7rVe2Og7.jpg",
@@ -658,6 +610,22 @@
             }
         },
         {
+            "id": 184718,
+            "idMal": 60347,
+            "nextAiringEpisode": {
+                "airingAt": 1759474800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184718-GvNnorokj1i3.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184718-GvNnorokj1i3.jpg"
+            },
+            "title": {
+                "userPreferred": "Cat's\u2665Eye (2025)",
+                "native": "\u30ad\u30e3\u30c3\u30c4\u2665\u30a2\u30a4 (2025)",
+                "romaji": "Cat's\u2665Eye (2025)"
+            }
+        },
+        {
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
@@ -671,22 +639,6 @@
                 "userPreferred": "Kimi to Idol Precure\u266a",
                 "native": "\u30ad\u30df\u3068\u30a2\u30a4\u30c9\u30eb\u30d7\u30ea\u30ad\u30e5\u30a2\u266a",
                 "romaji": "Kimi to Idol Precure\u266a"
-            }
-        },
-        {
-            "id": 185584,
-            "idMal": 60535,
-            "nextAiringEpisode": {
-                "airingAt": 1758904080
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185584-a5oABU1uknYX.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185584-a5oABU1uknYX.jpg"
-            },
-            "title": {
-                "userPreferred": "Everyday Host",
-                "native": "\u3048\u3076\u308a\u3067\u3044\u30db\u30b9\u30c8",
-                "romaji": "Everyday Host"
             }
         },
         {
@@ -837,7 +789,7 @@
             "id": 188653,
             "idMal": 61290,
             "nextAiringEpisode": {
-                "airingAt": 1758933900
+                "airingAt": 1759538700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188653-B24R4Eo7GMi2.jpg",
@@ -885,7 +837,7 @@
             "id": 191994,
             "idMal": 54145,
             "nextAiringEpisode": {
-                "airingAt": 1758927600
+                "airingAt": 1759532400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191994-hRBORUotkRjI.jpg",
@@ -895,22 +847,6 @@
                 "userPreferred": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
                 "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u30c7\u30e9\u30c3\u30af\u30b9\u6c7a\u52dd\u7de8",
                 "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen"
-            }
-        },
-        {
-            "id": 193238,
-            "idMal": 61731,
-            "nextAiringEpisode": {
-                "airingAt": 1758924000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193238-iOCgM9VCiFgo.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193238-iOCgM9VCiFgo.png"
-            },
-            "title": {
-                "userPreferred": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
-                "native": "\u5b66\u6821\u3067\u306f\u6559\u3048\u3066\u304f\u308c\u306a\u3044\u5927\u5207\u306a\u3053\u3068",
-                "romaji": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto"
             }
         },
         {
@@ -997,7 +933,7 @@
             "id": 198408,
             "idMal": 62268,
             "nextAiringEpisode": {
-                "airingAt": 1758879600
+                "airingAt": 1759484400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198408-LAwH4Bbk3xkp.png",
