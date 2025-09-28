@@ -1,5 +1,5 @@
 {
-    "__version__": 553,
+    "__version__": 554,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1758963600
+                "airingAt": 1759568400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1758958200
+                "airingAt": 1759563000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -101,7 +101,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1758960000
+                "airingAt": 1759564800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -290,22 +290,6 @@
             }
         },
         {
-            "id": 171046,
-            "idMal": 57433,
-            "nextAiringEpisode": {
-                "airingAt": 1758983400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171046-9leqLiNuOqNu.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171046-9leqLiNuOqNu.png"
-            },
-            "title": {
-                "userPreferred": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
-                "native": "\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30b5\u30f3\u30bf\u30af\u30ed\u30fc\u30b9\u306e\u5922\u3092\u898b\u306a\u3044",
-                "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai"
-            }
-        },
-        {
             "id": 177474,
             "idMal": 58811,
             "nextAiringEpisode": {
@@ -319,54 +303,6 @@
                 "userPreferred": "Tougen Anki",
                 "native": "\u6843\u6e90\u6697\u9b3c",
                 "romaji": "Tougen Anki"
-            }
-        },
-        {
-            "id": 177476,
-            "idMal": 58812,
-            "nextAiringEpisode": {
-                "airingAt": 1758961800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177476-kduwwEfxcZtU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg"
-            },
-            "title": {
-                "userPreferred": "Shin Samurai-den YAIBA",
-                "native": "\u771f\uff65\u4f8d\u4f1d YAIBA",
-                "romaji": "Shin Samurai-den YAIBA"
-            }
-        },
-        {
-            "id": 177689,
-            "idMal": 58913,
-            "nextAiringEpisode": {
-                "airingAt": 1758988560
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177689-d0mB5nYgdnhi.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177689-d0mB5nYgdnhi.jpg"
-            },
-            "title": {
-                "userPreferred": "Hikaru ga Shinda Natsu",
-                "native": "\u5149\u304c\u6b7b\u3093\u3060\u590f",
-                "romaji": "Hikaru ga Shinda Natsu"
-            }
-        },
-        {
-            "id": 177761,
-            "idMal": 58957,
-            "nextAiringEpisode": {
-                "airingAt": 1758978000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177761-KdJxyWwdBdiS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177761-KdJxyWwdBdiS.jpg"
-            },
-            "title": {
-                "userPreferred": "9-nine- Shihaisha no Oukan",
-                "native": "9-nine- \u652f\u914d\u8005\u306e\u738b\u51a0",
-                "romaji": "9-nine- Shihaisha no Oukan"
             }
         },
         {
@@ -434,22 +370,6 @@
             }
         },
         {
-            "id": 178754,
-            "idMal": 59177,
-            "nextAiringEpisode": {
-                "airingAt": 1758981600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178754-Dgrub8xgC03M.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178754-Dgrub8xgC03M.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaijuu 8-gou 2nd Season",
-                "native": "\u602a\u7363\uff18\u53f7 \u7b2c\uff12\u671f",
-                "romaji": "Kaijuu 8-gou 2nd Season"
-            }
-        },
-        {
             "id": 179966,
             "idMal": 59459,
             "nextAiringEpisode": {
@@ -479,6 +399,22 @@
                 "userPreferred": "Witch Watch",
                 "native": "\u30a6\u30a3\u30c3\u30c1\u30a6\u30a9\u30c3\u30c1",
                 "romaji": "Witch Watch"
+            }
+        },
+        {
+            "id": 180523,
+            "idMal": 59644,
+            "nextAiringEpisode": {
+                "airingAt": 1759584600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180523-FjvW1XByUNMK.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180523-FjvW1XByUNMK.jpg"
+            },
+            "title": {
+                "userPreferred": "Yasei no Last Boss ga Arawareta!",
+                "native": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01",
+                "romaji": "Yasei no Last Boss ga Arawareta!"
             }
         },
         {
@@ -514,22 +450,6 @@
             }
         },
         {
-            "id": 181444,
-            "idMal": 59845,
-            "nextAiringEpisode": {
-                "airingAt": 1758987000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181444-Ut9DDUZdfHwg.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-Ut9DDUZdfHwg.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaoru Hana wa Rin to Saku",
-                "native": "\u85ab\u308b\u82b1\u306f\u51db\u3068\u54b2\u304f",
-                "romaji": "Kaoru Hana wa Rin to Saku"
-            }
-        },
-        {
             "id": 181841,
             "idMal": 59898,
             "nextAiringEpisode": {
@@ -543,22 +463,6 @@
                 "userPreferred": "CITY THE ANIMATION",
                 "native": "CITY THE ANIMATION",
                 "romaji": "CITY THE ANIMATION"
-            }
-        },
-        {
-            "id": 183473,
-            "idMal": 60080,
-            "nextAiringEpisode": {
-                "airingAt": 1758942000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183473-jZR2gEFZQhVe.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183473-jZR2gEFZQhVe.png"
-            },
-            "title": {
-                "userPreferred": "Nui Story 2",
-                "native": "\u306c\u3044\u30b9\u30c8\u30fc\u30ea\u30fc2",
-                "romaji": "Nui Story 2"
             }
         },
         {
@@ -581,7 +485,7 @@
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
-                "airingAt": 1759019400
+                "airingAt": 1759624200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184470-m2izEvBeO49C.jpg",
@@ -591,22 +495,6 @@
                 "userPreferred": "Himitsu no AiPri: Ring-hen",
                 "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea \u30ea\u30f3\u30b0\u7de8",
                 "romaji": "Himitsu no AiPri: Ring-hen"
-            }
-        },
-        {
-            "id": 184639,
-            "idMal": 60334,
-            "nextAiringEpisode": {
-                "airingAt": 1758965160
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184639-tmj8NbTroNeI.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tmj8NbTroNeI.jpg"
-            },
-            "title": {
-                "userPreferred": "Anne Shirley",
-                "native": "\u30a2\u30f3\u30fb\u30b7\u30e3\u30fc\u30ea\u30fc",
-                "romaji": "Anne Shirley"
             }
         },
         {
@@ -629,7 +517,7 @@
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
-                "airingAt": 1759015800
+                "airingAt": 1759620600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-m4QzzXcEqmvb.png",
@@ -645,7 +533,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1759015680
+                "airingAt": 1759620480
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -661,7 +549,7 @@
             "id": 185718,
             "idMal": 60596,
             "nextAiringEpisode": {
-                "airingAt": 1759011360
+                "airingAt": 1759616160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185718-luZZKvM7pOZ2.png",
@@ -687,22 +575,6 @@
                 "userPreferred": "Futari Solo Camp",
                 "native": "\u3075\u305f\u308a\u30bd\u30ed\u30ad\u30e3\u30f3\u30d7",
                 "romaji": "Futari Solo Camp"
-            }
-        },
-        {
-            "id": 186003,
-            "idMal": 60697,
-            "nextAiringEpisode": {
-                "airingAt": 1758983400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186003-scKw8JoTtnMT.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186003-scKw8JoTtnMT.jpg"
-            },
-            "title": {
-                "userPreferred": "Fermat no Ryouri",
-                "native": "\u30d5\u30a7\u30eb\u30de\u30fc\u306e\u6599\u7406",
-                "romaji": "Fermat no Ryouri"
             }
         },
         {
@@ -943,22 +815,6 @@
                 "userPreferred": "Chikyuu no Latair",
                 "native": "\u5730\u7403\u306e\u30e9\u30c6\u30fc\u30eb",
                 "romaji": "Chikyuu no Latair"
-            }
-        },
-        {
-            "id": 198745,
-            "idMal": 61846,
-            "nextAiringEpisode": {
-                "airingAt": 1758992400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198745-0coQkVMVfTCj.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198745-0coQkVMVfTCj.jpg"
-            },
-            "title": {
-                "userPreferred": "Shuukan Ranobe Anime",
-                "native": "\u9031\u520a\u30e9\u30ce\u30d9\u30a2\u30cb\u30e1",
-                "romaji": "Shuukan Ranobe Anime"
             }
         }
     ]
