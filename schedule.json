@@ -1,11 +1,11 @@
 {
-    "__version__": 554,
+    "__version__": 555,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1759068960
+                "airingAt": 1759673760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1759051800
+                "airingAt": 1759656600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1759050000
+                "airingAt": 1759654800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -242,6 +242,22 @@
             }
         },
         {
+            "id": 157692,
+            "idMal": 59662,
+            "nextAiringEpisode": {
+                "airingAt": 1759417200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157692-lihmnuJGcbM6.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157692-lihmnuJGcbM6.png"
+            },
+            "title": {
+                "userPreferred": "Long Zu 2",
+                "native": "\u9f99\u65cf \u7b2c\u4e8c\u5b63",
+                "romaji": "Long Zu 2"
+            }
+        },
+        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -255,6 +271,22 @@
                 "userPreferred": "Pocket Monsters (2023)",
                 "native": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc (2023)",
                 "romaji": "Pocket Monsters (2023)"
+            }
+        },
+        {
+            "id": 165530,
+            "idMal": 57353,
+            "nextAiringEpisode": {
+                "airingAt": 1759680000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165530-Ku7VZt2NCIgf.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165530-Ku7VZt2NCIgf.jpg"
+            },
+            "title": {
+                "userPreferred": "Mofa Gongzhu De Xiao Fannao",
+                "native": "\u9b54\u6cd5\u516c\u4e3b\u7684\u5c0f\u70e6\u607c",
+                "romaji": "Mofa Gongzhu De Xiao Fannao"
             }
         },
         {
@@ -325,7 +357,7 @@
             "id": 178025,
             "idMal": 59062,
             "nextAiringEpisode": {
-                "airingAt": 1759069800
+                "airingAt": 1759674600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
@@ -351,22 +383,6 @@
                 "userPreferred": "Princess-Session Orchestra",
                 "native": "\u30d5\u309a\u30ea\u30f3\u30bb\u30c3\u30b7\u30e7\u30f3\u30fb\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
                 "romaji": "Princess-Session Orchestra"
-            }
-        },
-        {
-            "id": 178433,
-            "idMal": 59130,
-            "nextAiringEpisode": {
-                "airingAt": 1759066200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178433-8KzNsjTmdAvw.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg"
-            },
-            "title": {
-                "userPreferred": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
-                "native": "\u7570\u4e16\u754c\u9ed9\u793a\u9332\u30de\u30a4\u30ce\u30b0\u30fc\u30e9 \uff5e\u7834\u6ec5\u306e\u6587\u660e\u3067\u59cb\u3081\u308b\u4e16\u754c\u5f81\u670d\uff5e",
-                "romaji": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku"
             }
         },
         {
@@ -415,70 +431,6 @@
                 "userPreferred": "Yasei no Last Boss ga Arawareta!",
                 "native": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01",
                 "romaji": "Yasei no Last Boss ga Arawareta!"
-            }
-        },
-        {
-            "id": 180794,
-            "idMal": 59689,
-            "nextAiringEpisode": {
-                "airingAt": 1759069800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180794-rQGxkguEc2ov.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-rQGxkguEc2ov.png"
-            },
-            "title": {
-                "userPreferred": "GaCen Shoujo to Ibunka Kouryuu",
-                "native": "\u30b2\u30fc\u30bb\u30f3\u5c11\u5973\u3068\u7570\u6587\u5316\u4ea4\u6d41",
-                "romaji": "GaCen Shoujo to Ibunka Kouryuu"
-            }
-        },
-        {
-            "id": 180929,
-            "idMal": 59791,
-            "nextAiringEpisode": {
-                "airingAt": 1759062600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180929-ytdzqbrOhots.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180929-ytdzqbrOhots.jpg"
-            },
-            "title": {
-                "userPreferred": "Ruri no Houseki",
-                "native": "\u7460\u7483\u306e\u5b9d\u77f3",
-                "romaji": "Ruri no Houseki"
-            }
-        },
-        {
-            "id": 181841,
-            "idMal": 59898,
-            "nextAiringEpisode": {
-                "airingAt": 1759071600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181841-9TcjIyZefot2.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-9TcjIyZefot2.jpg"
-            },
-            "title": {
-                "userPreferred": "CITY THE ANIMATION",
-                "native": "CITY THE ANIMATION",
-                "romaji": "CITY THE ANIMATION"
-            }
-        },
-        {
-            "id": 184034,
-            "idMal": 60260,
-            "nextAiringEpisode": {
-                "airingAt": 1759070760
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184034-gjIi5TIHJpZv.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-gjIi5TIHJpZv.jpg"
-            },
-            "title": {
-                "userPreferred": "Hotel Inhumans",
-                "native": "\u30db\u30c6\u30eb\u30fb\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30ba",
-                "romaji": "Hotel Inhumans"
             }
         },
         {
@@ -741,7 +693,7 @@
             "id": 194088,
             "idMal": 61793,
             "nextAiringEpisode": {
-                "airingAt": 1759081800
+                "airingAt": 1759686600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194088-lzp3BHNx0tnY.png",
@@ -789,7 +741,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1759059000
+                "airingAt": 1759663800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
