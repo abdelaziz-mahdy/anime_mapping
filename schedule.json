@@ -1,5 +1,5 @@
 {
-    "__version__": 556,
+    "__version__": 557,
     "data": [
         {
             "id": 21,
@@ -162,6 +162,22 @@
             }
         },
         {
+            "id": 140842,
+            "idMal": 50250,
+            "nextAiringEpisode": {
+                "airingAt": 1759444800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg"
+            },
+            "title": {
+                "userPreferred": "Chiikawa",
+                "native": "\u3061\u3044\u304b\u308f",
+                "romaji": "Chiikawa"
+            }
+        },
+        {
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
@@ -290,22 +306,6 @@
             }
         },
         {
-            "id": 177880,
-            "idMal": 58996,
-            "nextAiringEpisode": {
-                "airingAt": 1759244400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177880-54MNSycPEMFA.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-54MNSycPEMFA.jpg"
-            },
-            "title": {
-                "userPreferred": "Osomatsu-san 4",
-                "native": "\u304a\u305d\u677e\u3055\u3093\uff14",
-                "romaji": "Osomatsu-san 4"
-            }
-        },
-        {
             "id": 178025,
             "idMal": 59062,
             "nextAiringEpisode": {
@@ -383,6 +383,22 @@
                 "userPreferred": "Yasei no Last Boss ga Arawareta!",
                 "native": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01",
                 "romaji": "Yasei no Last Boss ga Arawareta!"
+            }
+        },
+        {
+            "id": 183965,
+            "idMal": 60254,
+            "nextAiringEpisode": {
+                "airingAt": 1759854540
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183965-7oMzkJp4FUyP.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183965-7oMzkJp4FUyP.jpg"
+            },
+            "title": {
+                "userPreferred": "Yano-kun no Futsuu no Hibi",
+                "native": "\u77e2\u91ce\u304f\u3093\u306e\u666e\u901a\u306e\u65e5\u3005",
+                "romaji": "Yano-kun no Futsuu no Hibi"
             }
         },
         {
@@ -530,22 +546,6 @@
             }
         },
         {
-            "id": 188039,
-            "idMal": 60689,
-            "nextAiringEpisode": {
-                "airingAt": 1759272360
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188039-NwF00gTcMwyZ.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188039-NwF00gTcMwyZ.png"
-            },
-            "title": {
-                "userPreferred": "Rainbow Bubblegem 2: Secret",
-                "native": "\ub808\uc778\ubcf4\uc6b0 \ubc84\ube14\uc82c 2 \uc2dc\ud06c\ub9bf",
-                "romaji": "Rainbow Bubblegem 2: Secret"
-            }
-        },
-        {
             "id": 188239,
             "idMal": 61258,
             "nextAiringEpisode": {
@@ -597,7 +597,7 @@
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
-                "airingAt": 1759201200
+                "airingAt": 1761879600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png",
@@ -645,7 +645,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1759269960
+                "airingAt": 1759874760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
