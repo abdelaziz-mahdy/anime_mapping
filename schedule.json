@@ -1,5 +1,5 @@
 {
-    "__version__": 557,
+    "__version__": 558,
     "data": [
         {
             "id": 21,
@@ -277,7 +277,7 @@
             "id": 169969,
             "idMal": 56854,
             "nextAiringEpisode": {
-                "airingAt": 1759323600
+                "airingAt": 1759928400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169969-SqCjoqYT4A6Z.jpg",
@@ -287,6 +287,22 @@
                 "userPreferred": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
                 "native": "\u7121\u8077\u306e\u82f1\u96c4 \u5225\u306b\u30b9\u30ad\u30eb\u306a\u3093\u304b\u8981\u3089\u306a\u304b\u3063\u305f\u3093\u3060\u304c",
                 "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga"
+            }
+        },
+        {
+            "id": 177271,
+            "idMal": 58772,
+            "nextAiringEpisode": {
+                "airingAt": 1759935600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177271-Lot4V9iMyPI7.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-Lot4V9iMyPI7.jpg"
+            },
+            "title": {
+                "userPreferred": "Kakuriyo no Yadomeshi 2nd Season",
+                "native": "\u304b\u304f\u308a\u3088\u306e\u5bbf\u98ef \u7b2c\uff12\u671f",
+                "romaji": "Kakuriyo no Yadomeshi 2nd Season"
             }
         },
         {
@@ -383,6 +399,22 @@
                 "userPreferred": "Yasei no Last Boss ga Arawareta!",
                 "native": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01",
                 "romaji": "Yasei no Last Boss ga Arawareta!"
+            }
+        },
+        {
+            "id": 183291,
+            "idMal": 60162,
+            "nextAiringEpisode": {
+                "airingAt": 1759422480
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183291-qm3bQT1wpmka.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-qm3bQT1wpmka.jpg"
+            },
+            "title": {
+                "userPreferred": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
+                "native": "\u60aa\u98df\u4ee4\u5b22\u3068\u72c2\u8840\u516c\u7235\u3000\uff5e\u305d\u306e\u9b54\u7269\u3001\u79c1\u304c\u7f8e\u5473\u3057\u304f\u3044\u305f\u3060\u304d\u307e\u3059\uff01\uff5e",
+                "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!"
             }
         },
         {
@@ -655,6 +687,22 @@
                 "userPreferred": "Chibi Godzilla no Gyakushuu 3",
                 "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
                 "romaji": "Chibi Godzilla no Gyakushuu 3"
+            }
+        },
+        {
+            "id": 193968,
+            "idMal": 61773,
+            "nextAiringEpisode": {
+                "airingAt": 1759938360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193968-tXbbqBOTuClj.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg"
+            },
+            "title": {
+                "userPreferred": "Let\u2019s Play: Quest Darake no My Life",
+                "native": "Let\u2019s Play \u30af\u30a8\u30b9\u30c8\u3060\u3089\u3051\u306e\u30de\u30a4\u30e9\u30a4\u30d5",
+                "romaji": "Let\u2019s Play: Quest Darake no My Life"
             }
         },
         {
