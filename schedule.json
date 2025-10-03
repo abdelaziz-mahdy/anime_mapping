@@ -1,5 +1,5 @@
 {
-    "__version__": 558,
+    "__version__": 559,
     "data": [
         {
             "id": 21,
@@ -85,7 +85,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1759443000
+                "airingAt": 1760047800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1759444800
+                "airingAt": 1759790400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -213,7 +213,7 @@
             "id": 157692,
             "idMal": 59662,
             "nextAiringEpisode": {
-                "airingAt": 1759417200
+                "airingAt": 1760022000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157692-lihmnuJGcbM6.png",
@@ -296,8 +296,8 @@
                 "airingAt": 1759935600
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177271-Lot4V9iMyPI7.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-Lot4V9iMyPI7.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177271-anyazmpWyX3m.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg"
             },
             "title": {
                 "userPreferred": "Kakuriyo no Yadomeshi 2nd Season",
@@ -405,7 +405,7 @@
             "id": 183291,
             "idMal": 60162,
             "nextAiringEpisode": {
-                "airingAt": 1759422480
+                "airingAt": 1760027280
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183291-qm3bQT1wpmka.jpg",
@@ -415,6 +415,22 @@
                 "userPreferred": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
                 "native": "\u60aa\u98df\u4ee4\u5b22\u3068\u72c2\u8840\u516c\u7235\u3000\uff5e\u305d\u306e\u9b54\u7269\u3001\u79c1\u304c\u7f8e\u5473\u3057\u304f\u3044\u305f\u3060\u304d\u307e\u3059\uff01\uff5e",
                 "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!"
+            }
+        },
+        {
+            "id": 183385,
+            "idMal": 60168,
+            "nextAiringEpisode": {
+                "airingAt": 1760016600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183385-f1TgnttLckBT.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg"
+            },
+            "title": {
+                "userPreferred": "Watashi wo Tabetai, Hitodenashi",
+                "native": "\u79c1\u3092\u55b0\u3079\u305f\u3044\u3001\u3072\u3068\u3067\u306a\u3057",
+                "romaji": "Watashi wo Tabetai, Hitodenashi"
             }
         },
         {
@@ -431,6 +447,22 @@
                 "userPreferred": "Yano-kun no Futsuu no Hibi",
                 "native": "\u77e2\u91ce\u304f\u3093\u306e\u666e\u901a\u306e\u65e5\u3005",
                 "romaji": "Yano-kun no Futsuu no Hibi"
+            }
+        },
+        {
+            "id": 184289,
+            "idMal": 60070,
+            "nextAiringEpisode": {
+                "airingAt": 1759528800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
+            },
+            "title": {
+                "userPreferred": "Kaijuu Sekai Seifuku",
+                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
+                "romaji": "Kaijuu Sekai Seifuku"
             }
         },
         {
@@ -482,6 +514,22 @@
             }
         },
         {
+            "id": 185575,
+            "idMal": 60531,
+            "nextAiringEpisode": {
+                "airingAt": 1760014800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185575-moQeN8f5xRBv.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185575-moQeN8f5xRBv.jpg"
+            },
+            "title": {
+                "userPreferred": "Bukiyou na Senpai.",
+                "native": "\u4e0d\u5668\u7528\u306a\u5148\u8f29\u3002",
+                "romaji": "Bukiyou na Senpai."
+            }
+        },
+        {
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
@@ -517,7 +565,7 @@
             "id": 185965,
             "idMal": 60665,
             "nextAiringEpisode": {
-                "airingAt": 1759419000
+                "airingAt": 1760023800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185965-LlzTLSTBUbEA.jpg",
@@ -533,7 +581,7 @@
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1759424280
+                "airingAt": 1760029080
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -559,6 +607,38 @@
                 "userPreferred": "MILGRAM Third Season",
                 "native": "\u30df\u30eb\u30b0\u30e9\u30e0 \u7b2c\u4e09\u5be9",
                 "romaji": "MILGRAM Third Season"
+            }
+        },
+        {
+            "id": 186621,
+            "idMal": 60969,
+            "nextAiringEpisode": {
+                "airingAt": 1760021760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186621-jFeAgDQkQMUm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186621-jFeAgDQkQMUm.jpg"
+            },
+            "title": {
+                "userPreferred": "Taiyou yori mo Mabushii Hoshi",
+                "native": "\u592a\u967d\u3088\u308a\u3082\u7729\u3057\u3044\u661f",
+                "romaji": "Taiyou yori mo Mabushii Hoshi"
+            }
+        },
+        {
+            "id": 187166,
+            "idMal": 61107,
+            "nextAiringEpisode": {
+                "airingAt": 1760011200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187166-ASfp7wErGrxQ.png"
+            },
+            "title": {
+                "userPreferred": "Ganso! Bandori-chan",
+                "native": "\u5143\u7956\uff01\u30d0\u30f3\u30c9\u30ea\u3061\u3083\u3093",
+                "romaji": "Ganso! Bandori-chan"
             }
         },
         {
@@ -591,22 +671,6 @@
                 "userPreferred": "Transformers: Wild King",
                 "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
                 "romaji": "Transformers: Wild King"
-            }
-        },
-        {
-            "id": 188394,
-            "idMal": 61272,
-            "nextAiringEpisode": {
-                "airingAt": 1759397400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188394-4oTa98gvtw8R.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188394-4oTa98gvtw8R.jpg"
-            },
-            "title": {
-                "userPreferred": "PetitCure: Precure Fairies",
-                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e",
-                "romaji": "PetitCure: Precure Fairies"
             }
         },
         {
@@ -645,7 +709,7 @@
             "id": 188884,
             "idMal": 61300,
             "nextAiringEpisode": {
-                "airingAt": 1759444200
+                "airingAt": 1760049000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
@@ -722,10 +786,26 @@
             }
         },
         {
+            "id": 194389,
+            "idMal": 62005,
+            "nextAiringEpisode": {
+                "airingAt": 1760007600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png"
+            },
+            "title": {
+                "userPreferred": "Koala Enikki",
+                "native": "\u30b3\u30a2\u30e9\u7d75\u65e5\u8a18",
+                "romaji": "Koala Enikki"
+            }
+        },
+        {
             "id": 195153,
             "idMal": 61917,
             "nextAiringEpisode": {
-                "airingAt": 1759418760
+                "airingAt": 1760023560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195153-yiRxZP5pPJLi.png",
@@ -735,6 +815,22 @@
                 "userPreferred": "Towa no Yuugure",
                 "native": "\u6c38\u4e45\u306e\u30e6\u30a6\u30b0\u30ec",
                 "romaji": "Towa no Yuugure"
+            }
+        },
+        {
+            "id": 195383,
+            "idMal": 61924,
+            "nextAiringEpisode": {
+                "airingAt": 1759921140
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195383-v8nJ26HD0Lcd.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195383-v8nJ26HD0Lcd.png"
+            },
+            "title": {
+                "userPreferred": "MUZIK TIGER In the Forest 2",
+                "native": "MUZIK TIGER In the Forest \u7b2c2\u671f ",
+                "romaji": "MUZIK TIGER In the Forest 2"
             }
         },
         {
@@ -783,6 +879,54 @@
                 "userPreferred": "Chikyuu no Latair",
                 "native": "\u5730\u7403\u306e\u30e9\u30c6\u30fc\u30eb",
                 "romaji": "Chikyuu no Latair"
+            }
+        },
+        {
+            "id": 198561,
+            "idMal": 62144,
+            "nextAiringEpisode": {
+                "airingAt": 1760025600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198561-ugYb3oLGGdbD.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png"
+            },
+            "title": {
+                "userPreferred": "Potion, Wagami wo Tasukeru",
+                "native": "\u30dd\u30fc\u30b7\u30e7\u30f3\u3001\u308f\u304c\u8eab\u3092\u52a9\u3051\u308b",
+                "romaji": "Potion, Wagami wo Tasukeru"
+            }
+        },
+        {
+            "id": 198921,
+            "idMal": 62504,
+            "nextAiringEpisode": {
+                "airingAt": 1760005320
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198921-NMVQx7KSCnTd.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198921-NMVQx7KSCnTd.png"
+            },
+            "title": {
+                "userPreferred": "Sylvanian Families: Freya no Wonder Days",
+                "native": "\u30b7\u30eb\u30d0\u30cb\u30a2\u30d5\u30a1\u30df\u30ea\u30fc \u30d5\u30ec\u30a2\u306e\u30ef\u30f3\u30c0\u30fc\u30c7\u30a4\u30ba",
+                "romaji": "Sylvanian Families: Freya no Wonder Days"
+            }
+        },
+        {
+            "id": 198926,
+            "idMal": 62522,
+            "nextAiringEpisode": {
+                "airingAt": 1760014440
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198926-J5Ml6dqNGze9.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198926-J5Ml6dqNGze9.png"
+            },
+            "title": {
+                "userPreferred": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
+                "native": "\u8d85\u666e\u901a\u30de\u30db\u30a6\u5c11\u5973\u30a2\u30b9\u30df\u30c8\u30eb\u30d0\u30fc\u30b9",
+                "romaji": "Chou Futsuu Mahou Shoujo Asumi Toruverse"
             }
         }
     ]
