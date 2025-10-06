@@ -1,11 +1,11 @@
 {
-    "__version__": 561,
+    "__version__": 562,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1759673760
+                "airingAt": 1760278560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1759656600
+                "airingAt": 1760261400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1759654800
+                "airingAt": 1760259600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -277,7 +277,7 @@
             "id": 165530,
             "idMal": 57353,
             "nextAiringEpisode": {
-                "airingAt": 1759680000
+                "airingAt": 1760284800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165530-Ku7VZt2NCIgf.jpg",
@@ -319,6 +319,38 @@
                 "userPreferred": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
                 "native": "\u7121\u8077\u306e\u82f1\u96c4 \u5225\u306b\u30b9\u30ad\u30eb\u306a\u3093\u304b\u8981\u3089\u306a\u304b\u3063\u305f\u3093\u3060\u304c",
                 "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga"
+            }
+        },
+        {
+            "id": 170018,
+            "idMal": 56877,
+            "nextAiringEpisode": {
+                "airingAt": 1760256000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170018-1PqdLX68YayA.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170018-1PqdLX68YayA.jpg"
+            },
+            "title": {
+                "userPreferred": "Ao no Orchestra 2nd Season",
+                "native": "\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 \u7b2c2\u671f",
+                "romaji": "Ao no Orchestra 2nd Season"
+            }
+        },
+        {
+            "id": 173692,
+            "idMal": 57888,
+            "nextAiringEpisode": {
+                "airingAt": 1760279400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173692-shp7PGRQyCQl.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173692-shp7PGRQyCQl.jpg"
+            },
+            "title": {
+                "userPreferred": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+                "native": "\u7236\u306f\u82f1\u96c4\u3001\u6bcd\u306f\u7cbe\u970a\u3001\u5a18\u306e\u79c1\u306f\u8ee2\u751f\u8005\u3002",
+                "romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha."
             }
         },
         {
@@ -389,7 +421,7 @@
             "id": 178025,
             "idMal": 59062,
             "nextAiringEpisode": {
-                "airingAt": 1759674600
+                "airingAt": 1760279400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
@@ -434,19 +466,19 @@
             }
         },
         {
-            "id": 180367,
-            "idMal": 59597,
+            "id": 179992,
+            "idMal": 59484,
             "nextAiringEpisode": {
-                "airingAt": 1759651200
+                "airingAt": 1760274000
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180367-GlRuB2lG7Kaa.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179992-tu21efjGADCO.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179992-tu21efjGADCO.png"
             },
             "title": {
-                "userPreferred": "Witch Watch",
-                "native": "\u30a6\u30a3\u30c3\u30c1\u30a6\u30a9\u30c3\u30c1",
-                "romaji": "Witch Watch"
+                "userPreferred": "Kikaijikake no Marie",
+                "native": "\u6a5f\u68b0\u3058\u304b\u3051\u306e\u30de\u30ea\u30fc",
+                "romaji": "Kikaijikake no Marie"
             }
         },
         {
@@ -754,6 +786,22 @@
             }
         },
         {
+            "id": 186190,
+            "idMal": 60781,
+            "nextAiringEpisode": {
+                "airingAt": 1760277600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186190-Ru77wfF8I61X.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186190-Ru77wfF8I61X.jpg"
+            },
+            "title": {
+                "userPreferred": "Alma-chan wa Kazoku ni Naritai",
+                "native": "\u30a2\u30eb\u30de\u3061\u3083\u3093\u306f\u5bb6\u65cf\u306b\u306a\u308a\u305f\u3044",
+                "romaji": "Alma-chan wa Kazoku ni Naritai"
+            }
+        },
+        {
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
@@ -850,6 +898,22 @@
             }
         },
         {
+            "id": 187331,
+            "idMal": 61142,
+            "nextAiringEpisode": {
+                "airingAt": 1760285160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187331-ylRHyvJIVPeO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187331-ylRHyvJIVPeO.jpg"
+            },
+            "title": {
+                "userPreferred": "Sawaranaide Kotesashi-kun",
+                "native": "\u3055\u308f\u3089\u306a\u3044\u3067\u5c0f\u624b\u6307\u304f\u3093",
+                "romaji": "Sawaranaide Kotesashi-kun"
+            }
+        },
+        {
             "id": 187464,
             "idMal": 61159,
             "nextAiringEpisode": {
@@ -917,7 +981,7 @@
             "id": 188239,
             "idMal": 61258,
             "nextAiringEpisode": {
-                "airingAt": 1759885200
+                "airingAt": 1761094800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
@@ -1058,22 +1122,6 @@
             }
         },
         {
-            "id": 194088,
-            "idMal": 61793,
-            "nextAiringEpisode": {
-                "airingAt": 1759686600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194088-lzp3BHNx0tnY.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png"
-            },
-            "title": {
-                "userPreferred": "Yami Shibai 15",
-                "native": "\u95c7\u829d\u5c45 \u5341\u4e94\u671f ",
-                "romaji": "Yami Shibai 15"
-            }
-        },
-        {
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
@@ -1138,6 +1186,22 @@
             }
         },
         {
+            "id": 195240,
+            "idMal": 61930,
+            "nextAiringEpisode": {
+                "airingAt": 1760254200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195240-hKcmllV6YHQT.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-hKcmllV6YHQT.jpg"
+            },
+            "title": {
+                "userPreferred": "Uma Musume: Cinderella Gray Part 2",
+                "native": "\u30a6\u30de\u5a18 \u30b7\u30f3\u30c7\u30ec\u30e9\u30b0\u30ec\u30a4 \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Uma Musume: Cinderella Gray Part 2"
+            }
+        },
+        {
             "id": 195383,
             "idMal": 61924,
             "nextAiringEpisode": {
@@ -1173,7 +1237,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1759663800
+                "airingAt": 1760268600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
@@ -1279,6 +1343,38 @@
                 "userPreferred": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
                 "native": "\u8d85\u666e\u901a\u30de\u30db\u30a6\u5c11\u5973\u30a2\u30b9\u30df\u30c8\u30eb\u30d0\u30fc\u30b9",
                 "romaji": "Chou Futsuu Mahou Shoujo Asumi Toruverse"
+            }
+        },
+        {
+            "id": 199794,
+            "idMal": 62643,
+            "nextAiringEpisode": {
+                "airingAt": 1760030100
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199794-DjnzEzfFG559.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg"
+            },
+            "title": {
+                "userPreferred": "Anila to Cocora",
+                "native": "\u30a2\u30cb\u30e9\u3068\u30b3\u30b3\u30e9",
+                "romaji": "Anila to Cocora"
+            }
+        },
+        {
+            "id": 199812,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1760285160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199812-88EBKcwBqQjG.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199812-88EBKcwBqQjG.png"
+            },
+            "title": {
+                "userPreferred": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+                "native": "\u3055\u308f\u3089\u306a\u3044\u3067\u5c0f\u624b\u6307\u304f\u3093\u30df\u30cb\u30a2\u30cb\u30e1\u5287\u5834",
+                "romaji": "Sawaranaide Kotesashi-kun Mini Anime Gekijou"
             }
         }
     ]
