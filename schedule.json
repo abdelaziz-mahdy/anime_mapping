@@ -1,11 +1,11 @@
 {
-    "__version__": 562,
+    "__version__": 563,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1760278560
+                "airingAt": 1760883360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1759716000
+                "airingAt": 1760320800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -181,7 +181,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1759790400
+                "airingAt": 1760049600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -274,6 +274,22 @@
             }
         },
         {
+            "id": 162890,
+            "idMal": 54757,
+            "nextAiringEpisode": {
+                "airingAt": 1760367600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162890-vDRlo1KuRM6W.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg"
+            },
+            "title": {
+                "userPreferred": "3-nen Z-gumi Ginpachi-sensei",
+                "native": "3\u5e74Z\u7d44\u9280\u516b\u5148\u751f",
+                "romaji": "3-nen Z-gumi Ginpachi-sensei"
+            }
+        },
+        {
             "id": 165530,
             "idMal": 57353,
             "nextAiringEpisode": {
@@ -332,9 +348,41 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170018-1PqdLX68YayA.jpg"
             },
             "title": {
-                "userPreferred": "Ao no Orchestra 2nd Season",
-                "native": "\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 \u7b2c2\u671f",
-                "romaji": "Ao no Orchestra 2nd Season"
+                "userPreferred": "Ao no Orchestra Season 2",
+                "native": "\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 Season2",
+                "romaji": "Ao no Orchestra Season 2"
+            }
+        },
+        {
+            "id": 170936,
+            "idMal": 57189,
+            "nextAiringEpisode": {
+                "airingAt": 1760364000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170936-NlDYAjV86ljm.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png"
+            },
+            "title": {
+                "userPreferred": "Debu to Love to Ayamachi to!",
+                "native": "\u30c7\u30d6\u3068\u30e9\u30d6\u3068\u904e\u3061\u3068\uff01",
+                "romaji": "Debu to Love to Ayamachi to!"
+            }
+        },
+        {
+            "id": 173523,
+            "idMal": 57859,
+            "nextAiringEpisode": {
+                "airingAt": 1760358600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173523-wy1rDK1NaKuc.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png"
+            },
+            "title": {
+                "userPreferred": "Egao no Taenai Shokuba desu.",
+                "native": "\u7b11\u9854\u306e\u305f\u3048\u306a\u3044\u8077\u5834\u3067\u3059\u3002",
+                "romaji": "Egao no Taenai Shokuba desu."
             }
         },
         {
@@ -741,7 +789,7 @@
             "id": 185731,
             "idMal": 60564,
             "nextAiringEpisode": {
-                "airingAt": 1760198100
+                "airingAt": 1760198160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185731-PJ6WKcFDUI4B.jpg",
@@ -866,6 +914,22 @@
             }
         },
         {
+            "id": 186794,
+            "idMal": 61026,
+            "nextAiringEpisode": {
+                "airingAt": 1760373000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186794-Ns8xWNdMdOxq.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186794-Ns8xWNdMdOxq.jpg"
+            },
+            "title": {
+                "userPreferred": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+                "native": "\u6697\u6bba\u8005\u3067\u3042\u308b\u4ffa\u306e\u30b9\u30c6\u30fc\u30bf\u30b9\u304c \u52c7\u8005\u3088\u308a\u3082\u660e\u3089\u304b\u306b\u5f37\u3044\u306e\u3060\u304c",
+                "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga"
+            }
+        },
+        {
             "id": 186920,
             "idMal": 61072,
             "nextAiringEpisode": {
@@ -933,7 +997,7 @@
             "id": 187663,
             "idMal": 61174,
             "nextAiringEpisode": {
-                "airingAt": 1759764600
+                "airingAt": 1760369400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187663-VVdpMlkhwMSh.jpg",
