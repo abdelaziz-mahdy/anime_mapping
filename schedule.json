@@ -1,5 +1,5 @@
 {
-    "__version__": 565,
+    "__version__": 566,
     "data": [
         {
             "id": 21,
@@ -85,7 +85,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1760047800
+                "airingAt": 1760652600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -181,7 +181,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1760049600
+                "airingAt": 1760395200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -210,26 +210,10 @@
             }
         },
         {
-            "id": 144779,
-            "idMal": 50855,
-            "nextAiringEpisode": {
-                "airingAt": 1760022000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144779-WJ8aJbYk3o5t.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png"
-            },
-            "title": {
-                "userPreferred": "Yamato yo Towa ni: REBEL3199",
-                "native": "\u30e4\u30de\u30c8\u3088\u6c38\u9060\u306b REBEL3199",
-                "romaji": "Yamato yo Towa ni: REBEL3199"
-            }
-        },
-        {
             "id": 157692,
             "idMal": 59662,
             "nextAiringEpisode": {
-                "airingAt": 1760022000
+                "airingAt": 1760626800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157692-lihmnuJGcbM6.png",
@@ -645,7 +629,7 @@
             "id": 183291,
             "idMal": 60162,
             "nextAiringEpisode": {
-                "airingAt": 1760027280
+                "airingAt": 1760632080
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183291-qm3bQT1wpmka.jpg",
@@ -661,7 +645,7 @@
             "id": 183385,
             "idMal": 60168,
             "nextAiringEpisode": {
-                "airingAt": 1760016600
+                "airingAt": 1760621400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183385-f1TgnttLckBT.jpg",
@@ -789,7 +773,7 @@
             "id": 185575,
             "idMal": 60531,
             "nextAiringEpisode": {
-                "airingAt": 1760014800
+                "airingAt": 1760619600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185575-moQeN8f5xRBv.jpg",
@@ -885,7 +869,7 @@
             "id": 185965,
             "idMal": 60665,
             "nextAiringEpisode": {
-                "airingAt": 1760023800
+                "airingAt": 1760628600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185965-LlzTLSTBUbEA.jpg",
@@ -917,7 +901,7 @@
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1760029080
+                "airingAt": 1760633880
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -949,7 +933,7 @@
             "id": 186621,
             "idMal": 60969,
             "nextAiringEpisode": {
-                "airingAt": 1760021760
+                "airingAt": 1760626560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186621-jFeAgDQkQMUm.jpg",
@@ -1029,7 +1013,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1760011200
+                "airingAt": 1760616000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -1205,7 +1189,7 @@
             "id": 188884,
             "idMal": 61300,
             "nextAiringEpisode": {
-                "airingAt": 1760049000
+                "airingAt": 1760653800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
@@ -1269,7 +1253,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1760007600
+                "airingAt": 1760612400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -1301,7 +1285,7 @@
             "id": 195153,
             "idMal": 61917,
             "nextAiringEpisode": {
-                "airingAt": 1760023560
+                "airingAt": 1760628360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195153-yiRxZP5pPJLi.png",
@@ -1359,6 +1343,22 @@
                 "userPreferred": "MUZIK TIGER In the Forest 2",
                 "native": "MUZIK TIGER In the Forest \u7b2c2\u671f ",
                 "romaji": "MUZIK TIGER In the Forest 2"
+            }
+        },
+        {
+            "id": 196115,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1761836400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196115-LSRdtIQyDRqX.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196115-LSRdtIQyDRqX.jpg"
+            },
+            "title": {
+                "userPreferred": "Golden Kamuy: Sapporo Beer Koujou-hen",
+                "native": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u672d\u5e4c\u30d3\u30fc\u30eb\u5de5\u5834\u7de8",
+                "romaji": "Golden Kamuy: Sapporo Beer Koujou-hen"
             }
         },
         {
@@ -1426,6 +1426,22 @@
             }
         },
         {
+            "id": 198312,
+            "idMal": 62428,
+            "nextAiringEpisode": {
+                "airingAt": 1760446560
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198312-7FNrHGI29mYt.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198312-7FNrHGI29mYt.jpg"
+            },
+            "title": {
+                "userPreferred": "Heika Watashi wo Wasurete Kudasai",
+                "native": "\u965b\u4e0b\u308f\u305f\u3057\u3092\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
+                "romaji": "Heika Watashi wo Wasurete Kudasai"
+            }
+        },
+        {
             "id": 198413,
             "idMal": 62231,
             "nextAiringEpisode": {
@@ -1445,7 +1461,7 @@
             "id": 198561,
             "idMal": 62144,
             "nextAiringEpisode": {
-                "airingAt": 1760025600
+                "airingAt": 1760630400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198561-ugYb3oLGGdbD.png",
@@ -1461,7 +1477,7 @@
             "id": 198921,
             "idMal": 62504,
             "nextAiringEpisode": {
-                "airingAt": 1760005320
+                "airingAt": 1760610120
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198921-NMVQx7KSCnTd.png",
@@ -1477,7 +1493,7 @@
             "id": 198926,
             "idMal": 62522,
             "nextAiringEpisode": {
-                "airingAt": 1760014440
+                "airingAt": 1760619240
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198926-J5Ml6dqNGze9.png",
@@ -1506,10 +1522,26 @@
             }
         },
         {
+            "id": 199635,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1760607000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199635-rgif9o9VWMrt.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199635-rgif9o9VWMrt.png"
+            },
+            "title": {
+                "userPreferred": "PetitCure: Precure Fairies Season 2",
+                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f3\uff12",
+                "romaji": "PetitCure: Precure Fairies Season 2"
+            }
+        },
+        {
             "id": 199794,
             "idMal": 62643,
             "nextAiringEpisode": {
-                "airingAt": 1760030100
+                "airingAt": 1760634900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199794-DjnzEzfFG559.jpg",
