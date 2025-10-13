@@ -1,5 +1,5 @@
 {
-    "__version__": 568,
+    "__version__": 569,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1760261400
+                "airingAt": 1760866200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1760259600
+                "airingAt": 1760864400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -210,6 +210,22 @@
             }
         },
         {
+            "id": 153800,
+            "idMal": 52807,
+            "nextAiringEpisode": {
+                "airingAt": 1760885160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg"
+            },
+            "title": {
+                "userPreferred": "One Punch Man 3",
+                "native": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3\uff13",
+                "romaji": "One Punch Man 3"
+            }
+        },
+        {
             "id": 157692,
             "idMal": 59662,
             "nextAiringEpisode": {
@@ -277,7 +293,7 @@
             "id": 165530,
             "idMal": 57353,
             "nextAiringEpisode": {
-                "airingAt": 1760284800
+                "airingAt": 1760889600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165530-Ku7VZt2NCIgf.jpg",
@@ -325,7 +341,7 @@
             "id": 170018,
             "idMal": 56877,
             "nextAiringEpisode": {
-                "airingAt": 1760256000
+                "airingAt": 1760860800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170018-1PqdLX68YayA.jpg",
@@ -389,7 +405,7 @@
             "id": 173692,
             "idMal": 57888,
             "nextAiringEpisode": {
-                "airingAt": 1760279400
+                "airingAt": 1760884200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173692-shp7PGRQyCQl.jpg",
@@ -485,7 +501,7 @@
             "id": 178025,
             "idMal": 59062,
             "nextAiringEpisode": {
-                "airingAt": 1760279400
+                "airingAt": 1760884200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
@@ -533,7 +549,7 @@
             "id": 179992,
             "idMal": 59484,
             "nextAiringEpisode": {
-                "airingAt": 1760274000
+                "airingAt": 1760878800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179992-tu21efjGADCO.png",
@@ -901,7 +917,7 @@
             "id": 186190,
             "idMal": 60781,
             "nextAiringEpisode": {
-                "airingAt": 1760277600
+                "airingAt": 1760882400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186190-Ru77wfF8I61X.jpg",
@@ -943,6 +959,22 @@
                 "userPreferred": "MILGRAM Third Season",
                 "native": "\u30df\u30eb\u30b0\u30e9\u30e0 \u7b2c\u4e09\u5be9",
                 "romaji": "MILGRAM Third Season"
+            }
+        },
+        {
+            "id": 186524,
+            "idMal": 60933,
+            "nextAiringEpisode": {
+                "airingAt": 1760880600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186524-JSsyFR3FqTO8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186524-JSsyFR3FqTO8.jpg"
+            },
+            "title": {
+                "userPreferred": "Chanto Suenai Kyuuketsuki-chan",
+                "native": "\u3061\u3083\u3093\u3068\u5438\u3048\u306a\u3044\u5438\u8840\u9b3c\u3061\u3083\u3093",
+                "romaji": "Chanto Suenai Kyuuketsuki-chan"
             }
         },
         {
@@ -1045,7 +1077,7 @@
             "id": 187331,
             "idMal": 61142,
             "nextAiringEpisode": {
-                "airingAt": 1760285160
+                "airingAt": 1760889960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187331-ylRHyvJIVPeO.jpg",
@@ -1333,7 +1365,7 @@
             "id": 195240,
             "idMal": 61930,
             "nextAiringEpisode": {
-                "airingAt": 1760254200
+                "airingAt": 1760859000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195240-hKcmllV6YHQT.jpg",
@@ -1397,7 +1429,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1760268600
+                "airingAt": 1760873400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
@@ -1571,9 +1603,9 @@
         },
         {
             "id": 199812,
-            "idMal": null,
+            "idMal": 62682,
             "nextAiringEpisode": {
-                "airingAt": 1760285160
+                "airingAt": 1760889960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199812-88EBKcwBqQjG.png",
