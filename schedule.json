@@ -1,5 +1,5 @@
 {
-    "__version__": 570,
+    "__version__": 571,
     "data": [
         {
             "id": 21,
@@ -210,6 +210,22 @@
             }
         },
         {
+            "id": 144779,
+            "idMal": 50855,
+            "nextAiringEpisode": {
+                "airingAt": 1771513200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144779-WJ8aJbYk3o5t.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png"
+            },
+            "title": {
+                "userPreferred": "Yamato yo Towa ni: REBEL3199",
+                "native": "\u30e4\u30de\u30c8\u3088\u6c38\u9060\u306b REBEL3199",
+                "romaji": "Yamato yo Towa ni: REBEL3199"
+            }
+        },
+        {
             "id": 153800,
             "idMal": 52807,
             "nextAiringEpisode": {
@@ -357,7 +373,7 @@
             "id": 170577,
             "idMal": 57025,
             "nextAiringEpisode": {
-                "airingAt": 1760454000
+                "airingAt": 1761058800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170577-ocYSFAcry7ty.jpg",
@@ -565,7 +581,7 @@
             "id": 180082,
             "idMal": 59517,
             "nextAiringEpisode": {
-                "airingAt": 1760450400
+                "airingAt": 1761055200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180082-IZAlf06G2VVm.png",
@@ -677,7 +693,7 @@
             "id": 183965,
             "idMal": 60254,
             "nextAiringEpisode": {
-                "airingAt": 1760459340
+                "airingAt": 1761064140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183965-7oMzkJp4FUyP.jpg",
@@ -914,6 +930,22 @@
             }
         },
         {
+            "id": 186161,
+            "idMal": 60765,
+            "nextAiringEpisode": {
+                "airingAt": 1761057000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186161-rgdRQgwOJUpb.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png"
+            },
+            "title": {
+                "userPreferred": "Kimi to Koete Koi ni Naru",
+                "native": "\u30ad\u30df\u3068\u8d8a\u3048\u3066\u604b\u306b\u306a\u308b",
+                "romaji": "Kimi to Koete Koi ni Naru"
+            }
+        },
+        {
             "id": 186190,
             "idMal": 60781,
             "nextAiringEpisode": {
@@ -1029,7 +1061,7 @@
             "id": 186914,
             "idMal": 61067,
             "nextAiringEpisode": {
-                "airingAt": 1760461140
+                "airingAt": 1761065940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186914-8fVK9eu1ZOKa.jpg",
@@ -1269,7 +1301,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1760479560
+                "airingAt": 1761084360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -1493,7 +1525,7 @@
             "id": 198312,
             "idMal": 62428,
             "nextAiringEpisode": {
-                "airingAt": 1760446560
+                "airingAt": 1761051360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198312-7FNrHGI29mYt.jpg",
@@ -1573,7 +1605,7 @@
             "id": 199009,
             "idMal": 62496,
             "nextAiringEpisode": {
-                "airingAt": 1760418000
+                "airingAt": 1761022800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199009-MxwkHEavznVW.jpg",
@@ -1637,7 +1669,7 @@
             "id": 199931,
             "idMal": 62662,
             "nextAiringEpisode": {
-                "airingAt": 1760479200
+                "airingAt": 1761084000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199931-EhQ6yMCbEvik.png",
