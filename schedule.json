@@ -1,11 +1,11 @@
 {
-    "__version__": 589,
+    "__version__": 590,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1762092960
+                "airingAt": 1762697760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -69,7 +69,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1762075800
+                "airingAt": 1762680600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1762074000
+                "airingAt": 1762678800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -178,6 +178,22 @@
             }
         },
         {
+            "id": 140291,
+            "idMal": 50139,
+            "nextAiringEpisode": {
+                "airingAt": 1762329600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140291-RAwYjwC9vWDR.png"
+            },
+            "title": {
+                "userPreferred": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL",
+                "native": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30c4\u30a4\u30b9\u30c6\u30c3\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9 \u30b6 \u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u30b7\u30fc\u30ba\u30f31\u300c\u30a8\u30d4\u30bd\u30fc\u30c9 \u30aa\u30d6 \u30cf\u30fc\u30c4\u30e9\u30d3\u30e5\u30eb\u300d",
+                "romaji": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL"
+            }
+        },
+        {
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
@@ -229,7 +245,7 @@
             "id": 153800,
             "idMal": 52807,
             "nextAiringEpisode": {
-                "airingAt": 1762094760
+                "airingAt": 1762699560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
@@ -309,7 +325,7 @@
             "id": 165530,
             "idMal": 57353,
             "nextAiringEpisode": {
-                "airingAt": 1762099200
+                "airingAt": 1762704000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165530-Ku7VZt2NCIgf.jpg",
@@ -357,7 +373,7 @@
             "id": 170018,
             "idMal": 56877,
             "nextAiringEpisode": {
-                "airingAt": 1762070400
+                "airingAt": 1762675200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170018-1PqdLX68YayA.jpg",
@@ -421,7 +437,7 @@
             "id": 173692,
             "idMal": 57888,
             "nextAiringEpisode": {
-                "airingAt": 1762093800
+                "airingAt": 1762698600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173692-shp7PGRQyCQl.jpg",
@@ -517,7 +533,7 @@
             "id": 178025,
             "idMal": 59062,
             "nextAiringEpisode": {
-                "airingAt": 1762093800
+                "airingAt": 1762698600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
@@ -565,7 +581,7 @@
             "id": 179992,
             "idMal": 59484,
             "nextAiringEpisode": {
-                "airingAt": 1762088400
+                "airingAt": 1762693200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179992-tu21efjGADCO.png",
@@ -949,7 +965,7 @@
             "id": 186190,
             "idMal": 60781,
             "nextAiringEpisode": {
-                "airingAt": 1762092000
+                "airingAt": 1762696800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186190-Ru77wfF8I61X.jpg",
@@ -981,7 +997,7 @@
             "id": 186524,
             "idMal": 60933,
             "nextAiringEpisode": {
-                "airingAt": 1762090200
+                "airingAt": 1762695000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186524-JSsyFR3FqTO8.jpg",
@@ -1093,7 +1109,7 @@
             "id": 187331,
             "idMal": 61142,
             "nextAiringEpisode": {
-                "airingAt": 1762099560
+                "airingAt": 1762704360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187331-ylRHyvJIVPeO.jpg",
@@ -1397,7 +1413,7 @@
             "id": 195240,
             "idMal": 61930,
             "nextAiringEpisode": {
-                "airingAt": 1762068600
+                "airingAt": 1762673400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195240-hKcmllV6YHQT.jpg",
@@ -1445,7 +1461,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1762083000
+                "airingAt": 1762687800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
@@ -1637,7 +1653,7 @@
             "id": 199812,
             "idMal": 62682,
             "nextAiringEpisode": {
-                "airingAt": 1762099560
+                "airingAt": 1762704360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199812-88EBKcwBqQjG.png",
