@@ -1,5 +1,5 @@
 {
-    "__version__": 632,
+    "__version__": 633,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1765764000
+                "airingAt": 1766368800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -197,7 +197,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1765838400
+                "airingAt": 1766443200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -293,7 +293,7 @@
             "id": 162890,
             "idMal": 54757,
             "nextAiringEpisode": {
-                "airingAt": 1765810800
+                "airingAt": 1766415600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162890-vDRlo1KuRM6W.jpg",
@@ -389,7 +389,7 @@
             "id": 170936,
             "idMal": 57189,
             "nextAiringEpisode": {
-                "airingAt": 1765807200
+                "airingAt": 1766412000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170936-NlDYAjV86ljm.png",
@@ -405,7 +405,7 @@
             "id": 173523,
             "idMal": 57859,
             "nextAiringEpisode": {
-                "airingAt": 1765801800
+                "airingAt": 1766406600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173523-wy1rDK1NaKuc.png",
@@ -866,6 +866,22 @@
             }
         },
         {
+            "id": 185857,
+            "idMal": 60560,
+            "nextAiringEpisode": {
+                "airingAt": 1766286000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185857-NIhDZe5olAzV.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185857-NIhDZe5olAzV.png"
+            },
+            "title": {
+                "userPreferred": "Xian Wang de Richang Shenghuo 5",
+                "native": "\u4ed9\u738b\u7684\u65e5\u5e38\u751f\u6d3b \u7b2c\u4e94\u5b63",
+                "romaji": "Xian Wang de Richang Shenghuo 5"
+            }
+        },
+        {
             "id": 185965,
             "idMal": 60665,
             "nextAiringEpisode": {
@@ -965,7 +981,7 @@
             "id": 186794,
             "idMal": 61026,
             "nextAiringEpisode": {
-                "airingAt": 1765816200
+                "airingAt": 1766421000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186794-Ns8xWNdMdOxq.jpg",
@@ -1055,22 +1071,6 @@
                 "userPreferred": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
                 "native": "\u6771\u5cf6\u4e39\u4e09\u90ce\u306f\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u306b\u306a\u308a\u305f\u3044",
                 "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai"
-            }
-        },
-        {
-            "id": 187663,
-            "idMal": 61174,
-            "nextAiringEpisode": {
-                "airingAt": 1765812600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187663-VVdpMlkhwMSh.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg"
-            },
-            "title": {
-                "userPreferred": "Sozai Saishuka no Isekai Ryokouki",
-                "native": "\u7d20\u6750\u63a1\u53d6\u5bb6\u306e\u7570\u4e16\u754c\u65c5\u884c\u8a18",
-                "romaji": "Sozai Saishuka no Isekai Ryokouki"
             }
         },
         {
@@ -1269,7 +1269,7 @@
             "id": 194447,
             "idMal": 61851,
             "nextAiringEpisode": {
-                "airingAt": 1765805400
+                "airingAt": 1766410200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194447-sgmaOpJ0VIUI.jpg",
