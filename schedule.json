@@ -1,5 +1,5 @@
 {
-    "__version__": 634,
+    "__version__": 635,
     "data": [
         {
             "id": 21,
@@ -175,22 +175,6 @@
                 "userPreferred": "Xian Ni",
                 "native": "\u4ed9\u9006",
                 "romaji": "Xian Ni"
-            }
-        },
-        {
-            "id": 140291,
-            "idMal": 50139,
-            "nextAiringEpisode": {
-                "airingAt": 1765958400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140291-RAwYjwC9vWDR.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140291-RAwYjwC9vWDR.png"
-            },
-            "title": {
-                "userPreferred": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL",
-                "native": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30c4\u30a4\u30b9\u30c6\u30c3\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9 \u30b6 \u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u30b7\u30fc\u30ba\u30f31\u300c\u30a8\u30d4\u30bd\u30fc\u30c9 \u30aa\u30d6 \u30cf\u30fc\u30c4\u30e9\u30d3\u30e5\u30eb\u300d",
-                "romaji": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL"
             }
         },
         {
@@ -437,7 +421,7 @@
             "id": 174914,
             "idMal": 58146,
             "nextAiringEpisode": {
-                "airingAt": 1765983600
+                "airingAt": 1766588400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174914-RfPIqbrapByY.jpg",
@@ -463,22 +447,6 @@
                 "userPreferred": "Kekkon Yubiwa Monogatari II",
                 "native": "\u7d50\u5a5a\u6307\u8f2a\u7269\u8a9e\u2161",
                 "romaji": "Kekkon Yubiwa Monogatari II"
-            }
-        },
-        {
-            "id": 177271,
-            "idMal": 58772,
-            "nextAiringEpisode": {
-                "airingAt": 1765983600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177271-anyazmpWyX3m.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg"
-            },
-            "title": {
-                "userPreferred": "Kakuriyo no Yadomeshi 2nd Season",
-                "native": "\u304b\u304f\u308a\u3088\u306e\u5bbf\u98ef \u7b2c\uff12\u671f",
-                "romaji": "Kakuriyo no Yadomeshi 2nd Season"
             }
         },
         {
@@ -597,7 +565,7 @@
             "id": 180436,
             "idMal": 59623,
             "nextAiringEpisode": {
-                "airingAt": 1765982700
+                "airingAt": 1766587500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180436-zR0dJuKGZNOK.jpg",
@@ -1141,7 +1109,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1765969200
+                "airingAt": 1766574000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -1215,22 +1183,6 @@
                 "userPreferred": "Chibi Godzilla no Gyakushuu 3",
                 "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
                 "romaji": "Chibi Godzilla no Gyakushuu 3"
-            }
-        },
-        {
-            "id": 193968,
-            "idMal": 61773,
-            "nextAiringEpisode": {
-                "airingAt": 1765986360
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193968-tXbbqBOTuClj.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg"
-            },
-            "title": {
-                "userPreferred": "Let\u2019s Play: Quest Darake no My Life",
-                "native": "Let\u2019s Play \u30af\u30a8\u30b9\u30c8\u3060\u3089\u3051\u306e\u30de\u30a4\u30e9\u30a4\u30d5",
-                "romaji": "Let\u2019s Play: Quest Darake no My Life"
             }
         },
         {
@@ -1333,7 +1285,7 @@
             "id": 195383,
             "idMal": 61924,
             "nextAiringEpisode": {
-                "airingAt": 1765969140
+                "airingAt": 1766573940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195383-v8nJ26HD0Lcd.png",
