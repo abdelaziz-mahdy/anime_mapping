@@ -1,5 +1,5 @@
 {
-    "__version__": 636,
+    "__version__": 637,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 1960,
             "idMal": 1960,
             "nextAiringEpisode": {
-                "airingAt": 1766109300
+                "airingAt": 1766714100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
@@ -133,7 +133,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1766137200
+                "airingAt": 1766742000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -197,7 +197,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1766183400
+                "airingAt": 1766788200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -245,7 +245,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1766138100
+                "airingAt": 1767952500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -293,7 +293,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1766136300
+                "airingAt": 1766741100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -325,7 +325,7 @@
             "id": 169420,
             "idMal": 56693,
             "nextAiringEpisode": {
-                "airingAt": 1766160000
+                "airingAt": 1766764800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169420-u4wDhHlTfX9P.jpg",
@@ -453,7 +453,7 @@
             "id": 177474,
             "idMal": 58811,
             "nextAiringEpisode": {
-                "airingAt": 1766152800
+                "airingAt": 1766757600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177474-oHil1yLWldfl.jpg",
@@ -514,22 +514,6 @@
             }
         },
         {
-            "id": 179302,
-            "idMal": 59267,
-            "nextAiringEpisode": {
-                "airingAt": 1766163180
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179302-gWWAh5BfQyl4.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg"
-            },
-            "title": {
-                "userPreferred": "SANDA",
-                "native": "SANDA",
-                "romaji": "SANDA"
-            }
-        },
-        {
             "id": 179992,
             "idMal": 59484,
             "nextAiringEpisode": {
@@ -578,22 +562,6 @@
             }
         },
         {
-            "id": 181447,
-            "idMal": 59846,
-            "nextAiringEpisode": {
-                "airingAt": 1766158200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181447-aCmaQmtdwuU5.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg"
-            },
-            "title": {
-                "userPreferred": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
-                "native": "\u6700\u5f8c\u306b\u3072\u3068\u3064\u3060\u3051\u304a\u9858\u3044\u3057\u3066\u3082\u3088\u308d\u3057\u3044\u3067\u3057\u3087\u3046\u304b",
-                "romaji": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka"
-            }
-        },
-        {
             "id": 183385,
             "idMal": 60168,
             "nextAiringEpisode": {
@@ -607,38 +575,6 @@
                 "userPreferred": "Watashi wo Tabetai, Hitodenashi",
                 "native": "\u79c1\u3092\u55b0\u3079\u305f\u3044\u3001\u3072\u3068\u3067\u306a\u3057",
                 "romaji": "Watashi wo Tabetai, Hitodenashi"
-            }
-        },
-        {
-            "id": 184289,
-            "idMal": 60070,
-            "nextAiringEpisode": {
-                "airingAt": 1766181600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaijuu Sekai Seifuku",
-                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
-                "romaji": "Kaijuu Sekai Seifuku"
-            }
-        },
-        {
-            "id": 184322,
-            "idMal": 60303,
-            "nextAiringEpisode": {
-                "airingAt": 1766154600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184322-rRkaMQ7J1zOI.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184322-rRkaMQ7J1zOI.jpg"
-            },
-            "title": {
-                "userPreferred": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-                "native": "\u4fe1\u3058\u3066\u3044\u305f\u4ef2\u9593\u9054\u306b\u30c0\u30f3\u30b8\u30e7\u30f3\u5965\u5730\u3067\u6bba\u3055\u308c\u304b\u3051\u305f\u304c\u30ae\u30d5\u30c8\u300e\u7121\u9650\u30ac\u30c1\u30e3\u300f\u3067\u30ec\u30d9\u30eb9999\u306e\u4ef2\u9593\u9054\u3092\u624b\u306b\u5165\u308c\u3066\u5143\u30d1\u30fc\u30c6\u30a3\u30fc\u30e1\u30f3\u30d0\u30fc\u3068\u4e16\u754c\u306b\u5fa9\u8b90\uff06\u300e\u3056\u307e\u3041\uff01\u300f\u3057\u307e\u3059\uff01",
-                "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!"
             }
         },
         {
@@ -677,7 +613,7 @@
             "id": 184997,
             "idMal": 60378,
             "nextAiringEpisode": {
-                "airingAt": 1766154600
+                "airingAt": 1766759400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184997-CnmvTLC9JQP0.jpg",
@@ -735,22 +671,6 @@
                 "userPreferred": "Koupen-chan",
                 "native": "\u30b3\u30a6\u30da\u30f3\u3061\u3083\u3093",
                 "romaji": "Koupen-chan"
-            }
-        },
-        {
-            "id": 185694,
-            "idMal": 60551,
-            "nextAiringEpisode": {
-                "airingAt": 1766148840
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185694-9QHeiSLvokWY.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185694-9QHeiSLvokWY.png"
-            },
-            "title": {
-                "userPreferred": "Hyakushou Kizoku 3rd Season",
-                "native": "\u767e\u59d3\u8cb4\u65cf 3rd Season",
-                "romaji": "Hyakushou Kizoku 3rd Season"
             }
         },
         {
@@ -962,22 +882,6 @@
             }
         },
         {
-            "id": 187860,
-            "idMal": 61184,
-            "nextAiringEpisode": {
-                "airingAt": 1766152800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187860-R1IHWJGSL4EB.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187860-R1IHWJGSL4EB.jpg"
-            },
-            "title": {
-                "userPreferred": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
-                "native": "\u91ce\u539f\u3072\u308d\u3057 \u663c\u30e1\u30b7\u306e\u6d41\u5100",
-                "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi"
-            }
-        },
-        {
             "id": 187940,
             "idMal": 61209,
             "nextAiringEpisode": {
@@ -1061,7 +965,7 @@
             "id": 188653,
             "idMal": 61290,
             "nextAiringEpisode": {
-                "airingAt": 1766191500
+                "airingAt": 1766796300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188653-B24R4Eo7GMi2.jpg",
@@ -1170,22 +1074,6 @@
             }
         },
         {
-            "id": 195173,
-            "idMal": 61922,
-            "nextAiringEpisode": {
-                "airingAt": 1766178000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195173-vjXBdO73KocO.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195173-vjXBdO73KocO.jpg"
-            },
-            "title": {
-                "userPreferred": "SHIBUYA\u2661HACHI Part 4",
-                "native": "SHIBUYA\u2661HACHI \u7b2c4\u30af\u30fc\u30eb",
-                "romaji": "SHIBUYA\u2661HACHI Part 4"
-            }
-        },
-        {
             "id": 195240,
             "idMal": 61930,
             "nextAiringEpisode": {
@@ -1282,22 +1170,6 @@
             }
         },
         {
-            "id": 198117,
-            "idMal": 62378,
-            "nextAiringEpisode": {
-                "airingAt": 1766143800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198117-ms0mzmuyOw8n.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198117-ms0mzmuyOw8n.png"
-            },
-            "title": {
-                "userPreferred": "GANGLION",
-                "native": "\u30ac\u30f3\u30b0\u30ea\u30aa\u30f3",
-                "romaji": "GANGLION"
-            }
-        },
-        {
             "id": 198312,
             "idMal": 62428,
             "nextAiringEpisode": {
@@ -1317,7 +1189,7 @@
             "id": 198413,
             "idMal": 62231,
             "nextAiringEpisode": {
-                "airingAt": 1766178000
+                "airingAt": 1766782800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198413-IDC13Jyk0xYD.png",
@@ -1426,26 +1298,10 @@
             }
         },
         {
-            "id": 201151,
-            "idMal": null,
-            "nextAiringEpisode": {
-                "airingAt": 1766142000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201151-DA2N96rmqFsS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201151-DA2N96rmqFsS.jpg"
-            },
-            "title": {
-                "userPreferred": "THE LENTICULARS",
-                "native": "\u30b6\u30fb\u30ec\u30f3\u30c1\u30ad\u30e5\u30e9\u30fc\u30ba",
-                "romaji": "THE LENTICULARS"
-            }
-        },
-        {
             "id": 203146,
             "idMal": 63013,
             "nextAiringEpisode": {
-                "airingAt": 1766179800
+                "airingAt": 1768858200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203146-6Zx7wl6hOEFH.png",
