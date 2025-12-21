@@ -1,5 +1,5 @@
 {
-    "__version__": 637,
+    "__version__": 638,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1766221200
+                "airingAt": 1766826000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1766215800
+                "airingAt": 1766820600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -101,7 +101,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1766217600
+                "airingAt": 1766822400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -143,22 +143,6 @@
                 "userPreferred": "Fushigi Dagashiya: Zenitendou",
                 "native": "\u3075\u3057\u304e\u99c4\u83d3\u5b50\u5c4b \u92ad\u5929\u5802",
                 "romaji": "Fushigi Dagashiya: Zenitendou"
-            }
-        },
-        {
-            "id": 129195,
-            "idMal": 47158,
-            "nextAiringEpisode": {
-                "airingAt": 1766248200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129195-9BT4wE1QTLj2.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129195-9BT4wE1QTLj2.jpg"
-            },
-            "title": {
-                "userPreferred": "Tomodachi no Imouto ga Ore ni dake Uzai",
-                "native": "\u53cb\u9054\u306e\u59b9\u304c\u4ffa\u306b\u3060\u3051\u30a6\u30b6\u3044",
-                "romaji": "Tomodachi no Imouto ga Ore ni dake Uzai"
             }
         },
         {
@@ -261,7 +245,7 @@
             "id": 162669,
             "idMal": 54703,
             "nextAiringEpisode": {
-                "airingAt": 1766241900
+                "airingAt": 1766846700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
@@ -437,7 +421,7 @@
             "id": 176298,
             "idMal": 58515,
             "nextAiringEpisode": {
-                "airingAt": 1766233800
+                "airingAt": 1766838600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176298-fK1c8bBA73WQ.jpg",
@@ -469,7 +453,7 @@
             "id": 177937,
             "idMal": 59027,
             "nextAiringEpisode": {
-                "airingAt": 1766239200
+                "airingAt": 1766844000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177937-Tzgg6rAdhCoH.jpg",
@@ -501,7 +485,7 @@
             "id": 178052,
             "idMal": 59078,
             "nextAiringEpisode": {
-                "airingAt": 1766275200
+                "airingAt": 1768089600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178052-igWygf0ZG1gl.jpg",
@@ -581,7 +565,7 @@
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
-                "airingAt": 1766277000
+                "airingAt": 1766881800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184470-m2izEvBeO49C.jpg",
@@ -629,7 +613,7 @@
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
-                "airingAt": 1766273400
+                "airingAt": 1767483000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-m4QzzXcEqmvb.png",
@@ -645,7 +629,7 @@
             "id": 185116,
             "idMal": 60427,
             "nextAiringEpisode": {
-                "airingAt": 1766242800
+                "airingAt": 1766847600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185116-DIFRjiMgz1IS.jpg",
@@ -661,7 +645,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1766273280
+                "airingAt": 1766878080
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -677,7 +661,7 @@
             "id": 185718,
             "idMal": 60596,
             "nextAiringEpisode": {
-                "airingAt": 1766268960
+                "airingAt": 1766873760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185718-luZZKvM7pOZ2.png",
@@ -687,22 +671,6 @@
                 "userPreferred": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
                 "native": "\u6700\u5f37\u738b\u56f3\u9451 \uff5eThe Ultimate Tournament\uff5e",
                 "romaji": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament"
-            }
-        },
-        {
-            "id": 185731,
-            "idMal": 60564,
-            "nextAiringEpisode": {
-                "airingAt": 1766246160
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185731-PJ6WKcFDUI4B.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg"
-            },
-            "title": {
-                "userPreferred": "Ranma 1/2 (2024) 2nd Season",
-                "native": "\u3089\u3093\u307e1/2 (2024) \u7b2c2\u671f",
-                "romaji": "Ranma 1/2 (2024) 2nd Season"
             }
         },
         {
@@ -818,22 +786,6 @@
             }
         },
         {
-            "id": 186920,
-            "idMal": 61072,
-            "nextAiringEpisode": {
-                "airingAt": 1766241000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186920-sDg7ZRCXOdxM.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186920-sDg7ZRCXOdxM.jpg"
-            },
-            "title": {
-                "userPreferred": "Shuumatsu Touring",
-                "native": "\u7d42\u672b\u30c4\u30fc\u30ea\u30f3\u30b0",
-                "romaji": "Shuumatsu Touring"
-            }
-        },
-        {
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
@@ -869,7 +821,7 @@
             "id": 187464,
             "idMal": 61159,
             "nextAiringEpisode": {
-                "airingAt": 1766244600
+                "airingAt": 1766849400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187464-NJtK3VC54vPm.jpg",
@@ -879,22 +831,6 @@
                 "userPreferred": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
                 "native": "\u6771\u5cf6\u4e39\u4e09\u90ce\u306f\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u306b\u306a\u308a\u305f\u3044",
                 "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai"
-            }
-        },
-        {
-            "id": 187940,
-            "idMal": 61209,
-            "nextAiringEpisode": {
-                "airingAt": 1766232000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187940-3ugUhO9h0luh.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187940-3ugUhO9h0luh.jpg"
-            },
-            "title": {
-                "userPreferred": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
-                "native": "\u9854\u306b\u51fa\u306a\u3044\u67cf\u7530\u3055\u3093\u3068\u9854\u306b\u51fa\u308b\u592a\u7530\u541b",
-                "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun"
             }
         },
         {
@@ -911,38 +847,6 @@
                 "userPreferred": "Transformers: Wild King",
                 "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
                 "romaji": "Transformers: Wild King"
-            }
-        },
-        {
-            "id": 188388,
-            "idMal": 61269,
-            "nextAiringEpisode": {
-                "airingAt": 1766275200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg"
-            },
-            "title": {
-                "userPreferred": "DIGIMON BEATBREAK",
-                "native": "DIGIMON BEATBREAK",
-                "romaji": "DIGIMON BEATBREAK"
-            }
-        },
-        {
-            "id": 188487,
-            "idMal": 61276,
-            "nextAiringEpisode": {
-                "airingAt": 1766241000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188487-gewgvReLVli9.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188487-gewgvReLVli9.jpg"
-            },
-            "title": {
-                "userPreferred": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
-                "native": "\u5473\u65b9\u304c\u5f31\u3059\u304e\u3066\u88dc\u52a9\u9b54\u6cd5\u306b\u5fb9\u3057\u3066\u3044\u305f\u5bae\u5ef7\u9b54\u6cd5\u5e2b\u3001\u8ffd\u653e\u3055\u308c\u3066\u6700\u5f37\u3092\u76ee\u6307\u3059",
-                "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu"
             }
         },
         {
@@ -994,19 +898,19 @@
             }
         },
         {
-            "id": 190840,
-            "idMal": 61517,
+            "id": 189258,
+            "idMal": 61333,
             "nextAiringEpisode": {
-                "airingAt": 1766243400
+                "airingAt": 1766824200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190840-CvKAz6aWHB21.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190840-CvKAz6aWHB21.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189258-qhtrra5ebBm6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189258-qhtrra5ebBm6.jpg"
             },
             "title": {
-                "userPreferred": "Kingdom 6th Season",
-                "native": "\u30ad\u30f3\u30b0\u30c0\u30e0 \u7b2c6\u30b7\u30ea\u30fc\u30ba",
-                "romaji": "Kingdom 6th Season"
+                "userPreferred": "Ao no Miburo: Serizawa Ansatsu-hen",
+                "native": "\u9752\u306e\u30df\u30d6\u30ed \u82b9\u6ca2\u6697\u6bba\u7de8",
+                "romaji": "Ao no Miburo: Serizawa Ansatsu-hen"
             }
         },
         {
@@ -1109,7 +1013,7 @@
             "id": 196227,
             "idMal": 62083,
             "nextAiringEpisode": {
-                "airingAt": 1766273400
+                "airingAt": 1768692600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196227-B9kbcrGihskA.png",
@@ -1157,7 +1061,7 @@
             "id": 196553,
             "idMal": 62126,
             "nextAiringEpisode": {
-                "airingAt": 1766277000
+                "airingAt": 1766881800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196553-9whoPCB5gyKB.jpg",
@@ -1250,6 +1154,22 @@
             }
         },
         {
+            "id": 199794,
+            "idMal": 62643,
+            "nextAiringEpisode": {
+                "airingAt": 1766682900
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199794-DjnzEzfFG559.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg"
+            },
+            "title": {
+                "userPreferred": "Anila to Cocora",
+                "native": "\u30a2\u30cb\u30e9\u3068\u30b3\u30b3\u30e9",
+                "romaji": "Anila to Cocora"
+            }
+        },
+        {
             "id": 199812,
             "idMal": 62682,
             "nextAiringEpisode": {
@@ -1317,7 +1237,7 @@
             "id": 203953,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1766242800
+                "airingAt": 1766847600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203953-0o0WnauWOeQO.jpg",
