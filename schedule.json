@@ -1,5 +1,5 @@
 {
-    "__version__": 641,
+    "__version__": 642,
     "data": [
         {
             "id": 21,
@@ -338,22 +338,6 @@
             }
         },
         {
-            "id": 174914,
-            "idMal": 58146,
-            "nextAiringEpisode": {
-                "airingAt": 1766588400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174914-RfPIqbrapByY.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg"
-            },
-            "title": {
-                "userPreferred": "Tensei Akujo no Kuro Rekishi",
-                "native": "\u8ee2\u751f\u60aa\u5973\u306e\u9ed2\u6b74\u53f2",
-                "romaji": "Tensei Akujo no Kuro Rekishi"
-            }
-        },
-        {
             "id": 176298,
             "idMal": 58515,
             "nextAiringEpisode": {
@@ -431,22 +415,6 @@
                 "userPreferred": "Chitose-kun wa Ramune Bin no Naka",
                 "native": "\u5343\u6b73\u304f\u3093\u306f\u30e9\u30e0\u30cd\u74f6\u306e\u306a\u304b",
                 "romaji": "Chitose-kun wa Ramune Bin no Naka"
-            }
-        },
-        {
-            "id": 180436,
-            "idMal": 59623,
-            "nextAiringEpisode": {
-                "airingAt": 1766587500
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180436-zR0dJuKGZNOK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-zR0dJuKGZNOK.jpg"
-            },
-            "title": {
-                "userPreferred": "WanDance",
-                "native": "\u30ef\u30f3\u30c0\u30f3\u30b9",
-                "romaji": "WanDance"
             }
         },
         {
@@ -725,7 +693,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1766574000
+                "airingAt": 1767178800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -837,7 +805,7 @@
             "id": 195383,
             "idMal": 61924,
             "nextAiringEpisode": {
-                "airingAt": 1766573940
+                "airingAt": 1767178740
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195383-v8nJ26HD0Lcd.png",
