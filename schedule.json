@@ -1,5 +1,5 @@
 {
-    "__version__": 643,
+    "__version__": 644,
     "data": [
         {
             "id": 21,
@@ -47,22 +47,6 @@
                 "userPreferred": "Crayon Shin-chan",
                 "native": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093",
                 "romaji": "Crayon Shin-chan"
-            }
-        },
-        {
-            "id": 1960,
-            "idMal": 1960,
-            "nextAiringEpisode": {
-                "airingAt": 1766714100
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg"
-            },
-            "title": {
-                "userPreferred": "Sore Ike! Anpanman",
-                "native": "\u305d\u308c\u3044\u3051!\u30a2\u30f3\u30d1\u30f3\u30de\u30f3",
-                "romaji": "Sore Ike! Anpanman"
             }
         },
         {
@@ -133,7 +117,7 @@
             "id": 120325,
             "idMal": 42295,
             "nextAiringEpisode": {
-                "airingAt": 1766742000
+                "airingAt": 1767346800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
@@ -181,7 +165,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1766788200
+                "airingAt": 1767393000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -261,7 +245,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1766741100
+                "airingAt": 1767345900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -287,22 +271,6 @@
                 "userPreferred": "Mofa Gongzhu De Xiao Fannao",
                 "native": "\u9b54\u6cd5\u516c\u4e3b\u7684\u5c0f\u70e6\u607c",
                 "romaji": "Mofa Gongzhu De Xiao Fannao"
-            }
-        },
-        {
-            "id": 169420,
-            "idMal": 56693,
-            "nextAiringEpisode": {
-                "airingAt": 1766764800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169420-u4wDhHlTfX9P.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg"
-            },
-            "title": {
-                "userPreferred": "Watari-kun no xx ga Houkai Sunzen",
-                "native": "\u6e21\u304f\u3093\u306e\u00d7\u00d7\u304c\u5d29\u58ca\u5bf8\u524d",
-                "romaji": "Watari-kun no xx ga Houkai Sunzen"
             }
         },
         {
@@ -354,22 +322,6 @@
             }
         },
         {
-            "id": 177474,
-            "idMal": 58811,
-            "nextAiringEpisode": {
-                "airingAt": 1766757600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177474-oHil1yLWldfl.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg"
-            },
-            "title": {
-                "userPreferred": "Tougen Anki",
-                "native": "\u6843\u6e90\u6697\u9b3c",
-                "romaji": "Tougen Anki"
-            }
-        },
-        {
             "id": 177937,
             "idMal": 59027,
             "nextAiringEpisode": {
@@ -418,22 +370,6 @@
             }
         },
         {
-            "id": 184289,
-            "idMal": 60070,
-            "nextAiringEpisode": {
-                "airingAt": 1766786400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
-            },
-            "title": {
-                "userPreferred": "Kaijuu Sekai Seifuku",
-                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
-                "romaji": "Kaijuu Sekai Seifuku"
-            }
-        },
-        {
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
@@ -453,7 +389,7 @@
             "id": 184718,
             "idMal": 60347,
             "nextAiringEpisode": {
-                "airingAt": 1766732400
+                "airingAt": 1767337200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184718-GvNnorokj1i3.jpg",
@@ -463,22 +399,6 @@
                 "userPreferred": "Cat's\u2665Eye (2025)",
                 "native": "\u30ad\u30e3\u30c3\u30c4\u2665\u30a2\u30a4 (2025)",
                 "romaji": "Cat's\u2665Eye (2025)"
-            }
-        },
-        {
-            "id": 184997,
-            "idMal": 60378,
-            "nextAiringEpisode": {
-                "airingAt": 1766759400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184997-CnmvTLC9JQP0.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-CnmvTLC9JQP0.jpg"
-            },
-            "title": {
-                "userPreferred": "Shabake",
-                "native": "\u3057\u3083\u3070\u3051",
-                "romaji": "Shabake"
             }
         },
         {
@@ -722,22 +642,6 @@
             }
         },
         {
-            "id": 188653,
-            "idMal": 61290,
-            "nextAiringEpisode": {
-                "airingAt": 1766796300
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188653-B24R4Eo7GMi2.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188653-B24R4Eo7GMi2.jpg"
-            },
-            "title": {
-                "userPreferred": "Punirunes Puni 3",
-                "native": "\u3077\u306b\u308b\u3093\u305a \u3077\u306b\uff13",
-                "romaji": "Punirunes Puni 3"
-            }
-        },
-        {
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
@@ -901,7 +805,7 @@
             "id": 198413,
             "idMal": 62231,
             "nextAiringEpisode": {
-                "airingAt": 1766782800
+                "airingAt": 1767387600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198413-IDC13Jyk0xYD.png",
@@ -991,6 +895,22 @@
                 "userPreferred": "Mu Shen Ji 3",
                 "native": "\u7267\u795e\u8bb03",
                 "romaji": "Mu Shen Ji 3"
+            }
+        },
+        {
+            "id": 204656,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1767740400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
+            },
+            "title": {
+                "userPreferred": "mofusand",
+                "native": "mofusand ",
+                "romaji": "mofusand"
             }
         }
     ]
