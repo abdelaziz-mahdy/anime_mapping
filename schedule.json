@@ -1,5 +1,5 @@
 {
-    "__version__": 644,
+    "__version__": 645,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1766826000
+                "airingAt": 1767430800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1766820600
+                "airingAt": 1767425400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -85,7 +85,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1766822400
+                "airingAt": 1767427200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -229,7 +229,7 @@
             "id": 162669,
             "idMal": 54703,
             "nextAiringEpisode": {
-                "airingAt": 1766846700
+                "airingAt": 1767451500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
@@ -306,38 +306,6 @@
             }
         },
         {
-            "id": 176298,
-            "idMal": 58515,
-            "nextAiringEpisode": {
-                "airingAt": 1766838600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176298-fK1c8bBA73WQ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg"
-            },
-            "title": {
-                "userPreferred": "Kekkon Yubiwa Monogatari II",
-                "native": "\u7d50\u5a5a\u6307\u8f2a\u7269\u8a9e\u2161",
-                "romaji": "Kekkon Yubiwa Monogatari II"
-            }
-        },
-        {
-            "id": 177937,
-            "idMal": 59027,
-            "nextAiringEpisode": {
-                "airingAt": 1766844000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177937-Tzgg6rAdhCoH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg"
-            },
-            "title": {
-                "userPreferred": "SPY\u00d7FAMILY Season 3",
-                "native": "SPY\u00d7FAMILY Season 3",
-                "romaji": "SPY\u00d7FAMILY Season 3"
-            }
-        },
-        {
             "id": 178052,
             "idMal": 59078,
             "nextAiringEpisode": {
@@ -367,6 +335,22 @@
                 "userPreferred": "Chitose-kun wa Ramune Bin no Naka",
                 "native": "\u5343\u6b73\u304f\u3093\u306f\u30e9\u30e0\u30cd\u74f6\u306e\u306a\u304b",
                 "romaji": "Chitose-kun wa Ramune Bin no Naka"
+            }
+        },
+        {
+            "id": 184289,
+            "idMal": 60070,
+            "nextAiringEpisode": {
+                "airingAt": 1767996000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
+            },
+            "title": {
+                "userPreferred": "Kaijuu Sekai Seifuku",
+                "native": "\u304b\u3044\u3058\u3085\u3046\u305b\u304b\u3044\u305b\u3044\u3075\u304f",
+                "romaji": "Kaijuu Sekai Seifuku"
             }
         },
         {
@@ -421,7 +405,7 @@
             "id": 185116,
             "idMal": 60427,
             "nextAiringEpisode": {
-                "airingAt": 1766847600
+                "airingAt": 1768057200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185116-DIFRjiMgz1IS.jpg",
@@ -437,7 +421,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1766878080
+                "airingAt": 1767482880
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -453,7 +437,7 @@
             "id": 185718,
             "idMal": 60596,
             "nextAiringEpisode": {
-                "airingAt": 1766873760
+                "airingAt": 1767478560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185718-luZZKvM7pOZ2.png",
@@ -565,7 +549,7 @@
             "id": 187464,
             "idMal": 61159,
             "nextAiringEpisode": {
-                "airingAt": 1766849400
+                "airingAt": 1768059000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187464-NJtK3VC54vPm.jpg",
@@ -661,7 +645,7 @@
             "id": 189258,
             "idMal": 61333,
             "nextAiringEpisode": {
-                "airingAt": 1766824200
+                "airingAt": 1767429000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189258-qhtrra5ebBm6.jpg",
@@ -671,22 +655,6 @@
                 "userPreferred": "Ao no Miburo: Serizawa Ansatsu-hen",
                 "native": "\u9752\u306e\u30df\u30d6\u30ed \u82b9\u6ca2\u6697\u6bba\u7de8",
                 "romaji": "Ao no Miburo: Serizawa Ansatsu-hen"
-            }
-        },
-        {
-            "id": 190840,
-            "idMal": 61517,
-            "nextAiringEpisode": {
-                "airingAt": 1766848200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190840-CvKAz6aWHB21.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190840-CvKAz6aWHB21.png"
-            },
-            "title": {
-                "userPreferred": "Kingdom 6th Season",
-                "native": "\u30ad\u30f3\u30b0\u30c0\u30e0 \u7b2c6\u30b7\u30ea\u30fc\u30ba",
-                "romaji": "Kingdom 6th Season"
             }
         },
         {
@@ -773,7 +741,7 @@
             "id": 196553,
             "idMal": 62126,
             "nextAiringEpisode": {
-                "airingAt": 1766881800
+                "airingAt": 1767486600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196553-9whoPCB5gyKB.jpg",
@@ -885,7 +853,7 @@
             "id": 203953,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1766847600
+                "airingAt": 1767452400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203953-0o0WnauWOeQO.jpg",
@@ -899,7 +867,7 @@
         },
         {
             "id": 204656,
-            "idMal": null,
+            "idMal": 63151,
             "nextAiringEpisode": {
                 "airingAt": 1767740400
             },
