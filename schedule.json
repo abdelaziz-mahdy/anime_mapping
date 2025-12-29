@@ -1,11 +1,11 @@
 {
-    "__version__": 645,
+    "__version__": 646,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1766931360
+                "airingAt": 1775398560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1766914200
+                "airingAt": 1767519000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -101,7 +101,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1766912400
+                "airingAt": 1767517200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -165,7 +165,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1767393000
+                "airingAt": 1769207400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -194,22 +194,6 @@
             }
         },
         {
-            "id": 153800,
-            "idMal": 52807,
-            "nextAiringEpisode": {
-                "airingAt": 1766933160
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153800-8SpzdHOaZCoU.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg"
-            },
-            "title": {
-                "userPreferred": "One Punch Man 3",
-                "native": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3\uff13",
-                "romaji": "One Punch Man 3"
-            }
-        },
-        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -229,7 +213,7 @@
             "id": 162669,
             "idMal": 54703,
             "nextAiringEpisode": {
-                "airingAt": 1767451500
+                "airingAt": 1768056300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
@@ -255,22 +239,6 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
-            }
-        },
-        {
-            "id": 165530,
-            "idMal": 57353,
-            "nextAiringEpisode": {
-                "airingAt": 1766958000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165530-Ku7VZt2NCIgf.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165530-Ku7VZt2NCIgf.jpg"
-            },
-            "title": {
-                "userPreferred": "Mofa Gongzhu De Xiao Fannao",
-                "native": "\u9b54\u6cd5\u516c\u4e3b\u7684\u5c0f\u70e6\u607c",
-                "romaji": "Mofa Gongzhu De Xiao Fannao"
             }
         },
         {
@@ -453,7 +421,7 @@
             "id": 185857,
             "idMal": 60560,
             "nextAiringEpisode": {
-                "airingAt": 1766890800
+                "airingAt": 1767495600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185857-NIhDZe5olAzV.png",
@@ -495,22 +463,6 @@
                 "userPreferred": "Nmeneko",
                 "native": "\u30f3\u3081\u306d\u3053",
                 "romaji": "Nmeneko"
-            }
-        },
-        {
-            "id": 186524,
-            "idMal": 60933,
-            "nextAiringEpisode": {
-                "airingAt": 1766928600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186524-JSsyFR3FqTO8.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186524-JSsyFR3FqTO8.jpg"
-            },
-            "title": {
-                "userPreferred": "Chanto Suenai Kyuuketsuki-chan",
-                "native": "\u3061\u3083\u3093\u3068\u5438\u3048\u306a\u3044\u5438\u8840\u9b3c\u3061\u3083\u3093",
-                "romaji": "Chanto Suenai Kyuuketsuki-chan"
             }
         },
         {
@@ -725,7 +677,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1766921400
+                "airingAt": 1767526200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
