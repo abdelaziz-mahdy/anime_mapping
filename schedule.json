@@ -1,5 +1,5 @@
 {
-    "__version__": 648,
+    "__version__": 649,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1767307200
+                "airingAt": 1767652800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -255,6 +255,22 @@
                 "userPreferred": "Ao no Orchestra Season 2",
                 "native": "\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 Season2",
                 "romaji": "Ao no Orchestra Season 2"
+            }
+        },
+        {
+            "id": 178005,
+            "idMal": 59047,
+            "nextAiringEpisode": {
+                "airingAt": 1767798000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178005-pCEReATswrup.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178005-pCEReATswrup.jpg"
+            },
+            "title": {
+                "userPreferred": "Tamon-kun Ima Docchi!?",
+                "native": "\u591a\u805e\u304f\u3093\u4eca\u3069\u3063\u3061\uff01\uff1f",
+                "romaji": "Tamon-kun Ima Docchi!?"
             }
         },
         {
@@ -450,6 +466,22 @@
             }
         },
         {
+            "id": 187264,
+            "idMal": 61128,
+            "nextAiringEpisode": {
+                "airingAt": 1767798000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187264-aOUNQvTriPkX.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg"
+            },
+            "title": {
+                "userPreferred": "Yuusha Party wo Oidasareta Kiyou Binbou",
+                "native": "\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u3092\u8ffd\u3044\u51fa\u3055\u308c\u305f\u5668\u7528\u8ca7\u4e4f",
+                "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou"
+            }
+        },
+        {
             "id": 187464,
             "idMal": 61159,
             "nextAiringEpisode": {
@@ -517,7 +549,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1767178800
+                "airingAt": 1767783600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -533,7 +565,7 @@
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
-                "airingAt": 1767150000
+                "airingAt": 1769828400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png",
@@ -597,7 +629,7 @@
             "id": 195383,
             "idMal": 61924,
             "nextAiringEpisode": {
-                "airingAt": 1767178740
+                "airingAt": 1767783540
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195383-v8nJ26HD0Lcd.png",
