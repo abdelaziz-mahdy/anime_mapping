@@ -1,5 +1,5 @@
 {
-    "__version__": 649,
+    "__version__": 650,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1767305400
+                "airingAt": 1767910200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -111,22 +111,6 @@
                 "userPreferred": "Holo no Graffiti",
                 "native": "\u30db\u30ed\u306e\u3050\u3089\u3075\u3043\u3066\u3043",
                 "romaji": "Holo no Graffiti"
-            }
-        },
-        {
-            "id": 120325,
-            "idMal": 42295,
-            "nextAiringEpisode": {
-                "airingAt": 1767346800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120325-ubMgHRUT5dgJ.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120325-ubMgHRUT5dgJ.png"
-            },
-            "title": {
-                "userPreferred": "Fushigi Dagashiya: Zenitendou",
-                "native": "\u3075\u3057\u304e\u99c4\u83d3\u5b50\u5c4b \u92ad\u5929\u5802",
-                "romaji": "Fushigi Dagashiya: Zenitendou"
             }
         },
         {
@@ -402,6 +386,22 @@
             }
         },
         {
+            "id": 185753,
+            "idMal": 60602,
+            "nextAiringEpisode": {
+                "airingAt": 1767882600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185753-fKim5yXjaE9I.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png"
+            },
+            "title": {
+                "userPreferred": "MF Ghost 3rd Season",
+                "native": "MF\u30b4\u30fc\u30b9\u30c8 3rd Season",
+                "romaji": "MF Ghost 3rd Season"
+            }
+        },
+        {
             "id": 185857,
             "idMal": 60560,
             "nextAiringEpisode": {
@@ -421,7 +421,7 @@
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1767286680
+                "airingAt": 1767891480
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -613,7 +613,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1767265200
+                "airingAt": 1767870000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -725,7 +725,7 @@
             "id": 199005,
             "idMal": 62521,
             "nextAiringEpisode": {
-                "airingAt": 1767236400
+                "airingAt": 1767841200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg",
@@ -741,7 +741,7 @@
             "id": 199635,
             "idMal": 62676,
             "nextAiringEpisode": {
-                "airingAt": 1767259800
+                "airingAt": 1767864600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199635-rgif9o9VWMrt.png",
