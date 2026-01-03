@@ -1,5 +1,5 @@
 {
-    "__version__": 650,
+    "__version__": 651,
     "data": [
         {
             "id": 21,
@@ -309,7 +309,7 @@
             "id": 184718,
             "idMal": 60347,
             "nextAiringEpisode": {
-                "airingAt": 1767337200
+                "airingAt": 1767942000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184718-GvNnorokj1i3.jpg",
@@ -709,7 +709,7 @@
             "id": 198413,
             "idMal": 62231,
             "nextAiringEpisode": {
-                "airingAt": 1767387600
+                "airingAt": 1767992400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198413-IDC13Jyk0xYD.png",
