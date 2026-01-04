@@ -1,5 +1,5 @@
 {
-    "__version__": 651,
+    "__version__": 652,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1767430800
+                "airingAt": 1768035600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1767425400
+                "airingAt": 1768030200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -85,7 +85,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1767427200
+                "airingAt": 1768032000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -226,6 +226,38 @@
             }
         },
         {
+            "id": 166617,
+            "idMal": 55830,
+            "nextAiringEpisode": {
+                "airingAt": 1768055400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png"
+            },
+            "title": {
+                "userPreferred": "Fate/strange Fake",
+                "native": "Fate/strange Fake",
+                "romaji": "Fate/strange Fake"
+            }
+        },
+        {
+            "id": 167152,
+            "idMal": 56009,
+            "nextAiringEpisode": {
+                "airingAt": 1768483800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-u0cBZkqDowHP.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-u0cBZkqDowHP.jpg"
+            },
+            "title": {
+                "userPreferred": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+                "native": "\u52c7\u8005\u5211\u306b\u51e6\u3059\u3000\u61f2\u7f70\u52c7\u80059004\u968a\u5211\u52d9\u8a18\u9332",
+                "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
+            }
+        },
+        {
             "id": 170018,
             "idMal": 56877,
             "nextAiringEpisode": {
@@ -293,7 +325,7 @@
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
-                "airingAt": 1767486600
+                "airingAt": 1768091400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184470-m2izEvBeO49C.jpg",
@@ -325,7 +357,7 @@
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
-                "airingAt": 1767483000
+                "airingAt": 1768087800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-m4QzzXcEqmvb.png",
@@ -357,7 +389,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1767482880
+                "airingAt": 1768087680
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -373,7 +405,7 @@
             "id": 185718,
             "idMal": 60596,
             "nextAiringEpisode": {
-                "airingAt": 1767478560
+                "airingAt": 1768083360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185718-luZZKvM7pOZ2.png",
@@ -533,7 +565,7 @@
             "id": 188388,
             "idMal": 61269,
             "nextAiringEpisode": {
-                "airingAt": 1767484800
+                "airingAt": 1768089600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
@@ -581,7 +613,7 @@
             "id": 189258,
             "idMal": 61333,
             "nextAiringEpisode": {
-                "airingAt": 1767429000
+                "airingAt": 1768033800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189258-qhtrra5ebBm6.jpg",
@@ -677,7 +709,7 @@
             "id": 196553,
             "idMal": 62126,
             "nextAiringEpisode": {
-                "airingAt": 1767486600
+                "airingAt": 1768091400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196553-9whoPCB5gyKB.jpg",
@@ -738,6 +770,22 @@
             }
         },
         {
+            "id": 199446,
+            "idMal": 61969,
+            "nextAiringEpisode": {
+                "airingAt": 1768050000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199446-2jYnGrTItjyu.jpg"
+            },
+            "title": {
+                "userPreferred": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!",
+                "native": "\u6700\u63a8\u3057\u306e\u7fa9\u5144\u3092\u611b\u3067\u308b\u305f\u3081\u3001\u9577\u751f\u304d\u3057\u307e\u3059\uff01",
+                "romaji": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!"
+            }
+        },
+        {
             "id": 199635,
             "idMal": 62676,
             "nextAiringEpisode": {
@@ -789,7 +837,7 @@
             "id": 203953,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1767452400
+                "airingAt": 1768057200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203953-0o0WnauWOeQO.jpg",
