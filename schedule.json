@@ -1,5 +1,5 @@
 {
-    "__version__": 652,
+    "__version__": 653,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1767519000
+                "airingAt": 1768123800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -101,7 +101,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1767517200
+                "airingAt": 1768122000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -117,7 +117,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1767578400
+                "airingAt": 1768183200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -261,7 +261,7 @@
             "id": 170018,
             "idMal": 56877,
             "nextAiringEpisode": {
-                "airingAt": 1767513600
+                "airingAt": 1768118400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170018-1PqdLX68YayA.jpg",
@@ -271,6 +271,38 @@
                 "userPreferred": "Ao no Orchestra Season 2",
                 "native": "\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 Season2",
                 "romaji": "Ao no Orchestra Season 2"
+            }
+        },
+        {
+            "id": 177385,
+            "idMal": 58788,
+            "nextAiringEpisode": {
+                "airingAt": 1768143600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177385-TBpvkGdF28R7.png"
+            },
+            "title": {
+                "userPreferred": "Ikoku Nikki",
+                "native": "\u9055\u56fd\u65e5\u8a18",
+                "romaji": "Ikoku Nikki"
+            }
+        },
+        {
+            "id": 177580,
+            "idMal": 58861,
+            "nextAiringEpisode": {
+                "airingAt": 1768134600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177580-ujQw6Ws3oVCi.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177580-ujQw6Ws3oVCi.jpg"
+            },
+            "title": {
+                "userPreferred": "Hanazakari no Kimitachi e",
+                "native": "\u82b1\u3056\u304b\u308a\u306e\u541b\u305f\u3061\u3078",
+                "romaji": "Hanazakari no Kimitachi e"
             }
         },
         {
@@ -437,7 +469,7 @@
             "id": 185857,
             "idMal": 60560,
             "nextAiringEpisode": {
-                "airingAt": 1767495600
+                "airingAt": 1768100400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185857-NIhDZe5olAzV.png",
@@ -447,6 +479,22 @@
                 "userPreferred": "Xian Wang de Richang Shenghuo 5",
                 "native": "\u4ed9\u738b\u7684\u65e5\u5e38\u751f\u6d3b \u7b2c\u4e94\u5b63",
                 "romaji": "Xian Wang de Richang Shenghuo 5"
+            }
+        },
+        {
+            "id": 185993,
+            "idMal": 60692,
+            "nextAiringEpisode": {
+                "airingAt": 1768143600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185993-BecPUaWfZJgR.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185993-BecPUaWfZJgR.png"
+            },
+            "title": {
+                "userPreferred": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+                "native": "\u8cb4\u65cf\u8ee2\u751f \uff5e\u6075\u307e\u308c\u305f\u751f\u307e\u308c\u304b\u3089\u6700\u5f37\u306e\u529b\u3092\u5f97\u308b\uff5e",
+                "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru"
             }
         },
         {
@@ -463,6 +511,22 @@
                 "userPreferred": "Nmeneko",
                 "native": "\u30f3\u3081\u306d\u3053",
                 "romaji": "Nmeneko"
+            }
+        },
+        {
+            "id": 186333,
+            "idMal": 60810,
+            "nextAiringEpisode": {
+                "airingAt": 1768136400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186333-32qDHxLkndpg.png"
+            },
+            "title": {
+                "userPreferred": "Majutsushi Kunon wa Mieteiru",
+                "native": "\u9b54\u8853\u5e2b\u30af\u30ce\u30f3\u306f\u898b\u3048\u3066\u3044\u308b",
+                "romaji": "Majutsushi Kunon wa Mieteiru"
             }
         },
         {
@@ -693,7 +757,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1767526200
+                "airingAt": 1768131000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
@@ -719,6 +783,22 @@
                 "userPreferred": "SI-VIS: The Sound of Heroes",
                 "native": "SI-VIS: The Sound of Heroes",
                 "romaji": "SI-VIS: The Sound of Heroes"
+            }
+        },
+        {
+            "id": 197731,
+            "idMal": 61886,
+            "nextAiringEpisode": {
+                "airingAt": 1768145400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197731-6E0qjPFaNjC6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197731-6E0qjPFaNjC6.jpg"
+            },
+            "title": {
+                "userPreferred": "Goumon Baito-kun no Nichijou",
+                "native": "\u62f7\u554f\u30d0\u30a4\u30c8\u304f\u3093\u306e\u65e5\u5e38",
+                "romaji": "Goumon Baito-kun no Nichijou"
             }
         },
         {
