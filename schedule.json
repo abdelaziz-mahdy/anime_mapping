@@ -1,5 +1,5 @@
 {
-    "__version__": 653,
+    "__version__": 654,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1767652800
+                "airingAt": 1767912000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -223,6 +223,22 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
+            }
+        },
+        {
+            "id": 166521,
+            "idMal": 55772,
+            "nextAiringEpisode": {
+                "airingAt": 1768226400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166521-PNf7tRAlJJI6.jpg"
+            },
+            "title": {
+                "userPreferred": "Golden Kamuy: Saishuushou",
+                "native": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u6700\u7d42\u7ae0",
+                "romaji": "Golden Kamuy: Saishuushou"
             }
         },
         {
@@ -690,6 +706,22 @@
             }
         },
         {
+            "id": 189565,
+            "idMal": 61359,
+            "nextAiringEpisode": {
+                "airingAt": 1768230000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg"
+            },
+            "title": {
+                "userPreferred": "Osananajimi to wa Love Comedy ni Naranai",
+                "native": "\u5e7c\u99b4\u67d3\u3068\u306f\u30e9\u30d6\u30b3\u30e1\u306b\u306a\u3089\u306a\u3044",
+                "romaji": "Osananajimi to wa Love Comedy ni Naranai"
+            }
+        },
+        {
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
@@ -706,6 +738,22 @@
             }
         },
         {
+            "id": 194028,
+            "idMal": 61782,
+            "nextAiringEpisode": {
+                "airingAt": 1768222800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194028-ASKnzjS1ily7.jpg"
+            },
+            "title": {
+                "userPreferred": "Kirei ni Shitemoraemasu ka.",
+                "native": "\u7dba\u9e97\u306b\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "Kirei ni Shitemoraemasu ka."
+            }
+        },
+        {
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
@@ -719,6 +767,22 @@
                 "userPreferred": "Koala Enikki",
                 "native": "\u30b3\u30a2\u30e9\u7d75\u65e5\u8a18",
                 "romaji": "Koala Enikki"
+            }
+        },
+        {
+            "id": 195322,
+            "idMal": 61942,
+            "nextAiringEpisode": {
+                "airingAt": 1768222800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg"
+            },
+            "title": {
+                "userPreferred": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+                "native": "\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6 -\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 ILLEGALS- \u7b2c2\u671f",
+                "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season"
             }
         },
         {
@@ -834,6 +898,22 @@
             }
         },
         {
+            "id": 198720,
+            "idMal": 62987,
+            "nextAiringEpisode": {
+                "airingAt": 1768215600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198720-khTq51fpDDUZ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198720-khTq51fpDDUZ.jpg"
+            },
+            "title": {
+                "userPreferred": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
+                "native": "\u5317\u6597\u306e\u62f3 \u62f3\u738b\u8ecd\u30b6\u30b3\u305f\u3061\u306e\u633d\u6b4c",
+                "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka"
+            }
+        },
+        {
             "id": 199005,
             "idMal": 62521,
             "nextAiringEpisode": {
@@ -911,6 +991,22 @@
                 "userPreferred": "Atashin'chi NEXT 2",
                 "native": "\u3042\u305f\u3057\u30f3\u3061NEXT \u7b2c2\u671f",
                 "romaji": "Atashin'chi NEXT 2"
+            }
+        },
+        {
+            "id": 203472,
+            "idMal": 63200,
+            "nextAiringEpisode": {
+                "airingAt": 1768255200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203472-MJDpus1DWo3Z.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203472-MJDpus1DWo3Z.png"
+            },
+            "title": {
+                "userPreferred": "Himitsu Kessha Taka no Tsume XX",
+                "native": "\u79d8\u5bc6\u7d50\u793e \u9df9\u306e\u722aXX\uff08\u30c0\u30d6\u30eb\u30a8\u30c3\u30af\u30b9\uff09",
+                "romaji": "Himitsu Kessha Taka no Tsume XX"
             }
         },
         {
