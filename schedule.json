@@ -1,5 +1,5 @@
 {
-    "__version__": 654,
+    "__version__": 655,
     "data": [
         {
             "id": 21,
@@ -322,6 +322,22 @@
             }
         },
         {
+            "id": 177679,
+            "idMal": 58886,
+            "nextAiringEpisode": {
+                "airingAt": 1768316400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177679-BgsgE0fQk3qN.jpg"
+            },
+            "title": {
+                "userPreferred": "Darwin Jihen",
+                "native": "\u30c0\u30fc\u30a6\u30a3\u30f3\u4e8b\u5909",
+                "romaji": "Darwin Jihen"
+            }
+        },
+        {
             "id": 178005,
             "idMal": 59047,
             "nextAiringEpisode": {
@@ -351,6 +367,38 @@
                 "userPreferred": "Princess-Session Orchestra",
                 "native": "\u30d5\u309a\u30ea\u30f3\u30bb\u30c3\u30b7\u30e7\u30f3\u30fb\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
                 "romaji": "Princess-Session Orchestra"
+            }
+        },
+        {
+            "id": 183661,
+            "idMal": 60226,
+            "nextAiringEpisode": {
+                "airingAt": 1768312800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183661-3muPFi4LtHmK.jpg"
+            },
+            "title": {
+                "userPreferred": "Isekai no Sata wa Shachiku Shidai",
+                "native": "\u7570\u4e16\u754c\u306e\u6c99\u6c70\u306f\u793e\u755c\u6b21\u7b2c",
+                "romaji": "Isekai no Sata wa Shachiku Shidai"
+            }
+        },
+        {
+            "id": 183984,
+            "idMal": 60255,
+            "nextAiringEpisode": {
+                "airingAt": 1768321740
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183984-uq5scAXrhEdx.jpg"
+            },
+            "title": {
+                "userPreferred": "Arne no Jikenbo",
+                "native": "\u30a2\u30eb\u30cd\u306e\u4e8b\u4ef6\u7c3f",
+                "romaji": "Arne no Jikenbo"
             }
         },
         {
@@ -610,6 +658,22 @@
             }
         },
         {
+            "id": 187942,
+            "idMal": 61211,
+            "nextAiringEpisode": {
+                "airingAt": 1768312800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187942-c2cZvunJGfiE.jpg"
+            },
+            "title": {
+                "userPreferred": "Mayonaka Heart Tune",
+                "native": "\u771f\u591c\u4e2d\u30cf\u30fc\u30c8\u30c1\u30e5\u30fc\u30f3",
+                "romaji": "Mayonaka Heart Tune"
+            }
+        },
+        {
             "id": 188034,
             "idMal": 61227,
             "nextAiringEpisode": {
@@ -725,7 +789,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1767737160
+                "airingAt": 1768341960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -754,6 +818,22 @@
             }
         },
         {
+            "id": 194318,
+            "idMal": 61830,
+            "nextAiringEpisode": {
+                "airingAt": 1768314600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-V3STmm4wutVQ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg"
+            },
+            "title": {
+                "userPreferred": "Yoroi Shinden Samurai Troopers",
+                "native": "\u93a7\u771f\u4f1d\u30b5\u30e0\u30e9\u30a4\u30c8\u30eb\u30fc\u30d1\u30fc",
+                "romaji": "Yoroi Shinden Samurai Troopers"
+            }
+        },
+        {
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
@@ -767,6 +847,22 @@
                 "userPreferred": "Koala Enikki",
                 "native": "\u30b3\u30a2\u30e9\u7d75\u65e5\u8a18",
                 "romaji": "Koala Enikki"
+            }
+        },
+        {
+            "id": 194742,
+            "idMal": 61884,
+            "nextAiringEpisode": {
+                "airingAt": 1768309200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194742-Cw08T4vIfD3y.jpg"
+            },
+            "title": {
+                "userPreferred": "Maou no Musume wa Yasashi Sugiru!!",
+                "native": "\u9b54\u738b\u306e\u5a18\u306f\u512a\u3057\u3059\u304e\u308b!!",
+                "romaji": "Maou no Musume wa Yasashi Sugiru!!"
             }
         },
         {
@@ -799,6 +895,22 @@
                 "userPreferred": "MUZIK TIGER In the Forest 2",
                 "native": "MUZIK TIGER In the Forest \u7b2c2\u671f ",
                 "romaji": "MUZIK TIGER In the Forest 2"
+            }
+        },
+        {
+            "id": 195515,
+            "idMal": 61983,
+            "nextAiringEpisode": {
+                "airingAt": 1768312800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg"
+            },
+            "title": {
+                "userPreferred": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+                "native": "\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u30fc\u306b\u304b\u308f\u3044\u3044\u5b50\u304c\u3044\u305f\u306e\u3067\u3001\u544a\u767d\u3057\u3066\u307f\u305f\u3002",
+                "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita."
             }
         },
         {
@@ -965,7 +1077,7 @@
             "id": 199931,
             "idMal": 62662,
             "nextAiringEpisode": {
-                "airingAt": 1767736800
+                "airingAt": 1768341600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199931-EhQ6yMCbEvik.png",
@@ -1029,7 +1141,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1767740400
+                "airingAt": 1768345200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
