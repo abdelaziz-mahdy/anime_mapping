@@ -1,5 +1,5 @@
 {
-    "__version__": 655,
+    "__version__": 656,
     "data": [
         {
             "id": 21,
@@ -341,7 +341,7 @@
             "id": 178005,
             "idMal": 59047,
             "nextAiringEpisode": {
-                "airingAt": 1767798000
+                "airingAt": 1768402800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178005-pCEReATswrup.jpg",
@@ -367,6 +367,38 @@
                 "userPreferred": "Princess-Session Orchestra",
                 "native": "\u30d5\u309a\u30ea\u30f3\u30bb\u30c3\u30b7\u30e7\u30f3\u30fb\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
                 "romaji": "Princess-Session Orchestra"
+            }
+        },
+        {
+            "id": 180746,
+            "idMal": 59711,
+            "nextAiringEpisode": {
+                "airingAt": 1768399200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg"
+            },
+            "title": {
+                "userPreferred": "Shibou Yuugi de Meshi wo Kuu.",
+                "native": "\u6b7b\u4ea1\u904a\u622f\u3067\u98ef\u3092\u98df\u3046\u3002",
+                "romaji": "Shibou Yuugi de Meshi wo Kuu."
+            }
+        },
+        {
+            "id": 182771,
+            "idMal": 60071,
+            "nextAiringEpisode": {
+                "airingAt": 1768402800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182771-KVq712ii32fJ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg"
+            },
+            "title": {
+                "userPreferred": "Odayaka Kizoku no Kyuuka no Susume.",
+                "native": "\u7a4f\u3084\u304b\u8cb4\u65cf\u306e\u4f11\u6687\u306e\u3059\u3059\u3081\u3002",
+                "romaji": "Odayaka Kizoku no Kyuuka no Susume."
             }
         },
         {
@@ -629,7 +661,7 @@
             "id": 187264,
             "idMal": 61128,
             "nextAiringEpisode": {
-                "airingAt": 1767798000
+                "airingAt": 1768402800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187264-aOUNQvTriPkX.jpg",
@@ -690,22 +722,6 @@
             }
         },
         {
-            "id": 188239,
-            "idMal": 61258,
-            "nextAiringEpisode": {
-                "airingAt": 1768352400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188239-ktV7LXrb8yHH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png"
-            },
-            "title": {
-                "userPreferred": "Transformers: Wild King",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0",
-                "romaji": "Transformers: Wild King"
-            }
-        },
-        {
             "id": 188388,
             "idMal": 61269,
             "nextAiringEpisode": {
@@ -725,7 +741,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1767783600
+                "airingAt": 1768388400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -783,6 +799,54 @@
                 "userPreferred": "Osananajimi to wa Love Comedy ni Naranai",
                 "native": "\u5e7c\u99b4\u67d3\u3068\u306f\u30e9\u30d6\u30b3\u30e1\u306b\u306a\u3089\u306a\u3044",
                 "romaji": "Osananajimi to wa Love Comedy ni Naranai"
+            }
+        },
+        {
+            "id": 191205,
+            "idMal": 61549,
+            "nextAiringEpisode": {
+                "airingAt": 1768395600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191205-ALhucRyrwOW1.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191205-ALhucRyrwOW1.jpg"
+            },
+            "title": {
+                "userPreferred": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+                "native": "\u304a\u6c17\u697d\u9818\u4e3b\u306e\u697d\u3057\u3044\u9818\u5730\u9632\u885b",
+                "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
+            }
+        },
+        {
+            "id": 191967,
+            "idMal": 61608,
+            "nextAiringEpisode": {
+                "airingAt": 1768401960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-fLWqssc0gPI4.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191967-fLWqssc0gPI4.jpg"
+            },
+            "title": {
+                "userPreferred": "Jigoku Sensei Nube (2025) Part 2",
+                "native": "\u5730\u7344\u5148\u751f\u306c\uff5e\u3079\uff5e (2025) \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Jigoku Sensei Nube (2025) Part 2"
+            }
+        },
+        {
+            "id": 192261,
+            "idMal": 61637,
+            "nextAiringEpisode": {
+                "airingAt": 1768393800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg"
+            },
+            "title": {
+                "userPreferred": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+                "native": "29\u6b73\u72ec\u8eab\u4e2d\u5805\u5192\u967a\u8005\u306e\u65e5\u5e38",
+                "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou"
             }
         },
         {
@@ -885,7 +949,7 @@
             "id": 195383,
             "idMal": 61924,
             "nextAiringEpisode": {
-                "airingAt": 1767783540
+                "airingAt": 1768388340
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195383-v8nJ26HD0Lcd.png",
@@ -1151,6 +1215,22 @@
                 "userPreferred": "mofusand",
                 "native": "mofusand ",
                 "romaji": "mofusand"
+            }
+        },
+        {
+            "id": 205676,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1768428000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205676-VlzcdwHYdJCe.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205676-VlzcdwHYdJCe.png"
+            },
+            "title": {
+                "userPreferred": "Black Jack Yanen",
+                "native": "\u30d6\u30e9\u30c3\u30af\u30b8\u30e3\u30c3\u30af\u3084\u306d\u3093",
+                "romaji": "Black Jack Yanen"
             }
         }
     ]
