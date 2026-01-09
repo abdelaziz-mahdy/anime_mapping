@@ -1,5 +1,5 @@
 {
-    "__version__": 656,
+    "__version__": 657,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1767910200
+                "airingAt": 1768515000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -95,6 +95,22 @@
                 "userPreferred": "Doraemon (2005)",
                 "native": "\u30c9\u30e9\u3048\u3082\u3093 (2005)",
                 "romaji": "Doraemon (2005)"
+            }
+        },
+        {
+            "id": 110694,
+            "idMal": 37290,
+            "nextAiringEpisode": {
+                "airingAt": 1768227960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110694-h0RmA1JtT14f.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110694-h0RmA1JtT14f.jpg"
+            },
+            "title": {
+                "userPreferred": "ANI x PARA: Anata no Hero wa Dare desu ka",
+                "native": "\u30a2\u30cb\u00d7\u30d1\u30e9\u301c\u3042\u306a\u305f\u306e\u30d2\u30fc\u30ed\u30fc\u306f\u8ab0\u3067\u3059\u304b\u301c",
+                "romaji": "ANI x PARA: Anata no Hero wa Dare desu ka"
             }
         },
         {
@@ -133,7 +149,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1767912000
+                "airingAt": 1768257600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -290,6 +306,38 @@
             }
         },
         {
+            "id": 172463,
+            "idMal": 57658,
+            "nextAiringEpisode": {
+                "airingAt": 1768490760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-pNl29lVrhwZ2.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-pNl29lVrhwZ2.jpg"
+            },
+            "title": {
+                "userPreferred": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+                "native": "\u546a\u8853\u5efb\u6226 \u6b7b\u6ec5\u56de\u6e38 \u524d\u7de8",
+                "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
+            }
+        },
+        {
+            "id": 176276,
+            "idMal": 58505,
+            "nextAiringEpisode": {
+                "airingAt": 1768485600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176276-rtF8mYd2OWw2.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176276-rtF8mYd2OWw2.png"
+            },
+            "title": {
+                "userPreferred": "Mato Seihei no Slave 2",
+                "native": "\u9b54\u90fd\u7cbe\u5175\u306e\u30b9\u30ec\u30a4\u30d62",
+                "romaji": "Mato Seihei no Slave 2"
+            }
+        },
+        {
             "id": 177385,
             "idMal": 58788,
             "nextAiringEpisode": {
@@ -402,6 +450,22 @@
             }
         },
         {
+            "id": 183270,
+            "idMal": 60151,
+            "nextAiringEpisode": {
+                "airingAt": 1768488960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183270-CmZikKu34WPd.jpg"
+            },
+            "title": {
+                "userPreferred": "Eris no Seihai",
+                "native": "\u30a8\u30ea\u30b9\u306e\u8056\u676f",
+                "romaji": "Eris no Seihai"
+            }
+        },
+        {
             "id": 183661,
             "idMal": 60226,
             "nextAiringEpisode": {
@@ -482,6 +546,22 @@
             }
         },
         {
+            "id": 185039,
+            "idMal": 60395,
+            "nextAiringEpisode": {
+                "airingAt": 1768487400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185039-rVofxrbEyaL9.jpg"
+            },
+            "title": {
+                "userPreferred": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+                "native": "\u900f\u660e\u7537\u3068\u4eba\u9593\u5973\uff5e\u305d\u306e\u3046\u3061\u592b\u5a66\u306b\u306a\u308b\u3075\u305f\u308a\uff5e",
+                "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari"
+            }
+        },
+        {
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
@@ -511,6 +591,22 @@
                 "userPreferred": "Gnosia",
                 "native": "\u30b0\u30ce\u30fc\u30b7\u30a2",
                 "romaji": "Gnosia"
+            }
+        },
+        {
+            "id": 185514,
+            "idMal": 60509,
+            "nextAiringEpisode": {
+                "airingAt": 1768496280
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-mfJqhtz22l1Z.jpg"
+            },
+            "title": {
+                "userPreferred": "Champignon no Majo",
+                "native": "\u30b7\u30e3\u30f3\u30d4\u30cb\u30aa\u30f3\u306e\u9b54\u5973",
+                "romaji": "Champignon no Majo"
             }
         },
         {
@@ -549,7 +645,7 @@
             "id": 185753,
             "idMal": 60602,
             "nextAiringEpisode": {
-                "airingAt": 1767882600
+                "airingAt": 1768487400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185753-fKim5yXjaE9I.png",
@@ -597,7 +693,7 @@
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1767891480
+                "airingAt": 1768496280
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -645,7 +741,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1767877200
+                "airingAt": 1768482000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -770,6 +866,22 @@
             }
         },
         {
+            "id": 189137,
+            "idMal": 61325,
+            "nextAiringEpisode": {
+                "airingAt": 1768494480
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189137-cCXaEiX0bJb4.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189137-cCXaEiX0bJb4.jpg"
+            },
+            "title": {
+                "userPreferred": "Douse, Koishite Shimaunda. Season 2",
+                "native": "\u3069\u3046\u305b\u3001\u604b\u3057\u3066\u3057\u307e\u3046\u3093\u3060\u3002Season 2",
+                "romaji": "Douse, Koishite Shimaunda. Season 2"
+            }
+        },
+        {
             "id": 189258,
             "idMal": 61333,
             "nextAiringEpisode": {
@@ -815,6 +927,22 @@
                 "userPreferred": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
                 "native": "\u304a\u6c17\u697d\u9818\u4e3b\u306e\u697d\u3057\u3044\u9818\u5730\u9632\u885b",
                 "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
+            }
+        },
+        {
+            "id": 191718,
+            "idMal": 61587,
+            "nextAiringEpisode": {
+                "airingAt": 1768491000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191718-FeR6bnlkqF0J.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png"
+            },
+            "title": {
+                "userPreferred": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+                "native": "\u300c\u304a\u524d\u3054\u3068\u304d\u304c\u9b54\u738b\u306b\u52dd\u3066\u308b\u3068\u601d\u3046\u306a\u300d\u3068\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u3092\u8ffd\u653e\u3055\u308c\u305f\u306e\u3067\u3001\u738b\u90fd\u3067\u6c17\u307e\u307e\u306b\u66ae\u3089\u3057\u305f\u3044",
+                "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai"
             }
         },
         {
@@ -901,7 +1029,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1767870000
+                "airingAt": 1768474800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -1093,7 +1221,7 @@
             "id": 199005,
             "idMal": 62521,
             "nextAiringEpisode": {
-                "airingAt": 1767841200
+                "airingAt": 1768446000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg",
@@ -1125,7 +1253,7 @@
             "id": 199635,
             "idMal": 62676,
             "nextAiringEpisode": {
-                "airingAt": 1767864600
+                "airingAt": 1768469400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199635-rgif9o9VWMrt.png",
