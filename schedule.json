@@ -1,5 +1,5 @@
 {
-    "__version__": 658,
+    "__version__": 659,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1768035600
+                "airingAt": 1768640400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1768030200
+                "airingAt": 1768635000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -85,7 +85,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1768032000
+                "airingAt": 1768636800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -213,7 +213,7 @@
             "id": 162669,
             "idMal": 54703,
             "nextAiringEpisode": {
-                "airingAt": 1768056300
+                "airingAt": 1768661100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
@@ -223,6 +223,22 @@
                 "userPreferred": "Fumetsu no Anata e Season 3",
                 "native": "\u4e0d\u6ec5\u306e\u3042\u306a\u305f\u3078 Season 3",
                 "romaji": "Fumetsu no Anata e Season 3"
+            }
+        },
+        {
+            "id": 163144,
+            "idMal": 54863,
+            "nextAiringEpisode": {
+                "airingAt": 1768658400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163144-XdVwFRxPGY6j.jpg"
+            },
+            "title": {
+                "userPreferred": "TRIGUN STARGAZE",
+                "native": "TRIGUN STARGAZE",
+                "romaji": "TRIGUN STARGAZE"
             }
         },
         {
@@ -261,7 +277,7 @@
             "id": 166617,
             "idMal": 55830,
             "nextAiringEpisode": {
-                "airingAt": 1768055400
+                "airingAt": 1768660200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
@@ -312,8 +328,8 @@
                 "airingAt": 1768490760
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-YRX9lR2ggWo8.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-YRX9lR2ggWo8.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-UTU4AAusbndt.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-UTU4AAusbndt.jpg"
             },
             "title": {
                 "userPreferred": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
@@ -405,7 +421,7 @@
             "id": 178052,
             "idMal": 59078,
             "nextAiringEpisode": {
-                "airingAt": 1768089600
+                "airingAt": 1768694400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178052-igWygf0ZG1gl.jpg",
@@ -549,7 +565,7 @@
             "id": 184470,
             "idMal": 61092,
             "nextAiringEpisode": {
-                "airingAt": 1768091400
+                "airingAt": 1768696200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184470-m2izEvBeO49C.jpg",
@@ -597,7 +613,7 @@
             "id": 185073,
             "idMal": 60407,
             "nextAiringEpisode": {
-                "airingAt": 1768087800
+                "airingAt": 1768692600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185073-m4QzzXcEqmvb.png",
@@ -613,7 +629,7 @@
             "id": 185116,
             "idMal": 60427,
             "nextAiringEpisode": {
-                "airingAt": 1768057200
+                "airingAt": 1768662000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185116-DIFRjiMgz1IS.jpg",
@@ -661,7 +677,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1768087680
+                "airingAt": 1768692480
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -677,7 +693,7 @@
             "id": 185718,
             "idMal": 60596,
             "nextAiringEpisode": {
-                "airingAt": 1768083360
+                "airingAt": 1768688160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185718-luZZKvM7pOZ2.png",
@@ -773,7 +789,7 @@
             "id": 186736,
             "idMal": 60983,
             "nextAiringEpisode": {
-                "airingAt": 1768037100
+                "airingAt": 1768641900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186736-zYDrRDuC55s5.png",
@@ -821,7 +837,7 @@
             "id": 187464,
             "idMal": 61159,
             "nextAiringEpisode": {
-                "airingAt": 1768059000
+                "airingAt": 1768663800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187464-NJtK3VC54vPm.jpg",
@@ -831,6 +847,38 @@
                 "userPreferred": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
                 "native": "\u6771\u5cf6\u4e39\u4e09\u90ce\u306f\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u306b\u306a\u308a\u305f\u3044",
                 "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai"
+            }
+        },
+        {
+            "id": 187901,
+            "idMal": 61196,
+            "nextAiringEpisode": {
+                "airingAt": 1768660200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187901-T91HmZAaNwOF.jpg"
+            },
+            "title": {
+                "userPreferred": "Dead Account",
+                "native": "\u30c7\u30c3\u30c9\u30a2\u30ab\u30a6\u30f3\u30c8",
+                "romaji": "Dead Account"
+            }
+        },
+        {
+            "id": 187941,
+            "idMal": 61207,
+            "nextAiringEpisode": {
+                "airingAt": 1768653000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187941-ykmc8WRedPpw.jpg"
+            },
+            "title": {
+                "userPreferred": "Tensei Shitara Dragon no Tamago Datta",
+                "native": "\u8ee2\u751f\u3057\u305f\u3089\u30c9\u30e9\u30b4\u30f3\u306e\u5375\u3060\u3063\u305f",
+                "romaji": "Tensei Shitara Dragon no Tamago Datta"
             }
         },
         {
@@ -847,6 +895,22 @@
                 "userPreferred": "Mayonaka Heart Tune",
                 "native": "\u771f\u591c\u4e2d\u30cf\u30fc\u30c8\u30c1\u30e5\u30fc\u30f3",
                 "romaji": "Mayonaka Heart Tune"
+            }
+        },
+        {
+            "id": 187989,
+            "idMal": 61217,
+            "nextAiringEpisode": {
+                "airingAt": 1768665360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187989-IjVYJxi0bEcr.jpg"
+            },
+            "title": {
+                "userPreferred": "Yuusha no Kuzu",
+                "native": "\u52c7\u8005\u306e\u30af\u30ba",
+                "romaji": "Yuusha no Kuzu"
             }
         },
         {
@@ -869,7 +933,7 @@
             "id": 188388,
             "idMal": 61269,
             "nextAiringEpisode": {
-                "airingAt": 1768089600
+                "airingAt": 1768694400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
@@ -933,7 +997,7 @@
             "id": 189258,
             "idMal": 61333,
             "nextAiringEpisode": {
-                "airingAt": 1768033800
+                "airingAt": 1768638600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189258-qhtrra5ebBm6.jpg",
@@ -1205,7 +1269,7 @@
             "id": 196553,
             "idMal": 62126,
             "nextAiringEpisode": {
-                "airingAt": 1768091400
+                "airingAt": 1768696200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196553-9whoPCB5gyKB.jpg",
@@ -1247,6 +1311,22 @@
                 "userPreferred": "GANGLION",
                 "native": "\u30ac\u30f3\u30b0\u30ea\u30aa\u30f3",
                 "romaji": "GANGLION"
+            }
+        },
+        {
+            "id": 198374,
+            "idMal": 62432,
+            "nextAiringEpisode": {
+                "airingAt": 1768662000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg"
+            },
+            "title": {
+                "userPreferred": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+                "native": "\u4eba\u5916\u6559\u5ba4\u306e\u4eba\u9593\u5acc\u3044\u6559\u5e2b",
+                "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi"
             }
         },
         {
@@ -1301,7 +1381,7 @@
             "id": 199446,
             "idMal": 61969,
             "nextAiringEpisode": {
-                "airingAt": 1768050000
+                "airingAt": 1768654800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
@@ -1359,6 +1439,22 @@
                 "userPreferred": "High School! Kimengumi (2026)",
                 "native": "\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\uff01\u5947\u9762\u7d44 (2026)",
                 "romaji": "High School! Kimengumi (2026)"
+            }
+        },
+        {
+            "id": 202419,
+            "idMal": 62864,
+            "nextAiringEpisode": {
+                "airingAt": 1768653000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202419-BmPPSzsegbcv.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png"
+            },
+            "title": {
+                "userPreferred": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+                "native": "\u304a\u524d\u306f\u307e\u3060\u30b0\u30f3\u30de\u3092\u77e5\u3089\u306a\u3044\uff5e\u4ee4\u548c\u7248\uff5e ",
+                "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban"
             }
         },
         {
@@ -1429,7 +1525,7 @@
             "id": 203953,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1768057200
+                "airingAt": 1768662000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203953-0o0WnauWOeQO.jpg",
