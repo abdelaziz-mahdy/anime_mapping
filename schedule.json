@@ -1,5 +1,5 @@
 {
-    "__version__": 659,
+    "__version__": 660,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1768123800
+                "airingAt": 1768728600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -117,7 +117,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1768122000
+                "airingAt": 1768726800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -274,6 +274,22 @@
             }
         },
         {
+            "id": 166613,
+            "idMal": 55825,
+            "nextAiringEpisode": {
+                "airingAt": 1768747440
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg"
+            },
+            "title": {
+                "userPreferred": "Jigokuraku 2nd Season",
+                "native": "\u5730\u7344\u697d \u7b2c\u4e8c\u671f",
+                "romaji": "Jigokuraku 2nd Season"
+            }
+        },
+        {
             "id": 166617,
             "idMal": 55830,
             "nextAiringEpisode": {
@@ -309,7 +325,7 @@
             "id": 170018,
             "idMal": 56877,
             "nextAiringEpisode": {
-                "airingAt": 1768118400
+                "airingAt": 1768723200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170018-1PqdLX68YayA.jpg",
@@ -357,7 +373,7 @@
             "id": 177385,
             "idMal": 58788,
             "nextAiringEpisode": {
-                "airingAt": 1768143600
+                "airingAt": 1768748400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
@@ -373,7 +389,7 @@
             "id": 177580,
             "idMal": 58861,
             "nextAiringEpisode": {
-                "airingAt": 1768134600
+                "airingAt": 1768739400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177580-ujQw6Ws3oVCi.jpg",
@@ -514,6 +530,22 @@
             }
         },
         {
+            "id": 183660,
+            "idMal": 60223,
+            "nextAiringEpisode": {
+                "airingAt": 1768725000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183660-B6o9cMfSfScX.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183660-B6o9cMfSfScX.jpg"
+            },
+            "title": {
+                "userPreferred": "Kaya-chan wa Kowakunai",
+                "native": "\u30ab\u30e4\u3061\u3083\u3093\u306f\u30b3\u30ef\u304f\u306a\u3044",
+                "romaji": "Kaya-chan wa Kowakunai"
+            }
+        },
+        {
             "id": 183661,
             "idMal": 60226,
             "nextAiringEpisode": {
@@ -591,6 +623,22 @@
                 "userPreferred": "Cat's\u2665Eye (2025)",
                 "native": "\u30ad\u30e3\u30c3\u30c4\u2665\u30a2\u30a4 (2025)",
                 "romaji": "Cat's\u2665Eye (2025)"
+            }
+        },
+        {
+            "id": 184951,
+            "idMal": 60371,
+            "nextAiringEpisode": {
+                "airingAt": 1768723200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184951-s8Lg2muPBhdX.jpg"
+            },
+            "title": {
+                "userPreferred": "Seihantai na Kimi to Boku",
+                "native": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5",
+                "romaji": "Seihantai na Kimi to Boku"
             }
         },
         {
@@ -725,7 +773,7 @@
             "id": 185857,
             "idMal": 60560,
             "nextAiringEpisode": {
-                "airingAt": 1768100400
+                "airingAt": 1768705200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185857-NIhDZe5olAzV.png",
@@ -741,7 +789,7 @@
             "id": 185993,
             "idMal": 60692,
             "nextAiringEpisode": {
-                "airingAt": 1768143600
+                "airingAt": 1768748400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185993-BecPUaWfZJgR.png",
@@ -773,7 +821,7 @@
             "id": 186333,
             "idMal": 60810,
             "nextAiringEpisode": {
-                "airingAt": 1768136400
+                "airingAt": 1768741200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
@@ -799,6 +847,22 @@
                 "userPreferred": "Kagaku\u00d7Bouken Survival! 2nd Season",
                 "native": "\u79d1\u5b66\u00d7\u5192\u967a\u30b5\u30d0\u30a4\u30d0\u30eb\uff01 \u7b2c2\u30b7\u30ea\u30fc\u30ba",
                 "romaji": "Kagaku\u00d7Bouken Survival! 2nd Season"
+            }
+        },
+        {
+            "id": 187062,
+            "idMal": 61084,
+            "nextAiringEpisode": {
+                "airingAt": 1768746600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187062-JuXPEjrLQSeO.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187062-JuXPEjrLQSeO.png"
+            },
+            "title": {
+                "userPreferred": "Hikuidori",
+                "native": "\u706b\u55b0\u9ce5",
+                "romaji": "Hikuidori"
             }
         },
         {
@@ -1090,6 +1154,22 @@
             }
         },
         {
+            "id": 192507,
+            "idMal": 61663,
+            "nextAiringEpisode": {
+                "airingAt": 1768721400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192507-SCmImUlUnpAD.jpg"
+            },
+            "title": {
+                "userPreferred": "Uruwashi no Yoi no Tsuki",
+                "native": "\u3046\u308b\u308f\u3057\u306e\u5bb5\u306e\u6708",
+                "romaji": "Uruwashi no Yoi no Tsuki"
+            }
+        },
+        {
             "id": 192867,
             "idMal": 61694,
             "nextAiringEpisode": {
@@ -1234,6 +1314,22 @@
             }
         },
         {
+            "id": 195518,
+            "idMal": 62000,
+            "nextAiringEpisode": {
+                "airingAt": 1768744800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg"
+            },
+            "title": {
+                "userPreferred": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+                "native": "\u60aa\u5f79\u4ee4\u5b22\u306f\u96a3\u56fd\u306e\u738b\u592a\u5b50\u306b\u6eba\u611b\u3055\u308c\u308b",
+                "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru"
+            }
+        },
+        {
             "id": 196227,
             "idMal": 62083,
             "nextAiringEpisode": {
@@ -1253,7 +1349,7 @@
             "id": 196229,
             "idMal": 62046,
             "nextAiringEpisode": {
-                "airingAt": 1768131000
+                "airingAt": 1768735800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196229-5QTc73K7LoV8.png",
@@ -1285,7 +1381,7 @@
             "id": 197731,
             "idMal": 61886,
             "nextAiringEpisode": {
-                "airingAt": 1768145400
+                "airingAt": 1768750200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197731-6E0qjPFaNjC6.jpg",
@@ -1519,6 +1615,22 @@
                 "userPreferred": "Himitsu Kessha Taka no Tsume XX",
                 "native": "\u79d8\u5bc6\u7d50\u793e \u9df9\u306e\u722aXX\uff08\u30c0\u30d6\u30eb\u30a8\u30c3\u30af\u30b9\uff09",
                 "romaji": "Himitsu Kessha Taka no Tsume XX"
+            }
+        },
+        {
+            "id": 203939,
+            "idMal": 63087,
+            "nextAiringEpisode": {
+                "airingAt": 1768756800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203939-F8YG2X9LgfAX.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203939-F8YG2X9LgfAX.png"
+            },
+            "title": {
+                "userPreferred": "Yami Shibai 16",
+                "native": "\u95c7\u829d\u5c45 \u5341\u516d\u671f",
+                "romaji": "Yami Shibai 16"
             }
         },
         {
