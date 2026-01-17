@@ -1,5 +1,5 @@
 {
-    "__version__": 664,
+    "__version__": 665,
     "data": [
         {
             "id": 21,
@@ -229,7 +229,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1768555500
+                "airingAt": 1769160300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -453,7 +453,7 @@
             "id": 179062,
             "idMal": 59229,
             "nextAiringEpisode": {
-                "airingAt": 1768582380
+                "airingAt": 1769187180
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
@@ -485,7 +485,7 @@
             "id": 181443,
             "idMal": 59853,
             "nextAiringEpisode": {
-                "airingAt": 1768575600
+                "airingAt": 1769180400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg",
@@ -495,6 +495,22 @@
                 "userPreferred": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
                 "native": "DARK MOON\u3000-\u9ed2\u306e\u6708: \u6708\u306e\u796d\u58c7-",
                 "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan"
+            }
+        },
+        {
+            "id": 182255,
+            "idMal": 59978,
+            "nextAiringEpisode": {
+                "airingAt": 1769176800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg"
+            },
+            "title": {
+                "userPreferred": "Sousou no Frieren 2nd Season",
+                "native": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \u7b2c2\u671f",
+                "romaji": "Sousou no Frieren 2nd Season"
             }
         },
         {
@@ -597,7 +613,7 @@
             "id": 184289,
             "idMal": 60070,
             "nextAiringEpisode": {
-                "airingAt": 1768600800
+                "airingAt": 1769205600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
@@ -629,7 +645,7 @@
             "id": 184718,
             "idMal": 60347,
             "nextAiringEpisode": {
-                "airingAt": 1768546800
+                "airingAt": 1769151600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184718-GvNnorokj1i3.jpg",
@@ -709,7 +725,7 @@
             "id": 185262,
             "idMal": 60460,
             "nextAiringEpisode": {
-                "airingAt": 1768581300
+                "airingAt": 1769186100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
@@ -1189,7 +1205,7 @@
             "id": 192867,
             "idMal": 61694,
             "nextAiringEpisode": {
-                "airingAt": 1768579200
+                "airingAt": 1769184000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192867-AXAu2LP7YA7Y.jpg",
@@ -1413,7 +1429,7 @@
             "id": 198117,
             "idMal": 62378,
             "nextAiringEpisode": {
-                "airingAt": 1768569720
+                "airingAt": 1769174520
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198117-ms0mzmuyOw8n.png",
@@ -1445,7 +1461,7 @@
             "id": 198413,
             "idMal": 62231,
             "nextAiringEpisode": {
-                "airingAt": 1768597200
+                "airingAt": 1769202000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198413-IDC13Jyk0xYD.png",
@@ -1541,7 +1557,7 @@
             "id": 200556,
             "idMal": 62804,
             "nextAiringEpisode": {
-                "airingAt": 1768573800
+                "airingAt": 1769178600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200556-TezRfCQCFLbA.png",
@@ -1589,7 +1605,7 @@
             "id": 203148,
             "idMal": 63106,
             "nextAiringEpisode": {
-                "airingAt": 1768593600
+                "airingAt": 1769198400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203148-fMhz9uyA6HEK.jpg",
@@ -1605,7 +1621,7 @@
             "id": 203296,
             "idMal": 62649,
             "nextAiringEpisode": {
-                "airingAt": 1768604400
+                "airingAt": 1769209200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203296-LYXWSdP4N4YF.jpg",
