@@ -1,5 +1,5 @@
 {
-    "__version__": 674,
+    "__version__": 675,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1769467200
+                "airingAt": 1769726400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -309,7 +309,7 @@
             "id": 166521,
             "idMal": 55772,
             "nextAiringEpisode": {
-                "airingAt": 1769436000
+                "airingAt": 1770040800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
@@ -421,7 +421,7 @@
             "id": 176370,
             "idMal": 58524,
             "nextAiringEpisode": {
-                "airingAt": 1769437800
+                "airingAt": 1770042600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176370-hz2H4TUeyGgt.png",
@@ -1173,7 +1173,7 @@
             "id": 189565,
             "idMal": 61359,
             "nextAiringEpisode": {
-                "airingAt": 1769439600
+                "airingAt": 1770044400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
@@ -1301,7 +1301,7 @@
             "id": 194028,
             "idMal": 61782,
             "nextAiringEpisode": {
-                "airingAt": 1769432400
+                "airingAt": 1770037200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
@@ -1365,7 +1365,7 @@
             "id": 195322,
             "idMal": 61942,
             "nextAiringEpisode": {
-                "airingAt": 1769432400
+                "airingAt": 1770037200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
@@ -1541,7 +1541,7 @@
             "id": 198720,
             "idMal": 62987,
             "nextAiringEpisode": {
-                "airingAt": 1769425200
+                "airingAt": 1770030000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198720-khTq51fpDDUZ.jpg",
@@ -1701,7 +1701,7 @@
             "id": 203472,
             "idMal": 63200,
             "nextAiringEpisode": {
-                "airingAt": 1769464800
+                "airingAt": 1770674400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203472-MJDpus1DWo3Z.png",
@@ -1711,6 +1711,22 @@
                 "userPreferred": "Himitsu Kessha Taka no Tsume XX",
                 "native": "\u79d8\u5bc6\u7d50\u793e \u9df9\u306e\u722aXX\uff08\u30c0\u30d6\u30eb\u30a8\u30c3\u30af\u30b9\uff09",
                 "romaji": "Himitsu Kessha Taka no Tsume XX"
+            }
+        },
+        {
+            "id": 203710,
+            "idMal": 60591,
+            "nextAiringEpisode": {
+                "airingAt": 1769684400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg"
+            },
+            "title": {
+                "userPreferred": "Wei Miao Rensheng",
+                "native": "\u4e3a\u55b5\u4eba\u751f",
+                "romaji": "Wei Miao Rensheng"
             }
         },
         {
