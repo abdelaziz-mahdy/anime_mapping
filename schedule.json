@@ -1,5 +1,5 @@
 {
-    "__version__": 685,
+    "__version__": 686,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1770429600
+                "airingAt": 1771034400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1770417000
+                "airingAt": 1771021800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -229,7 +229,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1770371700
+                "airingAt": 1770976500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -277,7 +277,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1770369900
+                "airingAt": 1770974700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -501,7 +501,7 @@
             "id": 179062,
             "idMal": 59229,
             "nextAiringEpisode": {
-                "airingAt": 1770396780
+                "airingAt": 1771001580
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
@@ -533,7 +533,7 @@
             "id": 181443,
             "idMal": 59853,
             "nextAiringEpisode": {
-                "airingAt": 1770390000
+                "airingAt": 1770994800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg",
@@ -549,7 +549,7 @@
             "id": 182255,
             "idMal": 59978,
             "nextAiringEpisode": {
-                "airingAt": 1770386400
+                "airingAt": 1770991200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
@@ -661,7 +661,7 @@
             "id": 184289,
             "idMal": 60070,
             "nextAiringEpisode": {
-                "airingAt": 1770415200
+                "airingAt": 1771020000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184289-v85FJN0O4S1j.jpg",
@@ -741,7 +741,7 @@
             "id": 185262,
             "idMal": 60460,
             "nextAiringEpisode": {
-                "airingAt": 1770395700
+                "airingAt": 1771000500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
@@ -959,6 +959,22 @@
                 "userPreferred": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
                 "native": "\u6771\u5cf6\u4e39\u4e09\u90ce\u306f\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u306b\u306a\u308a\u305f\u3044",
                 "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai"
+            }
+        },
+        {
+            "id": 187508,
+            "idMal": 61119,
+            "nextAiringEpisode": {
+                "airingAt": 1770980400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187508-kFWf3Fq0wl56.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187508-kFWf3Fq0wl56.png"
+            },
+            "title": {
+                "userPreferred": "Duel Masters LOST: Boukyaku no Taiyou",
+                "native": "Duel Masters LOST \uff5e\u5fd8\u5374\u306e\u592a\u967d\uff5e",
+                "romaji": "Duel Masters LOST: Boukyaku no Taiyou"
             }
         },
         {
@@ -1221,7 +1237,7 @@
             "id": 192867,
             "idMal": 61694,
             "nextAiringEpisode": {
-                "airingAt": 1770393600
+                "airingAt": 1770998400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192867-AXAu2LP7YA7Y.jpg",
@@ -1445,7 +1461,7 @@
             "id": 198117,
             "idMal": 62378,
             "nextAiringEpisode": {
-                "airingAt": 1770384120
+                "airingAt": 1770988920
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198117-ms0mzmuyOw8n.png",
@@ -1477,7 +1493,7 @@
             "id": 198413,
             "idMal": 62231,
             "nextAiringEpisode": {
-                "airingAt": 1770411600
+                "airingAt": 1771016400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198413-IDC13Jyk0xYD.png",
@@ -1573,7 +1589,7 @@
             "id": 200556,
             "idMal": 62804,
             "nextAiringEpisode": {
-                "airingAt": 1770388200
+                "airingAt": 1770993000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200556-TezRfCQCFLbA.png",
@@ -1637,7 +1653,7 @@
             "id": 203148,
             "idMal": 63106,
             "nextAiringEpisode": {
-                "airingAt": 1770408000
+                "airingAt": 1771012800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203148-fMhz9uyA6HEK.jpg",
@@ -1653,7 +1669,7 @@
             "id": 203296,
             "idMal": 62649,
             "nextAiringEpisode": {
-                "airingAt": 1770418800
+                "airingAt": 1771023600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203296-LYXWSdP4N4YF.jpg",
