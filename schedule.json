@@ -1,5 +1,5 @@
 {
-    "__version__": 698,
+    "__version__": 699,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1771539000
+                "airingAt": 1772143800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1771540800
+                "airingAt": 1771886400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -191,22 +191,6 @@
                 "userPreferred": "Ninjala",
                 "native": "\u30cb\u30f3\u30b8\u30e3\u30e9",
                 "romaji": "Ninjala"
-            }
-        },
-        {
-            "id": 144779,
-            "idMal": 50855,
-            "nextAiringEpisode": {
-                "airingAt": 1771513200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144779-WJ8aJbYk3o5t.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png"
-            },
-            "title": {
-                "userPreferred": "Yamato yo Towa ni: REBEL3199",
-                "native": "\u30e4\u30de\u30c8\u3088\u6c38\u9060\u306b REBEL3199",
-                "romaji": "Yamato yo Towa ni: REBEL3199"
             }
         },
         {
@@ -341,7 +325,7 @@
             "id": 167152,
             "idMal": 56009,
             "nextAiringEpisode": {
-                "airingAt": 1771507800
+                "airingAt": 1772112600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-u0cBZkqDowHP.jpg",
@@ -389,7 +373,7 @@
             "id": 176276,
             "idMal": 58505,
             "nextAiringEpisode": {
-                "airingAt": 1771509600
+                "airingAt": 1772114400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176276-rtF8mYd2OWw2.png",
@@ -597,7 +581,7 @@
             "id": 183270,
             "idMal": 60151,
             "nextAiringEpisode": {
-                "airingAt": 1771512960
+                "airingAt": 1772117760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
@@ -725,7 +709,7 @@
             "id": 185039,
             "idMal": 60395,
             "nextAiringEpisode": {
-                "airingAt": 1771511400
+                "airingAt": 1772116200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg",
@@ -757,7 +741,7 @@
             "id": 185514,
             "idMal": 60509,
             "nextAiringEpisode": {
-                "airingAt": 1771520280
+                "airingAt": 1772125080
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
@@ -805,7 +789,7 @@
             "id": 185753,
             "idMal": 60602,
             "nextAiringEpisode": {
-                "airingAt": 1771511400
+                "airingAt": 1772116200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185753-fKim5yXjaE9I.png",
@@ -853,7 +837,7 @@
             "id": 186313,
             "idMal": 60947,
             "nextAiringEpisode": {
-                "airingAt": 1771520280
+                "airingAt": 1772125080
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186313-29gCf3CWJu1n.jpg",
@@ -917,7 +901,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1771506000
+                "airingAt": 1772110800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -1109,7 +1093,7 @@
             "id": 189137,
             "idMal": 61325,
             "nextAiringEpisode": {
-                "airingAt": 1771518480
+                "airingAt": 1772123280
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189137-cCXaEiX0bJb4.jpg",
@@ -1189,7 +1173,7 @@
             "id": 191718,
             "idMal": 61587,
             "nextAiringEpisode": {
-                "airingAt": 1771515000
+                "airingAt": 1772119800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191718-FeR6bnlkqF0J.png",
@@ -1317,7 +1301,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1771498800
+                "airingAt": 1772103600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -1522,22 +1506,6 @@
             }
         },
         {
-            "id": 199005,
-            "idMal": 62521,
-            "nextAiringEpisode": {
-                "airingAt": 1771470000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199005-64XpgeaCMfir.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199005-64XpgeaCMfir.jpg"
-            },
-            "title": {
-                "userPreferred": "#Kanagawa ni Sunderu Elf",
-                "native": "#\u795e\u5948\u5ddd\u306b\u4f4f\u3093\u3067\u308b\u30a8\u30eb\u30d5 ",
-                "romaji": "#Kanagawa ni Sunderu Elf"
-            }
-        },
-        {
             "id": 199446,
             "idMal": 61969,
             "nextAiringEpisode": {
@@ -1557,7 +1525,7 @@
             "id": 199635,
             "idMal": 62676,
             "nextAiringEpisode": {
-                "airingAt": 1771493400
+                "airingAt": 1772098200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199635-rgif9o9VWMrt.png",
@@ -1637,7 +1605,7 @@
             "id": 203146,
             "idMal": 63013,
             "nextAiringEpisode": {
-                "airingAt": 1771536600
+                "airingAt": 1773955800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203146-6Zx7wl6hOEFH.png",
@@ -1701,7 +1669,7 @@
             "id": 203710,
             "idMal": 60591,
             "nextAiringEpisode": {
-                "airingAt": 1771498800
+                "airingAt": 1772103600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg",
