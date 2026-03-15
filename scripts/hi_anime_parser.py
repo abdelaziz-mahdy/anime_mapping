@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 class HiAnimeParser:
-    def __init__(self, client=None, base_url="https://hianime.to"):
+    def __init__(self, client=None, base_url="https://aniwatchtv.to"):
         self.base_url = base_url
         self.client = client if client else requests.Session()
 
