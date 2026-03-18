@@ -1,5 +1,5 @@
 {
-    "__version__": 724,
+    "__version__": 725,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1773799200
+                "airingAt": 1774404000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -421,7 +421,7 @@
             "id": 177679,
             "idMal": 58886,
             "nextAiringEpisode": {
-                "airingAt": 1773759600
+                "airingAt": 1774364400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
@@ -629,7 +629,7 @@
             "id": 183661,
             "idMal": 60226,
             "nextAiringEpisode": {
-                "airingAt": 1773756000
+                "airingAt": 1774360800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
@@ -645,7 +645,7 @@
             "id": 183984,
             "idMal": 60255,
             "nextAiringEpisode": {
-                "airingAt": 1773764940
+                "airingAt": 1774369740
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
@@ -933,7 +933,7 @@
             "id": 187942,
             "idMal": 61211,
             "nextAiringEpisode": {
-                "airingAt": 1773756000
+                "airingAt": 1774360800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
@@ -1173,7 +1173,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1773785160
+                "airingAt": 1774389960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -1205,7 +1205,7 @@
             "id": 194318,
             "idMal": 61830,
             "nextAiringEpisode": {
-                "airingAt": 1773757800
+                "airingAt": 1774362600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-V3STmm4wutVQ.jpg",
@@ -1234,22 +1234,6 @@
             }
         },
         {
-            "id": 194742,
-            "idMal": 61884,
-            "nextAiringEpisode": {
-                "airingAt": 1773752400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194742-Cw08T4vIfD3y.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194742-Cw08T4vIfD3y.jpg"
-            },
-            "title": {
-                "userPreferred": "Maou no Musume wa Yasashi Sugiru!!",
-                "native": "\u9b54\u738b\u306e\u5a18\u306f\u512a\u3057\u3059\u304e\u308b!!",
-                "romaji": "Maou no Musume wa Yasashi Sugiru!!"
-            }
-        },
-        {
             "id": 195322,
             "idMal": 61942,
             "nextAiringEpisode": {
@@ -1269,7 +1253,7 @@
             "id": 195515,
             "idMal": 61983,
             "nextAiringEpisode": {
-                "airingAt": 1773756000
+                "airingAt": 1774360800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
@@ -1410,6 +1394,22 @@
             }
         },
         {
+            "id": 198767,
+            "idMal": 62897,
+            "nextAiringEpisode": {
+                "airingAt": 1774195500
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198767-PoG84HHFXTit.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198767-PoG84HHFXTit.jpg"
+            },
+            "title": {
+                "userPreferred": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+                "native": "\u30a4\u30c1\u30b4\u54c0\u6b4c\uff5e\u96d1\u3067\u751f\u30a4\u30ad\u306a\u59b9\u3068\u5272\u308a\u5207\u308c\u306a\u3044\u5144\uff5e",
+                "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani"
+            }
+        },
+        {
             "id": 199008,
             "idMal": 62523,
             "nextAiringEpisode": {
@@ -1458,22 +1458,6 @@
             }
         },
         {
-            "id": 199931,
-            "idMal": 62662,
-            "nextAiringEpisode": {
-                "airingAt": 1773784800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199931-EhQ6yMCbEvik.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199931-EhQ6yMCbEvik.png"
-            },
-            "title": {
-                "userPreferred": "Dokodemo Makibao: World Tour",
-                "native": "\u3069\u3053\u3067\u3082\u30de\u30ad\u30d0\u30aa\u30fc \uff5e\u30ef\u30fc\u30eb\u30c9\u30c4\u30a2\u30fc\uff5e",
-                "romaji": "Dokodemo Makibao: World Tour"
-            }
-        },
-        {
             "id": 200556,
             "idMal": 62804,
             "nextAiringEpisode": {
@@ -1487,22 +1471,6 @@
                 "userPreferred": "High School! Kimengumi (2026)",
                 "native": "\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\uff01\u5947\u9762\u7d44 (2026)",
                 "romaji": "High School! Kimengumi (2026)"
-            }
-        },
-        {
-            "id": 202419,
-            "idMal": 62864,
-            "nextAiringEpisode": {
-                "airingAt": 1774096200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202419-BmPPSzsegbcv.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png"
-            },
-            "title": {
-                "userPreferred": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
-                "native": "\u304a\u524d\u306f\u307e\u3060\u30b0\u30f3\u30de\u3092\u77e5\u3089\u306a\u3044\uff5e\u4ee4\u548c\u7248\uff5e ",
-                "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban"
             }
         },
         {
@@ -1637,7 +1605,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1773788400
+                "airingAt": 1774393200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1653,7 +1621,7 @@
             "id": 204698,
             "idMal": 63216,
             "nextAiringEpisode": {
-                "airingAt": 1773795240
+                "airingAt": 1774400040
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204698-6v7aAq92mKFl.png",
