@@ -1,5 +1,5 @@
 {
-    "__version__": 726,
+    "__version__": 727,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1773958200
+                "airingAt": 1774563000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1773960000
+                "airingAt": 1774305600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -341,7 +341,7 @@
             "id": 167152,
             "idMal": 56009,
             "nextAiringEpisode": {
-                "airingAt": 1773927000
+                "airingAt": 1774531800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-u0cBZkqDowHP.jpg",
@@ -357,7 +357,7 @@
             "id": 172463,
             "idMal": 57658,
             "nextAiringEpisode": {
-                "airingAt": 1773933960
+                "airingAt": 1774538760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg",
@@ -373,7 +373,7 @@
             "id": 176276,
             "idMal": 58505,
             "nextAiringEpisode": {
-                "airingAt": 1773928800
+                "airingAt": 1774533600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176276-rtF8mYd2OWw2.png",
@@ -581,7 +581,7 @@
             "id": 183270,
             "idMal": 60151,
             "nextAiringEpisode": {
-                "airingAt": 1773932160
+                "airingAt": 1774536960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
@@ -693,7 +693,7 @@
             "id": 185039,
             "idMal": 60395,
             "nextAiringEpisode": {
-                "airingAt": 1773930600
+                "airingAt": 1774535400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg",
@@ -719,22 +719,6 @@
                 "userPreferred": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
                 "native": "\u30d8\u30eb\u30e2\u30fc\u30c9 \uff5e\u3084\u308a\u8fbc\u307f\u597d\u304d\u306e\u30b2\u30fc\u30de\u30fc\u306f\u5ec3\u8a2d\u5b9a\u306e\u7570\u4e16\u754c\u3067\u7121\u53cc\u3059\u308b\uff5e",
                 "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru"
-            }
-        },
-        {
-            "id": 185514,
-            "idMal": 60509,
-            "nextAiringEpisode": {
-                "airingAt": 1773939480
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-mfJqhtz22l1Z.jpg"
-            },
-            "title": {
-                "userPreferred": "Champignon no Majo",
-                "native": "\u30b7\u30e3\u30f3\u30d4\u30cb\u30aa\u30f3\u306e\u9b54\u5973",
-                "romaji": "Champignon no Majo"
             }
         },
         {
@@ -773,7 +757,7 @@
             "id": 185753,
             "idMal": 60602,
             "nextAiringEpisode": {
-                "airingAt": 1773930600
+                "airingAt": 1774535400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185753-fKim5yXjaE9I.png",
@@ -837,7 +821,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1773925200
+                "airingAt": 1774530000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -997,7 +981,7 @@
             "id": 189137,
             "idMal": 61325,
             "nextAiringEpisode": {
-                "airingAt": 1773937680
+                "airingAt": 1774542480
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189137-cCXaEiX0bJb4.jpg",
@@ -1077,7 +1061,7 @@
             "id": 191718,
             "idMal": 61587,
             "nextAiringEpisode": {
-                "airingAt": 1773934200
+                "airingAt": 1774539000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191718-FeR6bnlkqF0J.png",
@@ -1189,7 +1173,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1773918000
+                "airingAt": 1774522800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -1410,22 +1394,6 @@
             }
         },
         {
-            "id": 199635,
-            "idMal": 62676,
-            "nextAiringEpisode": {
-                "airingAt": 1773912600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199635-rgif9o9VWMrt.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199635-rgif9o9VWMrt.png"
-            },
-            "title": {
-                "userPreferred": "PetitCure: Precure Fairies Season 2",
-                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f3\uff12",
-                "romaji": "PetitCure: Precure Fairies Season 2"
-            }
-        },
-        {
             "id": 200556,
             "idMal": 62804,
             "nextAiringEpisode": {
@@ -1455,22 +1423,6 @@
                 "userPreferred": "Meitantei Precure!",
                 "native": "\u540d\u63a2\u5075\u30d7\u30ea\u30ad\u30e5\u30a2\uff01",
                 "romaji": "Meitantei Precure!"
-            }
-        },
-        {
-            "id": 203146,
-            "idMal": 63013,
-            "nextAiringEpisode": {
-                "airingAt": 1773955800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203146-6Zx7wl6hOEFH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203146-6Zx7wl6hOEFH.png"
-            },
-            "title": {
-                "userPreferred": "Atashin'chi NEXT 2",
-                "native": "\u3042\u305f\u3057\u30f3\u3061NEXT \u7b2c2\u671f",
-                "romaji": "Atashin'chi NEXT 2"
             }
         },
         {
@@ -1525,7 +1477,7 @@
             "id": 203710,
             "idMal": 60591,
             "nextAiringEpisode": {
-                "airingAt": 1773918000
+                "airingAt": 1774522800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg",
