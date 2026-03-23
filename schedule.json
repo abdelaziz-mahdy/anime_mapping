@@ -1,5 +1,5 @@
 {
-    "__version__": 729,
+    "__version__": 730,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1774171800
+                "airingAt": 1774776600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -101,7 +101,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1774170000
+                "airingAt": 1774774800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -309,7 +309,7 @@
             "id": 166613,
             "idMal": 55825,
             "nextAiringEpisode": {
-                "airingAt": 1774190640
+                "airingAt": 1774795440
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg",
@@ -405,7 +405,7 @@
             "id": 177385,
             "idMal": 58788,
             "nextAiringEpisode": {
-                "airingAt": 1774191600
+                "airingAt": 1774796400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
@@ -485,7 +485,7 @@
             "id": 179813,
             "idMal": 59393,
             "nextAiringEpisode": {
-                "airingAt": 1774152000
+                "airingAt": 1774760400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-WQ153lF3pDH6.jpg",
@@ -597,7 +597,7 @@
             "id": 183660,
             "idMal": 60223,
             "nextAiringEpisode": {
-                "airingAt": 1774168200
+                "airingAt": 1774773000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183660-B6o9cMfSfScX.jpg",
@@ -642,10 +642,26 @@
             }
         },
         {
+            "id": 184470,
+            "idMal": 61092,
+            "nextAiringEpisode": {
+                "airingAt": 1774744200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184470-m2izEvBeO49C.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184470-m2izEvBeO49C.jpg"
+            },
+            "title": {
+                "userPreferred": "Himitsu no AiPri: Ring-hen",
+                "native": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea \u30ea\u30f3\u30b0\u7de8",
+                "romaji": "Himitsu no AiPri: Ring-hen"
+            }
+        },
+        {
             "id": 184951,
             "idMal": 60371,
             "nextAiringEpisode": {
-                "airingAt": 1774166400
+                "airingAt": 1774771200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
@@ -738,42 +754,10 @@
             }
         },
         {
-            "id": 185993,
-            "idMal": 60692,
-            "nextAiringEpisode": {
-                "airingAt": 1774191600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185993-BecPUaWfZJgR.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185993-BecPUaWfZJgR.png"
-            },
-            "title": {
-                "userPreferred": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-                "native": "\u8cb4\u65cf\u8ee2\u751f \uff5e\u6075\u307e\u308c\u305f\u751f\u307e\u308c\u304b\u3089\u6700\u5f37\u306e\u529b\u3092\u5f97\u308b\uff5e",
-                "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru"
-            }
-        },
-        {
-            "id": 186333,
-            "idMal": 60810,
-            "nextAiringEpisode": {
-                "airingAt": 1774184400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186333-32qDHxLkndpg.png"
-            },
-            "title": {
-                "userPreferred": "Majutsushi Kunon wa Mieteiru",
-                "native": "\u9b54\u8853\u5e2b\u30af\u30ce\u30f3\u306f\u898b\u3048\u3066\u3044\u308b",
-                "romaji": "Majutsushi Kunon wa Mieteiru"
-            }
-        },
-        {
             "id": 187062,
             "idMal": 61084,
             "nextAiringEpisode": {
-                "airingAt": 1774189800
+                "airingAt": 1774794600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187062-JuXPEjrLQSeO.png",
@@ -1045,7 +1029,7 @@
             "id": 192507,
             "idMal": 61663,
             "nextAiringEpisode": {
-                "airingAt": 1774164600
+                "airingAt": 1774769400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
@@ -1157,7 +1141,7 @@
             "id": 195518,
             "idMal": 62000,
             "nextAiringEpisode": {
-                "airingAt": 1774188000
+                "airingAt": 1774792800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
@@ -1218,22 +1202,6 @@
             }
         },
         {
-            "id": 197731,
-            "idMal": 61886,
-            "nextAiringEpisode": {
-                "airingAt": 1774193400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197731-6E0qjPFaNjC6.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197731-6E0qjPFaNjC6.jpg"
-            },
-            "title": {
-                "userPreferred": "Goumon Baito-kun no Nichijou",
-                "native": "\u62f7\u554f\u30d0\u30a4\u30c8\u304f\u3093\u306e\u65e5\u5e38",
-                "romaji": "Goumon Baito-kun no Nichijou"
-            }
-        },
-        {
             "id": 198117,
             "idMal": 62378,
             "nextAiringEpisode": {
@@ -1279,22 +1247,6 @@
                 "userPreferred": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
                 "native": "\u5317\u6597\u306e\u62f3 \u62f3\u738b\u8ecd\u30b6\u30b3\u305f\u3061\u306e\u633d\u6b4c",
                 "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka"
-            }
-        },
-        {
-            "id": 198767,
-            "idMal": 62897,
-            "nextAiringEpisode": {
-                "airingAt": 1774195500
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198767-PoG84HHFXTit.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198767-PoG84HHFXTit.jpg"
-            },
-            "title": {
-                "userPreferred": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
-                "native": "\u30a4\u30c1\u30b4\u54c0\u6b4c\uff5e\u96d1\u3067\u751f\u30a4\u30ad\u306a\u59b9\u3068\u5272\u308a\u5207\u308c\u306a\u3044\u5144\uff5e",
-                "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani"
             }
         },
         {
@@ -1372,9 +1324,9 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203296-LYXWSdP4N4YF.jpg"
             },
             "title": {
-                "userPreferred": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+                "userPreferred": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen",
                 "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u5e7b\u771f\u661f\u6226\u7de8",
-                "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
+                "romaji": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen"
             }
         },
         {
@@ -1413,7 +1365,7 @@
             "id": 203939,
             "idMal": 63087,
             "nextAiringEpisode": {
-                "airingAt": 1774200000
+                "airingAt": 1774804800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203939-F8YG2X9LgfAX.png",
