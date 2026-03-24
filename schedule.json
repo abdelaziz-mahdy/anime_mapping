@@ -1,5 +1,5 @@
 {
-    "__version__": 730,
+    "__version__": 731,
     "data": [
         {
             "id": 21,
@@ -117,7 +117,7 @@
             "id": 137662,
             "idMal": 62927,
             "nextAiringEpisode": {
-                "airingAt": 1774288800
+                "airingAt": 1774893600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137662-iZigHTc71wi7.png",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1774305600
+                "airingAt": 1774564800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -213,7 +213,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1774317600
+                "airingAt": 1774749600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -293,7 +293,7 @@
             "id": 166521,
             "idMal": 55772,
             "nextAiringEpisode": {
-                "airingAt": 1774274400
+                "airingAt": 1774879200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
@@ -389,7 +389,7 @@
             "id": 176370,
             "idMal": 58524,
             "nextAiringEpisode": {
-                "airingAt": 1774276200
+                "airingAt": 1774881000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176370-hz2H4TUeyGgt.png",
@@ -946,22 +946,6 @@
             }
         },
         {
-            "id": 189565,
-            "idMal": 61359,
-            "nextAiringEpisode": {
-                "airingAt": 1774278000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg"
-            },
-            "title": {
-                "userPreferred": "Osananajimi to wa Love Comedy ni Naranai",
-                "native": "\u5e7c\u99b4\u67d3\u3068\u306f\u30e9\u30d6\u30b3\u30e1\u306b\u306a\u3089\u306a\u3044",
-                "romaji": "Osananajimi to wa Love Comedy ni Naranai"
-            }
-        },
-        {
             "id": 191205,
             "idMal": 61549,
             "nextAiringEpisode": {
@@ -1058,22 +1042,6 @@
             }
         },
         {
-            "id": 194028,
-            "idMal": 61782,
-            "nextAiringEpisode": {
-                "airingAt": 1774270800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194028-ASKnzjS1ily7.jpg"
-            },
-            "title": {
-                "userPreferred": "Kirei ni Shitemoraemasu ka.",
-                "native": "\u7dba\u9e97\u306b\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
-                "romaji": "Kirei ni Shitemoraemasu ka."
-            }
-        },
-        {
             "id": 194318,
             "idMal": 61830,
             "nextAiringEpisode": {
@@ -1109,7 +1077,7 @@
             "id": 195322,
             "idMal": 61942,
             "nextAiringEpisode": {
-                "airingAt": 1774270800
+                "airingAt": 1774875600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
@@ -1234,22 +1202,6 @@
             }
         },
         {
-            "id": 198720,
-            "idMal": 62987,
-            "nextAiringEpisode": {
-                "airingAt": 1774263600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198720-khTq51fpDDUZ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198720-khTq51fpDDUZ.jpg"
-            },
-            "title": {
-                "userPreferred": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
-                "native": "\u5317\u6597\u306e\u62f3 \u62f3\u738b\u8ecd\u30b6\u30b3\u305f\u3061\u306e\u633d\u6b4c",
-                "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka"
-            }
-        },
-        {
             "id": 199008,
             "idMal": 62523,
             "nextAiringEpisode": {
@@ -1333,7 +1285,7 @@
             "id": 203472,
             "idMal": 63200,
             "nextAiringEpisode": {
-                "airingAt": 1774303200
+                "airingAt": 1774908000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203472-MJDpus1DWo3Z.png",
