@@ -1,5 +1,5 @@
 {
-    "__version__": 731,
+    "__version__": 732,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1774404000
+                "airingAt": 1775008800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -421,7 +421,7 @@
             "id": 177679,
             "idMal": 58886,
             "nextAiringEpisode": {
-                "airingAt": 1774364400
+                "airingAt": 1774969200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
@@ -437,7 +437,7 @@
             "id": 178005,
             "idMal": 59047,
             "nextAiringEpisode": {
-                "airingAt": 1774450800
+                "airingAt": 1774537200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178005-pCEReATswrup.jpg",
@@ -607,38 +607,6 @@
                 "userPreferred": "Kaya-chan wa Kowakunai",
                 "native": "\u30ab\u30e4\u3061\u3083\u3093\u306f\u30b3\u30ef\u304f\u306a\u3044",
                 "romaji": "Kaya-chan wa Kowakunai"
-            }
-        },
-        {
-            "id": 183661,
-            "idMal": 60226,
-            "nextAiringEpisode": {
-                "airingAt": 1774360800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183661-3muPFi4LtHmK.jpg"
-            },
-            "title": {
-                "userPreferred": "Isekai no Sata wa Shachiku Shidai",
-                "native": "\u7570\u4e16\u754c\u306e\u6c99\u6c70\u306f\u793e\u755c\u6b21\u7b2c",
-                "romaji": "Isekai no Sata wa Shachiku Shidai"
-            }
-        },
-        {
-            "id": 183984,
-            "idMal": 60255,
-            "nextAiringEpisode": {
-                "airingAt": 1774369740
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183984-uq5scAXrhEdx.jpg"
-            },
-            "title": {
-                "userPreferred": "Arne no Jikenbo",
-                "native": "\u30a2\u30eb\u30cd\u306e\u4e8b\u4ef6\u7c3f",
-                "romaji": "Arne no Jikenbo"
             }
         },
         {
@@ -815,22 +783,6 @@
                 "userPreferred": "Tensei Shitara Dragon no Tamago Datta",
                 "native": "\u8ee2\u751f\u3057\u305f\u3089\u30c9\u30e9\u30b4\u30f3\u306e\u5375\u3060\u3063\u305f",
                 "romaji": "Tensei Shitara Dragon no Tamago Datta"
-            }
-        },
-        {
-            "id": 187942,
-            "idMal": 61211,
-            "nextAiringEpisode": {
-                "airingAt": 1774360800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187942-c2cZvunJGfiE.jpg"
-            },
-            "title": {
-                "userPreferred": "Mayonaka Heart Tune",
-                "native": "\u771f\u591c\u4e2d\u30cf\u30fc\u30c8\u30c1\u30e5\u30fc\u30f3",
-                "romaji": "Mayonaka Heart Tune"
             }
         },
         {
@@ -1029,7 +981,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1774389960
+                "airingAt": 1774994760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -1039,22 +991,6 @@
                 "userPreferred": "Chibi Godzilla no Gyakushuu 3",
                 "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
                 "romaji": "Chibi Godzilla no Gyakushuu 3"
-            }
-        },
-        {
-            "id": 194318,
-            "idMal": 61830,
-            "nextAiringEpisode": {
-                "airingAt": 1774362600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-V3STmm4wutVQ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg"
-            },
-            "title": {
-                "userPreferred": "Yoroi Shinden Samurai Troopers",
-                "native": "\u93a7\u771f\u4f1d\u30b5\u30e0\u30e9\u30a4\u30c8\u30eb\u30fc\u30d1\u30fc",
-                "romaji": "Yoroi Shinden Samurai Troopers"
             }
         },
         {
@@ -1093,7 +1029,7 @@
             "id": 195515,
             "idMal": 61983,
             "nextAiringEpisode": {
-                "airingAt": 1774360800
+                "airingAt": 1774965600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
@@ -1349,7 +1285,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1774393200
+                "airingAt": 1774998000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1365,7 +1301,7 @@
             "id": 204698,
             "idMal": 63216,
             "nextAiringEpisode": {
-                "airingAt": 1774400040
+                "airingAt": 1775004840
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204698-6v7aAq92mKFl.png",
