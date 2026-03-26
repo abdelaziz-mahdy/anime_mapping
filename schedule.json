@@ -1,5 +1,5 @@
 {
-    "__version__": 732,
+    "__version__": 733,
     "data": [
         {
             "id": 21,
@@ -546,38 +546,6 @@
             }
         },
         {
-            "id": 182587,
-            "idMal": 60058,
-            "nextAiringEpisode": {
-                "airingAt": 1774447200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182587-fsU8LOjmd7oj.jpg"
-            },
-            "title": {
-                "userPreferred": "[Oshi no Ko] 3rd Season",
-                "native": "\u3010\u63a8\u3057\u306e\u5b50\u3011\u7b2c3\u671f",
-                "romaji": "[Oshi no Ko] 3rd Season"
-            }
-        },
-        {
-            "id": 182771,
-            "idMal": 60071,
-            "nextAiringEpisode": {
-                "airingAt": 1774450800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182771-KVq712ii32fJ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg"
-            },
-            "title": {
-                "userPreferred": "Odayaka Kizoku no Kyuuka no Susume.",
-                "native": "\u7a4f\u3084\u304b\u8cb4\u65cf\u306e\u4f11\u6687\u306e\u3059\u3059\u3081\u3002",
-                "romaji": "Odayaka Kizoku no Kyuuka no Susume."
-            }
-        },
-        {
             "id": 183270,
             "idMal": 60151,
             "nextAiringEpisode": {
@@ -837,7 +805,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1774436400
+                "airingAt": 1775041200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -898,22 +866,6 @@
             }
         },
         {
-            "id": 191205,
-            "idMal": 61549,
-            "nextAiringEpisode": {
-                "airingAt": 1774443600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191205-ALhucRyrwOW1.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191205-ALhucRyrwOW1.jpg"
-            },
-            "title": {
-                "userPreferred": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
-                "native": "\u304a\u6c17\u697d\u9818\u4e3b\u306e\u697d\u3057\u3044\u9818\u5730\u9632\u885b",
-                "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
-            }
-        },
-        {
             "id": 191718,
             "idMal": 61587,
             "nextAiringEpisode": {
@@ -927,38 +879,6 @@
                 "userPreferred": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
                 "native": "\u300c\u304a\u524d\u3054\u3068\u304d\u304c\u9b54\u738b\u306b\u52dd\u3066\u308b\u3068\u601d\u3046\u306a\u300d\u3068\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u3092\u8ffd\u653e\u3055\u308c\u305f\u306e\u3067\u3001\u738b\u90fd\u3067\u6c17\u307e\u307e\u306b\u66ae\u3089\u3057\u305f\u3044",
                 "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai"
-            }
-        },
-        {
-            "id": 191967,
-            "idMal": 61608,
-            "nextAiringEpisode": {
-                "airingAt": 1774449960
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-fLWqssc0gPI4.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191967-fLWqssc0gPI4.jpg"
-            },
-            "title": {
-                "userPreferred": "Jigoku Sensei Nube (2025) Part 2",
-                "native": "\u5730\u7344\u5148\u751f\u306c\uff5e\u3079\uff5e (2025) \u7b2c2\u30af\u30fc\u30eb",
-                "romaji": "Jigoku Sensei Nube (2025) Part 2"
-            }
-        },
-        {
-            "id": 192261,
-            "idMal": 61637,
-            "nextAiringEpisode": {
-                "airingAt": 1774441800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192261-oaqwOjlr64ki.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg"
-            },
-            "title": {
-                "userPreferred": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-                "native": "29\u6b73\u72ec\u8eab\u4e2d\u5805\u5192\u967a\u8005\u306e\u65e5\u5e38",
-                "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou"
             }
         },
         {
@@ -1317,7 +1237,7 @@
             "id": 205676,
             "idMal": 63275,
             "nextAiringEpisode": {
-                "airingAt": 1774476000
+                "airingAt": 1775080800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205676-VlzcdwHYdJCe.png",
@@ -1343,6 +1263,22 @@
                 "userPreferred": "Guangyin Zhi Wai",
                 "native": "\u5149\u9634\u4e4b\u5916",
                 "romaji": "Guangyin Zhi Wai"
+            }
+        },
+        {
+            "id": 209541,
+            "idMal": 63773,
+            "nextAiringEpisode": {
+                "airingAt": 1775079000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg"
+            },
+            "title": {
+                "userPreferred": "PetitCure: Precure Fairies Season 3",
+                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f33",
+                "romaji": "PetitCure: Precure Fairies Season 3"
             }
         }
     ]
