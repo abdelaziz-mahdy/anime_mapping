@@ -1,5 +1,5 @@
 {
-    "__version__": 734,
+    "__version__": 735,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1774663200
+                "airingAt": 1775268000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1774650600
+                "airingAt": 1775255400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -277,7 +277,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1774603500
+                "airingAt": 1775208300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -405,7 +405,7 @@
             "id": 179062,
             "idMal": 59229,
             "nextAiringEpisode": {
-                "airingAt": 1774630380
+                "airingAt": 1775235180
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
@@ -447,38 +447,6 @@
                 "userPreferred": "Chitose-kun wa Ramune Bin no Naka",
                 "native": "\u5343\u6b73\u304f\u3093\u306f\u30e9\u30e0\u30cd\u74f6\u306e\u306a\u304b",
                 "romaji": "Chitose-kun wa Ramune Bin no Naka"
-            }
-        },
-        {
-            "id": 181443,
-            "idMal": 59853,
-            "nextAiringEpisode": {
-                "airingAt": 1774623600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg"
-            },
-            "title": {
-                "userPreferred": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-                "native": "DARK MOON\u3000-\u9ed2\u306e\u6708: \u6708\u306e\u796d\u58c7-",
-                "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan"
-            }
-        },
-        {
-            "id": 182255,
-            "idMal": 59978,
-            "nextAiringEpisode": {
-                "airingAt": 1774620000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg"
-            },
-            "title": {
-                "userPreferred": "Sousou no Frieren 2nd Season",
-                "native": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \u7b2c2\u671f",
-                "romaji": "Sousou no Frieren 2nd Season"
             }
         },
         {
@@ -527,22 +495,6 @@
                 "userPreferred": "Seihantai na Kimi to Boku",
                 "native": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5",
                 "romaji": "Seihantai na Kimi to Boku"
-            }
-        },
-        {
-            "id": 185262,
-            "idMal": 60460,
-            "nextAiringEpisode": {
-                "airingAt": 1774629300
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185262-95wbx3Y9hCwm.jpg"
-            },
-            "title": {
-                "userPreferred": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
-                "native": "\u30d8\u30eb\u30e2\u30fc\u30c9 \uff5e\u3084\u308a\u8fbc\u307f\u597d\u304d\u306e\u30b2\u30fc\u30de\u30fc\u306f\u5ec3\u8a2d\u5b9a\u306e\u7570\u4e16\u754c\u3067\u7121\u53cc\u3059\u308b\uff5e",
-                "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru"
             }
         },
         {
@@ -866,22 +818,6 @@
             }
         },
         {
-            "id": 198117,
-            "idMal": 62378,
-            "nextAiringEpisode": {
-                "airingAt": 1774617720
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198117-ms0mzmuyOw8n.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198117-ms0mzmuyOw8n.png"
-            },
-            "title": {
-                "userPreferred": "GANGLION",
-                "native": "\u30ac\u30f3\u30b0\u30ea\u30aa\u30f3",
-                "romaji": "GANGLION"
-            }
-        },
-        {
             "id": 198374,
             "idMal": 62432,
             "nextAiringEpisode": {
@@ -914,22 +850,6 @@
             }
         },
         {
-            "id": 200556,
-            "idMal": 62804,
-            "nextAiringEpisode": {
-                "airingAt": 1774621800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200556-TezRfCQCFLbA.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-TezRfCQCFLbA.png"
-            },
-            "title": {
-                "userPreferred": "High School! Kimengumi (2026)",
-                "native": "\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\uff01\u5947\u9762\u7d44 (2026)",
-                "romaji": "High School! Kimengumi (2026)"
-            }
-        },
-        {
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
@@ -946,26 +866,10 @@
             }
         },
         {
-            "id": 203148,
-            "idMal": 63106,
-            "nextAiringEpisode": {
-                "airingAt": 1774641600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203148-fMhz9uyA6HEK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203148-fMhz9uyA6HEK.jpg"
-            },
-            "title": {
-                "userPreferred": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
-                "native": "\u307b\u3063\u307a\u3061\u3083\u3093 \uff5e\u30b5\u30f3\u738b\u56fd\u3068\u9ed2\u307b\u3063\u307a\u56e3\u306e\u79d8\u5bc6\uff5e",
-                "romaji": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu"
-            }
-        },
-        {
             "id": 203296,
             "idMal": 62649,
             "nextAiringEpisode": {
-                "airingAt": 1774652400
+                "airingAt": 1775257200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203296-LYXWSdP4N4YF.jpg",
