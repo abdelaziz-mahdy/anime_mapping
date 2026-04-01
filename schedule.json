@@ -1,5 +1,5 @@
 {
-    "__version__": 738,
+    "__version__": 739,
     "data": [
         {
             "id": 21,
@@ -8,8 +8,8 @@
                 "airingAt": 1775398560
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-RDGpIoYOqtrL.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-RDGpIoYOqtrL.png"
             },
             "title": {
                 "userPreferred": "ONE PIECE",
@@ -133,7 +133,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1775008800
+                "airingAt": 1775613600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -168,8 +168,8 @@
                 "airingAt": 1775169600
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-jIjZWw3Aa9FV.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-jIjZWw3Aa9FV.png"
             },
             "title": {
                 "userPreferred": "Chiikawa",
@@ -258,22 +258,6 @@
             }
         },
         {
-            "id": 177679,
-            "idMal": 58886,
-            "nextAiringEpisode": {
-                "airingAt": 1774969200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177679-BgsgE0fQk3qN.jpg"
-            },
-            "title": {
-                "userPreferred": "Darwin Jihen",
-                "native": "\u30c0\u30fc\u30a6\u30a3\u30f3\u4e8b\u5909",
-                "romaji": "Darwin Jihen"
-            }
-        },
-        {
             "id": 179062,
             "idMal": 59229,
             "nextAiringEpisode": {
@@ -296,29 +280,13 @@
                 "airingAt": 1775361600
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-Bu6tvnVr6rEM.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-Bu6tvnVr6rEM.png"
             },
             "title": {
                 "userPreferred": "Niwatori Fighter",
                 "native": "\u30cb\u30ef\u30c8\u30ea\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc",
                 "romaji": "Niwatori Fighter"
-            }
-        },
-        {
-            "id": 180082,
-            "idMal": 59517,
-            "nextAiringEpisode": {
-                "airingAt": 1774947600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180082-IZAlf06G2VVm.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180082-IZAlf06G2VVm.png"
-            },
-            "title": {
-                "userPreferred": "Chitose-kun wa Ramune Bin no Naka",
-                "native": "\u5343\u6b73\u304f\u3093\u306f\u30e9\u30e0\u30cd\u74f6\u306e\u306a\u304b",
-                "romaji": "Chitose-kun wa Ramune Bin no Naka"
             }
         },
         {
@@ -434,30 +402,14 @@
             }
         },
         {
-            "id": 188753,
-            "idMal": 61297,
-            "nextAiringEpisode": {
-                "airingAt": 1774926000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png"
-            },
-            "title": {
-                "userPreferred": "Gekkan! Nanmono Anime",
-                "native": "\u3052\u3063\u304b\u3093\uff01\u306a\u3093\u3082\u306e\u30a2\u30cb\u30e1",
-                "romaji": "Gekkan! Nanmono Anime"
-            }
-        },
-        {
             "id": 190143,
             "idMal": 61443,
             "nextAiringEpisode": {
                 "airingAt": 1775314800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-UV3GarNkmbMi.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-UV3GarNkmbMi.jpg"
             },
             "title": {
                 "userPreferred": "Shunkashuutou Daikousha: Haru no Mai",
@@ -469,7 +421,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1774994760
+                "airingAt": 1775599560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -498,22 +450,6 @@
             }
         },
         {
-            "id": 195515,
-            "idMal": 61983,
-            "nextAiringEpisode": {
-                "airingAt": 1774965600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-p1nD71Hmr4ly.jpg"
-            },
-            "title": {
-                "userPreferred": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
-                "native": "\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u30fc\u306b\u304b\u308f\u3044\u3044\u5b50\u304c\u3044\u305f\u306e\u3067\u3001\u544a\u767d\u3057\u3066\u307f\u305f\u3002",
-                "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita."
-            }
-        },
-        {
             "id": 196613,
             "idMal": null,
             "nextAiringEpisode": {
@@ -527,6 +463,22 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 4",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a4",
                 "romaji": "Dou Po Cangqiong: Nian Fan 4"
+            }
+        },
+        {
+            "id": 197868,
+            "idMal": 62342,
+            "nextAiringEpisode": {
+                "airingAt": 1775394000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png"
+            },
+            "title": {
+                "userPreferred": "Maid-san wa Taberu dake",
+                "native": "\u30e1\u30a4\u30c9\u3055\u3093\u306f\u98df\u3079\u308b\u3060\u3051",
+                "romaji": "Maid-san wa Taberu dake"
             }
         },
         {
@@ -661,7 +613,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1774998000
+                "airingAt": 1775602800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
