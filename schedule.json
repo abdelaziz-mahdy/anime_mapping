@@ -1,5 +1,5 @@
 {
-    "__version__": 741,
+    "__version__": 742,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1775268000
+                "airingAt": 1775872800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1775255400
+                "airingAt": 1775860200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -258,6 +258,22 @@
             }
         },
         {
+            "id": 170019,
+            "idMal": 56876,
+            "nextAiringEpisode": {
+                "airingAt": 1775827800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg"
+            },
+            "title": {
+                "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+                "native": "\u304a\u96a3\u306e\u5929\u4f7f\u69d8\u306b\u3044\u3064\u306e\u9593\u306b\u304b\u99c4\u76ee\u4eba\u9593\u306b\u3055\u308c\u3066\u3044\u305f\u4ef6 \u7b2c2\u671f",
+                "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
+            }
+        },
+        {
             "id": 173172,
             "idMal": 57779,
             "nextAiringEpisode": {
@@ -271,22 +287,6 @@
                 "userPreferred": "Dorohedoro Season 2",
                 "native": "\u30c9\u30ed\u30d8\u30c9\u30ed Season 2",
                 "romaji": "Dorohedoro Season 2"
-            }
-        },
-        {
-            "id": 179062,
-            "idMal": 59229,
-            "nextAiringEpisode": {
-                "airingAt": 1775235180
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png"
-            },
-            "title": {
-                "userPreferred": "Enen no Shouboutai: San no Shou Part 2",
-                "native": "\u708e\u708e\u30ce\u6d88\u9632\u968a \u53c2\u30ce\u7ae0 \u7b2c2\u30af\u30fc\u30eb",
-                "romaji": "Enen no Shouboutai: San no Shou Part 2"
             }
         },
         {
@@ -367,6 +367,38 @@
                 "userPreferred": "Kirio Fanclub",
                 "native": "\u9727\u5c3e\u30d5\u30a1\u30f3\u30af\u30e9\u30d6",
                 "romaji": "Kirio Fanclub"
+            }
+        },
+        {
+            "id": 182205,
+            "idMal": 59970,
+            "nextAiringEpisode": {
+                "airingAt": 1775829600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg"
+            },
+            "title": {
+                "userPreferred": "Tensei Shitara Slime Datta Ken 4th Season",
+                "native": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u7b2c4\u671f",
+                "romaji": "Tensei Shitara Slime Datta Ken 4th Season"
+            }
+        },
+        {
+            "id": 183231,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1775867160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183231-nqc56OPthHii.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183231-nqc56OPthHii.jpg"
+            },
+            "title": {
+                "userPreferred": "Rilakkuma: Goyururi Yume no Tabi",
+                "native": "\u30ea\u30e9\u30c3\u30af\u30de \uff5e\u3054\u3086\u308b\u308a\u5922\u306e\u65c5\uff5e",
+                "romaji": "Rilakkuma: Goyururi Yume no Tabi"
             }
         },
         {
@@ -514,6 +546,22 @@
             }
         },
         {
+            "id": 192808,
+            "idMal": 61687,
+            "nextAiringEpisode": {
+                "airingAt": 1775826000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg"
+            },
+            "title": {
+                "userPreferred": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+                "native": "\u81ea\u79f0\u60aa\u5f79\u4ee4\u5b22\u306a\u5a5a\u7d04\u8005\u306e\u89b3\u5bdf\u8a18\u9332\u3002",
+                "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
+            }
+        },
+        {
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
@@ -578,6 +626,22 @@
             }
         },
         {
+            "id": 196144,
+            "idMal": 62068,
+            "nextAiringEpisode": {
+                "airingAt": 1775831400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg"
+            },
+            "title": {
+                "userPreferred": "Snowball Earth",
+                "native": "\u30b9\u30ce\u30a6\u30dc\u30fc\u30eb\u30a2\u30fc\u30b9",
+                "romaji": "Snowball Earth"
+            }
+        },
+        {
             "id": 196613,
             "idMal": null,
             "nextAiringEpisode": {
@@ -623,6 +687,22 @@
                 "userPreferred": "Jingai Kyoushitsu no Ningengirai Kyoushi",
                 "native": "\u4eba\u5916\u6559\u5ba4\u306e\u4eba\u9593\u5acc\u3044\u6559\u5e2b",
                 "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi"
+            }
+        },
+        {
+            "id": 198411,
+            "idMal": 62495,
+            "nextAiringEpisode": {
+                "airingAt": 1775867400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png"
+            },
+            "title": {
+                "userPreferred": "Nezumi-kun no Chokki (TV)",
+                "native": "\u306d\u305a\u307f\u304f\u3093\u306e\u30c1\u30e7\u30c3\u30ad (TV)",
+                "romaji": "Nezumi-kun no Chokki (TV)"
             }
         },
         {
@@ -741,7 +821,7 @@
             "id": 203296,
             "idMal": 62649,
             "nextAiringEpisode": {
-                "airingAt": 1775257200
+                "airingAt": 1775862000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203296-LYXWSdP4N4YF.jpg",
@@ -879,6 +959,22 @@
                 "userPreferred": "Komekami! Girls",
                 "native": "\u3053\u3081\u304b\u307f\u3063\uff01Girls",
                 "romaji": "Komekami! Girls"
+            }
+        },
+        {
+            "id": 210234,
+            "idMal": 63304,
+            "nextAiringEpisode": {
+                "airingAt": 1775750400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg"
+            },
+            "title": {
+                "userPreferred": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
+                "native": "\u9b54\u7269\u55b0\u3089\u3044\u306e\u5192\u967a\u8005 ~\u4ffa\u3060\u3051\u9b54\u7269\u3092\u55b0\u3089\u3063\u3066\u5f37\u304f\u306a\u308b~",
+                "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
             }
         }
     ]
