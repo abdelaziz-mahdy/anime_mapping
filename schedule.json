@@ -1,5 +1,5 @@
 {
-    "__version__": 742,
+    "__version__": 743,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1775293200
+                "airingAt": 1775898000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1775287800
+                "airingAt": 1775892600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -85,7 +85,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1775289600
+                "airingAt": 1775894400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -213,7 +213,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1775354400
+                "airingAt": 1775527200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -271,6 +271,22 @@
                 "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
                 "native": "\u304a\u96a3\u306e\u5929\u4f7f\u69d8\u306b\u3044\u3064\u306e\u9593\u306b\u304b\u99c4\u76ee\u4eba\u9593\u306b\u3055\u308c\u3066\u3044\u305f\u4ef6 \u7b2c2\u671f",
                 "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
+            }
+        },
+        {
+            "id": 171110,
+            "idMal": 57466,
+            "nextAiringEpisode": {
+                "airingAt": 1775896200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg"
+            },
+            "title": {
+                "userPreferred": "Honzuki no Gekokujou: Ryoushu no Youjo",
+                "native": "\u672c\u597d\u304d\u306e\u4e0b\u524b\u4e0a \u9818\u4e3b\u306e\u990a\u5973",
+                "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
             }
         },
         {
@@ -402,10 +418,26 @@
             }
         },
         {
+            "id": 184492,
+            "idMal": 60310,
+            "nextAiringEpisode": {
+                "airingAt": 1775899560
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg"
+            },
+            "title": {
+                "userPreferred": "Mairimashita! Iruma-kun 4",
+                "native": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093 \u7b2c4\u30b7\u30ea\u30fc\u30ba",
+                "romaji": "Mairimashita! Iruma-kun 4"
+            }
+        },
+        {
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1775343600
+                "airingAt": 1775948400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -501,7 +533,7 @@
             "id": 188388,
             "idMal": 61269,
             "nextAiringEpisode": {
-                "airingAt": 1775347200
+                "airingAt": 1775952000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
@@ -533,7 +565,7 @@
             "id": 190143,
             "idMal": 61443,
             "nextAiringEpisode": {
-                "airingAt": 1775314800
+                "airingAt": 1775919600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
@@ -543,6 +575,22 @@
                 "userPreferred": "Shunkashuutou Daikousha: Haru no Mai",
                 "native": "\u6625\u590f\u79cb\u51ac\u4ee3\u884c\u8005 \u6625\u306e\u821e",
                 "romaji": "Shunkashuutou Daikousha: Haru no Mai"
+            }
+        },
+        {
+            "id": 190704,
+            "idMal": 61501,
+            "nextAiringEpisode": {
+                "airingAt": 1775923200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg"
+            },
+            "title": {
+                "userPreferred": "Kanan-sama wa Akumade Choroi",
+                "native": "\u30ab\u30ca\u30f3\u69d8\u306f\u3042\u304f\u307e\u3067\u30c1\u30e7\u30ed\u3044",
+                "romaji": "Kanan-sama wa Akumade Choroi"
             }
         },
         {
@@ -626,6 +674,54 @@
             }
         },
         {
+            "id": 195600,
+            "idMal": 62001,
+            "nextAiringEpisode": {
+                "airingAt": 1775917800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg"
+            },
+            "title": {
+                "userPreferred": "Yomi no Tsugai",
+                "native": "\u9ec4\u6cc9\u306e\u30c4\u30ac\u30a4",
+                "romaji": "Yomi no Tsugai"
+            }
+        },
+        {
+            "id": 196012,
+            "idMal": 62048,
+            "nextAiringEpisode": {
+                "airingAt": 1775918760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg"
+            },
+            "title": {
+                "userPreferred": "MAO",
+                "native": "MAO",
+                "romaji": "MAO"
+            }
+        },
+        {
+            "id": 196029,
+            "idMal": 62050,
+            "nextAiringEpisode": {
+                "airingAt": 1775925000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196029-4ML0UHngkZhn.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg"
+            },
+            "title": {
+                "userPreferred": "Kami no Niwatsuki Kusunoki-tei ",
+                "native": "\u795e\u306e\u5ead\u4ed8\u304d\u6960\u6728\u90b8",
+                "romaji": "Kami no Niwatsuki Kusunoki-tei "
+            }
+        },
+        {
             "id": 196144,
             "idMal": 62068,
             "nextAiringEpisode": {
@@ -645,7 +741,7 @@
             "id": 196613,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1775354400
+                "airingAt": 1775959200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg",
@@ -655,6 +751,22 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 4",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a4",
                 "romaji": "Dou Po Cangqiong: Nian Fan 4"
+            }
+        },
+        {
+            "id": 196935,
+            "idMal": 62164,
+            "nextAiringEpisode": {
+                "airingAt": 1775917800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg"
+            },
+            "title": {
+                "userPreferred": "Akane-banashi",
+                "native": "\u3042\u304b\u306d\u567a",
+                "romaji": "Akane-banashi"
             }
         },
         {
@@ -671,22 +783,6 @@
                 "userPreferred": "Maid-san wa Taberu dake",
                 "native": "\u30e1\u30a4\u30c9\u3055\u3093\u306f\u98df\u3079\u308b\u3060\u3051",
                 "romaji": "Maid-san wa Taberu dake"
-            }
-        },
-        {
-            "id": 198374,
-            "idMal": 62432,
-            "nextAiringEpisode": {
-                "airingAt": 1775314800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg"
-            },
-            "title": {
-                "userPreferred": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-                "native": "\u4eba\u5916\u6559\u5ba4\u306e\u4eba\u9593\u5acc\u3044\u6559\u5e2b",
-                "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi"
             }
         },
         {
@@ -722,22 +818,6 @@
             }
         },
         {
-            "id": 199008,
-            "idMal": 62523,
-            "nextAiringEpisode": {
-                "airingAt": 1775350800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199008-P45zksUSzTWD.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199008-P45zksUSzTWD.png"
-            },
-            "title": {
-                "userPreferred": "Uso Tantei Tomanto",
-                "native": "\u3046\u305d\u63a2\u5075\u30c8\u30de\u30f3\u30c8",
-                "romaji": "Uso Tantei Tomanto"
-            }
-        },
-        {
             "id": 199221,
             "idMal": 62568,
             "nextAiringEpisode": {
@@ -757,7 +837,7 @@
             "id": 200769,
             "idMal": 62825,
             "nextAiringEpisode": {
-                "airingAt": 1775309400
+                "airingAt": 1775914200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg",
@@ -786,6 +866,22 @@
             }
         },
         {
+            "id": 202102,
+            "idMal": 62913,
+            "nextAiringEpisode": {
+                "airingAt": 1775921400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png"
+            },
+            "title": {
+                "userPreferred": "NEEDY GIRL OVERDOSE",
+                "native": "NEEDY GIRL OVERDOSE",
+                "romaji": "NEEDY GIRL OVERDOSE"
+            }
+        },
+        {
             "id": 202381,
             "idMal": 62964,
             "nextAiringEpisode": {
@@ -805,7 +901,7 @@
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
-                "airingAt": 1775345400
+                "airingAt": 1775950200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
@@ -885,7 +981,7 @@
             "id": 203953,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1775314800
+                "airingAt": 1775919600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203953-0o0WnauWOeQO.jpg",
@@ -917,7 +1013,7 @@
             "id": 205905,
             "idMal": 62340,
             "nextAiringEpisode": {
-                "airingAt": 1775354400
+                "airingAt": 1775959200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205905-lbDVh7foIfjt.jpg",
@@ -927,6 +1023,22 @@
                 "userPreferred": "Guangyin Zhi Wai",
                 "native": "\u5149\u9634\u4e4b\u5916",
                 "romaji": "Guangyin Zhi Wai"
+            }
+        },
+        {
+            "id": 206523,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1775953800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-2IaJCk4R7i63.jpg"
+            },
+            "title": {
+                "userPreferred": "Onegai AiPri",
+                "native": "\u304a\u306d\u304c\u3044\u30a2\u30a4\u30d7\u30ea",
+                "romaji": "Onegai AiPri"
             }
         },
         {
@@ -975,6 +1087,22 @@
                 "userPreferred": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
                 "native": "\u9b54\u7269\u55b0\u3089\u3044\u306e\u5192\u967a\u8005 ~\u4ffa\u3060\u3051\u9b54\u7269\u3092\u55b0\u3089\u3063\u3066\u5f37\u304f\u306a\u308b~",
                 "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
+            }
+        },
+        {
+            "id": 210375,
+            "idMal": 63433,
+            "nextAiringEpisode": {
+                "airingAt": 1775652900
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210375-Nfj4cciZ35un.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210375-Nfj4cciZ35un.jpg"
+            },
+            "title": {
+                "userPreferred": "Daikenja Riddle no Jikan Gyakko",
+                "native": "\u5927\u8ce2\u8005\u30ea\u30c9\u30eb\u306e\u6642\u9593\u9006\u884c",
+                "romaji": "Daikenja Riddle no Jikan Gyakko"
             }
         }
     ]
