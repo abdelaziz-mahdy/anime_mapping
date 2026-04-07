@@ -1,5 +1,5 @@
 {
-    "__version__": 744,
+    "__version__": 745,
     "data": [
         {
             "id": 21,
@@ -117,7 +117,7 @@
             "id": 137662,
             "idMal": 62927,
             "nextAiringEpisode": {
-                "airingAt": 1775498400
+                "airingAt": 1776103200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137662-iZigHTc71wi7.png",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1775515200
+                "airingAt": 1775774400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -210,10 +210,26 @@
             }
         },
         {
+            "id": 147105,
+            "idMal": 51553,
+            "nextAiringEpisode": {
+                "airingAt": 1776088800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg"
+            },
+            "title": {
+                "userPreferred": "Tongari Boushi no Atelier",
+                "native": "\u3068\u3093\u304c\u308a\u5e3d\u5b50\u306e\u30a2\u30c8\u30ea\u30a8",
+                "romaji": "Tongari Boushi no Atelier"
+            }
+        },
+        {
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1775527200
+                "airingAt": 1775959200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -578,6 +594,22 @@
             }
         },
         {
+            "id": 189987,
+            "idMal": 61425,
+            "nextAiringEpisode": {
+                "airingAt": 1776090240
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg"
+            },
+            "title": {
+                "userPreferred": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+                "native": "\u30dd\u30f3\u30b3\u30c4\u98a8\u7d00\u59d4\u54e1\u3068\u30b9\u30ab\u30fc\u30c8\u4e08\u304c\u4e0d\u9069\u5207\u306aJK\u306e\u8a71",
+                "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
+            }
+        },
+        {
             "id": 190143,
             "idMal": 61443,
             "nextAiringEpisode": {
@@ -786,6 +818,38 @@
             }
         },
         {
+            "id": 197754,
+            "idMal": 62331,
+            "nextAiringEpisode": {
+                "airingAt": 1776092400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png"
+            },
+            "title": {
+                "userPreferred": "LIAR GAME",
+                "native": "LIAR GAME",
+                "romaji": "LIAR GAME"
+            }
+        },
+        {
+            "id": 197824,
+            "idMal": 62146,
+            "nextAiringEpisode": {
+                "airingAt": 1776087000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png"
+            },
+            "title": {
+                "userPreferred": "Isekai Nonbiri Nouka 2",
+                "native": "\u7570\u4e16\u754c\u306e\u3093\u3073\u308a\u8fb2\u5bb6\uff12",
+                "romaji": "Isekai Nonbiri Nouka 2"
+            }
+        },
+        {
             "id": 197868,
             "idMal": 62342,
             "nextAiringEpisode": {
@@ -975,22 +1039,6 @@
                 "userPreferred": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen",
                 "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u5e7b\u771f\u661f\u6226\u7de8",
                 "romaji": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen"
-            }
-        },
-        {
-            "id": 203472,
-            "idMal": 63200,
-            "nextAiringEpisode": {
-                "airingAt": 1775512800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203472-MJDpus1DWo3Z.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203472-MJDpus1DWo3Z.png"
-            },
-            "title": {
-                "userPreferred": "Himitsu Kessha Taka no Tsume XX",
-                "native": "\u79d8\u5bc6\u7d50\u793e \u9df9\u306e\u722aXX\uff08\u30c0\u30d6\u30eb\u30a8\u30c3\u30af\u30b9\uff09",
-                "romaji": "Himitsu Kessha Taka no Tsume XX"
             }
         },
         {
