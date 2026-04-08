@@ -1,5 +1,5 @@
 {
-    "__version__": 745,
+    "__version__": 746,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 137671,
             "idMal": 51289,
             "nextAiringEpisode": {
-                "airingAt": 1775613600
+                "airingAt": 1776218400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
@@ -242,6 +242,22 @@
             }
         },
         {
+            "id": 158036,
+            "idMal": 53732,
+            "nextAiringEpisode": {
+                "airingAt": 1776178800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg"
+            },
+            "title": {
+                "userPreferred": "Hidarikiki no Eren",
+                "native": "\u5de6\u304d\u304d\u306e\u30a8\u30ec\u30f3",
+                "romaji": "Hidarikiki no Eren"
+            }
+        },
+        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -271,6 +287,22 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
+            }
+        },
+        {
+            "id": 169580,
+            "idMal": 56734,
+            "nextAiringEpisode": {
+                "airingAt": 1776177000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg"
+            },
+            "title": {
+                "userPreferred": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+                "native": "\u30af\u30e9\u30b9\u3067\uff12\u756a\u76ee\u306b\u53ef\u611b\u3044\u5973\u306e\u5b50\u3068\u53cb\u3060\u3061\u306b\u306a\u3063\u305f",
+                "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
             }
         },
         {
@@ -514,6 +546,22 @@
             }
         },
         {
+            "id": 186744,
+            "idMal": 61013,
+            "nextAiringEpisode": {
+                "airingAt": 1776177000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186744-nFH4y2slUrO4.jpg"
+            },
+            "title": {
+                "userPreferred": "Replica Datte, Koi wo Suru.",
+                "native": "\u30ec\u30d7\u30ea\u30ab\u3060\u3063\u3066\u3001\u604b\u3092\u3059\u308b",
+                "romaji": "Replica Datte, Koi wo Suru."
+            }
+        },
+        {
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
@@ -661,7 +709,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1775599560
+                "airingAt": 1776204360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -703,6 +751,22 @@
                 "userPreferred": "Koala Enikki",
                 "native": "\u30b3\u30a2\u30e9\u7d75\u65e5\u8a18",
                 "romaji": "Koala Enikki"
+            }
+        },
+        {
+            "id": 195268,
+            "idMal": 61931,
+            "nextAiringEpisode": {
+                "airingAt": 1776171600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg"
+            },
+            "title": {
+                "userPreferred": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+                "native": "\u60b2\u5287\u306e\u5143\u51f6\u3068\u306a\u308b\u6700\u5f37\u5916\u9053\u30e9\u30b9\u30dc\u30b9\u5973\u738b\u306f\u6c11\u306e\u70ba\u306b\u5c3d\u304f\u3057\u307e\u3059\u3002Season2",
+                "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2"
             }
         },
         {
@@ -914,6 +978,22 @@
             }
         },
         {
+            "id": 199547,
+            "idMal": 62601,
+            "nextAiringEpisode": {
+                "airingAt": 1776175200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg"
+            },
+            "title": {
+                "userPreferred": "MARRIAGETOXIN",
+                "native": "\u30de\u30ea\u30c3\u30b8\u30c8\u30ad\u30b7\u30f3",
+                "romaji": "MARRIAGETOXIN"
+            }
+        },
+        {
             "id": 200769,
             "idMal": 62825,
             "nextAiringEpisode": {
@@ -1026,6 +1106,22 @@
             }
         },
         {
+            "id": 202985,
+            "idMal": 63014,
+            "nextAiringEpisode": {
+                "airingAt": 1776184140
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202985-lyp5TYpTnqSg.jpg"
+            },
+            "title": {
+                "userPreferred": "Tadaima, Ojamasaremasu!",
+                "native": "\u305f\u3060\u3044\u307e\u3001\u304a\u3058\u3083\u307e\u3055\u308c\u307e\u3059\uff01",
+                "romaji": "Tadaima, Ojamasaremasu!"
+            }
+        },
+        {
             "id": 203296,
             "idMal": 62649,
             "nextAiringEpisode": {
@@ -1093,7 +1189,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1775602800
+                "airingAt": 1776178800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1167,6 +1263,38 @@
                 "userPreferred": "Nippon Sangoku",
                 "native": "\u65e5\u672c\u4e09\u570b",
                 "romaji": "Nippon Sangoku"
+            }
+        },
+        {
+            "id": 206951,
+            "idMal": 63376,
+            "nextAiringEpisode": {
+                "airingAt": 1776185940
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg"
+            },
+            "title": {
+                "userPreferred": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+                "native": "\u5973\u795e\u300c\u7570\u4e16\u754c\u8ee2\u751f\u4f55\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u304b\u300d \u4ffa\u300c\u52c7\u8005\u306e\u808b\u9aa8\u3067\u300d",
+                "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\""
+            }
+        },
+        {
+            "id": 207675,
+            "idMal": 63469,
+            "nextAiringEpisode": {
+                "airingAt": 1776171300
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png"
+            },
+            "title": {
+                "userPreferred": "Hyakki Yakou Shou",
+                "native": "\u767e\u9b3c\u591c\u884c\u6284",
+                "romaji": "Hyakki Yakou Shou"
             }
         },
         {
