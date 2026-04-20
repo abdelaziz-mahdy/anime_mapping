@@ -1,11 +1,11 @@
 {
-    "__version__": 757,
+    "__version__": 758,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1776608160
+                "airingAt": 1777212960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1776591000
+                "airingAt": 1777195800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -101,7 +101,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1776589200
+                "airingAt": 1777194000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -284,9 +284,9 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163793-dOI9QEcIrgBS.jpg"
             },
             "title": {
-                "userPreferred": "Cheongchun Blossom",
-                "native": "\uccad\ucd98\ube14\ub77c\uc378",
-                "romaji": "Cheongchun Blossom"
+                "userPreferred": "Cheongchun Blossom: Uriui Bom",
+                "native": "\uccad\ucd98\ube14\ub77c\uc378 : \uc6b0\ub9ac\uc758 \ubd04",
+                "romaji": "Cheongchun Blossom: Uriui Bom"
             }
         },
         {
@@ -421,7 +421,7 @@
             "id": 177634,
             "idMal": 58877,
             "nextAiringEpisode": {
-                "airingAt": 1776587400
+                "airingAt": 1777192200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
@@ -437,7 +437,7 @@
             "id": 178749,
             "idMal": 59176,
             "nextAiringEpisode": {
-                "airingAt": 1776605400
+                "airingAt": 1777210200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178749-c0tx9p13PVJy.png",
@@ -453,7 +453,7 @@
             "id": 179813,
             "idMal": 59393,
             "nextAiringEpisode": {
-                "airingAt": 1776571200
+                "airingAt": 1777176000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
@@ -549,7 +549,7 @@
             "id": 182300,
             "idMal": 59983,
             "nextAiringEpisode": {
-                "airingAt": 1776583800
+                "airingAt": 1777188600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
@@ -581,7 +581,7 @@
             "id": 182578,
             "idMal": 60055,
             "nextAiringEpisode": {
-                "airingAt": 1776585600
+                "airingAt": 1777190400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
@@ -1061,7 +1061,7 @@
             "id": 196974,
             "idMal": 62171,
             "nextAiringEpisode": {
-                "airingAt": 1776609000
+                "airingAt": 1777213800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
@@ -1109,7 +1109,7 @@
             "id": 197868,
             "idMal": 62342,
             "nextAiringEpisode": {
-                "airingAt": 1776603600
+                "airingAt": 1777208400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
@@ -1253,7 +1253,7 @@
             "id": 201090,
             "idMal": 62852,
             "nextAiringEpisode": {
-                "airingAt": 1776612600
+                "airingAt": 1777217400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg",
@@ -1349,7 +1349,7 @@
             "id": 202523,
             "idMal": 62983,
             "nextAiringEpisode": {
-                "airingAt": 1776614400
+                "airingAt": 1777219200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg",
@@ -1429,7 +1429,7 @@
             "id": 204319,
             "idMal": 63248,
             "nextAiringEpisode": {
-                "airingAt": 1776614700
+                "airingAt": 1777219500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204319-qhw2yBXBUgJT.png",
@@ -1493,7 +1493,7 @@
             "id": 206166,
             "idMal": 63310,
             "nextAiringEpisode": {
-                "airingAt": 1776615000
+                "airingAt": 1777219800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206166-xTJ9h6RmMCKR.jpg",
@@ -1525,7 +1525,7 @@
             "id": 206914,
             "idMal": 63375,
             "nextAiringEpisode": {
-                "airingAt": 1776600000
+                "airingAt": 1777204800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
@@ -1663,6 +1663,22 @@
                 "userPreferred": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
                 "native": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u4f11\u61a9\u6642\u9593(\u30d6\u30ec\u30a4\u30af\u30bf\u30a4\u30e0) 4th Season",
                 "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season"
+            }
+        },
+        {
+            "id": 211181,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1777129200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211181-93dehu3v5xHE.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211181-93dehu3v5xHE.png"
+            },
+            "title": {
+                "userPreferred": "Mu Shen Ji 4",
+                "native": "\u7267\u795e\u8bb04",
+                "romaji": "Mu Shen Ji 4"
             }
         }
     ]
