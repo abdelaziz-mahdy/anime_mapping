@@ -1,5 +1,5 @@
 {
-    "__version__": 772,
+    "__version__": 773,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1777934400
+                "airingAt": 1778193600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -181,7 +181,7 @@
             "id": 147105,
             "idMal": 51553,
             "nextAiringEpisode": {
-                "airingAt": 1777903200
+                "airingAt": 1778508000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
@@ -197,7 +197,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1777946400
+                "airingAt": 1778378400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -706,6 +706,22 @@
             }
         },
         {
+            "id": 188388,
+            "idMal": 61269,
+            "nextAiringEpisode": {
+                "airingAt": 1778371200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg"
+            },
+            "title": {
+                "userPreferred": "DIGIMON BEATBREAK",
+                "native": "DIGIMON BEATBREAK",
+                "romaji": "DIGIMON BEATBREAK"
+            }
+        },
+        {
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
@@ -741,7 +757,7 @@
             "id": 189987,
             "idMal": 61425,
             "nextAiringEpisode": {
-                "airingAt": 1777904640
+                "airingAt": 1778509440
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
@@ -1045,7 +1061,7 @@
             "id": 197754,
             "idMal": 62331,
             "nextAiringEpisode": {
-                "airingAt": 1777906800
+                "airingAt": 1778511600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
@@ -1061,7 +1077,7 @@
             "id": 197824,
             "idMal": 62146,
             "nextAiringEpisode": {
-                "airingAt": 1777901400
+                "airingAt": 1778506200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
