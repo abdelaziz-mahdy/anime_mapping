@@ -1,5 +1,5 @@
 {
-    "__version__": 773,
+    "__version__": 774,
     "data": [
         {
             "id": 21,
@@ -213,7 +213,7 @@
             "id": 158036,
             "idMal": 53732,
             "nextAiringEpisode": {
-                "airingAt": 1777993200
+                "airingAt": 1778598000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
@@ -293,7 +293,7 @@
             "id": 169580,
             "idMal": 56734,
             "nextAiringEpisode": {
-                "airingAt": 1777991400
+                "airingAt": 1778596200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
@@ -645,7 +645,7 @@
             "id": 186744,
             "idMal": 61013,
             "nextAiringEpisode": {
-                "airingAt": 1777991400
+                "airingAt": 1778596200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
@@ -821,7 +821,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1778018760
+                "airingAt": 1778623560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -869,7 +869,7 @@
             "id": 194393,
             "idMal": 61839,
             "nextAiringEpisode": {
-                "airingAt": 1777989600
+                "airingAt": 1778594400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
@@ -885,7 +885,7 @@
             "id": 195268,
             "idMal": 61931,
             "nextAiringEpisode": {
-                "airingAt": 1777986000
+                "airingAt": 1778590800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg",
@@ -1189,7 +1189,7 @@
             "id": 199547,
             "idMal": 62601,
             "nextAiringEpisode": {
-                "airingAt": 1777989600
+                "airingAt": 1778594400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
@@ -1365,7 +1365,7 @@
             "id": 202985,
             "idMal": 63014,
             "nextAiringEpisode": {
-                "airingAt": 1777998540
+                "airingAt": 1778603340
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg",
@@ -1429,7 +1429,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1778022000
+                "airingAt": 1778626800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1541,7 +1541,7 @@
             "id": 206951,
             "idMal": 63376,
             "nextAiringEpisode": {
-                "airingAt": 1778000340
+                "airingAt": 1778605140
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
@@ -1557,7 +1557,7 @@
             "id": 207675,
             "idMal": 63469,
             "nextAiringEpisode": {
-                "airingAt": 1777985700
+                "airingAt": 1778590500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png",
@@ -1663,6 +1663,22 @@
                 "userPreferred": "Mu Shen Ji 4",
                 "native": "\u7267\u795e\u8bb04",
                 "romaji": "Mu Shen Ji 4"
+            }
+        },
+        {
+            "id": 211270,
+            "idMal": 63788,
+            "nextAiringEpisode": {
+                "airingAt": 1778558400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211270-JL9g9jogYvl2.png"
+            },
+            "title": {
+                "userPreferred": "Fei Ren Zai 3 Part 2",
+                "native": "\u975e\u4eba\u54c9 \u7b2c\u4e09\u5b63 \u7b2c\u4e8c\u90e8\u5206",
+                "romaji": "Fei Ren Zai 3 Part 2"
             }
         }
     ]
