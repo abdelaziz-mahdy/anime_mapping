@@ -1,33 +1,34 @@
-from common import *
-import cloudscraper
-from gogo_anime_parser import GogoAnimeParser
-from hi_anime_parser import HiAnimeParser
-scraper = cloudscraper.create_scraper()  # returns a CloudScraper instance
+import requests
+
+from anilist_recent import AnilistRecent
+from common import readJsonFile, writeJsonFileIfDifferent
 
 mappingFile = "../latest.json"
 
-latest = readJsonFile(mappingFile)
-# #revert to only last episode
-# for key,value in latest.items():
-#     if isinstance(value,str):
-#         if value.startswith("EP"):
-#             latest[key]=int(value[indexOfLastCharacterOfSubstring(value,"EP "):value.index("/")])
-page = 1
-gotNew = True
-while gotNew:
-    print(f"loading page {page}")
-    # jsonObject=GogoAnimeParser(scraper).fetch_recent_episodes(page)
-    jsonObject = HiAnimeParser(scraper).fetch_recent_episodes(page)
-    print(jsonObject)
-    for anime in jsonObject["results"]:
-        if anime["id"] in latest and latest[anime["id"]] == anime["episodeNumber"]:
-            gotNew = False
-        else:
-            if anime.get("episodeNumber"):
-                latest[anime["id"]] = anime["episodeNumber"]
 
-    page += 1
-    if page > 5:
-        gotNew = False
+def main():
+    latest = readJsonFile(mappingFile)
+    fetched = AnilistRecent(requests.Session()).get_recent_episodes(days_back=7)
 
-writeJsonFileIfDifferent(mappingFile, latest)
+    # Merge as monotonic max — never decrease a recorded episode
+    # number. AniList sometimes reissues lower episode numbers for
+    # specials / re-airings; ignoring those keeps the file aligned with
+    # the latest broadcast actually in the wild.
+    added = 0
+    bumped = 0
+    for mal_id, ep in fetched.items():
+        cur = latest.get(mal_id)
+        if cur is None:
+            latest[mal_id] = ep
+            added += 1
+        elif isinstance(cur, (int, float)) and ep > cur:
+            latest[mal_id] = ep
+            bumped += 1
+
+    print(f"Latest: +{added} new, {bumped} bumped, "
+          f"{len(latest) - 1} total entries (incl. legacy)")
+    writeJsonFileIfDifferent(mappingFile, latest)
+
+
+if __name__ == "__main__":
+    main()
