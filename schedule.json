@@ -1,5 +1,5 @@
 {
-    "__version__": 808,
+    "__version__": 809,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1780958400
+                "airingAt": 1781217600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -197,7 +197,7 @@
             "id": 147105,
             "idMal": 51553,
             "nextAiringEpisode": {
-                "airingAt": 1780927200
+                "airingAt": 1781532000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
@@ -213,7 +213,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1780970400
+                "airingAt": 1781402400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -722,6 +722,22 @@
             }
         },
         {
+            "id": 188753,
+            "idMal": 61297,
+            "nextAiringEpisode": {
+                "airingAt": 1782788400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png"
+            },
+            "title": {
+                "userPreferred": "Gekkan! Nanmono Anime",
+                "native": "\u3052\u3063\u304b\u3093\uff01\u306a\u3093\u3082\u306e\u30a2\u30cb\u30e1",
+                "romaji": "Gekkan! Nanmono Anime"
+            }
+        },
+        {
             "id": 189046,
             "idMal": 61316,
             "nextAiringEpisode": {
@@ -741,7 +757,7 @@
             "id": 189987,
             "idMal": 61425,
             "nextAiringEpisode": {
-                "airingAt": 1780928640
+                "airingAt": 1781533440
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
@@ -1029,7 +1045,7 @@
             "id": 197754,
             "idMal": 62331,
             "nextAiringEpisode": {
-                "airingAt": 1780930800
+                "airingAt": 1781535600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
@@ -1045,7 +1061,7 @@
             "id": 197824,
             "idMal": 62146,
             "nextAiringEpisode": {
-                "airingAt": 1780925400
+                "airingAt": 1781530200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
