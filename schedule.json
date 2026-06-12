@@ -1,5 +1,5 @@
 {
-    "__version__": 811,
+    "__version__": 812,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1781215800
+                "airingAt": 1781820600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -165,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1781217600
+                "airingAt": 1781563200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -373,7 +373,7 @@
             "id": 177501,
             "idMal": 58820,
             "nextAiringEpisode": {
-                "airingAt": 1781196300
+                "airingAt": 1781801100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-lLkxUFVZ8uAj.jpg",
@@ -389,7 +389,7 @@
             "id": 177508,
             "idMal": 58832,
             "nextAiringEpisode": {
-                "airingAt": 1781184600
+                "airingAt": 1781789400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg",
@@ -418,6 +418,22 @@
             }
         },
         {
+            "id": 177880,
+            "idMal": 58996,
+            "nextAiringEpisode": {
+                "airingAt": 1781310600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177880-54MNSycPEMFA.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-54MNSycPEMFA.jpg"
+            },
+            "title": {
+                "userPreferred": "Osomatsu-san 4th Season",
+                "native": "\u304a\u305d\u677e\u3055\u3093 \u7b2c4\u671f",
+                "romaji": "Osomatsu-san 4th Season"
+            }
+        },
+        {
             "id": 178749,
             "idMal": 59176,
             "nextAiringEpisode": {
@@ -437,7 +453,7 @@
             "id": 179950,
             "idMal": 59443,
             "nextAiringEpisode": {
-                "airingAt": 1781191800
+                "airingAt": 1781796600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg",
@@ -485,7 +501,7 @@
             "id": 181284,
             "idMal": 59835,
             "nextAiringEpisode": {
-                "airingAt": 1781191560
+                "airingAt": 1781796360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg",
@@ -533,7 +549,7 @@
             "id": 182483,
             "idMal": 60028,
             "nextAiringEpisode": {
-                "airingAt": 1781181000
+                "airingAt": 1781785800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
@@ -629,7 +645,7 @@
             "id": 186497,
             "idMal": 60852,
             "nextAiringEpisode": {
-                "airingAt": 1781189760
+                "airingAt": 1781794560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
@@ -661,7 +677,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1781182800
+                "airingAt": 1781787600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -869,7 +885,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1781175600
+                "airingAt": 1781780400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -917,7 +933,7 @@
             "id": 195333,
             "idMal": 61943,
             "nextAiringEpisode": {
-                "airingAt": 1781195280
+                "airingAt": 1781800080
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png",
@@ -1173,7 +1189,7 @@
             "id": 199221,
             "idMal": 62568,
             "nextAiringEpisode": {
-                "airingAt": 1781182800
+                "airingAt": 1781787600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
@@ -1285,7 +1301,7 @@
             "id": 202381,
             "idMal": 62964,
             "nextAiringEpisode": {
-                "airingAt": 1781197080
+                "airingAt": 1781801880
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
@@ -1365,7 +1381,7 @@
             "id": 203710,
             "idMal": 60591,
             "nextAiringEpisode": {
-                "airingAt": 1781175600
+                "airingAt": 1781780400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg",
@@ -1407,22 +1423,6 @@
                 "userPreferred": "Ookii Onnanoko wa Suki desu ka?",
                 "native": "\u5927\u304d\u3044\u5973\u306e\u5b50\u306f\u597d\u304d\u3067\u3059\u304b\uff1f",
                 "romaji": "Ookii Onnanoko wa Suki desu ka?"
-            }
-        },
-        {
-            "id": 205290,
-            "idMal": 62728,
-            "nextAiringEpisode": {
-                "airingAt": 1781172000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b205290-oc3SbEom5g7U.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b205290-oc3SbEom5g7U.png"
-            },
-            "title": {
-                "userPreferred": "Jian Lai 2",
-                "native": "\u5251\u6765 \u7b2c\u4e8c\u5b63",
-                "romaji": "Jian Lai 2"
             }
         },
         {
@@ -1475,7 +1475,7 @@
         },
         {
             "id": 206523,
-            "idMal": null,
+            "idMal": 63352,
             "nextAiringEpisode": {
                 "airingAt": 1781397000
             },
@@ -1557,7 +1557,7 @@
             "id": 209541,
             "idMal": 63773,
             "nextAiringEpisode": {
-                "airingAt": 1781170200
+                "airingAt": 1781775000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
@@ -1573,7 +1573,7 @@
             "id": 209940,
             "idMal": 63709,
             "nextAiringEpisode": {
-                "airingAt": 1781196600
+                "airingAt": 1781801400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg",
@@ -1589,7 +1589,7 @@
             "id": 210234,
             "idMal": 63304,
             "nextAiringEpisode": {
-                "airingAt": 1781193600
+                "airingAt": 1781798400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg",
