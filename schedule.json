@@ -1,11 +1,11 @@
 {
-    "__version__": 814,
+    "__version__": 815,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1781446560
+                "airingAt": 1782051360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1781429400
+                "airingAt": 1782034200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -101,7 +101,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1781427600
+                "airingAt": 1782032400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -117,7 +117,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1781488800
+                "airingAt": 1782093600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -405,7 +405,7 @@
             "id": 177634,
             "idMal": 58877,
             "nextAiringEpisode": {
-                "airingAt": 1781425800
+                "airingAt": 1782030600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
@@ -421,7 +421,7 @@
             "id": 178749,
             "idMal": 59176,
             "nextAiringEpisode": {
-                "airingAt": 1781443800
+                "airingAt": 1782048600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178749-c0tx9p13PVJy.png",
@@ -517,7 +517,7 @@
             "id": 182300,
             "idMal": 59983,
             "nextAiringEpisode": {
-                "airingAt": 1781422200
+                "airingAt": 1782027000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
@@ -549,7 +549,7 @@
             "id": 182578,
             "idMal": 60055,
             "nextAiringEpisode": {
-                "airingAt": 1781424000
+                "airingAt": 1782028800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
@@ -1045,7 +1045,7 @@
             "id": 196974,
             "idMal": 62171,
             "nextAiringEpisode": {
-                "airingAt": 1781447400
+                "airingAt": 1782052200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
@@ -1087,22 +1087,6 @@
                 "userPreferred": "Isekai Nonbiri Nouka 2",
                 "native": "\u7570\u4e16\u754c\u306e\u3093\u3073\u308a\u8fb2\u5bb6\uff12",
                 "romaji": "Isekai Nonbiri Nouka 2"
-            }
-        },
-        {
-            "id": 197868,
-            "idMal": 62342,
-            "nextAiringEpisode": {
-                "airingAt": 1781442000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png"
-            },
-            "title": {
-                "userPreferred": "Maid-san wa Taberu dake",
-                "native": "\u30e1\u30a4\u30c9\u3055\u3093\u306f\u98df\u3079\u308b\u3060\u3051",
-                "romaji": "Maid-san wa Taberu dake"
             }
         },
         {
@@ -1221,7 +1205,7 @@
             "id": 201090,
             "idMal": 62852,
             "nextAiringEpisode": {
-                "airingAt": 1781451000
+                "airingAt": 1782055800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg",
@@ -1381,7 +1365,7 @@
             "id": 204319,
             "idMal": 63248,
             "nextAiringEpisode": {
-                "airingAt": 1781453100
+                "airingAt": 1782057900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204319-qhw2yBXBUgJT.png",
@@ -1410,26 +1394,10 @@
             }
         },
         {
-            "id": 205905,
-            "idMal": 62340,
-            "nextAiringEpisode": {
-                "airingAt": 1782007200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205905-lbDVh7foIfjt.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205905-lbDVh7foIfjt.jpg"
-            },
-            "title": {
-                "userPreferred": "Guangyin Zhi Wai",
-                "native": "\u5149\u9634\u4e4b\u5916",
-                "romaji": "Guangyin Zhi Wai"
-            }
-        },
-        {
             "id": 206166,
             "idMal": 63310,
             "nextAiringEpisode": {
-                "airingAt": 1781453400
+                "airingAt": 1782058200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206166-xTJ9h6RmMCKR.jpg",
@@ -1461,7 +1429,7 @@
             "id": 206914,
             "idMal": 63375,
             "nextAiringEpisode": {
-                "airingAt": 1781438400
+                "airingAt": 1782043200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
