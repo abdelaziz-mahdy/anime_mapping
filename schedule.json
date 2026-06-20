@@ -1,5 +1,5 @@
 {
-    "__version__": 819,
+    "__version__": 820,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1781920800
+                "airingAt": 1782525600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1781908200
+                "airingAt": 1782513000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -261,7 +261,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1781862900
+                "airingAt": 1783072500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -293,7 +293,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1781863200
+                "airingAt": 1783072800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -309,7 +309,7 @@
             "id": 169228,
             "idMal": 56646,
             "nextAiringEpisode": {
-                "airingAt": 1781884800
+                "airingAt": 1782489600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg",
@@ -335,22 +335,6 @@
                 "userPreferred": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
                 "native": "\u30af\u30e9\u30b9\u3067\uff12\u756a\u76ee\u306b\u53ef\u611b\u3044\u5973\u306e\u5b50\u3068\u53cb\u3060\u3061\u306b\u306a\u3063\u305f",
                 "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
-            }
-        },
-        {
-            "id": 170019,
-            "idMal": 56876,
-            "nextAiringEpisode": {
-                "airingAt": 1781875800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg"
-            },
-            "title": {
-                "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-                "native": "\u304a\u96a3\u306e\u5929\u4f7f\u69d8\u306b\u3044\u3064\u306e\u9593\u306b\u304b\u99c4\u76ee\u4eba\u9593\u306b\u3055\u308c\u3066\u3044\u305f\u4ef6 \u7b2c2\u671f",
-                "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
             }
         },
         {
@@ -469,7 +453,7 @@
             "id": 182205,
             "idMal": 59970,
             "nextAiringEpisode": {
-                "airingAt": 1781877600
+                "airingAt": 1782482400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
@@ -527,22 +511,6 @@
                 "userPreferred": "Yozakura-san Chi no Daisakusen 2nd Season",
                 "native": "\u591c\u685c\u3055\u3093\u3061\u306e\u5927\u4f5c\u6226 \u7b2c2\u671f",
                 "romaji": "Yozakura-san Chi no Daisakusen 2nd Season"
-            }
-        },
-        {
-            "id": 183231,
-            "idMal": 60153,
-            "nextAiringEpisode": {
-                "airingAt": 1781915160
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
-            },
-            "title": {
-                "userPreferred": "Rilakkuma: Goyururi Yume no Tabi",
-                "native": "\u30ea\u30e9\u30c3\u30af\u30de \uff5e\u3054\u3086\u308b\u308a\u5922\u306e\u65c5\uff5e",
-                "romaji": "Rilakkuma: Goyururi Yume no Tabi"
             }
         },
         {
@@ -645,7 +613,7 @@
             "id": 187869,
             "idMal": 61186,
             "nextAiringEpisode": {
-                "airingAt": 1781881200
+                "airingAt": 1782486000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg",
@@ -783,22 +751,6 @@
                 "userPreferred": "Kanan-sama wa Akumade Choroi",
                 "native": "\u30ab\u30ca\u30f3\u69d8\u306f\u3042\u304f\u307e\u3067\u30c1\u30e7\u30ed\u3044",
                 "romaji": "Kanan-sama wa Akumade Choroi"
-            }
-        },
-        {
-            "id": 192808,
-            "idMal": 61687,
-            "nextAiringEpisode": {
-                "airingAt": 1781874000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg"
-            },
-            "title": {
-                "userPreferred": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-                "native": "\u81ea\u79f0\u60aa\u5f79\u4ee4\u5b22\u306a\u5a5a\u7d04\u8005\u306e\u89b3\u5bdf\u8a18\u9332\u3002",
-                "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
             }
         },
         {
@@ -949,7 +901,7 @@
             "id": 196144,
             "idMal": 62068,
             "nextAiringEpisode": {
-                "airingAt": 1781879400
+                "airingAt": 1782484200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
@@ -1061,7 +1013,7 @@
             "id": 198411,
             "idMal": 62495,
             "nextAiringEpisode": {
-                "airingAt": 1781915400
+                "airingAt": 1782520200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png",
@@ -1119,6 +1071,22 @@
                 "userPreferred": "Dr. STONE: SCIENCE FUTURE Part 3",
                 "native": "Dr.STONE SCIENCE FUTURE 3\u30af\u30fc\u30eb",
                 "romaji": "Dr. STONE: SCIENCE FUTURE Part 3"
+            }
+        },
+        {
+            "id": 199448,
+            "idMal": 62276,
+            "nextAiringEpisode": {
+                "airingAt": 1782525600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199448-BuqzEdkuPSEm.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199448-BuqzEdkuPSEm.png"
+            },
+            "title": {
+                "userPreferred": "Guimi Zhi Zhu Specials",
+                "native": "\u8be1\u79d8\u4e4b\u4e3b \u7279\u522b\u7bc7",
+                "romaji": "Guimi Zhi Zhu Specials"
             }
         },
         {
@@ -1205,7 +1173,7 @@
             "id": 202508,
             "idMal": 62981,
             "nextAiringEpisode": {
-                "airingAt": 1781879400
+                "airingAt": 1782484200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
