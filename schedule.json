@@ -1,11 +1,11 @@
 {
-    "__version__": 821,
+    "__version__": 822,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1782051360
+                "airingAt": 1782656160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1782034200
+                "airingAt": 1782639000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -101,7 +101,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1782032400
+                "airingAt": 1782637200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -117,7 +117,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1782093600
+                "airingAt": 1782698400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -389,7 +389,7 @@
             "id": 177634,
             "idMal": 58877,
             "nextAiringEpisode": {
-                "airingAt": 1782030600
+                "airingAt": 1782635400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
@@ -399,22 +399,6 @@
                 "userPreferred": "Diamond no Ace act II: Second Season",
                 "native": "\u30c0\u30a4\u30e4\u306eA actII -Second Season-",
                 "romaji": "Diamond no Ace act II: Second Season"
-            }
-        },
-        {
-            "id": 178749,
-            "idMal": 59176,
-            "nextAiringEpisode": {
-                "airingAt": 1782048600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178749-c0tx9p13PVJy.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-c0tx9p13PVJy.png"
-            },
-            "title": {
-                "userPreferred": "Mahou no Shimai LuluttoLilly",
-                "native": "\u9b54\u6cd5\u306e\u59c9\u59b9\u30eb\u30eb\u30c3\u30c8\u30ea\u30ea\u30a3",
-                "romaji": "Mahou no Shimai LuluttoLilly"
             }
         },
         {
@@ -469,7 +453,7 @@
             "id": 182300,
             "idMal": 59983,
             "nextAiringEpisode": {
-                "airingAt": 1782027000
+                "airingAt": 1782631800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
@@ -501,7 +485,7 @@
             "id": 182578,
             "idMal": 60055,
             "nextAiringEpisode": {
-                "airingAt": 1782028800
+                "airingAt": 1782633600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
@@ -661,7 +645,7 @@
             "id": 188388,
             "idMal": 61269,
             "nextAiringEpisode": {
-                "airingAt": 1782604800
+                "airingAt": 1783209600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
@@ -901,7 +885,7 @@
             "id": 196974,
             "idMal": 62171,
             "nextAiringEpisode": {
-                "airingAt": 1782052200
+                "airingAt": 1782657000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
@@ -1074,22 +1058,6 @@
             }
         },
         {
-            "id": 201090,
-            "idMal": 62852,
-            "nextAiringEpisode": {
-                "airingAt": 1782055800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201090-HzQKUjjvde32.jpg"
-            },
-            "title": {
-                "userPreferred": "Ghost Concert: missing Songs",
-                "native": "\u30b4\u30fc\u30b9\u30c8\u30b3\u30f3\u30b5\u30fc\u30c8: missing Songs",
-                "romaji": "Ghost Concert: missing Songs"
-            }
-        },
-        {
             "id": 202102,
             "idMal": 62913,
             "nextAiringEpisode": {
@@ -1202,22 +1170,6 @@
             }
         },
         {
-            "id": 204319,
-            "idMal": 63248,
-            "nextAiringEpisode": {
-                "airingAt": 1782057900
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204319-qhw2yBXBUgJT.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204319-qhw2yBXBUgJT.png"
-            },
-            "title": {
-                "userPreferred": "Ookii Onnanoko wa Suki desu ka?",
-                "native": "\u5927\u304d\u3044\u5973\u306e\u5b50\u306f\u597d\u304d\u3067\u3059\u304b\uff1f",
-                "romaji": "Ookii Onnanoko wa Suki desu ka?"
-            }
-        },
-        {
             "id": 205772,
             "idMal": 63276,
             "nextAiringEpisode": {
@@ -1234,22 +1186,6 @@
             }
         },
         {
-            "id": 206166,
-            "idMal": 63310,
-            "nextAiringEpisode": {
-                "airingAt": 1782058200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206166-xTJ9h6RmMCKR.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206166-xTJ9h6RmMCKR.jpg"
-            },
-            "title": {
-                "userPreferred": "Ingoku Danchi",
-                "native": "\u30a4\u30f3\u30b4\u30af\u30c0\u30f3\u30c1",
-                "romaji": "Ingoku Danchi"
-            }
-        },
-        {
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
@@ -1263,22 +1199,6 @@
                 "userPreferred": "Onegai AiPri",
                 "native": "\u304a\u306d\u304c\u3044\u30a2\u30a4\u30d7\u30ea",
                 "romaji": "Onegai AiPri"
-            }
-        },
-        {
-            "id": 206914,
-            "idMal": 63375,
-            "nextAiringEpisode": {
-                "airingAt": 1782043200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg"
-            },
-            "title": {
-                "userPreferred": "Nippon Sangoku",
-                "native": "\u65e5\u672c\u4e09\u570b",
-                "romaji": "Nippon Sangoku"
             }
         },
         {
