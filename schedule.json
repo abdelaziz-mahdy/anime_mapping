@@ -1,5 +1,5 @@
 {
-    "__version__": 823,
+    "__version__": 824,
     "data": [
         {
             "id": 21,
@@ -229,7 +229,7 @@
             "id": 158036,
             "idMal": 53732,
             "nextAiringEpisode": {
-                "airingAt": 1782226800
+                "airingAt": 1782831600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
@@ -303,22 +303,6 @@
                 "userPreferred": "Hokuto no Ken: FIST OF THE NORTH STAR",
                 "native": "\u5317\u6597\u306e\u62f3 -FIST OF THE NORTH STAR-",
                 "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR"
-            }
-        },
-        {
-            "id": 169580,
-            "idMal": 56734,
-            "nextAiringEpisode": {
-                "airingAt": 1782225000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg"
-            },
-            "title": {
-                "userPreferred": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-                "native": "\u30af\u30e9\u30b9\u3067\uff12\u756a\u76ee\u306b\u53ef\u611b\u3044\u5973\u306e\u5b50\u3068\u53cb\u3060\u3061\u306b\u306a\u3063\u305f",
-                "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
             }
         },
         {
@@ -565,7 +549,7 @@
             "id": 186744,
             "idMal": 61013,
             "nextAiringEpisode": {
-                "airingAt": 1782225000
+                "airingAt": 1782829800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
@@ -706,22 +690,6 @@
             }
         },
         {
-            "id": 193883,
-            "idMal": 61765,
-            "nextAiringEpisode": {
-                "airingAt": 1782252360
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg"
-            },
-            "title": {
-                "userPreferred": "Chibi Godzilla no Gyakushuu 3",
-                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
-                "romaji": "Chibi Godzilla no Gyakushuu 3"
-            }
-        },
-        {
             "id": 194317,
             "idMal": 61831,
             "nextAiringEpisode": {
@@ -757,7 +725,7 @@
             "id": 194393,
             "idMal": 61839,
             "nextAiringEpisode": {
-                "airingAt": 1782223200
+                "airingAt": 1782828000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
@@ -767,22 +735,6 @@
                 "userPreferred": "Aishiteru Game wo Owarasetai",
                 "native": "\u611b\u3057\u3066\u308b\u30b2\u30fc\u30e0\u3092\u7d42\u308f\u3089\u305b\u305f\u3044",
                 "romaji": "Aishiteru Game wo Owarasetai"
-            }
-        },
-        {
-            "id": 195268,
-            "idMal": 61931,
-            "nextAiringEpisode": {
-                "airingAt": 1782219600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg"
-            },
-            "title": {
-                "userPreferred": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
-                "native": "\u60b2\u5287\u306e\u5143\u51f6\u3068\u306a\u308b\u6700\u5f37\u5916\u9053\u30e9\u30b9\u30dc\u30b9\u5973\u738b\u306f\u6c11\u306e\u70ba\u306b\u5c3d\u304f\u3057\u307e\u3059\u3002Season2",
-                "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2"
             }
         },
         {
@@ -981,7 +933,7 @@
             "id": 199547,
             "idMal": 62601,
             "nextAiringEpisode": {
-                "airingAt": 1782223200
+                "airingAt": 1782828000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
@@ -1074,22 +1026,6 @@
             }
         },
         {
-            "id": 202985,
-            "idMal": 63014,
-            "nextAiringEpisode": {
-                "airingAt": 1782232140
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202985-lyp5TYpTnqSg.jpg"
-            },
-            "title": {
-                "userPreferred": "Tadaima, Ojamasaremasu!",
-                "native": "\u305f\u3060\u3044\u307e\u3001\u304a\u3058\u3083\u307e\u3055\u308c\u307e\u3059\uff01",
-                "romaji": "Tadaima, Ojamasaremasu!"
-            }
-        },
-        {
             "id": 203710,
             "idMal": 60591,
             "nextAiringEpisode": {
@@ -1170,38 +1106,6 @@
             }
         },
         {
-            "id": 206951,
-            "idMal": 63376,
-            "nextAiringEpisode": {
-                "airingAt": 1782233940
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg"
-            },
-            "title": {
-                "userPreferred": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
-                "native": "\u5973\u795e\u300c\u7570\u4e16\u754c\u8ee2\u751f\u4f55\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u304b\u300d \u4ffa\u300c\u52c7\u8005\u306e\u808b\u9aa8\u3067\u300d",
-                "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\""
-            }
-        },
-        {
-            "id": 207675,
-            "idMal": 63469,
-            "nextAiringEpisode": {
-                "airingAt": 1782219300
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png"
-            },
-            "title": {
-                "userPreferred": "Hyakki Yakou Shou",
-                "native": "\u767e\u9b3c\u591c\u884c\u6284",
-                "romaji": "Hyakki Yakou Shou"
-            }
-        },
-        {
             "id": 209541,
             "idMal": 63773,
             "nextAiringEpisode": {
@@ -1253,7 +1157,7 @@
             "id": 211270,
             "idMal": 63788,
             "nextAiringEpisode": {
-                "airingAt": 1782187200
+                "airingAt": 1782792000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png",
@@ -1263,22 +1167,6 @@
                 "userPreferred": "Fei Ren Zai 3 Part 2",
                 "native": "\u975e\u4eba\u54c9 \u7b2c\u4e09\u5b63 \u7b2c\u4e8c\u90e8\u5206",
                 "romaji": "Fei Ren Zai 3 Part 2"
-            }
-        },
-        {
-            "id": 212309,
-            "idMal": 64181,
-            "nextAiringEpisode": {
-                "airingAt": 1782262800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212309-gDqt6qz1RPEL.png"
-            },
-            "title": {
-                "userPreferred": "Transformers: Wild King W",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0W",
-                "romaji": "Transformers: Wild King W"
             }
         },
         {
@@ -1301,7 +1189,7 @@
             "id": 213297,
             "idMal": 63149,
             "nextAiringEpisode": {
-                "airingAt": 1782266400
+                "airingAt": 1782871200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg",
