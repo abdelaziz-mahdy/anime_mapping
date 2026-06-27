@@ -1,5 +1,5 @@
 {
-    "__version__": 826,
+    "__version__": 827,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1782525600
+                "airingAt": 1783130400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1782513000
+                "airingAt": 1783117800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -274,22 +274,6 @@
             }
         },
         {
-            "id": 169228,
-            "idMal": 56646,
-            "nextAiringEpisode": {
-                "airingAt": 1782489600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169228-y79xDpZ29Vv4.jpg"
-            },
-            "title": {
-                "userPreferred": "Hokuto no Ken: FIST OF THE NORTH STAR",
-                "native": "\u5317\u6597\u306e\u62f3 -FIST OF THE NORTH STAR-",
-                "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR"
-            }
-        },
-        {
             "id": 171110,
             "idMal": 57466,
             "nextAiringEpisode": {
@@ -325,7 +309,7 @@
             "id": 182205,
             "idMal": 59970,
             "nextAiringEpisode": {
-                "airingAt": 1782482400
+                "airingAt": 1783087200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
@@ -373,7 +357,7 @@
             "id": 183231,
             "idMal": 60153,
             "nextAiringEpisode": {
-                "airingAt": 1782519960
+                "airingAt": 1783124760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
@@ -479,22 +463,6 @@
                 "userPreferred": "Ganso! Bandori-chan",
                 "native": "\u5143\u7956\uff01\u30d0\u30f3\u30c9\u30ea\u3061\u3083\u3093",
                 "romaji": "Ganso! Bandori-chan"
-            }
-        },
-        {
-            "id": 187869,
-            "idMal": 61186,
-            "nextAiringEpisode": {
-                "airingAt": 1782486000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187869-LUn3dyTzuKUq.jpg"
-            },
-            "title": {
-                "userPreferred": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
-                "native": "\u4e0a\u4f0a\u90a3\u307c\u305f\u3093\u3001\u9154\u3078\u308b\u59ff\u306f\u767e\u5408\u306e\u82b1",
-                "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
             }
         },
         {
@@ -674,22 +642,6 @@
             }
         },
         {
-            "id": 196144,
-            "idMal": 62068,
-            "nextAiringEpisode": {
-                "airingAt": 1782484200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg"
-            },
-            "title": {
-                "userPreferred": "Snowball Earth",
-                "native": "\u30b9\u30ce\u30a6\u30dc\u30fc\u30eb\u30a2\u30fc\u30b9",
-                "romaji": "Snowball Earth"
-            }
-        },
-        {
             "id": 196613,
             "idMal": null,
             "nextAiringEpisode": {
@@ -754,26 +706,10 @@
             }
         },
         {
-            "id": 198411,
-            "idMal": 62495,
-            "nextAiringEpisode": {
-                "airingAt": 1782520200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png"
-            },
-            "title": {
-                "userPreferred": "Nezumi-kun no Chokki (TV)",
-                "native": "\u306d\u305a\u307f\u304f\u3093\u306e\u30c1\u30e7\u30c3\u30ad (TV)",
-                "romaji": "Nezumi-kun no Chokki (TV)"
-            }
-        },
-        {
             "id": 199448,
             "idMal": 62276,
             "nextAiringEpisode": {
-                "airingAt": 1782525600
+                "airingAt": 1782612000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199448-BuqzEdkuPSEm.png",
@@ -837,7 +773,7 @@
             "id": 202508,
             "idMal": 62981,
             "nextAiringEpisode": {
-                "airingAt": 1782484200
+                "airingAt": 1783089000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
@@ -895,6 +831,22 @@
                 "userPreferred": "Odekake Kozame Season 2",
                 "native": "\u304a\u3067\u304b\u3051\u5b50\u30b6\u30e1 \u30b7\u30fc\u30ba\u30f32",
                 "romaji": "Odekake Kozame Season 2"
+            }
+        },
+        {
+            "id": 204656,
+            "idMal": 63151,
+            "nextAiringEpisode": {
+                "airingAt": 1782860400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
+            },
+            "title": {
+                "userPreferred": "mofusand",
+                "native": "mofusand ",
+                "romaji": "mofusand"
             }
         },
         {
