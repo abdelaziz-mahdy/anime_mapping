@@ -1,11 +1,11 @@
 {
-    "__version__": 828,
+    "__version__": 829,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1782656160
+                "airingAt": 1783865760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1783155600
+                "airingAt": 1783760400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1782639000
+                "airingAt": 1783243800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -98,26 +98,10 @@
             }
         },
         {
-            "id": 118123,
-            "idMal": 44042,
-            "nextAiringEpisode": {
-                "airingAt": 1782637200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png"
-            },
-            "title": {
-                "userPreferred": "Holo no Graffiti",
-                "native": "\u30db\u30ed\u306e\u3050\u3089\u3075\u3043\u3066\u3043",
-                "romaji": "Holo no Graffiti"
-            }
-        },
-        {
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1782698400
+                "airingAt": 1783303200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -290,22 +274,6 @@
             }
         },
         {
-            "id": 177634,
-            "idMal": 58877,
-            "nextAiringEpisode": {
-                "airingAt": 1782635400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png"
-            },
-            "title": {
-                "userPreferred": "Diamond no Ace act II: Second Season",
-                "native": "\u30c0\u30a4\u30e4\u306eA actII -Second Season-",
-                "romaji": "Diamond no Ace act II: Second Season"
-            }
-        },
-        {
             "id": 182205,
             "idMal": 59970,
             "nextAiringEpisode": {
@@ -319,38 +287,6 @@
                 "userPreferred": "Tensei Shitara Slime Datta Ken 4th Season",
                 "native": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u7b2c4\u671f",
                 "romaji": "Tensei Shitara Slime Datta Ken 4th Season"
-            }
-        },
-        {
-            "id": 182300,
-            "idMal": 59983,
-            "nextAiringEpisode": {
-                "airingAt": 1782631800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg"
-            },
-            "title": {
-                "userPreferred": "Tsue to Tsurugi no Wistoria Season 2",
-                "native": "\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2 Season2",
-                "romaji": "Tsue to Tsurugi no Wistoria Season 2"
-            }
-        },
-        {
-            "id": 182578,
-            "idMal": 60055,
-            "nextAiringEpisode": {
-                "airingAt": 1782633600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg"
-            },
-            "title": {
-                "userPreferred": "Yozakura-san Chi no Daisakusen 2nd Season",
-                "native": "\u591c\u685c\u3055\u3093\u3061\u306e\u5927\u4f5c\u6226 \u7b2c2\u671f",
-                "romaji": "Yozakura-san Chi no Daisakusen 2nd Season"
             }
         },
         {
@@ -546,6 +482,22 @@
             }
         },
         {
+            "id": 193883,
+            "idMal": 61765,
+            "nextAiringEpisode": {
+                "airingAt": 1783461960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg"
+            },
+            "title": {
+                "userPreferred": "Chibi Godzilla no Gyakushuu 3",
+                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
+                "romaji": "Chibi Godzilla no Gyakushuu 3"
+            }
+        },
+        {
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
@@ -629,7 +581,7 @@
             "id": 196974,
             "idMal": 62171,
             "nextAiringEpisode": {
-                "airingAt": 1782657000
+                "airingAt": 1783261800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
@@ -799,6 +751,22 @@
                 "userPreferred": "Onegai AiPri",
                 "native": "\u304a\u306d\u304c\u3044\u30a2\u30a4\u30d7\u30ea",
                 "romaji": "Onegai AiPri"
+            }
+        },
+        {
+            "id": 206950,
+            "idMal": 63383,
+            "nextAiringEpisode": {
+                "airingAt": 1783202400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png"
+            },
+            "title": {
+                "userPreferred": "Kumarba Season 3",
+                "native": "\u30af\u30de\u30fc\u30d0\u30b7\u30fc\u30ba\u30f33",
+                "romaji": "Kumarba Season 3"
             }
         },
         {
