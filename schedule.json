@@ -1,5 +1,5 @@
 {
-    "__version__": 829,
+    "__version__": 830,
     "data": [
         {
             "id": 21,
@@ -98,6 +98,22 @@
             }
         },
         {
+            "id": 118123,
+            "idMal": 44042,
+            "nextAiringEpisode": {
+                "airingAt": 1783242000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png"
+            },
+            "title": {
+                "userPreferred": "Holo no Graffiti",
+                "native": "\u30db\u30ed\u306e\u3050\u3089\u3075\u3043\u3066\u3043",
+                "romaji": "Holo no Graffiti"
+            }
+        },
+        {
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
@@ -117,7 +133,7 @@
             "id": 137664,
             "idMal": 64375,
             "nextAiringEpisode": {
-                "airingAt": 1782784800
+                "airingAt": 1783389600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png",
@@ -149,7 +165,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1782772800
+                "airingAt": 1783032000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -181,7 +197,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1782784800
+                "airingAt": 1783216800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -437,7 +453,7 @@
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
-                "airingAt": 1782788400
+                "airingAt": 1785466800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188753-Rkuiizca4QFD.png",
@@ -597,7 +613,7 @@
             "id": 197754,
             "idMal": 62331,
             "nextAiringEpisode": {
-                "airingAt": 1782745200
+                "airingAt": 1783350000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
@@ -738,6 +754,22 @@
             }
         },
         {
+            "id": 206521,
+            "idMal": 63347,
+            "nextAiringEpisode": {
+                "airingAt": 1783342800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png"
+            },
+            "title": {
+                "userPreferred": "World Is Dancing",
+                "native": "\u30ef\u30fc\u30eb\u30c9 \u30a4\u30ba \u30c0\u30f3\u30b7\u30f3\u30b0",
+                "romaji": "World Is Dancing"
+            }
+        },
+        {
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
@@ -869,7 +901,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1782784800
+                "airingAt": 1783389600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
