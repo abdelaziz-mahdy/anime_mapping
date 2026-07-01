@@ -1,5 +1,5 @@
 {
-    "__version__": 830,
+    "__version__": 831,
     "data": [
         {
             "id": 21,
@@ -210,22 +210,6 @@
             }
         },
         {
-            "id": 158036,
-            "idMal": 53732,
-            "nextAiringEpisode": {
-                "airingAt": 1782831600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg"
-            },
-            "title": {
-                "userPreferred": "Hidarikiki no Eren",
-                "native": "\u5de6\u304d\u304d\u306e\u30a8\u30ec\u30f3",
-                "romaji": "Hidarikiki no Eren"
-            }
-        },
-        {
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
@@ -367,22 +351,6 @@
                 "userPreferred": "Koori no Jouheki",
                 "native": "\u6c37\u306e\u57ce\u58c1",
                 "romaji": "Koori no Jouheki"
-            }
-        },
-        {
-            "id": 186744,
-            "idMal": 61013,
-            "nextAiringEpisode": {
-                "airingAt": 1782829800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186744-nFH4y2slUrO4.jpg"
-            },
-            "title": {
-                "userPreferred": "Replica Datte, Koi wo Suru.",
-                "native": "\u30ec\u30d7\u30ea\u30ab\u3060\u3063\u3066\u3001\u604b\u3092\u3059\u308b",
-                "romaji": "Replica Datte, Koi wo Suru."
             }
         },
         {
@@ -530,22 +498,6 @@
             }
         },
         {
-            "id": 194393,
-            "idMal": 61839,
-            "nextAiringEpisode": {
-                "airingAt": 1782828000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg"
-            },
-            "title": {
-                "userPreferred": "Aishiteru Game wo Owarasetai",
-                "native": "\u611b\u3057\u3066\u308b\u30b2\u30fc\u30e0\u3092\u7d42\u308f\u3089\u305b\u305f\u3044",
-                "romaji": "Aishiteru Game wo Owarasetai"
-            }
-        },
-        {
             "id": 195600,
             "idMal": 62001,
             "nextAiringEpisode": {
@@ -575,6 +527,22 @@
                 "userPreferred": "MAO",
                 "native": "MAO",
                 "romaji": "MAO"
+            }
+        },
+        {
+            "id": 196219,
+            "idMal": 62080,
+            "nextAiringEpisode": {
+                "airingAt": 1783429200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-WofGyq2depPi.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-WofGyq2depPi.jpg"
+            },
+            "title": {
+                "userPreferred": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+                "native": "\u7121\u81ea\u899a\u8056\u5973\u306f\u4eca\u65e5\u3082\u7121\u610f\u8b58\u306b\u529b\u3092\u5782\u308c\u6d41\u3059",
+                "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
             }
         },
         {
@@ -623,22 +591,6 @@
                 "userPreferred": "LIAR GAME",
                 "native": "LIAR GAME",
                 "romaji": "LIAR GAME"
-            }
-        },
-        {
-            "id": 199547,
-            "idMal": 62601,
-            "nextAiringEpisode": {
-                "airingAt": 1782828000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg"
-            },
-            "title": {
-                "userPreferred": "MARRIAGETOXIN",
-                "native": "\u30de\u30ea\u30c3\u30b8\u30c8\u30ad\u30b7\u30f3",
-                "romaji": "MARRIAGETOXIN"
             }
         },
         {
@@ -725,7 +677,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1782860400
+                "airingAt": 1783465200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -869,7 +821,7 @@
             "id": 211270,
             "idMal": 63788,
             "nextAiringEpisode": {
-                "airingAt": 1782792000
+                "airingAt": 1783396800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png",
@@ -917,7 +869,7 @@
             "id": 213297,
             "idMal": 63149,
             "nextAiringEpisode": {
-                "airingAt": 1782871200
+                "airingAt": 1783476000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg",
