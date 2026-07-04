@@ -1,5 +1,5 @@
 {
-    "__version__": 833,
+    "__version__": 834,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1783130400
+                "airingAt": 1783735200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -181,7 +181,7 @@
             "id": 142274,
             "idMal": 50418,
             "nextAiringEpisode": {
-                "airingAt": 1783117800
+                "airingAt": 1783722600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
@@ -213,7 +213,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1783072500
+                "airingAt": 1784282100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -293,7 +293,7 @@
             "id": 182205,
             "idMal": 59970,
             "nextAiringEpisode": {
-                "airingAt": 1783087200
+                "airingAt": 1783692000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
@@ -309,7 +309,7 @@
             "id": 183231,
             "idMal": 60153,
             "nextAiringEpisode": {
-                "airingAt": 1783124760
+                "airingAt": 1783729560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
@@ -399,6 +399,22 @@
                 "userPreferred": "DIGIMON BEATBREAK",
                 "native": "DIGIMON BEATBREAK",
                 "romaji": "DIGIMON BEATBREAK"
+            }
+        },
+        {
+            "id": 188525,
+            "idMal": 61280,
+            "nextAiringEpisode": {
+                "airingAt": 1783693800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-TBVfJaCZrcfg.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg"
+            },
+            "title": {
+                "userPreferred": "Kore Kaite Shine",
+                "native": "\u3053\u308c\u63cf\u3044\u3066\u6b7b\u306d",
+                "romaji": "Kore Kaite Shine"
             }
         },
         {
@@ -530,6 +546,22 @@
             }
         },
         {
+            "id": 196218,
+            "idMal": 62078,
+            "nextAiringEpisode": {
+                "airingAt": 1783690200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg"
+            },
+            "title": {
+                "userPreferred": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+                "native": "\u9818\u6c110\u4eba\u30b9\u30bf\u30fc\u30c8\u306e\u8fba\u5883\u9818\u4e3b\u69d8",
+                "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
+            }
+        },
+        {
             "id": 196219,
             "idMal": 62080,
             "nextAiringEpisode": {
@@ -626,6 +658,22 @@
             }
         },
         {
+            "id": 199748,
+            "idMal": 62617,
+            "nextAiringEpisode": {
+                "airingAt": 1783690200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png"
+            },
+            "title": {
+                "userPreferred": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+                "native": "\u3053\u3053\u306f\u4ffa\u306b\u4efb\u305b\u3066\u5148\u306b\u884c\u3051\u3068\u8a00\u3063\u3066\u304b\u3089\uff11\uff10\u5e74\u304c\u305f\u3063\u305f\u3089\u4f1d\u8aac\u306b\u306a\u3063\u3066\u3044\u305f\u3002",
+                "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
+            }
+        },
+        {
             "id": 201667,
             "idMal": 62883,
             "nextAiringEpisode": {
@@ -661,7 +709,7 @@
             "id": 202508,
             "idMal": 62981,
             "nextAiringEpisode": {
-                "airingAt": 1783089000
+                "airingAt": 1783693800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
@@ -687,6 +735,22 @@
                 "userPreferred": "Meitantei Precure!",
                 "native": "\u540d\u63a2\u5075\u30d7\u30ea\u30ad\u30e5\u30a2\uff01",
                 "romaji": "Meitantei Precure!"
+            }
+        },
+        {
+            "id": 203490,
+            "idMal": 63061,
+            "nextAiringEpisode": {
+                "airingAt": 1783695600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg"
+            },
+            "title": {
+                "userPreferred": "Uchi no Otouto-domo ga Sumimasen",
+                "native": "\u3046\u3061\u306e\u5f1f\u3069\u3082\u304c\u3059\u307f\u307e\u305b\u3093",
+                "romaji": "Uchi no Otouto-domo ga Sumimasen"
             }
         },
         {
@@ -834,6 +898,22 @@
             }
         },
         {
+            "id": 207674,
+            "idMal": 63468,
+            "nextAiringEpisode": {
+                "airingAt": 1783701000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg"
+            },
+            "title": {
+                "userPreferred": "Ushiro no Shoumen Kamui-san",
+                "native": "\u3046\u3057\u308d\u306e\u6b63\u9762\u30ab\u30e0\u30a4\u3055\u3093",
+                "romaji": "Ushiro no Shoumen Kamui-san"
+            }
+        },
+        {
             "id": 208044,
             "idMal": 63508,
             "nextAiringEpisode": {
@@ -882,6 +962,22 @@
             }
         },
         {
+            "id": 209983,
+            "idMal": 63817,
+            "nextAiringEpisode": {
+                "airingAt": 1783699200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg"
+            },
+            "title": {
+                "userPreferred": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+                "native": "\u30d8\u30eb\u30e2\u30fc\u30c9 \uff5e\u3084\u308a\u8fbc\u307f\u597d\u304d\u306e\u30b2\u30fc\u30de\u30fc\u306f\u5ec3\u8a2d\u5b9a\u306e\u7570\u4e16\u754c\u3067\u7121\u53cc\u3059\u308b\uff5e 2nd Season",
+                "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
+            }
+        },
+        {
             "id": 210687,
             "idMal": 63830,
             "nextAiringEpisode": {
@@ -927,6 +1023,22 @@
                 "userPreferred": "Fei Ren Zai 3 Part 2",
                 "native": "\u975e\u4eba\u54c9 \u7b2c\u4e09\u5b63 \u7b2c\u4e8c\u90e8\u5206",
                 "romaji": "Fei Ren Zai 3 Part 2"
+            }
+        },
+        {
+            "id": 212308,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1783726200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg"
+            },
+            "title": {
+                "userPreferred": "Pan no Akachan (TV)",
+                "native": "\u30d1\u30f3\u306e\u8d64\u3061\u3083\u3093",
+                "romaji": "Pan no Akachan (TV)"
             }
         },
         {
@@ -991,6 +1103,38 @@
                 "userPreferred": "Guangyin Zhi Wai 2",
                 "native": "\u5149\u9634\u4e4b\u59162",
                 "romaji": "Guangyin Zhi Wai 2"
+            }
+        },
+        {
+            "id": 213484,
+            "idMal": 62957,
+            "nextAiringEpisode": {
+                "airingAt": 1783396800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213484-FIyYH43ASHgB.png"
+            },
+            "title": {
+                "userPreferred": "Bai Ri Cheng Wang",
+                "native": "\u767e\u65e5\u6210\u738b",
+                "romaji": "Bai Ri Cheng Wang"
+            }
+        },
+        {
+            "id": 213831,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1783701720
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213831-jrH7JR6feW1q.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213831-jrH7JR6feW1q.png"
+            },
+            "title": {
+                "userPreferred": "Snack HAZAMA",
+                "native": "\u30b9\u30ca\u30c3\u30af\u306f\u3056\u307e-HAZAMA-",
+                "romaji": "Snack HAZAMA"
             }
         }
     ]
