@@ -1,5 +1,5 @@
 {
-    "__version__": 835,
+    "__version__": 836,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1783243800
+                "airingAt": 1783848600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -98,10 +98,26 @@
             }
         },
         {
+            "id": 103303,
+            "idMal": 62856,
+            "nextAiringEpisode": {
+                "airingAt": 1783864800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png"
+            },
+            "title": {
+                "userPreferred": "Nijusseiki Denki Mokuroku: Eureka\u30fbEvrika",
+                "native": "\u4e8c\u5341\u4e16\u7d00\u96fb\u6c23\u76ee\u9332-\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab-",
+                "romaji": "Nijusseiki Denki Mokuroku: Eureka\u30fbEvrika"
+            }
+        },
+        {
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1783242000
+                "airingAt": 1783846800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -117,7 +133,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1783303200
+                "airingAt": 1783908000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -258,6 +274,22 @@
             }
         },
         {
+            "id": 169080,
+            "idMal": 56613,
+            "nextAiringEpisode": {
+                "airingAt": 1783872000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169080-el4sMLlqMxeI.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png"
+            },
+            "title": {
+                "userPreferred": "Azur Lane: Bisoku Zenshin! Ni!!",
+                "native": "\u30a2\u30ba\u30fc\u30eb\u30ec\u30fc\u30f3 \u3073\u305d\u304f\u305c\u3093\u3057\u3093\u3063\uff01\u306b\u3063\uff01\uff01",
+                "romaji": "Azur Lane: Bisoku Zenshin! Ni!!"
+            }
+        },
+        {
             "id": 171110,
             "idMal": 57466,
             "nextAiringEpisode": {
@@ -271,6 +303,22 @@
                 "userPreferred": "Honzuki no Gekokujou: Ryoushu no Youjo",
                 "native": "\u672c\u597d\u304d\u306e\u4e0b\u524b\u4e0a \u9818\u4e3b\u306e\u990a\u5973",
                 "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
+            }
+        },
+        {
+            "id": 177637,
+            "idMal": 58878,
+            "nextAiringEpisode": {
+                "airingAt": 1783870200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg"
+            },
+            "title": {
+                "userPreferred": "Sayonara Lara",
+                "native": "\u3055\u3088\u306a\u3089 \u30e9\u30e9",
+                "romaji": "Sayonara Lara"
             }
         },
         {
@@ -725,7 +773,7 @@
             "id": 196974,
             "idMal": 62171,
             "nextAiringEpisode": {
-                "airingAt": 1783261800
+                "airingAt": 1783866600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
@@ -786,6 +834,22 @@
             }
         },
         {
+            "id": 198409,
+            "idMal": 62435,
+            "nextAiringEpisode": {
+                "airingAt": 1783861200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png"
+            },
+            "title": {
+                "userPreferred": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+                "native": "\u4e16\u754c\u6700\u5f37\u306e\u5f8c\u885b \uff5e\u8ff7\u5bae\u56fd\u306e\u65b0\u4eba\u63a2\u7d22\u8005\uff5e",
+                "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
+            }
+        },
+        {
             "id": 199748,
             "idMal": 62617,
             "nextAiringEpisode": {
@@ -805,7 +869,7 @@
             "id": 200230,
             "idMal": 62683,
             "nextAiringEpisode": {
-                "airingAt": 1783236600
+                "airingAt": 1783841400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png",
@@ -815,6 +879,22 @@
                 "userPreferred": "Let's Go Kaikigumi",
                 "native": "\u30ec\u30c3\u30c4\u30b4\u30fc\u602a\u5947\u7d44",
                 "romaji": "Let's Go Kaikigumi"
+            }
+        },
+        {
+            "id": 200637,
+            "idMal": 62811,
+            "nextAiringEpisode": {
+                "airingAt": 1783863000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg"
+            },
+            "title": {
+                "userPreferred": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+                "native": "\u541b\u306e\u3053\u3068\u304c\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a100\u4eba\u306e\u5f7c\u5973 \u7b2c3\u671f",
+                "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season"
             }
         },
         {
@@ -927,6 +1007,22 @@
                 "userPreferred": "Reiwa no Dara-san",
                 "native": "\u4ee4\u548c\u306e\u30c0\u30e9\u3055\u3093",
                 "romaji": "Reiwa no Dara-san"
+            }
+        },
+        {
+            "id": 204060,
+            "idMal": 63100,
+            "nextAiringEpisode": {
+                "airingAt": 1783845000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204060-bKhovD8jAlW8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-bKhovD8jAlW8.jpg"
+            },
+            "title": {
+                "userPreferred": "Tetsunabe no Jan!",
+                "native": "\u9244\u934b\u306e\u30b8\u30e3\u30f3\uff01",
+                "romaji": "Tetsunabe no Jan!"
             }
         },
         {
@@ -1170,6 +1266,22 @@
             }
         },
         {
+            "id": 210031,
+            "idMal": 63832,
+            "nextAiringEpisode": {
+                "airingAt": 1783843200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg"
+            },
+            "title": {
+                "userPreferred": "Seihantai na Kimi to Boku 2nd Season",
+                "native": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 \u7b2c2\u671f",
+                "romaji": "Seihantai na Kimi to Boku 2nd Season"
+            }
+        },
+        {
             "id": 210687,
             "idMal": 63830,
             "nextAiringEpisode": {
@@ -1219,7 +1331,7 @@
         },
         {
             "id": 212308,
-            "idMal": null,
+            "idMal": 64210,
             "nextAiringEpisode": {
                 "airingAt": 1783726200
             },
