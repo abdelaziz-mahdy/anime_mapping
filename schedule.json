@@ -1,5 +1,5 @@
 {
-    "__version__": 836,
+    "__version__": 837,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 137664,
             "idMal": 64375,
             "nextAiringEpisode": {
-                "airingAt": 1783389600
+                "airingAt": 1783994400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png",
@@ -181,7 +181,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1783377600
+                "airingAt": 1783636800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -213,7 +213,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1783389600
+                "airingAt": 1783821600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -287,6 +287,38 @@
                 "userPreferred": "Azur Lane: Bisoku Zenshin! Ni!!",
                 "native": "\u30a2\u30ba\u30fc\u30eb\u30ec\u30fc\u30f3 \u3073\u305d\u304f\u305c\u3093\u3057\u3093\u3063\uff01\u306b\u3063\uff01\uff01",
                 "romaji": "Azur Lane: Bisoku Zenshin! Ni!!"
+            }
+        },
+        {
+            "id": 169582,
+            "idMal": 56736,
+            "nextAiringEpisode": {
+                "airingAt": 1783943820
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png"
+            },
+            "title": {
+                "userPreferred": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+                "native": "\u6700\u5f37\u51fa\u6db8\u3089\u3057\u7687\u5b50\u306e\u6697\u8e8d\u5e1d\u4f4d\u4e89\u3044 \u7121\u80fd\u3092\u6f14\u3058\u308bSS\u30e9\u30f3\u30af\u7687\u5b50\u306f\u7687\u4f4d\u7d99\u627f\u6226\u3092\u5f71\u304b\u3089\u652f\u914d\u3059\u308b",
+                "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru"
+            }
+        },
+        {
+            "id": 169583,
+            "idMal": 56735,
+            "nextAiringEpisode": {
+                "airingAt": 1783953000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg"
+            },
+            "title": {
+                "userPreferred": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+                "native": "\u8ee2\u6821\u5148\u306e\u6e05\u695a\u53ef\u6190\u306a\u7f8e\u5c11\u5973\u304c\u3001\u6614\u7537\u5b50\u3068\u601d\u3063\u3066\u4e00\u7dd2\u306b\u904a\u3093\u3060\u5e7c\u99b4\u67d3\u3060\u3063\u305f\u4ef6",
+                "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken"
             }
         },
         {
@@ -653,7 +685,7 @@
             },
             "title": {
                 "userPreferred": "Oni no Hanayome",
-                "native": "\u9b3c\u306e\u82b1\u5ac1 ",
+                "native": "\u9b3c\u306e\u82b1\u5ac1",
                 "romaji": "Oni no Hanayome"
             }
         },
@@ -690,10 +722,26 @@
             }
         },
         {
+            "id": 195833,
+            "idMal": 62031,
+            "nextAiringEpisode": {
+                "airingAt": 1783951200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-QAX1YLWYn1VX.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-QAX1YLWYn1VX.png"
+            },
+            "title": {
+                "userPreferred": "Honoo no Toukyuujyo Dodge Danko",
+                "native": "\u708e\u306e\u95d8\u7403\u5973 \u30c9\u30c3\u30b8\u5f3e\u5b50",
+                "romaji": "Honoo no Toukyuujyo Dodge Danko"
+            }
+        },
+        {
             "id": 196012,
             "idMal": 62048,
             "nextAiringEpisode": {
-                "airingAt": 1783781160
+                "airingAt": 1784385960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
@@ -805,7 +853,7 @@
             "id": 197754,
             "idMal": 62331,
             "nextAiringEpisode": {
-                "airingAt": 1783350000
+                "airingAt": 1783954800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
@@ -847,6 +895,38 @@
                 "userPreferred": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
                 "native": "\u4e16\u754c\u6700\u5f37\u306e\u5f8c\u885b \uff5e\u8ff7\u5bae\u56fd\u306e\u65b0\u4eba\u63a2\u7d22\u8005\uff5e",
                 "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
+            }
+        },
+        {
+            "id": 199111,
+            "idMal": 62542,
+            "nextAiringEpisode": {
+                "airingAt": 1783954800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg"
+            },
+            "title": {
+                "userPreferred": "Grand Blue Season 3",
+                "native": "\u3050\u3089\u3093\u3076\u308b Season 3",
+                "romaji": "Grand Blue Season 3"
+            }
+        },
+        {
+            "id": 199408,
+            "idMal": 62289,
+            "nextAiringEpisode": {
+                "airingAt": 1783949400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png"
+            },
+            "title": {
+                "userPreferred": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+                "native": "\u30d6\u30c1\u5207\u308c\u4ee4\u5b22\u306f\u5831\u5fa9\u3092\u8a93\u3044\u307e\u3057\u305f\u3002\u3000\uff5e\u9b54\u5c0e\u66f8\u306e\u529b\u3067\u7956\u56fd\u3092\u53e9\u304d\u6f70\u3057\u307e\u3059\uff5e",
+                "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu"
             }
         },
         {
@@ -927,6 +1007,22 @@
                 "userPreferred": "Bungou Stray Dogs Wan! 2",
                 "native": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9 \u308f\u3093\uff01\uff12",
                 "romaji": "Bungou Stray Dogs Wan! 2"
+            }
+        },
+        {
+            "id": 202269,
+            "idMal": 62936,
+            "nextAiringEpisode": {
+                "airingAt": 1783944000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg"
+            },
+            "title": {
+                "userPreferred": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+                "native": "\u900f\u660e\u306a\u591c\u306b\u99c6\u3051\u308b\u541b\u3068\u3001\u76ee\u306b\u898b\u3048\u306a\u3044\u604b\u3092\u3057\u305f\u3002",
+                "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
             }
         },
         {
@@ -1069,8 +1165,24 @@
             },
             "title": {
                 "userPreferred": "mofusand",
-                "native": "mofusand ",
+                "native": "mofusand",
                 "romaji": "mofusand"
+            }
+        },
+        {
+            "id": 205116,
+            "idMal": 63219,
+            "nextAiringEpisode": {
+                "airingAt": 1783871100
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205116-160t0jWDkIdK.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205116-160t0jWDkIdK.png"
+            },
+            "title": {
+                "userPreferred": "Aware! Meisaku-kun (2026)",
+                "native": "\u3042\u306f\u308c\uff01\u540d\u4f5c\u304f\u3093 (2026)",
+                "romaji": "Aware! Meisaku-kun (2026)"
             }
         },
         {
@@ -1109,7 +1221,7 @@
             "id": 206521,
             "idMal": 63347,
             "nextAiringEpisode": {
-                "airingAt": 1783342800
+                "airingAt": 1783947600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png",
@@ -1215,6 +1327,22 @@
                 "userPreferred": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
                 "native": "\u300c\u304d\u307f\u3092\u611b\u3059\u308b\u6c17\u306f\u306a\u3044\u300d\u3068\u8a00\u3063\u305f\u6b21\u671f\u516c\u7235\u69d8\u304c\u306a\u305c\u304b\u6eba\u611b\u3057\u3066\u304d\u307e\u3059",
                 "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu"
+            }
+        },
+        {
+            "id": 209504,
+            "idMal": 63752,
+            "nextAiringEpisode": {
+                "airingAt": 1783951200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg"
+            },
+            "title": {
+                "userPreferred": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+                "native": "\u6368\u3066\u3089\u308c\u8056\u5973\u306e\u7570\u4e16\u754c\u3054\u306f\u3093\u65c5 \u96a0\u308c\u30b9\u30ad\u30eb\u3067\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u3092\u53ec\u559a\u3057\u307e\u3057\u305f",
+                "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita"
             }
         },
         {
@@ -1365,7 +1493,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1783389600
+                "airingAt": 1783994400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
