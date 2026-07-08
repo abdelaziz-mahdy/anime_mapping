@@ -1,5 +1,5 @@
 {
-    "__version__": 837,
+    "__version__": 838,
     "data": [
         {
             "id": 21,
@@ -130,6 +130,22 @@
             }
         },
         {
+            "id": 128757,
+            "idMal": 46488,
+            "nextAiringEpisode": {
+                "airingAt": 1784028600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png"
+            },
+            "title": {
+                "userPreferred": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+                "native": "\u5bfe\u3042\u308a\u3067\u3057\u305f\u3002 \uff5e\u304a\u5b22\u3055\u307e\u306f\u683c\u95d8\u30b2\u30fc\u30e0\u306a\u3093\u3066\u3057\u306a\u3044\uff5e",
+                "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai"
+            }
+        },
+        {
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
@@ -143,22 +159,6 @@
                 "userPreferred": "Xian Ni",
                 "native": "\u4ed9\u9006",
                 "romaji": "Xian Ni"
-            }
-        },
-        {
-            "id": 137664,
-            "idMal": 64375,
-            "nextAiringEpisode": {
-                "airingAt": 1783994400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137664-9MB4bb4ASiIN.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137664-9MB4bb4ASiIN.png"
-            },
-            "title": {
-                "userPreferred": "Cheng Huang Lu",
-                "native": "\u57ce\u968d\u5f55",
-                "romaji": "Cheng Huang Lu"
             }
         },
         {
@@ -354,6 +354,22 @@
             }
         },
         {
+            "id": 177699,
+            "idMal": 58929,
+            "nextAiringEpisode": {
+                "airingAt": 1784037600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png"
+            },
+            "title": {
+                "userPreferred": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+                "native": "\u653b\u6bbb\u6a5f\u52d5\u968a THE GHOST IN THE SHELL",
+                "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL"
+            }
+        },
+        {
             "id": 178789,
             "idMal": 59193,
             "nextAiringEpisode": {
@@ -530,6 +546,22 @@
             }
         },
         {
+            "id": 187260,
+            "idMal": 61126,
+            "nextAiringEpisode": {
+                "airingAt": 1784032200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg"
+            },
+            "title": {
+                "userPreferred": "Kimi ga Shinu made Koi wo Shitai",
+                "native": "\u304d\u307f\u304c\u6b7b\u306c\u307e\u3067\u604b\u3092\u3057\u305f\u3044",
+                "romaji": "Kimi ga Shinu made Koi wo Shitai"
+            }
+        },
+        {
             "id": 187538,
             "idMal": 61169,
             "nextAiringEpisode": {
@@ -661,7 +693,7 @@
             "id": 193883,
             "idMal": 61765,
             "nextAiringEpisode": {
-                "airingAt": 1783461960
+                "airingAt": 1784671560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
@@ -789,7 +821,7 @@
             "id": 196219,
             "idMal": 62080,
             "nextAiringEpisode": {
-                "airingAt": 1783429200
+                "airingAt": 1784034000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
@@ -895,6 +927,22 @@
                 "userPreferred": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
                 "native": "\u4e16\u754c\u6700\u5f37\u306e\u5f8c\u885b \uff5e\u8ff7\u5bae\u56fd\u306e\u65b0\u4eba\u63a2\u7d22\u8005\uff5e",
                 "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
+            }
+        },
+        {
+            "id": 198709,
+            "idMal": 62476,
+            "nextAiringEpisode": {
+                "airingAt": 1784041200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg"
+            },
+            "title": {
+                "userPreferred": "Tefuda ga Oome no Victoria",
+                "native": "\u624b\u672d\u304c\u591a\u3081\u306e\u30d3\u30af\u30c8\u30ea\u30a2",
+                "romaji": "Tefuda ga Oome no Victoria"
             }
         },
         {
@@ -1157,7 +1205,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1783465200
+                "airingAt": 1784070000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1298,6 +1346,22 @@
             }
         },
         {
+            "id": 207809,
+            "idMal": 63489,
+            "nextAiringEpisode": {
+                "airingAt": 1784046900
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg"
+            },
+            "title": {
+                "userPreferred": "Sora wa Akai Kawa no Hotori",
+                "native": "\u5929\u306f\u8d64\u3044\u6cb3\u306e\u307b\u3068\u308a",
+                "romaji": "Sora wa Akai Kawa no Hotori"
+            }
+        },
+        {
             "id": 208044,
             "idMal": 63508,
             "nextAiringEpisode": {
@@ -1308,9 +1372,9 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-Pm2UhvApQFUh.jpg"
             },
             "title": {
-                "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+                "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
                 "native": "\u843d\u7b2c\u8ce2\u8005\u306e\u5b66\u9662\u7121\u53cc\uff5e\u4e8c\u5ea6\u76ee\u306e\u8ee2\u751f\u3001S\u30e9\u30f3\u30af\u30c1\u30fc\u30c8\u9b54\u8853\u5e2b\u5192\u967a\u9332\uff5e",
-                "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
+                "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku"
             }
         },
         {
@@ -1375,6 +1439,22 @@
                 "userPreferred": "Hanazakari no Kimitachi e 2nd Season",
                 "native": "\u82b1\u3056\u304b\u308a\u306e\u541b\u305f\u3061\u3078 \u7b2c2\u671f",
                 "romaji": "Hanazakari no Kimitachi e 2nd Season"
+            }
+        },
+        {
+            "id": 209800,
+            "idMal": 63047,
+            "nextAiringEpisode": {
+                "airingAt": 1784039400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg"
+            },
+            "title": {
+                "userPreferred": "Yoroi Shinden Samurai Troopers Part 2",
+                "native": "\u93a7\u771f\u4f1d\u30b5\u30e0\u30e9\u30a4\u30c8\u30eb\u30fc\u30d1\u30fc \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Yoroi Shinden Samurai Troopers Part 2"
             }
         },
         {
@@ -1445,7 +1525,7 @@
             "id": 211270,
             "idMal": 63788,
             "nextAiringEpisode": {
-                "airingAt": 1783396800
+                "airingAt": 1784001600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png",
@@ -1509,7 +1589,7 @@
             "id": 213297,
             "idMal": 63149,
             "nextAiringEpisode": {
-                "airingAt": 1783476000
+                "airingAt": 1784080800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213297-hmYPfAXgQQDp.jpg",
@@ -1541,7 +1621,7 @@
             "id": 213484,
             "idMal": 62957,
             "nextAiringEpisode": {
-                "airingAt": 1783396800
+                "airingAt": 1783656000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
@@ -1551,6 +1631,22 @@
                 "userPreferred": "Bai Ri Cheng Wang",
                 "native": "\u767e\u65e5\u6210\u738b",
                 "romaji": "Bai Ri Cheng Wang"
+            }
+        },
+        {
+            "id": 213665,
+            "idMal": 63878,
+            "nextAiringEpisode": {
+                "airingAt": 1784033700
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213665-E6byznDKrKY0.png"
+            },
+            "title": {
+                "userPreferred": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+                "native": "\u8eab\u4ee3\u308f\u308a\u4ee4\u5b22\u3092\u6551\u3063\u305f\u306e\u306f\u51b7\u9177\u7121\u6148\u60b2\u306a\u6c37\u306e\u738b\u5b50\u306e\u611b\u3067\u3057\u305f",
+                "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita"
             }
         },
         {
