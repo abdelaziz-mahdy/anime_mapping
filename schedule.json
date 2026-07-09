@@ -1,5 +1,5 @@
 {
-    "__version__": 838,
+    "__version__": 839,
     "data": [
         {
             "id": 21,
@@ -146,6 +146,22 @@
             }
         },
         {
+            "id": 135865,
+            "idMal": 49233,
+            "nextAiringEpisode": {
+                "airingAt": 1784118600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png"
+            },
+            "title": {
+                "userPreferred": "Youjo Senki II",
+                "native": "\u5e7c\u5973\u6226\u8a18\u2161",
+                "romaji": "Youjo Senki II"
+            }
+        },
+        {
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
@@ -242,10 +258,26 @@
             }
         },
         {
+            "id": 159309,
+            "idMal": 54000,
+            "nextAiringEpisode": {
+                "airingAt": 1784125800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg"
+            },
+            "title": {
+                "userPreferred": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+                "native": "\u4e59\u5973\u30b2\u30fc\u4e16\u754c\u306f\u30e2\u30d6\u306b\u53b3\u3057\u3044\u4e16\u754c\u3067\u30592",
+                "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2"
+            }
+        },
+        {
             "id": 163793,
             "idMal": 63964,
             "nextAiringEpisode": {
-                "airingAt": 1783498500
+                "airingAt": 1784103300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg",
@@ -434,6 +466,22 @@
             }
         },
         {
+            "id": 184356,
+            "idMal": 63316,
+            "nextAiringEpisode": {
+                "airingAt": 1784132100
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184356-SlFIstXUXJYP.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png"
+            },
+            "title": {
+                "userPreferred": "Dogul Wang",
+                "native": "\ub3c4\uad74\uc655",
+                "romaji": "Dogul Wang"
+            }
+        },
+        {
             "id": 184492,
             "idMal": 60310,
             "nextAiringEpisode": {
@@ -600,8 +648,8 @@
                 "airingAt": 1783693800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-TBVfJaCZrcfg.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg"
             },
             "title": {
                 "userPreferred": "Kore Kaite Shine",
@@ -613,7 +661,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1783508400
+                "airingAt": 1784113200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -677,7 +725,7 @@
             "id": 192800,
             "idMal": 61686,
             "nextAiringEpisode": {
-                "airingAt": 1783517400
+                "airingAt": 1784122200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg",
@@ -738,6 +786,22 @@
             }
         },
         {
+            "id": 194829,
+            "idMal": 61897,
+            "nextAiringEpisode": {
+                "airingAt": 1784126760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg"
+            },
+            "title": {
+                "userPreferred": "Katainaka no Ossan, Kensei ni Naru II",
+                "native": "\u7247\u7530\u820e\u306e\u304a\u3063\u3055\u3093\u3001\u5263\u8056\u306b\u306a\u308bII",
+                "romaji": "Katainaka no Ossan, Kensei ni Naru II"
+            }
+        },
+        {
             "id": 195600,
             "idMal": 62001,
             "nextAiringEpisode": {
@@ -760,8 +824,8 @@
                 "airingAt": 1783951200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-QAX1YLWYn1VX.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-QAX1YLWYn1VX.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-h7x6i3NQWROA.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-h7x6i3NQWROA.jpg"
             },
             "title": {
                 "userPreferred": "Honoo no Toukyuujyo Dodge Danko",
@@ -834,6 +898,22 @@
             }
         },
         {
+            "id": 196356,
+            "idMal": 62102,
+            "nextAiringEpisode": {
+                "airingAt": 1784125800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg"
+            },
+            "title": {
+                "userPreferred": "Ibitte Konai Gibo to Gishi",
+                "native": "\u3044\u3073\u3063\u3066\u3053\u306a\u3044\u7fa9\u6bcd\u3068\u7fa9\u59c9",
+                "romaji": "Ibitte Konai Gibo to Gishi"
+            }
+        },
+        {
             "id": 196613,
             "idMal": null,
             "nextAiringEpisode": {
@@ -869,7 +949,7 @@
             "id": 197715,
             "idMal": 62322,
             "nextAiringEpisode": {
-                "airingAt": 1783522800
+                "airingAt": 1784127600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png",
@@ -943,6 +1023,22 @@
                 "userPreferred": "Tefuda ga Oome no Victoria",
                 "native": "\u624b\u672d\u304c\u591a\u3081\u306e\u30d3\u30af\u30c8\u30ea\u30a2",
                 "romaji": "Tefuda ga Oome no Victoria"
+            }
+        },
+        {
+            "id": 198946,
+            "idMal": 62513,
+            "nextAiringEpisode": {
+                "airingAt": 1784116800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg"
+            },
+            "title": {
+                "userPreferred": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+                "native": "\u30af\u30ec\u30d0\u30c6\u30b9\u2161-\u9b54\u7363\u306e\u738b\u3068\u507d\u308a\u306e\u52c7\u8005\u4f1d\u627f-",
+                "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
             }
         },
         {
@@ -1237,7 +1333,7 @@
             "id": 205772,
             "idMal": 63276,
             "nextAiringEpisode": {
-                "airingAt": 1783522560
+                "airingAt": 1784127360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
@@ -1327,6 +1423,22 @@
                 "userPreferred": "Yani Neko",
                 "native": "\u30e4\u30cb\u306d\u3053",
                 "romaji": "Yani Neko"
+            }
+        },
+        {
+            "id": 207254,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1784130240
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg"
+            },
+            "title": {
+                "userPreferred": "Thunder 3",
+                "native": "\u30b5\u30f3\u30c0\u30fc\uff13",
+                "romaji": "Thunder 3"
             }
         },
         {
@@ -1429,7 +1541,7 @@
             "id": 209669,
             "idMal": 63780,
             "nextAiringEpisode": {
-                "airingAt": 1783526400
+                "airingAt": 1784131200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209669-7GlPe2ra5f1i.jpg",
@@ -1650,6 +1762,22 @@
             }
         },
         {
+            "id": 213703,
+            "idMal": 62948,
+            "nextAiringEpisode": {
+                "airingAt": 1784084400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213703-ghO1AqW0bdaN.jpg"
+            },
+            "title": {
+                "userPreferred": "Jiaonang Jihua: Qiji",
+                "native": "\u80f6\u56ca\u8ba1\u5212 \u5947\u8ff9",
+                "romaji": "Jiaonang Jihua: Qiji"
+            }
+        },
+        {
             "id": 213831,
             "idMal": null,
             "nextAiringEpisode": {
@@ -1663,6 +1791,22 @@
                 "userPreferred": "Snack HAZAMA",
                 "native": "\u30b9\u30ca\u30c3\u30af\u306f\u3056\u307e-HAZAMA-",
                 "romaji": "Snack HAZAMA"
+            }
+        },
+        {
+            "id": 213961,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1784127600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png"
+            },
+            "title": {
+                "userPreferred": "Youjo Shenki 2",
+                "native": "\u3088\u3046\u3058\u3087\u3057\u3047\u3093\u304d2",
+                "romaji": "Youjo Shenki 2"
             }
         }
     ]
