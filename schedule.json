@@ -1,5 +1,5 @@
 {
-    "__version__": 839,
+    "__version__": 840,
     "data": [
         {
             "id": 21,
@@ -69,7 +69,7 @@
             "id": 8336,
             "idMal": 8336,
             "nextAiringEpisode": {
-                "airingAt": 1783635000
+                "airingAt": 1784239800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
@@ -111,6 +111,22 @@
                 "userPreferred": "Nijusseiki Denki Mokuroku: Eureka\u30fbEvrika",
                 "native": "\u4e8c\u5341\u4e16\u7d00\u96fb\u6c23\u76ee\u9332-\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab-",
                 "romaji": "Nijusseiki Denki Mokuroku: Eureka\u30fbEvrika"
+            }
+        },
+        {
+            "id": 108992,
+            "idMal": 63802,
+            "nextAiringEpisode": {
+                "airingAt": 1784212200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-skuOsfmLmMd2.jpg"
+            },
+            "title": {
+                "userPreferred": "Mebius Dust",
+                "native": "\u30e1\u30d3\u30a6\u30b9\u30fb\u30c0\u30b9\u30c8",
+                "romaji": "Mebius Dust"
             }
         },
         {
@@ -197,7 +213,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1783636800
+                "airingAt": 1783982400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -421,7 +437,7 @@
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
-                "airingAt": 1783610760
+                "airingAt": 1784215560
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
@@ -581,7 +597,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1783602000
+                "airingAt": 1784206800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -760,8 +776,8 @@
                 "airingAt": 1783783800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194219-qf7L0SfVi6nc.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194219-qf7L0SfVi6nc.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg"
             },
             "title": {
                 "userPreferred": "Oni no Hanayome",
@@ -773,7 +789,7 @@
             "id": 194389,
             "idMal": 62005,
             "nextAiringEpisode": {
-                "airingAt": 1783594800
+                "airingAt": 1784199600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
@@ -863,6 +879,22 @@
                 "userPreferred": "Grow Up Show: Himawari no Circus-dan",
                 "native": "\u30b0\u30ed\u30a6\u30a2\u30c3\u30d7\u30b7\u30e7\u30a6 \uff5e\u3072\u307e\u308f\u308a\u306e\u30b5\u30fc\u30ab\u30b9\u56e3\uff5e",
                 "romaji": "Grow Up Show: Himawari no Circus-dan"
+            }
+        },
+        {
+            "id": 196187,
+            "idMal": 62076,
+            "nextAiringEpisode": {
+                "airingAt": 1784213760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg"
+            },
+            "title": {
+                "userPreferred": "Super no Ura de Yani Suu Futari",
+                "native": "\u30b9\u30fc\u30d1\u30fc\u306e\u88cf\u3067\u30e4\u30cb\u5438\u3046\u3075\u305f\u308a",
+                "romaji": "Super no Ura de Yani Suu Futari"
             }
         },
         {
@@ -981,7 +1013,7 @@
             "id": 198376,
             "idMal": 62430,
             "nextAiringEpisode": {
-                "airingAt": 1783605600
+                "airingAt": 1784210400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg",
@@ -1141,7 +1173,7 @@
             "id": 201667,
             "idMal": 62883,
             "nextAiringEpisode": {
-                "airingAt": 1783600800
+                "airingAt": 1784205600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
@@ -1237,7 +1269,7 @@
             "id": 203880,
             "idMal": 63082,
             "nextAiringEpisode": {
-                "airingAt": 1783600200
+                "airingAt": 1784205000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
@@ -1285,7 +1317,7 @@
             "id": 204466,
             "idMal": 63150,
             "nextAiringEpisode": {
-                "airingAt": 1783614480
+                "airingAt": 1784219280
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png",
@@ -1413,7 +1445,7 @@
             "id": 207141,
             "idMal": 63403,
             "nextAiringEpisode": {
-                "airingAt": 1783611000
+                "airingAt": 1784215800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
@@ -1477,7 +1509,7 @@
             "id": 208044,
             "idMal": 63508,
             "nextAiringEpisode": {
-                "airingAt": 1783609200
+                "airingAt": 1784214000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208044-Pm2UhvApQFUh.jpg",
@@ -1525,7 +1557,7 @@
             "id": 209541,
             "idMal": 63773,
             "nextAiringEpisode": {
-                "airingAt": 1783589400
+                "airingAt": 1784194200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
@@ -1762,6 +1794,22 @@
             }
         },
         {
+            "id": 213666,
+            "idMal": 63514,
+            "nextAiringEpisode": {
+                "airingAt": 1784120400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213666-nnKcumRblZi1.jpg"
+            },
+            "title": {
+                "userPreferred": "Perfect Addiction",
+                "native": "\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
+                "romaji": "Perfect Addiction"
+            }
+        },
+        {
             "id": 213703,
             "idMal": 62948,
             "nextAiringEpisode": {
@@ -1775,6 +1823,22 @@
                 "userPreferred": "Jiaonang Jihua: Qiji",
                 "native": "\u80f6\u56ca\u8ba1\u5212 \u5947\u8ff9",
                 "romaji": "Jiaonang Jihua: Qiji"
+            }
+        },
+        {
+            "id": 213750,
+            "idMal": 64519,
+            "nextAiringEpisode": {
+                "airingAt": 1784246400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213750-5hVyApOz4YXe.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213750-5hVyApOz4YXe.png"
+            },
+            "title": {
+                "userPreferred": "Bananya At-Home Party",
+                "native": "\u3070\u306a\u306b\u3083 \u3042\u3063\u3068\u307b\u30fc\u3080\u3071\u30fc\u3066\u3043\u30fc",
+                "romaji": "Bananya At-Home Party"
             }
         },
         {
