@@ -1,5 +1,5 @@
 {
-    "__version__": 841,
+    "__version__": 842,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1783760400
+                "airingAt": 1784365200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1783755000
+                "airingAt": 1784359800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -85,7 +85,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1783756800
+                "airingAt": 1784361600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -245,7 +245,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1783821600
+                "airingAt": 1783994400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -373,7 +373,7 @@
             "id": 171110,
             "idMal": 57466,
             "nextAiringEpisode": {
-                "airingAt": 1783758600
+                "airingAt": 1784363400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
@@ -501,7 +501,7 @@
             "id": 184492,
             "idMal": 60310,
             "nextAiringEpisode": {
-                "airingAt": 1783761960
+                "airingAt": 1784366760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
@@ -533,7 +533,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1783810800
+                "airingAt": 1784415600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -549,7 +549,7 @@
             "id": 185692,
             "idMal": 60552,
             "nextAiringEpisode": {
-                "airingAt": 1783785300
+                "airingAt": 1784390100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185692-1a8huwOIx7gw.jpg",
@@ -565,7 +565,7 @@
             "id": 185875,
             "idMal": 60637,
             "nextAiringEpisode": {
-                "airingAt": 1783785600
+                "airingAt": 1784390400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg",
@@ -581,7 +581,7 @@
             "id": 186863,
             "idMal": 61048,
             "nextAiringEpisode": {
-                "airingAt": 1783771200
+                "airingAt": 1784376000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png",
@@ -629,7 +629,7 @@
             "id": 187538,
             "idMal": 61169,
             "nextAiringEpisode": {
-                "airingAt": 1783774800
+                "airingAt": 1784379600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
@@ -645,7 +645,7 @@
             "id": 188388,
             "idMal": 61269,
             "nextAiringEpisode": {
-                "airingAt": 1783814400
+                "airingAt": 1784419200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
@@ -725,7 +725,7 @@
             "id": 190569,
             "idMal": 61483,
             "nextAiringEpisode": {
-                "airingAt": 1783780200
+                "airingAt": 1784385000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg",
@@ -773,7 +773,7 @@
             "id": 194219,
             "idMal": 61814,
             "nextAiringEpisode": {
-                "airingAt": 1783783800
+                "airingAt": 1784388600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
@@ -821,7 +821,7 @@
             "id": 195600,
             "idMal": 62001,
             "nextAiringEpisode": {
-                "airingAt": 1783780200
+                "airingAt": 1784385000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
@@ -869,7 +869,7 @@
             "id": 196017,
             "idMal": 62051,
             "nextAiringEpisode": {
-                "airingAt": 1783782000
+                "airingAt": 1784386800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196017-GynDNdbDzqzk.jpg",
@@ -949,7 +949,7 @@
             "id": 196613,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1783821600
+                "airingAt": 1784426400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg",
@@ -1074,6 +1074,22 @@
             }
         },
         {
+            "id": 199066,
+            "idMal": 62535,
+            "nextAiringEpisode": {
+                "airingAt": 1784394000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg"
+            },
+            "title": {
+                "userPreferred": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+                "native": "\u82b1\u7e54\u3055\u3093\u306f\u8ee2\u751f\u3057\u3066\u3082\u55a7\u5629\u304c\u3057\u305f\u3044",
+                "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
+            }
+        },
+        {
             "id": 199111,
             "idMal": 62542,
             "nextAiringEpisode": {
@@ -1157,7 +1173,7 @@
             "id": 201514,
             "idMal": 62876,
             "nextAiringEpisode": {
-                "airingAt": 1783791480
+                "airingAt": 1784396280
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png",
@@ -1205,7 +1221,7 @@
             "id": 202386,
             "idMal": 62933,
             "nextAiringEpisode": {
-                "airingAt": 1783807200
+                "airingAt": 1784412000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png",
@@ -1237,7 +1253,7 @@
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
-                "airingAt": 1783812600
+                "airingAt": 1784417400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
@@ -1301,7 +1317,7 @@
             "id": 204269,
             "idMal": 63125,
             "nextAiringEpisode": {
-                "airingAt": 1783807200
+                "airingAt": 1784412000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png",
@@ -1381,7 +1397,7 @@
             "id": 206249,
             "idMal": 63324,
             "nextAiringEpisode": {
-                "airingAt": 1783776600
+                "airingAt": 1784381400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png",
@@ -1413,7 +1429,7 @@
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
-                "airingAt": 1783816200
+                "airingAt": 1784421000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
@@ -1429,7 +1445,7 @@
             "id": 206950,
             "idMal": 63383,
             "nextAiringEpisode": {
-                "airingAt": 1783807200
+                "airingAt": 1784412000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png",
@@ -1525,7 +1541,7 @@
             "id": 208225,
             "idMal": 63537,
             "nextAiringEpisode": {
-                "airingAt": 1783787400
+                "airingAt": 1784392200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg",
@@ -1535,6 +1551,22 @@
                 "userPreferred": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
                 "native": "\u300c\u304d\u307f\u3092\u611b\u3059\u308b\u6c17\u306f\u306a\u3044\u300d\u3068\u8a00\u3063\u305f\u6b21\u671f\u516c\u7235\u69d8\u304c\u306a\u305c\u304b\u6eba\u611b\u3057\u3066\u304d\u307e\u3059",
                 "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu"
+            }
+        },
+        {
+            "id": 208824,
+            "idMal": 63641,
+            "nextAiringEpisode": {
+                "airingAt": 1784412000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208824-JeKq65nNiFhA.png"
+            },
+            "title": {
+                "userPreferred": "Plannosaurus Gachi Koseibutsu-bu",
+                "native": "\u30d7\u30e9\u30ce\u30b5\u30a6\u30eb\u30b9 \u30ac\u30c1\u30b3\u30bb\u30a4\u30d6\u30c4\u90e8",
+                "romaji": "Plannosaurus Gachi Koseibutsu-bu"
             }
         },
         {
@@ -1653,7 +1685,7 @@
             "id": 211181,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1783782000
+                "airingAt": 1784386800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211181-93dehu3v5xHE.png",
@@ -1749,7 +1781,7 @@
             "id": 213356,
             "idMal": 64398,
             "nextAiringEpisode": {
-                "airingAt": 1783764000
+                "airingAt": 1784368800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg",
