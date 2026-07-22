@@ -1,5 +1,5 @@
 {
-    "__version__": 851,
+    "__version__": 852,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 128757,
             "idMal": 46488,
             "nextAiringEpisode": {
-                "airingAt": 1784633400
+                "airingAt": 1785238200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
@@ -405,7 +405,7 @@
             "id": 177699,
             "idMal": 58929,
             "nextAiringEpisode": {
-                "airingAt": 1784642400
+                "airingAt": 1785247200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png",
@@ -629,7 +629,7 @@
             "id": 187260,
             "idMal": 61126,
             "nextAiringEpisode": {
-                "airingAt": 1784637000
+                "airingAt": 1785241800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
@@ -786,22 +786,6 @@
             }
         },
         {
-            "id": 193883,
-            "idMal": 61765,
-            "nextAiringEpisode": {
-                "airingAt": 1784671560
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg"
-            },
-            "title": {
-                "userPreferred": "Chibi Godzilla no Gyakushuu 3",
-                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
-                "romaji": "Chibi Godzilla no Gyakushuu 3"
-            }
-        },
-        {
             "id": 194219,
             "idMal": 61814,
             "nextAiringEpisode": {
@@ -949,7 +933,7 @@
             "id": 196219,
             "idMal": 62080,
             "nextAiringEpisode": {
-                "airingAt": 1784638800
+                "airingAt": 1785243600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
@@ -1077,7 +1061,7 @@
             "id": 198709,
             "idMal": 62476,
             "nextAiringEpisode": {
-                "airingAt": 1784646000
+                "airingAt": 1785250800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg",
@@ -1381,7 +1365,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1784674800
+                "airingAt": 1785279600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1541,7 +1525,7 @@
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
-                "airingAt": 1784651700
+                "airingAt": 1785256500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
@@ -1653,7 +1637,7 @@
             "id": 209800,
             "idMal": 63047,
             "nextAiringEpisode": {
-                "airingAt": 1784644200
+                "airingAt": 1785249000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
@@ -1746,22 +1730,6 @@
             }
         },
         {
-            "id": 212309,
-            "idMal": 64181,
-            "nextAiringEpisode": {
-                "airingAt": 1784682000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212309-gDqt6qz1RPEL.png"
-            },
-            "title": {
-                "userPreferred": "Transformers: Wild King W",
-                "native": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc \u30ef\u30a4\u30eb\u30c9\u30ad\u30f3\u30b0W",
-                "romaji": "Transformers: Wild King W"
-            }
-        },
-        {
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
@@ -1813,7 +1781,7 @@
             "id": 213484,
             "idMal": 62957,
             "nextAiringEpisode": {
-                "airingAt": 1784606400
+                "airingAt": 1784865600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
@@ -1829,7 +1797,7 @@
             "id": 213665,
             "idMal": 63878,
             "nextAiringEpisode": {
-                "airingAt": 1784638500
+                "airingAt": 1785243300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
