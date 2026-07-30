@@ -1,5 +1,5 @@
 {
-    "__version__": 859,
+    "__version__": 860,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 135865,
             "idMal": 49233,
             "nextAiringEpisode": {
-                "airingAt": 1785328200
+                "airingAt": 1785933000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
@@ -261,7 +261,7 @@
             "id": 159309,
             "idMal": 54000,
             "nextAiringEpisode": {
-                "airingAt": 1785335400
+                "airingAt": 1785940200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
@@ -271,22 +271,6 @@
                 "userPreferred": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
                 "native": "\u4e59\u5973\u30b2\u30fc\u4e16\u754c\u306f\u30e2\u30d6\u306b\u53b3\u3057\u3044\u4e16\u754c\u3067\u30592",
                 "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2"
-            }
-        },
-        {
-            "id": 163793,
-            "idMal": 63964,
-            "nextAiringEpisode": {
-                "airingAt": 1785312900
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163793-dOI9QEcIrgBS.jpg"
-            },
-            "title": {
-                "userPreferred": "Cheongchun Blossom: Uriui Bom",
-                "native": "\uccad\ucd98\ube14\ub77c\uc378 : \uc6b0\ub9ac\uc758 \ubd04",
-                "romaji": "Cheongchun Blossom: Uriui Bom"
             }
         },
         {
@@ -381,7 +365,7 @@
             },
             "title": {
                 "userPreferred": "Sayonara Lara",
-                "native": "\u3055\u3088\u306a\u3089 \u30e9\u30e9",
+                "native": "\u3055\u3088\u306a\u3089\u30e9\u30e9",
                 "romaji": "Sayonara Lara"
             }
         },
@@ -485,7 +469,7 @@
             "id": 184356,
             "idMal": 63316,
             "nextAiringEpisode": {
-                "airingAt": 1785341700
+                "airingAt": 1785946500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184356-SlFIstXUXJYP.png",
@@ -709,7 +693,7 @@
             "id": 188529,
             "idMal": 61254,
             "nextAiringEpisode": {
-                "airingAt": 1785322800
+                "airingAt": 1785927600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
@@ -773,7 +757,7 @@
             "id": 192800,
             "idMal": 61686,
             "nextAiringEpisode": {
-                "airingAt": 1785331800
+                "airingAt": 1785936600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg",
@@ -821,7 +805,7 @@
             "id": 194829,
             "idMal": 61897,
             "nextAiringEpisode": {
-                "airingAt": 1785336360
+                "airingAt": 1785941160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg",
@@ -949,7 +933,7 @@
             "id": 196356,
             "idMal": 62102,
             "nextAiringEpisode": {
-                "airingAt": 1785335400
+                "airingAt": 1785940200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
@@ -997,7 +981,7 @@
             "id": 197715,
             "idMal": 62322,
             "nextAiringEpisode": {
-                "airingAt": 1785337200
+                "airingAt": 1785942000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197715-KLFLxU24U1uL.png",
@@ -1077,7 +1061,7 @@
             "id": 198946,
             "idMal": 62513,
             "nextAiringEpisode": {
-                "airingAt": 1785326400
+                "airingAt": 1785931200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
@@ -1135,6 +1119,22 @@
                 "userPreferred": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
                 "native": "\u30d6\u30c1\u5207\u308c\u4ee4\u5b22\u306f\u5831\u5fa9\u3092\u8a93\u3044\u307e\u3057\u305f\u3002\u3000\uff5e\u9b54\u5c0e\u66f8\u306e\u529b\u3067\u7956\u56fd\u3092\u53e9\u304d\u6f70\u3057\u307e\u3059\uff5e",
                 "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu"
+            }
+        },
+        {
+            "id": 199409,
+            "idMal": 62248,
+            "nextAiringEpisode": {
+                "airingAt": 1785895200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199409-X1BoggxZulkT.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199409-X1BoggxZulkT.jpg"
+            },
+            "title": {
+                "userPreferred": "Yi Nian Yongheng 4",
+                "native": "\u4e00\u5ff5\u6c38\u6052 \u7b2c\u56db\u5b63",
+                "romaji": "Yi Nian Yongheng 4"
             }
         },
         {
@@ -1356,9 +1356,9 @@
                 "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png"
             },
             "title": {
-                "userPreferred": "Otome Kaijuu Caramelise",
+                "userPreferred": "Otome Kaijuu Caram\u00e9liser",
                 "native": "\u4e59\u5973\u602a\u7363\u30ad\u30e3\u30e9\u30e1\u30ea\u30bc",
-                "romaji": "Otome Kaijuu Caramelise"
+                "romaji": "Otome Kaijuu Caram\u00e9liser"
             }
         },
         {
@@ -1397,7 +1397,7 @@
             "id": 205772,
             "idMal": 63276,
             "nextAiringEpisode": {
-                "airingAt": 1785336960
+                "airingAt": 1785941760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
@@ -1493,7 +1493,7 @@
             "id": 207254,
             "idMal": 63418,
             "nextAiringEpisode": {
-                "airingAt": 1785339840
+                "airingAt": 1785944640
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
@@ -1621,7 +1621,7 @@
             "id": 209669,
             "idMal": 63780,
             "nextAiringEpisode": {
-                "airingAt": 1785340800
+                "airingAt": 1785945600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209669-7GlPe2ra5f1i.jpg",
@@ -1829,7 +1829,7 @@
             "id": 213666,
             "idMal": 63514,
             "nextAiringEpisode": {
-                "airingAt": 1785330000
+                "airingAt": 1785934800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg",
@@ -1845,7 +1845,7 @@
             "id": 213703,
             "idMal": 62948,
             "nextAiringEpisode": {
-                "airingAt": 1785294000
+                "airingAt": 1785898800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg",
@@ -1877,7 +1877,7 @@
             "id": 213961,
             "idMal": 64577,
             "nextAiringEpisode": {
-                "airingAt": 1785337200
+                "airingAt": 1785942000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
