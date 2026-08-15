@@ -8,6 +8,16 @@ class AnilistSchedule:
             self.client = client
         else:
             self.client = requests.Session()
+        # Cloudflare in front of AniList 403s the default
+        # python-requests User-Agent from datacenter IPs (started
+        # 2026-08-15); a browser-style UA passes.
+        self.client.headers.update({
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            ),
+            "Accept": "application/json",
+        })
 
     def make_request(self, query, variables):
         for _ in range(3):  # Retry logic
