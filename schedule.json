@@ -1,5 +1,5 @@
 {
-    "__version__": 880,
+    "__version__": 881,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 128757,
             "idMal": 46488,
             "nextAiringEpisode": {
-                "airingAt": 1787052600
+                "airingAt": 1787657400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
@@ -229,7 +229,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1787018400
+                "airingAt": 1787450400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -373,7 +373,7 @@
             "id": 177699,
             "idMal": 58929,
             "nextAiringEpisode": {
-                "airingAt": 1787061600
+                "airingAt": 1787666400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png",
@@ -613,7 +613,7 @@
             "id": 187260,
             "idMal": 61126,
             "nextAiringEpisode": {
-                "airingAt": 1787056200
+                "airingAt": 1787661000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
@@ -786,22 +786,6 @@
             }
         },
         {
-            "id": 193883,
-            "idMal": 61765,
-            "nextAiringEpisode": {
-                "airingAt": 1787090760
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193883-Im5tNHwtfAmz.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg"
-            },
-            "title": {
-                "userPreferred": "Chibi Godzilla no Gyakushuu 3",
-                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972(\u7b2c3\u671f)",
-                "romaji": "Chibi Godzilla no Gyakushuu 3"
-            }
-        },
-        {
             "id": 194219,
             "idMal": 61814,
             "nextAiringEpisode": {
@@ -949,7 +933,7 @@
             "id": 196219,
             "idMal": 62080,
             "nextAiringEpisode": {
-                "airingAt": 1787058000
+                "airingAt": 1787662800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
@@ -1077,7 +1061,7 @@
             "id": 198709,
             "idMal": 62476,
             "nextAiringEpisode": {
-                "airingAt": 1787065200
+                "airingAt": 1787670000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg",
@@ -1397,7 +1381,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1787094000
+                "airingAt": 1787698800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1557,7 +1541,7 @@
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
-                "airingAt": 1787070900
+                "airingAt": 1787675700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
@@ -1669,7 +1653,7 @@
             "id": 209800,
             "idMal": 63047,
             "nextAiringEpisode": {
-                "airingAt": 1787063400
+                "airingAt": 1787668200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
@@ -1746,22 +1730,6 @@
             }
         },
         {
-            "id": 211220,
-            "idMal": 63987,
-            "nextAiringEpisode": {
-                "airingAt": 1787101200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211220-fkWS8gCM2rA5.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211220-fkWS8gCM2rA5.png"
-            },
-            "title": {
-                "userPreferred": "Li Xiongmao",
-                "native": "\u674e\u718a\u732b",
-                "romaji": "Li Xiongmao"
-            }
-        },
-        {
             "id": 212308,
             "idMal": 64210,
             "nextAiringEpisode": {
@@ -1781,7 +1749,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1787018400
+                "airingAt": 1787623200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
@@ -1829,7 +1797,7 @@
             "id": 213484,
             "idMal": 62957,
             "nextAiringEpisode": {
-                "airingAt": 1787025600
+                "airingAt": 1787284800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
@@ -1861,7 +1829,7 @@
             "id": 213665,
             "idMal": 63878,
             "nextAiringEpisode": {
-                "airingAt": 1787057700
+                "airingAt": 1787662500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
