@@ -11,12 +11,19 @@ class AnilistSchedule:
         # Cloudflare in front of AniList 403s the default
         # python-requests User-Agent from datacenter IPs (started
         # 2026-08-15); a browser-style UA passes.
+        #
+        # Since ~2026-09-06 AniList also answers every request without
+        # an anilist.co Referer with 403 "The AniList API has been
+        # temporarily disabled due to severe stability issues." Requests
+        # carrying the site's own Referer still get 200, at a reduced
+        # 30 req/min limit (was 90). Keep request volume low.
         self.client.headers.update({
             "User-Agent": (
                 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
             ),
             "Accept": "application/json",
+            "Referer": "https://anilist.co/",
         })
 
     def make_request(self, query, variables):
