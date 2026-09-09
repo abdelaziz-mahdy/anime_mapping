@@ -6,6 +6,14 @@ on:
     branches:
       - main
 name: schedule
+
+# Every workflow here commits *.json back to main. Runs that overlap
+# (a cron tick landing next to a push-triggered run) race on the final
+# push and one loses with "cannot lock ref 'refs/heads/main'". Serialise
+# all of them through one repo-wide group; later runs wait, not cancel.
+concurrency:
+  group: push-main
+  cancel-in-progress: false
 jobs:
   sync:
     runs-on: ubuntu-latest
