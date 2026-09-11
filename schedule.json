@@ -1,5 +1,5 @@
 {
-    "__version__": 900,
+    "__version__": 901,
     "data": [
         {
             "id": 21,
@@ -101,7 +101,7 @@
             "id": 108992,
             "idMal": 63802,
             "nextAiringEpisode": {
-                "airingAt": 1789050600
+                "airingAt": 1789655400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108992-skuOsfmLmMd2.jpg",
@@ -197,7 +197,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1789080000
+                "airingAt": 1789425600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -373,7 +373,7 @@
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
-                "airingAt": 1789053960
+                "airingAt": 1789658760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
@@ -565,7 +565,7 @@
             "id": 187166,
             "idMal": 61107,
             "nextAiringEpisode": {
-                "airingAt": 1789045200
+                "airingAt": 1789650000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
@@ -725,7 +725,7 @@
             "id": 191832,
             "idMal": 61607,
             "nextAiringEpisode": {
-                "airingAt": 1789095600
+                "airingAt": 1789700400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
@@ -751,22 +751,6 @@
                 "userPreferred": "Oni no Hanayome",
                 "native": "\u9b3c\u306e\u82b1\u5ac1",
                 "romaji": "Oni no Hanayome"
-            }
-        },
-        {
-            "id": 194389,
-            "idMal": 62005,
-            "nextAiringEpisode": {
-                "airingAt": 1789038000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194389-DAbj4TOj5GB9.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png"
-            },
-            "title": {
-                "userPreferred": "Koala Enikki",
-                "native": "\u30b3\u30a2\u30e9\u7d75\u65e5\u8a18",
-                "romaji": "Koala Enikki"
             }
         },
         {
@@ -853,7 +837,7 @@
             "id": 196187,
             "idMal": 62076,
             "nextAiringEpisode": {
-                "airingAt": 1789052160
+                "airingAt": 1789656960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
@@ -959,22 +943,6 @@
                 "userPreferred": "LIAR GAME",
                 "native": "LIAR GAME",
                 "romaji": "LIAR GAME"
-            }
-        },
-        {
-            "id": 198376,
-            "idMal": 62430,
-            "nextAiringEpisode": {
-                "airingAt": 1789048800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-sc5qcFv0RSH9.jpg"
-            },
-            "title": {
-                "userPreferred": "BanG Dream! Yume\u221eMita",
-                "native": "\u30d0\u30f3\u30c9\u30ea\uff01 \u3086\u3081\u221e\u307f\u305f",
-                "romaji": "BanG Dream! Yume\u221eMita"
             }
         },
         {
@@ -1141,7 +1109,7 @@
             "id": 201667,
             "idMal": 62883,
             "nextAiringEpisode": {
-                "airingAt": 1789044000
+                "airingAt": 1789648800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
@@ -1237,7 +1205,7 @@
             "id": 203880,
             "idMal": 63082,
             "nextAiringEpisode": {
-                "airingAt": 1789043400
+                "airingAt": 1789648200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
@@ -1301,7 +1269,7 @@
             "id": 204466,
             "idMal": 63150,
             "nextAiringEpisode": {
-                "airingAt": 1789057680
+                "airingAt": 1789662480
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png",
@@ -1327,22 +1295,6 @@
                 "userPreferred": "mofusand",
                 "native": "mofusand",
                 "romaji": "mofusand"
-            }
-        },
-        {
-            "id": 205068,
-            "idMal": 64683,
-            "nextAiringEpisode": {
-                "airingAt": 1789052400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205068-KPJVtEp9imju.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205068-KPJVtEp9imju.jpg"
-            },
-            "title": {
-                "userPreferred": "Wollum Jogyonim",
-                "native": "\uc6d0\ub8f8 \uc870\uad50\ub2d8",
-                "romaji": "Wollum Jogyonim"
             }
         },
         {
@@ -1445,7 +1397,7 @@
             "id": 207141,
             "idMal": 63403,
             "nextAiringEpisode": {
-                "airingAt": 1789054200
+                "airingAt": 1789659000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
@@ -1503,22 +1455,6 @@
                 "userPreferred": "Sora wa Akai Kawa no Hotori",
                 "native": "\u5929\u306f\u8d64\u3044\u6cb3\u306e\u307b\u3068\u308a",
                 "romaji": "Sora wa Akai Kawa no Hotori"
-            }
-        },
-        {
-            "id": 208044,
-            "idMal": 63508,
-            "nextAiringEpisode": {
-                "airingAt": 1789052400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208044-Pm2UhvApQFUh.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-Pm2UhvApQFUh.jpg"
-            },
-            "title": {
-                "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
-                "native": "\u843d\u7b2c\u8ce2\u8005\u306e\u5b66\u9662\u7121\u53cc\uff5e\u4e8c\u5ea6\u76ee\u306e\u8ee2\u751f\u3001S\u30e9\u30f3\u30af\u30c1\u30fc\u30c8\u9b54\u8853\u5e2b\u5192\u967a\u9332\uff5e",
-                "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku"
             }
         },
         {
@@ -1589,7 +1525,7 @@
             "id": 209541,
             "idMal": 63773,
             "nextAiringEpisode": {
-                "airingAt": 1789032600
+                "airingAt": 1789637400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
