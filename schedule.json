@@ -1,5 +1,5 @@
 {
-    "__version__": 905,
+    "__version__": 906,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 128757,
             "idMal": 46488,
             "nextAiringEpisode": {
-                "airingAt": 1789471800
+                "airingAt": 1790076600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
@@ -565,7 +565,7 @@
             "id": 187260,
             "idMal": 61126,
             "nextAiringEpisode": {
-                "airingAt": 1789475400
+                "airingAt": 1790080200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
@@ -834,22 +834,6 @@
             }
         },
         {
-            "id": 196219,
-            "idMal": 62080,
-            "nextAiringEpisode": {
-                "airingAt": 1789477200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg"
-            },
-            "title": {
-                "userPreferred": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-                "native": "\u7121\u81ea\u899a\u8056\u5973\u306f\u4eca\u65e5\u3082\u7121\u610f\u8b58\u306b\u529b\u3092\u5782\u308c\u6d41\u3059",
-                "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
-            }
-        },
-        {
             "id": 196356,
             "idMal": 62102,
             "nextAiringEpisode": {
@@ -997,7 +981,7 @@
             "id": 199409,
             "idMal": 62248,
             "nextAiringEpisode": {
-                "airingAt": 1789524000
+                "airingAt": 1790128800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
@@ -1253,7 +1237,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1789513200
+                "airingAt": 1790118000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1413,7 +1397,7 @@
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
-                "airingAt": 1789490100
+                "airingAt": 1790094900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
@@ -1509,7 +1493,7 @@
             "id": 209800,
             "idMal": 63047,
             "nextAiringEpisode": {
-                "airingAt": 1789482600
+                "airingAt": 1790087400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
@@ -1650,26 +1634,10 @@
             }
         },
         {
-            "id": 213484,
-            "idMal": 62957,
-            "nextAiringEpisode": {
-                "airingAt": 1789444800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213484-FIyYH43ASHgB.png"
-            },
-            "title": {
-                "userPreferred": "Bai Ri Cheng Wang",
-                "native": "\u767e\u65e5\u6210\u738b",
-                "romaji": "Bai Ri Cheng Wang"
-            }
-        },
-        {
             "id": 213486,
             "idMal": 64461,
             "nextAiringEpisode": {
-                "airingAt": 1789524000
+                "airingAt": 1790128800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
@@ -1701,7 +1669,7 @@
             "id": 213665,
             "idMal": 63878,
             "nextAiringEpisode": {
-                "airingAt": 1789476900
+                "airingAt": 1790081700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
@@ -1743,22 +1711,6 @@
                 "userPreferred": "Snack HAZAMA",
                 "native": "\u30b9\u30ca\u30c3\u30af\u306f\u3056\u307e-HAZAMA-",
                 "romaji": "Snack HAZAMA"
-            }
-        },
-        {
-            "id": 213861,
-            "idMal": 64537,
-            "nextAiringEpisode": {
-                "airingAt": 1789527600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213861-PNBuQOrphcbK.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213861-PNBuQOrphcbK.png"
-            },
-            "title": {
-                "userPreferred": "Let's Roll, Cinnamoroll! 2",
-                "native": "\u30ec\u30c3\u30c4\u30ed\u30fc\u30eb\u30b7\u30ca\u30e2\u30ed\u30fc\u30eb",
-                "romaji": "Let's Roll, Cinnamoroll! 2"
             }
         },
         {
