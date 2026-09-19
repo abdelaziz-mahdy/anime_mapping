@@ -1,5 +1,5 @@
 {
-    "__version__": 908,
+    "__version__": 909,
     "data": [
         {
             "id": 21,
@@ -181,7 +181,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1789783200
+                "airingAt": 1790388000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -229,7 +229,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1789725300
+                "airingAt": 1790330100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -261,7 +261,7 @@
             "id": 165159,
             "idMal": 56566,
             "nextAiringEpisode": {
-                "airingAt": 1789725600
+                "airingAt": 1790935200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
@@ -389,7 +389,7 @@
             "id": 182205,
             "idMal": 59970,
             "nextAiringEpisode": {
-                "airingAt": 1789740000
+                "airingAt": 1790344800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
@@ -405,7 +405,7 @@
             "id": 182616,
             "idMal": 60059,
             "nextAiringEpisode": {
-                "airingAt": 1789741800
+                "airingAt": 1790346600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
@@ -421,7 +421,7 @@
             "id": 183231,
             "idMal": 60153,
             "nextAiringEpisode": {
-                "airingAt": 1789777560
+                "airingAt": 1790382360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
@@ -629,7 +629,7 @@
             "id": 188525,
             "idMal": 61280,
             "nextAiringEpisode": {
-                "airingAt": 1789741800
+                "airingAt": 1790346600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg",
@@ -818,22 +818,6 @@
             }
         },
         {
-            "id": 196218,
-            "idMal": 62078,
-            "nextAiringEpisode": {
-                "airingAt": 1789738200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg"
-            },
-            "title": {
-                "userPreferred": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
-                "native": "\u9818\u6c110\u4eba\u30b9\u30bf\u30fc\u30c8\u306e\u8fba\u5883\u9818\u4e3b\u69d8",
-                "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
-            }
-        },
-        {
             "id": 196356,
             "idMal": 62102,
             "nextAiringEpisode": {
@@ -994,22 +978,6 @@
             }
         },
         {
-            "id": 199748,
-            "idMal": 62617,
-            "nextAiringEpisode": {
-                "airingAt": 1789738200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png"
-            },
-            "title": {
-                "userPreferred": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-                "native": "\u3053\u3053\u306f\u4ffa\u306b\u4efb\u305b\u3066\u5148\u306b\u884c\u3051\u3068\u8a00\u3063\u3066\u304b\u3089\uff11\uff10\u5e74\u304c\u305f\u3063\u305f\u3089\u4f1d\u8aac\u306b\u306a\u3063\u3066\u3044\u305f\u3002",
-                "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
-            }
-        },
-        {
             "id": 200230,
             "idMal": 62683,
             "nextAiringEpisode": {
@@ -1090,22 +1058,6 @@
             }
         },
         {
-            "id": 202508,
-            "idMal": 62981,
-            "nextAiringEpisode": {
-                "airingAt": 1789741800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg"
-            },
-            "title": {
-                "userPreferred": "Kami no Shizuku",
-                "native": "\u795e\u306e\u96eb",
-                "romaji": "Kami no Shizuku"
-            }
-        },
-        {
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
@@ -1125,7 +1077,7 @@
             "id": 203490,
             "idMal": 63061,
             "nextAiringEpisode": {
-                "airingAt": 1789743600
+                "airingAt": 1790348400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
@@ -1346,22 +1298,6 @@
             }
         },
         {
-            "id": 207674,
-            "idMal": 63468,
-            "nextAiringEpisode": {
-                "airingAt": 1789749000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg"
-            },
-            "title": {
-                "userPreferred": "Ushiro no Shoumen Kamui-san",
-                "native": "\u3046\u3057\u308d\u306e\u6b63\u9762\u30ab\u30e0\u30a4\u3055\u3093",
-                "romaji": "Ushiro no Shoumen Kamui-san"
-            }
-        },
-        {
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
@@ -1461,7 +1397,7 @@
             "id": 209983,
             "idMal": 63817,
             "nextAiringEpisode": {
-                "airingAt": 1789747200
+                "airingAt": 1790352000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
@@ -1519,22 +1455,6 @@
                 "userPreferred": "Mu Shen Ji 4",
                 "native": "\u7267\u795e\u8bb04",
                 "romaji": "Mu Shen Ji 4"
-            }
-        },
-        {
-            "id": 212308,
-            "idMal": 64210,
-            "nextAiringEpisode": {
-                "airingAt": 1789774200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg"
-            },
-            "title": {
-                "userPreferred": "Pan no Akachan (TV)",
-                "native": "\u30d1\u30f3\u306e\u8d64\u3061\u3083\u3093",
-                "romaji": "Pan no Akachan (TV)"
             }
         },
         {
@@ -1650,22 +1570,6 @@
             }
         },
         {
-            "id": 213831,
-            "idMal": 64543,
-            "nextAiringEpisode": {
-                "airingAt": 1789749720
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213831-jrH7JR6feW1q.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213831-jrH7JR6feW1q.png"
-            },
-            "title": {
-                "userPreferred": "Snack HAZAMA",
-                "native": "\u30b9\u30ca\u30c3\u30af\u306f\u3056\u307e-HAZAMA-",
-                "romaji": "Snack HAZAMA"
-            }
-        },
-        {
             "id": 213961,
             "idMal": 64577,
             "nextAiringEpisode": {
@@ -1685,7 +1589,7 @@
             "id": 214260,
             "idMal": 61619,
             "nextAiringEpisode": {
-                "airingAt": 1789779600
+                "airingAt": 1790384400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg",
@@ -1701,7 +1605,7 @@
             "id": 214703,
             "idMal": 64718,
             "nextAiringEpisode": {
-                "airingAt": 1789772400
+                "airingAt": 1790377200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png",
