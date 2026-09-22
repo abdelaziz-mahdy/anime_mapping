@@ -1,5 +1,5 @@
 {
-    "__version__": 911,
+    "__version__": 912,
     "data": [
         {
             "id": 21,
@@ -197,7 +197,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1790030400
+                "airingAt": 1790289600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -213,7 +213,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1790042400
+                "airingAt": 1790474400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -271,38 +271,6 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
-            }
-        },
-        {
-            "id": 169582,
-            "idMal": 56736,
-            "nextAiringEpisode": {
-                "airingAt": 1789991820
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png"
-            },
-            "title": {
-                "userPreferred": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
-                "native": "\u6700\u5f37\u51fa\u6db8\u3089\u3057\u7687\u5b50\u306e\u6697\u8e8d\u5e1d\u4f4d\u4e89\u3044 \u7121\u80fd\u3092\u6f14\u3058\u308bSS\u30e9\u30f3\u30af\u7687\u5b50\u306f\u7687\u4f4d\u7d99\u627f\u6226\u3092\u5f71\u304b\u3089\u652f\u914d\u3059\u308b",
-                "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru"
-            }
-        },
-        {
-            "id": 169583,
-            "idMal": 56735,
-            "nextAiringEpisode": {
-                "airingAt": 1790001000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg"
-            },
-            "title": {
-                "userPreferred": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
-                "native": "\u8ee2\u6821\u5148\u306e\u6e05\u695a\u53ef\u6190\u306a\u7f8e\u5c11\u5973\u304c\u3001\u6614\u7537\u5b50\u3068\u601d\u3063\u3066\u4e00\u7dd2\u306b\u904a\u3093\u3060\u5e7c\u99b4\u67d3\u3060\u3063\u305f\u4ef6",
-                "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken"
             }
         },
         {
@@ -431,22 +399,6 @@
                 "userPreferred": "Mairimashita! Iruma-kun 4",
                 "native": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093 \u7b2c4\u30b7\u30ea\u30fc\u30ba",
                 "romaji": "Mairimashita! Iruma-kun 4"
-            }
-        },
-        {
-            "id": 185542,
-            "idMal": 60522,
-            "nextAiringEpisode": {
-                "airingAt": 1789995600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg"
-            },
-            "title": {
-                "userPreferred": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-                "native": "\u9ab8\u9aa8\u9a0e\u58eb\u69d8\u3001\u53ea\u4eca\u7570\u4e16\u754c\u3078\u304a\u51fa\u639b\u3051\u4e2d\u2161",
-                "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
             }
         },
         {
@@ -642,22 +594,6 @@
             }
         },
         {
-            "id": 195833,
-            "idMal": 62031,
-            "nextAiringEpisode": {
-                "airingAt": 1789999200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195833-h7x6i3NQWROA.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-h7x6i3NQWROA.jpg"
-            },
-            "title": {
-                "userPreferred": "Honoo no Toukyuujyo Dodge Danko",
-                "native": "\u708e\u306e\u95d8\u7403\u5973 \u30c9\u30c3\u30b8\u5f3e\u5b50",
-                "romaji": "Honoo no Toukyuujyo Dodge Danko"
-            }
-        },
-        {
             "id": 196012,
             "idMal": 62048,
             "nextAiringEpisode": {
@@ -741,7 +677,7 @@
             "id": 197754,
             "idMal": 62331,
             "nextAiringEpisode": {
-                "airingAt": 1790002800
+                "airingAt": 1790607600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
@@ -786,38 +722,6 @@
             }
         },
         {
-            "id": 199111,
-            "idMal": 62542,
-            "nextAiringEpisode": {
-                "airingAt": 1790002800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg"
-            },
-            "title": {
-                "userPreferred": "Grand Blue Season 3",
-                "native": "\u3050\u3089\u3093\u3076\u308b Season 3",
-                "romaji": "Grand Blue Season 3"
-            }
-        },
-        {
-            "id": 199408,
-            "idMal": 62289,
-            "nextAiringEpisode": {
-                "airingAt": 1789997400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png"
-            },
-            "title": {
-                "userPreferred": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
-                "native": "\u30d6\u30c1\u5207\u308c\u4ee4\u5b22\u306f\u5831\u5fa9\u3092\u8a93\u3044\u307e\u3057\u305f\u3002\u3000\uff5e\u9b54\u5c0e\u66f8\u306e\u529b\u3067\u7956\u56fd\u3092\u53e9\u304d\u6f70\u3057\u307e\u3059\uff5e",
-                "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu"
-            }
-        },
-        {
             "id": 199409,
             "idMal": 62248,
             "nextAiringEpisode": {
@@ -847,22 +751,6 @@
                 "userPreferred": "Let's Go Kaikigumi",
                 "native": "\u30ec\u30c3\u30c4\u30b4\u30fc\u602a\u5947\u7d44",
                 "romaji": "Let's Go Kaikigumi"
-            }
-        },
-        {
-            "id": 202269,
-            "idMal": 62936,
-            "nextAiringEpisode": {
-                "airingAt": 1789992000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg"
-            },
-            "title": {
-                "userPreferred": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-                "native": "\u900f\u660e\u306a\u591c\u306b\u99c6\u3051\u308b\u541b\u3068\u3001\u76ee\u306b\u898b\u3048\u306a\u3044\u604b\u3092\u3057\u305f\u3002",
-                "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
             }
         },
         {
@@ -978,22 +866,6 @@
             }
         },
         {
-            "id": 206521,
-            "idMal": 63347,
-            "nextAiringEpisode": {
-                "airingAt": 1789995600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png"
-            },
-            "title": {
-                "userPreferred": "World Is Dancing",
-                "native": "\u30ef\u30fc\u30eb\u30c9 \u30a4\u30ba \u30c0\u30f3\u30b7\u30f3\u30b0",
-                "romaji": "World Is Dancing"
-            }
-        },
-        {
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
@@ -1071,22 +943,6 @@
                 "userPreferred": "Plannosaurus Gachi Koseibutsu-bu",
                 "native": "\u30d7\u30e9\u30ce\u30b5\u30a6\u30eb\u30b9 \u30ac\u30c1\u30b3\u30bb\u30a4\u30d6\u30c4\u90e8",
                 "romaji": "Plannosaurus Gachi Koseibutsu-bu"
-            }
-        },
-        {
-            "id": 209504,
-            "idMal": 63752,
-            "nextAiringEpisode": {
-                "airingAt": 1789999200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg"
-            },
-            "title": {
-                "userPreferred": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
-                "native": "\u6368\u3066\u3089\u308c\u8056\u5973\u306e\u7570\u4e16\u754c\u3054\u306f\u3093\u65c5 \u96a0\u308c\u30b9\u30ad\u30eb\u3067\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u3092\u53ec\u559a\u3057\u307e\u3057\u305f",
-                "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita"
             }
         },
         {
@@ -1205,7 +1061,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1790042400
+                "airingAt": 1790647200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
