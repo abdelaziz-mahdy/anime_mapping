@@ -1,5 +1,5 @@
 {
-    "__version__": 912,
+    "__version__": 913,
     "data": [
         {
             "id": 21,
@@ -127,22 +127,6 @@
                 "userPreferred": "Holo no Graffiti",
                 "native": "\u30db\u30ed\u306e\u3050\u3089\u3075\u3043\u3066\u3043",
                 "romaji": "Holo no Graffiti"
-            }
-        },
-        {
-            "id": 128757,
-            "idMal": 46488,
-            "nextAiringEpisode": {
-                "airingAt": 1790076600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png"
-            },
-            "title": {
-                "userPreferred": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
-                "native": "\u5bfe\u3042\u308a\u3067\u3057\u305f\u3002 \uff5e\u304a\u5b22\u3055\u307e\u306f\u683c\u95d8\u30b2\u30fc\u30e0\u306a\u3093\u3066\u3057\u306a\u3044\uff5e",
-                "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai"
             }
         },
         {
@@ -469,7 +453,7 @@
             "id": 187260,
             "idMal": 61126,
             "nextAiringEpisode": {
-                "airingAt": 1790080200
+                "airingAt": 1790685000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
@@ -725,7 +709,7 @@
             "id": 199409,
             "idMal": 62248,
             "nextAiringEpisode": {
-                "airingAt": 1790128800
+                "airingAt": 1790733600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
@@ -837,7 +821,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1790118000
+                "airingAt": 1790722800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -917,7 +901,7 @@
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
-                "airingAt": 1790094900
+                "airingAt": 1790699700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
@@ -959,22 +943,6 @@
                 "userPreferred": "PetitCure: Precure Fairies Season 3",
                 "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f33",
                 "romaji": "PetitCure: Precure Fairies Season 3"
-            }
-        },
-        {
-            "id": 209800,
-            "idMal": 63047,
-            "nextAiringEpisode": {
-                "airingAt": 1790087400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg"
-            },
-            "title": {
-                "userPreferred": "Yoroi Shinden Samurai Troopers Part 2",
-                "native": "\u93a7\u771f\u4f1d\u30b5\u30e0\u30e9\u30a4\u30c8\u30eb\u30fc\u30d1\u30fc \u7b2c2\u30af\u30fc\u30eb",
-                "romaji": "Yoroi Shinden Samurai Troopers Part 2"
             }
         },
         {
@@ -1109,7 +1077,7 @@
             "id": 213486,
             "idMal": 64461,
             "nextAiringEpisode": {
-                "airingAt": 1790128800
+                "airingAt": 1790733600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
@@ -1119,22 +1087,6 @@
                 "userPreferred": "You Shou Yan 6th Season",
                 "native": "\u6709\u517d\u7109 \u7b2c\u516d\u5b63",
                 "romaji": "You Shou Yan 6th Season"
-            }
-        },
-        {
-            "id": 213665,
-            "idMal": 63878,
-            "nextAiringEpisode": {
-                "airingAt": 1790081700
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213665-E6byznDKrKY0.png"
-            },
-            "title": {
-                "userPreferred": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-                "native": "\u8eab\u4ee3\u308f\u308a\u4ee4\u5b22\u3092\u6551\u3063\u305f\u306e\u306f\u51b7\u9177\u7121\u6148\u60b2\u306a\u6c37\u306e\u738b\u5b50\u306e\u611b\u3067\u3057\u305f",
-                "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita"
             }
         },
         {
