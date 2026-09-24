@@ -1,5 +1,5 @@
 {
-    "__version__": 913,
+    "__version__": 914,
     "data": [
         {
             "id": 21,
@@ -130,22 +130,6 @@
             }
         },
         {
-            "id": 135865,
-            "idMal": 49233,
-            "nextAiringEpisode": {
-                "airingAt": 1790166600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png"
-            },
-            "title": {
-                "userPreferred": "Youjo Senki II",
-                "native": "\u5e7c\u5973\u6226\u8a18\u2161",
-                "romaji": "Youjo Senki II"
-            }
-        },
-        {
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
@@ -223,22 +207,6 @@
                 "userPreferred": "Pocket Monsters (2023)",
                 "native": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc (2023)",
                 "romaji": "Pocket Monsters (2023)"
-            }
-        },
-        {
-            "id": 159309,
-            "idMal": 54000,
-            "nextAiringEpisode": {
-                "airingAt": 1790173800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg"
-            },
-            "title": {
-                "userPreferred": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
-                "native": "\u4e59\u5973\u30b2\u30fc\u4e16\u754c\u306f\u30e2\u30d6\u306b\u53b3\u3057\u3044\u4e16\u754c\u3067\u30592",
-                "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2"
             }
         },
         {
@@ -498,22 +466,6 @@
             }
         },
         {
-            "id": 188529,
-            "idMal": 61254,
-            "nextAiringEpisode": {
-                "airingAt": 1790161200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188529-6o9byjahRpEx.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg"
-            },
-            "title": {
-                "userPreferred": "Ugoku! Neko Mukashi Banashi",
-                "native": "\u3046\u3054\u304f\uff01\u306d\u3053\u3080\u304b\u3057\u3070\u306a\u3057",
-                "romaji": "Ugoku! Neko Mukashi Banashi"
-            }
-        },
-        {
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
@@ -533,7 +485,7 @@
             "id": 189046,
             "idMal": 61316,
             "nextAiringEpisode": {
-                "airingAt": 1790168400
+                "airingAt": 1790773200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
@@ -559,22 +511,6 @@
                 "userPreferred": "Shiguang Dailiren III",
                 "native": "\u65f6\u5149\u4ee3\u7406\u4eba \u7b2c\u4e09\u5b63",
                 "romaji": "Shiguang Dailiren III"
-            }
-        },
-        {
-            "id": 194829,
-            "idMal": 61897,
-            "nextAiringEpisode": {
-                "airingAt": 1790174760
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg"
-            },
-            "title": {
-                "userPreferred": "Katainaka no Ossan, Kensei ni Naru II",
-                "native": "\u7247\u7530\u820e\u306e\u304a\u3063\u3055\u3093\u3001\u5263\u8056\u306b\u306a\u308bII",
-                "romaji": "Katainaka no Ossan, Kensei ni Naru II"
             }
         },
         {
@@ -629,7 +565,7 @@
             "id": 196356,
             "idMal": 62102,
             "nextAiringEpisode": {
-                "airingAt": 1790173800
+                "airingAt": 1790356980
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
@@ -677,7 +613,7 @@
             "id": 198946,
             "idMal": 62513,
             "nextAiringEpisode": {
-                "airingAt": 1790164800
+                "airingAt": 1790769600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
@@ -834,22 +770,6 @@
             }
         },
         {
-            "id": 205772,
-            "idMal": 63276,
-            "nextAiringEpisode": {
-                "airingAt": 1790175360
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205772-kb2YOaXFfPAB.png"
-            },
-            "title": {
-                "userPreferred": "Candy Caries",
-                "native": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30fc\u30ab\u30ea\u30a8\u30b9",
-                "romaji": "Candy Caries"
-            }
-        },
-        {
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
@@ -879,22 +799,6 @@
                 "userPreferred": "Yani Neko",
                 "native": "\u30e4\u30cb\u306d\u3053",
                 "romaji": "Yani Neko"
-            }
-        },
-        {
-            "id": 207254,
-            "idMal": 63418,
-            "nextAiringEpisode": {
-                "airingAt": 1790178240
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg"
-            },
-            "title": {
-                "userPreferred": "Thunder 3",
-                "native": "\u30b5\u30f3\u30c0\u30fc\uff13",
-                "romaji": "Thunder 3"
             }
         },
         {
@@ -981,7 +885,7 @@
             "id": 210687,
             "idMal": 63830,
             "nextAiringEpisode": {
-                "airingAt": 1790170200
+                "airingAt": 1790775000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg",
@@ -1087,38 +991,6 @@
                 "userPreferred": "You Shou Yan 6th Season",
                 "native": "\u6709\u517d\u7109 \u7b2c\u516d\u5b63",
                 "romaji": "You Shou Yan 6th Season"
-            }
-        },
-        {
-            "id": 213666,
-            "idMal": 63514,
-            "nextAiringEpisode": {
-                "airingAt": 1790168400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213666-nnKcumRblZi1.jpg"
-            },
-            "title": {
-                "userPreferred": "Perfect Addiction",
-                "native": "\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
-                "romaji": "Perfect Addiction"
-            }
-        },
-        {
-            "id": 213961,
-            "idMal": 64577,
-            "nextAiringEpisode": {
-                "airingAt": 1790175600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png"
-            },
-            "title": {
-                "userPreferred": "Youjo Shenki 2",
-                "native": "\u3088\u3046\u3058\u3087\u3057\u3047\u3093\u304d2",
-                "romaji": "Youjo Shenki 2"
             }
         },
         {
