@@ -1,5 +1,5 @@
 {
-    "__version__": 915,
+    "__version__": 916,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 137683,
             "idMal": 51836,
             "nextAiringEpisode": {
-                "airingAt": 1790388000
+                "airingAt": 1790992800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
@@ -149,7 +149,7 @@
             "id": 140842,
             "idMal": 50250,
             "nextAiringEpisode": {
-                "airingAt": 1790635200
+                "airingAt": 1798756800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
@@ -181,7 +181,7 @@
             "id": 158871,
             "idMal": 53876,
             "nextAiringEpisode": {
-                "airingAt": 1790330100
+                "airingAt": 1791539700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
@@ -207,6 +207,22 @@
                 "userPreferred": "BEYBLADE X",
                 "native": "BEYBLADE X",
                 "romaji": "BEYBLADE X"
+            }
+        },
+        {
+            "id": 169581,
+            "idMal": 56733,
+            "nextAiringEpisode": {
+                "airingAt": 1790953200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png"
+            },
+            "title": {
+                "userPreferred": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+                "native": "\u30de\u30b8\u30ab\u30eb\u2605\u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30e9\u30fc\u3000\u30a8\u30ed\u30b2\u306e\u53cb\u4eba\u30ad\u30e3\u30e9\u306b\u8ee2\u751f\u3057\u305f\u3051\u3069\u3001\u30b2\u30fc\u30e0\u77e5\u8b58\u4f7f\u3063\u3066\u81ea\u7531\u306b\u751f\u304d\u308b",
+                "romaji": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru"
             }
         },
         {
@@ -258,26 +274,10 @@
             }
         },
         {
-            "id": 182205,
-            "idMal": 59970,
-            "nextAiringEpisode": {
-                "airingAt": 1790344800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg"
-            },
-            "title": {
-                "userPreferred": "Tensei Shitara Slime Datta Ken 4th Season",
-                "native": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u7b2c4\u671f",
-                "romaji": "Tensei Shitara Slime Datta Ken 4th Season"
-            }
-        },
-        {
             "id": 182616,
             "idMal": 60059,
             "nextAiringEpisode": {
-                "airingAt": 1790346600
+                "airingAt": 1790951400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
@@ -293,7 +293,7 @@
             "id": 183231,
             "idMal": 60153,
             "nextAiringEpisode": {
-                "airingAt": 1790382360
+                "airingAt": 1790987160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
@@ -434,22 +434,6 @@
             }
         },
         {
-            "id": 188525,
-            "idMal": 61280,
-            "nextAiringEpisode": {
-                "airingAt": 1790346600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg"
-            },
-            "title": {
-                "userPreferred": "Kore Kaite Shine",
-                "native": "\u3053\u308c\u63cf\u3044\u3066\u6b7b\u306d",
-                "romaji": "Kore Kaite Shine"
-            }
-        },
-        {
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
@@ -527,22 +511,6 @@
                 "userPreferred": "Grow Up Show: Himawari no Circus-dan",
                 "native": "\u30b0\u30ed\u30a6\u30a2\u30c3\u30d7\u30b7\u30e7\u30a6 \uff5e\u3072\u307e\u308f\u308a\u306e\u30b5\u30fc\u30ab\u30b9\u56e3\uff5e",
                 "romaji": "Grow Up Show: Himawari no Circus-dan"
-            }
-        },
-        {
-            "id": 196356,
-            "idMal": 62102,
-            "nextAiringEpisode": {
-                "airingAt": 1790356980
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg"
-            },
-            "title": {
-                "userPreferred": "Ibitte Konai Gibo to Gishi",
-                "native": "\u3044\u3073\u3063\u3066\u3053\u306a\u3044\u7fa9\u6bcd\u3068\u7fa9\u59c9",
-                "romaji": "Ibitte Konai Gibo to Gishi"
             }
         },
         {
@@ -661,7 +629,7 @@
             "id": 203490,
             "idMal": 63061,
             "nextAiringEpisode": {
-                "airingAt": 1790348400
+                "airingAt": 1790953200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
@@ -802,22 +770,6 @@
             }
         },
         {
-            "id": 209983,
-            "idMal": 63817,
-            "nextAiringEpisode": {
-                "airingAt": 1790352000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg"
-            },
-            "title": {
-                "userPreferred": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-                "native": "\u30d8\u30eb\u30e2\u30fc\u30c9 \uff5e\u3084\u308a\u8fbc\u307f\u597d\u304d\u306e\u30b2\u30fc\u30de\u30fc\u306f\u5ec3\u8a2d\u5b9a\u306e\u7570\u4e16\u754c\u3067\u7121\u53cc\u3059\u308b\uff5e 2nd Season",
-                "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
-            }
-        },
-        {
             "id": 210031,
             "idMal": 63832,
             "nextAiringEpisode": {
@@ -831,6 +783,22 @@
                 "userPreferred": "Seihantai na Kimi to Boku 2nd Season",
                 "native": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 \u7b2c2\u671f",
                 "romaji": "Seihantai na Kimi to Boku 2nd Season"
+            }
+        },
+        {
+            "id": 210482,
+            "idMal": 61469,
+            "nextAiringEpisode": {
+                "airingAt": 1790928000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-P1VNKbqdJ6Zj.jpg"
+            },
+            "title": {
+                "userPreferred": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+                "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c6\u30a3\u30fc\u30eb\u30fb\u30dc\u30fc\u30eb\u30fb\u30e9\u30f3 2nd\uff063rd STAGE",
+                "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
             }
         },
         {
@@ -869,7 +837,7 @@
             "id": 212308,
             "idMal": 64210,
             "nextAiringEpisode": {
-                "airingAt": 1790379000
+                "airingAt": 1790983800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg",
@@ -949,7 +917,7 @@
             "id": 214260,
             "idMal": 61619,
             "nextAiringEpisode": {
-                "airingAt": 1790384400
+                "airingAt": 1790989200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg",
@@ -965,7 +933,7 @@
             "id": 214703,
             "idMal": 64718,
             "nextAiringEpisode": {
-                "airingAt": 1790377200
+                "airingAt": 1790982000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png",
