@@ -1,5 +1,5 @@
 {
-    "__version__": 916,
+    "__version__": 917,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1790413200
+                "airingAt": 1791018000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1790407800
+                "airingAt": 1791012600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -69,7 +69,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1790409600
+                "airingAt": 1791014400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -165,7 +165,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1790474400
+                "airingAt": 1790647200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -229,7 +229,7 @@
             "id": 171110,
             "idMal": 57466,
             "nextAiringEpisode": {
-                "airingAt": 1790411400
+                "airingAt": 1791016200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
@@ -322,26 +322,10 @@
             }
         },
         {
-            "id": 184492,
-            "idMal": 60310,
-            "nextAiringEpisode": {
-                "airingAt": 1790414760
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg"
-            },
-            "title": {
-                "userPreferred": "Mairimashita! Iruma-kun 4",
-                "native": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093 \u7b2c4\u30b7\u30ea\u30fc\u30ba",
-                "romaji": "Mairimashita! Iruma-kun 4"
-            }
-        },
-        {
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1790463600
+                "airingAt": 1791068400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -354,19 +338,19 @@
             }
         },
         {
-            "id": 185692,
-            "idMal": 60552,
+            "id": 185756,
+            "idMal": 60601,
             "nextAiringEpisode": {
-                "airingAt": 1790438100
+                "airingAt": 1790521200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185692-1a8huwOIx7gw.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg"
             },
             "title": {
-                "userPreferred": "Kabushiki Gaisha Magi Lumiere 2nd Season",
-                "native": "\u682a\u5f0f\u4f1a\u793e\u30de\u30b8\u30eb\u30df\u30a8 \u7b2c2\u671f",
-                "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season"
+                "userPreferred": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+                "native": "\u8ee2\u751f\u8cb4\u65cf\u3001\u9451\u5b9a\u30b9\u30ad\u30eb\u3067\u6210\u308a\u4e0a\u304c\u308b \u7b2c3\u671f",
+                "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
             }
         },
         {
@@ -418,22 +402,6 @@
             }
         },
         {
-            "id": 188388,
-            "idMal": 61269,
-            "nextAiringEpisode": {
-                "airingAt": 1790467200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg"
-            },
-            "title": {
-                "userPreferred": "DIGIMON BEATBREAK",
-                "native": "DIGIMON BEATBREAK",
-                "romaji": "DIGIMON BEATBREAK"
-            }
-        },
-        {
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
@@ -482,42 +450,10 @@
             }
         },
         {
-            "id": 196012,
-            "idMal": 62048,
-            "nextAiringEpisode": {
-                "airingAt": 1790433960
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg"
-            },
-            "title": {
-                "userPreferred": "MAO",
-                "native": "MAO",
-                "romaji": "MAO"
-            }
-        },
-        {
-            "id": 196017,
-            "idMal": 62051,
-            "nextAiringEpisode": {
-                "airingAt": 1790434800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196017-GynDNdbDzqzk.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg"
-            },
-            "title": {
-                "userPreferred": "Grow Up Show: Himawari no Circus-dan",
-                "native": "\u30b0\u30ed\u30a6\u30a2\u30c3\u30d7\u30b7\u30e7\u30a6 \uff5e\u3072\u307e\u308f\u308a\u306e\u30b5\u30fc\u30ab\u30b9\u56e3\uff5e",
-                "romaji": "Grow Up Show: Himawari no Circus-dan"
-            }
-        },
-        {
             "id": 196613,
             "idMal": 51039,
             "nextAiringEpisode": {
-                "airingAt": 1790474400
+                "airingAt": 1791079200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg",
@@ -562,22 +498,6 @@
             }
         },
         {
-            "id": 199066,
-            "idMal": 62535,
-            "nextAiringEpisode": {
-                "airingAt": 1790442000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg"
-            },
-            "title": {
-                "userPreferred": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
-                "native": "\u82b1\u7e54\u3055\u3093\u306f\u8ee2\u751f\u3057\u3066\u3082\u55a7\u5629\u304c\u3057\u305f\u3044",
-                "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
-            }
-        },
-        {
             "id": 199409,
             "idMal": 62248,
             "nextAiringEpisode": {
@@ -613,7 +533,7 @@
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
-                "airingAt": 1790465400
+                "airingAt": 1791070200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
@@ -645,7 +565,7 @@
             "id": 204269,
             "idMal": 63125,
             "nextAiringEpisode": {
-                "airingAt": 1790460000
+                "airingAt": 1791064800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png",
@@ -658,19 +578,19 @@
             }
         },
         {
-            "id": 204431,
-            "idMal": 63138,
+            "id": 204389,
+            "idMal": 63140,
             "nextAiringEpisode": {
-                "airingAt": 1790420400
+                "airingAt": 1791034200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204431-5JC0YY6i6ECJ.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg"
             },
             "title": {
-                "userPreferred": "Kaijuu 8-gou: Narumi no Heijitsu",
-                "native": "\u602a\u7363\uff18\u53f7 \u9cf4\u6d77\u306e\u5e73\u65e5",
-                "romaji": "Kaijuu 8-gou: Narumi no Heijitsu"
+                "userPreferred": "Yasei no Last Boss ga Arawareta! 2nd Season",
+                "native": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01 \u7b2c2\u671f",
+                "romaji": "Yasei no Last Boss ga Arawareta! 2nd Season"
             }
         },
         {
@@ -693,7 +613,7 @@
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
-                "airingAt": 1790469000
+                "airingAt": 1791073800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
@@ -735,22 +655,6 @@
                 "userPreferred": "Sora wa Akai Kawa no Hotori",
                 "native": "\u5929\u306f\u8d64\u3044\u6cb3\u306e\u307b\u3068\u308a",
                 "romaji": "Sora wa Akai Kawa no Hotori"
-            }
-        },
-        {
-            "id": 208824,
-            "idMal": 63641,
-            "nextAiringEpisode": {
-                "airingAt": 1790460000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208824-JeKq65nNiFhA.png"
-            },
-            "title": {
-                "userPreferred": "Plannosaurus Gachi Koseibutsu-bu",
-                "native": "\u30d7\u30e9\u30ce\u30b5\u30a6\u30eb\u30b9 \u30ac\u30c1\u30b3\u30bb\u30a4\u30d6\u30c4\u90e8",
-                "romaji": "Plannosaurus Gachi Koseibutsu-bu"
             }
         },
         {
@@ -821,7 +725,7 @@
             "id": 211181,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1790434800
+                "airingAt": 1791039600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211181-93dehu3v5xHE.png",
@@ -869,7 +773,7 @@
             "id": 213356,
             "idMal": 64398,
             "nextAiringEpisode": {
-                "airingAt": 1790416800
+                "airingAt": 1791021600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg",
