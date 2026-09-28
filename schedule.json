@@ -1,11 +1,11 @@
 {
-    "__version__": 917,
+    "__version__": 918,
     "data": [
         {
             "id": 21,
             "idMal": 21,
             "nextAiringEpisode": {
-                "airingAt": 1790518560
+                "airingAt": 1798985760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1790501400
+                "airingAt": 1791106200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -82,26 +82,10 @@
             }
         },
         {
-            "id": 103303,
-            "idMal": 62856,
-            "nextAiringEpisode": {
-                "airingAt": 1790517600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png"
-            },
-            "title": {
-                "userPreferred": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-                "native": "\u4e8c\u5341\u4e16\u7d00\u96fb\u6c23\u76ee\u9332-\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab-",
-                "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika"
-            }
-        },
-        {
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1790499600
+                "airingAt": 1791104400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -117,7 +101,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1790560800
+                "airingAt": 1791165600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -242,22 +226,6 @@
             }
         },
         {
-            "id": 178789,
-            "idMal": 59193,
-            "nextAiringEpisode": {
-                "airingAt": 1790506800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg"
-            },
-            "title": {
-                "userPreferred": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-                "native": "\u7121\u8077\u8ee2\u751f\u2162 \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
-                "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
-            }
-        },
-        {
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
@@ -341,7 +309,7 @@
             "id": 185756,
             "idMal": 60601,
             "nextAiringEpisode": {
-                "airingAt": 1790521200
+                "airingAt": 1791124200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg",
@@ -514,22 +482,6 @@
             }
         },
         {
-            "id": 200230,
-            "idMal": 62683,
-            "nextAiringEpisode": {
-                "airingAt": 1790494200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200230-YuzdgbXSgi38.png"
-            },
-            "title": {
-                "userPreferred": "Let's Go Kaikigumi",
-                "native": "\u30ec\u30c3\u30c4\u30b4\u30fc\u602a\u5947\u7d44",
-                "romaji": "Let's Go Kaikigumi"
-            }
-        },
-        {
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
@@ -677,7 +629,7 @@
             "id": 210031,
             "idMal": 63832,
             "nextAiringEpisode": {
-                "airingAt": 1790496000
+                "airingAt": 1791100800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
@@ -754,6 +706,22 @@
             }
         },
         {
+            "id": 212888,
+            "idMal": 64340,
+            "nextAiringEpisode": {
+                "airingAt": 1791124200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg"
+            },
+            "title": {
+                "userPreferred": "Temppal: Item no Chikara",
+                "native": "\u30c6\u30e0\u30d1\u30eb\uff5e\u30a2\u30a4\u30c6\u30e0\u306e\u529b\uff5e",
+                "romaji": "Temppal: Item no Chikara"
+            }
+        },
+        {
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
@@ -789,7 +757,7 @@
             "id": 213359,
             "idMal": 64435,
             "nextAiringEpisode": {
-                "airingAt": 1790533200
+                "airingAt": 1791138000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg",
@@ -850,19 +818,19 @@
             }
         },
         {
-            "id": 216625,
-            "idMal": 64965,
+            "id": 215835,
+            "idMal": 64867,
             "nextAiringEpisode": {
-                "airingAt": 1790546400
+                "airingAt": 1791120600
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216625-tp4JIRrSoK3B.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216625-tp4JIRrSoK3B.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215835-B0seSw93V5qM.png"
             },
             "title": {
-                "userPreferred": "Pok\u00e9Oki SEASON 2",
-                "native": "\u30dd\u30b1\u8d77\u304d SEASON 2",
-                "romaji": "Pok\u00e9Oki SEASON 2"
+                "userPreferred": "Umayuru: Full Gate!",
+                "native": "\u3046\u307e\u3086\u308b\u3075\u308b\u3052\u301c\u3068!",
+                "romaji": "Umayuru: Full Gate!"
             }
         }
     ]
