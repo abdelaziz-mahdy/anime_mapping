@@ -1,5 +1,5 @@
 {
-    "__version__": 918,
+    "__version__": 919,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1790647200
+                "airingAt": 1791079200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -434,22 +434,6 @@
             }
         },
         {
-            "id": 197754,
-            "idMal": 62331,
-            "nextAiringEpisode": {
-                "airingAt": 1790607600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png"
-            },
-            "title": {
-                "userPreferred": "LIAR GAME",
-                "native": "LIAR GAME",
-                "romaji": "LIAR GAME"
-            }
-        },
-        {
             "id": 198946,
             "idMal": 62513,
             "nextAiringEpisode": {
@@ -725,7 +709,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1790647200
+                "airingAt": 1791252000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
