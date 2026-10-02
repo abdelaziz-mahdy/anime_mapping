@@ -1,5 +1,5 @@
 {
-    "__version__": 921,
+    "__version__": 922,
     "data": [
         {
             "id": 21,
@@ -229,7 +229,7 @@
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
-                "airingAt": 1790868360
+                "airingAt": 1791473160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
@@ -322,22 +322,6 @@
             }
         },
         {
-            "id": 187166,
-            "idMal": 61107,
-            "nextAiringEpisode": {
-                "airingAt": 1790859600
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187166-ASfp7wErGrxQ.png"
-            },
-            "title": {
-                "userPreferred": "Ganso! Bandori-chan",
-                "native": "\u5143\u7956\uff01\u30d0\u30f3\u30c9\u30ea\u3061\u3083\u3093",
-                "romaji": "Ganso! Bandori-chan"
-            }
-        },
-        {
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
@@ -357,7 +341,7 @@
             "id": 191832,
             "idMal": 61607,
             "nextAiringEpisode": {
-                "airingAt": 1790910000
+                "airingAt": 1791514800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
@@ -498,6 +482,22 @@
             }
         },
         {
+            "id": 206401,
+            "idMal": 63337,
+            "nextAiringEpisode": {
+                "airingAt": 1791462600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png"
+            },
+            "title": {
+                "userPreferred": "FX Senshi Kurumi-chan",
+                "native": "FX\u6226\u58eb\u304f\u308b\u307f\u3061\u3083\u3093",
+                "romaji": "FX Senshi Kurumi-chan"
+            }
+        },
+        {
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
@@ -527,22 +527,6 @@
                 "userPreferred": "Sora wa Akai Kawa no Hotori",
                 "native": "\u5929\u306f\u8d64\u3044\u6cb3\u306e\u307b\u3068\u308a",
                 "romaji": "Sora wa Akai Kawa no Hotori"
-            }
-        },
-        {
-            "id": 209541,
-            "idMal": 63773,
-            "nextAiringEpisode": {
-                "airingAt": 1790847000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg"
-            },
-            "title": {
-                "userPreferred": "PetitCure: Precure Fairies Season 3",
-                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f33",
-                "romaji": "PetitCure: Precure Fairies Season 3"
             }
         },
         {
@@ -690,6 +674,22 @@
             }
         },
         {
+            "id": 213805,
+            "idMal": 64534,
+            "nextAiringEpisode": {
+                "airingAt": 1791471360
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png"
+            },
+            "title": {
+                "userPreferred": "Koori no Jouheki 2nd Season",
+                "native": "\u6c37\u306e\u57ce\u58c1 \u7b2c2\u671f",
+                "romaji": "Koori no Jouheki 2nd Season"
+            }
+        },
+        {
             "id": 214260,
             "idMal": 61619,
             "nextAiringEpisode": {
@@ -751,6 +751,38 @@
                 "userPreferred": "Umayuru: Full Gate!",
                 "native": "\u3046\u307e\u3086\u308b\u3075\u308b\u3052\u301c\u3068!",
                 "romaji": "Umayuru: Full Gate!"
+            }
+        },
+        {
+            "id": 217577,
+            "idMal": 65007,
+            "nextAiringEpisode": {
+                "airingAt": 1791507000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217577-bYfoFScj9Pwi.jpg"
+            },
+            "title": {
+                "userPreferred": "Mazenchu",
+                "native": "\u30de\u30bc\u30f3\u30c1\u30e5",
+                "romaji": "Mazenchu"
+            }
+        },
+        {
+            "id": 217624,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1791451800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217624-Cwkze5dZ5txL.jpg"
+            },
+            "title": {
+                "userPreferred": "PetitCure: Precure Fairies Season 4",
+                "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f34",
+                "romaji": "PetitCure: Precure Fairies Season 4"
             }
         }
     ]
