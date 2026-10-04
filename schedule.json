@@ -1,5 +1,5 @@
 {
-    "__version__": 923,
+    "__version__": 924,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1791018000
+                "airingAt": 1791622800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1791012600
+                "airingAt": 1791617400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -69,7 +69,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1791014400
+                "airingAt": 1791619200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -133,7 +133,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791079200
+                "airingAt": 1791252000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -197,7 +197,7 @@
             "id": 169581,
             "idMal": 56733,
             "nextAiringEpisode": {
-                "airingAt": 1791558000
+                "airingAt": 1791584160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
@@ -207,22 +207,6 @@
                 "userPreferred": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
                 "native": "\u30de\u30b8\u30ab\u30eb\u2605\u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30e9\u30fc\u3000\u30a8\u30ed\u30b2\u306e\u53cb\u4eba\u30ad\u30e3\u30e9\u306b\u8ee2\u751f\u3057\u305f\u3051\u3069\u3001\u30b2\u30fc\u30e0\u77e5\u8b58\u4f7f\u3063\u3066\u81ea\u7531\u306b\u751f\u304d\u308b",
                 "romaji": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru"
-            }
-        },
-        {
-            "id": 171110,
-            "idMal": 57466,
-            "nextAiringEpisode": {
-                "airingAt": 1791016200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg"
-            },
-            "title": {
-                "userPreferred": "Honzuki no Gekokujou: Ryoushu no Youjo",
-                "native": "\u672c\u597d\u304d\u306e\u4e0b\u524b\u4e0a \u9818\u4e3b\u306e\u990a\u5973",
-                "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo"
             }
         },
         {
@@ -258,6 +242,22 @@
             }
         },
         {
+            "id": 180894,
+            "idMal": 59787,
+            "nextAiringEpisode": {
+                "airingAt": 1791633600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png"
+            },
+            "title": {
+                "userPreferred": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+                "native": "\u30ed\u30e1\u30ea\u30a2\u6226\u8a18 \u301c\u9b54\u738b\u3092\u5012\u3057\u305f\u5f8c\u3082\u4eba\u985e\u3084\u3070\u305d\u3046\u3060\u304b\u3089\u8ecd\u968a\u7d44\u7e54\u3057\u305f\u301c",
+                "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita"
+            }
+        },
+        {
             "id": 183231,
             "idMal": 60153,
             "nextAiringEpisode": {
@@ -277,7 +277,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1791068400
+                "airingAt": 1791673200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -322,6 +322,38 @@
             }
         },
         {
+            "id": 187316,
+            "idMal": 61140,
+            "nextAiringEpisode": {
+                "airingAt": 1791630000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg"
+            },
+            "title": {
+                "userPreferred": "Gensou Suikoden",
+                "native": "\u5e7b\u60f3\u6c34\u6ef8\u4f1d",
+                "romaji": "Gensou Suikoden"
+            }
+        },
+        {
+            "id": 187402,
+            "idMal": 61153,
+            "nextAiringEpisode": {
+                "airingAt": 1791637200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg"
+            },
+            "title": {
+                "userPreferred": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+                "native": "\u8ee2\u751f\u3057\u305f\u5927\u8056\u5973\u306f\u3001\u8056\u5973\u3067\u3042\u308b\u3053\u3068\u3092\u3072\u305f\u96a0\u3059",
+                "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu"
+            }
+        },
+        {
             "id": 188753,
             "idMal": 61297,
             "nextAiringEpisode": {
@@ -335,6 +367,22 @@
                 "userPreferred": "Gekkan! Nanmono Anime",
                 "native": "\u3052\u3063\u304b\u3093\uff01\u306a\u3093\u3082\u306e\u30a2\u30cb\u30e1",
                 "romaji": "Gekkan! Nanmono Anime"
+            }
+        },
+        {
+            "id": 191656,
+            "idMal": 61578,
+            "nextAiringEpisode": {
+                "airingAt": 1791646200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png"
+            },
+            "title": {
+                "userPreferred": "Seitokai ni mo Ana wa Aru!",
+                "native": "\u751f\u5f92\u4f1a\u306b\u3082\u7a74\u306f\u3042\u308b\uff01",
+                "romaji": "Seitokai ni mo Ana wa Aru!"
             }
         },
         {
@@ -386,10 +434,26 @@
             }
         },
         {
+            "id": 195604,
+            "idMal": 61967,
+            "nextAiringEpisode": {
+                "airingAt": 1791640800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg"
+            },
+            "title": {
+                "userPreferred": "Black Clover 2nd Season",
+                "native": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc \u7b2c2\u671f",
+                "romaji": "Black Clover 2nd Season"
+            }
+        },
+        {
             "id": 196613,
             "idMal": 51039,
             "nextAiringEpisode": {
-                "airingAt": 1791079200
+                "airingAt": 1791684000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg",
@@ -399,6 +463,22 @@
                 "userPreferred": "Dou Po Cangqiong: Nian Fan 4",
                 "native": "\u6597\u7834\u82cd\u7a79 \u5e74\u756a4",
                 "romaji": "Dou Po Cangqiong: Nian Fan 4"
+            }
+        },
+        {
+            "id": 199007,
+            "idMal": 62524,
+            "nextAiringEpisode": {
+                "airingAt": 1791642600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg"
+            },
+            "title": {
+                "userPreferred": "#Zombie Sagashitemasu",
+                "native": "#\u30be\u30f3\u30d3\u3055\u304c\u3057\u3066\u307e\u3059",
+                "romaji": "#Zombie Sagashitemasu"
             }
         },
         {
@@ -450,10 +530,26 @@
             }
         },
         {
+            "id": 202250,
+            "idMal": 62922,
+            "nextAiringEpisode": {
+                "airingAt": 1791649800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-duq4XpZP8TU3.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg"
+            },
+            "title": {
+                "userPreferred": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+                "native": "\u8cb8\u3057\u305f\u9b54\u529b\u306f\u3010\u30ea\u30dc\u6255\u3044\u3011\u3067\u5f37\u5236\u5fb4\u53ce",
+                "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu"
+            }
+        },
+        {
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
-                "airingAt": 1791070200
+                "airingAt": 1791675000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
@@ -485,7 +581,7 @@
             "id": 204269,
             "idMal": 63125,
             "nextAiringEpisode": {
-                "airingAt": 1791064800
+                "airingAt": 1791669600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png",
@@ -501,7 +597,7 @@
             "id": 204389,
             "idMal": 63140,
             "nextAiringEpisode": {
-                "airingAt": 1791034200
+                "airingAt": 1791639000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg",
@@ -565,7 +661,7 @@
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
-                "airingAt": 1791073800
+                "airingAt": 1791678600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
@@ -591,6 +687,54 @@
                 "userPreferred": "Sora wa Akai Kawa no Hotori",
                 "native": "\u5929\u306f\u8d64\u3044\u6cb3\u306e\u307b\u3068\u308a",
                 "romaji": "Sora wa Akai Kawa no Hotori"
+            }
+        },
+        {
+            "id": 209562,
+            "idMal": 63764,
+            "nextAiringEpisode": {
+                "airingAt": 1791642600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209562-kQQbTKDuql9p.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-kQQbTKDuql9p.jpg"
+            },
+            "title": {
+                "userPreferred": "Vertex Force",
+                "native": "\u30d0\u30fc\u30c6\u30c3\u30af\u30b9\u30d5\u30a9\u30fc\u30b9",
+                "romaji": "Vertex Force"
+            }
+        },
+        {
+            "id": 209709,
+            "idMal": 63901,
+            "nextAiringEpisode": {
+                "airingAt": 1791617340
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209709-Wz8BKL1fm5MC.png"
+            },
+            "title": {
+                "userPreferred": "Sirotan",
+                "native": "\u3057\u308d\u305f\u3093",
+                "romaji": "Sirotan"
+            }
+        },
+        {
+            "id": 209872,
+            "idMal": 63801,
+            "nextAiringEpisode": {
+                "airingAt": 1791647760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg"
+            },
+            "title": {
+                "userPreferred": "Ranma 1/2 (2024) 3rd Season",
+                "native": "\u3089\u3093\u307e1/2 (2024) \u7b2c3\u671f",
+                "romaji": "Ranma 1/2 (2024) 3rd Season"
             }
         },
         {
@@ -629,7 +773,7 @@
             "id": 211181,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791039600
+                "airingAt": 1791644400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211181-93dehu3v5xHE.png",
@@ -674,6 +818,22 @@
             }
         },
         {
+            "id": 212799,
+            "idMal": 64326,
+            "nextAiringEpisode": {
+                "airingAt": 1791624300
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png"
+            },
+            "title": {
+                "userPreferred": "Marronnier Oukoku no Shichinin no Kishi",
+                "native": "\u30de\u30ed\u30cb\u30a8\u738b\u56fd\u306e\u4e03\u4eba\u306e\u9a0e\u58eb",
+                "romaji": "Marronnier Oukoku no Shichinin no Kishi"
+            }
+        },
+        {
             "id": 212888,
             "idMal": 64340,
             "nextAiringEpisode": {
@@ -709,7 +869,7 @@
             "id": 213356,
             "idMal": 64398,
             "nextAiringEpisode": {
-                "airingAt": 1791021600
+                "airingAt": 1791626400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg",
@@ -863,6 +1023,22 @@
                 "userPreferred": "Keroro Gunsou\u2606",
                 "native": "\u30b1\u30ed\u30ed\u8ecd\u66f9\u2606",
                 "romaji": "Keroro Gunsou\u2606"
+            }
+        },
+        {
+            "id": 216860,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1791677760
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216860-ghfSopHbPVNa.png"
+            },
+            "title": {
+                "userPreferred": "Punirunes Puni 4",
+                "native": "\u3077\u306b\u308b\u3093\u305a \u3077\u306b\uff14",
+                "romaji": "Punirunes Puni 4"
             }
         },
         {
