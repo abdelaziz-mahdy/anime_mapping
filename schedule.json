@@ -1,5 +1,5 @@
 {
-    "__version__": 924,
+    "__version__": 925,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1791106200
+                "airingAt": 1791711000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1791104400
+                "airingAt": 1791709200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -101,7 +101,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1791165600
+                "airingAt": 1791770400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -293,7 +293,7 @@
             "id": 185756,
             "idMal": 60601,
             "nextAiringEpisode": {
-                "airingAt": 1791124200
+                "airingAt": 1791729000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg",
@@ -319,6 +319,22 @@
                 "userPreferred": "BLEACH: Sennen Kessen-hen - Kashin-tan",
                 "native": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7-\u798d\u9032\u8b5a-",
                 "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
+            }
+        },
+        {
+            "id": 186541,
+            "idMal": 60948,
+            "nextAiringEpisode": {
+                "airingAt": 1791721800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg"
+            },
+            "title": {
+                "userPreferred": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+                "native": "\u76ee\u899a\u3081\u305f\u3089\u6700\u5f37\u88c5\u5099\u3068\u5b87\u5b99\u8239\u6301\u3061\u3060\u3063\u305f\u306e\u3067\u3001\u4e00\u6238\u5efa\u3066\u76ee\u6307\u3057\u3066\u50ad\u5175\u3068\u3057\u3066\u81ea\u7531\u306b\u751f\u304d\u305f\u3044",
+                "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai"
             }
         },
         {
@@ -370,6 +386,22 @@
             }
         },
         {
+            "id": 189123,
+            "idMal": 61323,
+            "nextAiringEpisode": {
+                "airingAt": 1791703800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg"
+            },
+            "title": {
+                "userPreferred": "Ao no Hako Season 2",
+                "native": "\u30a2\u30aa\u306e\u30cf\u30b3 Season\uff12",
+                "romaji": "Ao no Hako Season 2"
+            }
+        },
+        {
             "id": 191656,
             "idMal": 61578,
             "nextAiringEpisode": {
@@ -383,6 +415,22 @@
                 "userPreferred": "Seitokai ni mo Ana wa Aru!",
                 "native": "\u751f\u5f92\u4f1a\u306b\u3082\u7a74\u306f\u3042\u308b\uff01",
                 "romaji": "Seitokai ni mo Ana wa Aru!"
+            }
+        },
+        {
+            "id": 191788,
+            "idMal": 61603,
+            "nextAiringEpisode": {
+                "airingAt": 1791705600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg"
+            },
+            "title": {
+                "userPreferred": "Aoashi 2nd Season",
+                "native": "\u30a2\u30aa\u30a2\u30b7 \u7b2c2\u671f",
+                "romaji": "Aoashi 2nd Season"
             }
         },
         {
@@ -530,6 +578,54 @@
             }
         },
         {
+            "id": 199426,
+            "idMal": 62590,
+            "nextAiringEpisode": {
+                "airingAt": 1791729900
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-0nBgTV9BrcJn.jpg"
+            },
+            "title": {
+                "userPreferred": "Hotel Inhumans 2nd Season",
+                "native": "\u30db\u30c6\u30eb\u30fb\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30ba \u7b2c2\u671f",
+                "romaji": "Hotel Inhumans 2nd Season"
+            }
+        },
+        {
+            "id": 200455,
+            "idMal": 62753,
+            "nextAiringEpisode": {
+                "airingAt": 1791729000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png"
+            },
+            "title": {
+                "userPreferred": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+                "native": "\u5f31\u6c17MAX\u4ee4\u5b22\u306a\u306e\u306b\u3001\u8fa3\u8155\u5a5a\u7d04\u8005\u69d8\u306e\u8ced\u3051\u306b\u4e57\u3063\u3066\u3057\u307e\u3063\u305f",
+                "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta"
+            }
+        },
+        {
+            "id": 202079,
+            "idMal": 62907,
+            "nextAiringEpisode": {
+                "airingAt": 1791723600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202079-nwBpDUms0Bab.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-nwBpDUms0Bab.png"
+            },
+            "title": {
+                "userPreferred": "Oji-san wa Kawaii Mono ga Osuki.",
+                "native": "\u304a\u3058\u3055\u3093\u306f\u30ab\u30ef\u30a4\u30a4\u3082\u306e\u304c\u304a\u597d\u304d\u3002",
+                "romaji": "Oji-san wa Kawaii Mono ga Osuki."
+            }
+        },
+        {
             "id": 202250,
             "idMal": 62922,
             "nextAiringEpisode": {
@@ -642,6 +738,22 @@
             }
         },
         {
+            "id": 205909,
+            "idMal": 63293,
+            "nextAiringEpisode": {
+                "airingAt": 1791556200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg"
+            },
+            "title": {
+                "userPreferred": "Hotaru no Yomeiri",
+                "native": "\u30db\u30bf\u30eb\u306e\u5ac1\u5165\u308a",
+                "romaji": "Hotaru no Yomeiri"
+            }
+        },
+        {
             "id": 206401,
             "idMal": 63337,
             "nextAiringEpisode": {
@@ -674,6 +786,22 @@
             }
         },
         {
+            "id": 206774,
+            "idMal": 63381,
+            "nextAiringEpisode": {
+                "airingAt": 1791734400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-S65hVQp46NUf.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-S65hVQp46NUf.jpg"
+            },
+            "title": {
+                "userPreferred": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
+                "native": "\u30de\u30a6\u30b9\u30ab\u30fc\u30bd\u30eb\u3067\u73fe\u5b9f\u3092\u64cd\u4f5c\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u3067\u3001\u5973\u306e\u5b50\u3092\u3044\u3063\u3071\u3044\u30af\u30ea\u30c3\u30af\u3057\u307e\u30fc\u3059",
+                "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu"
+            }
+        },
+        {
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
@@ -687,6 +815,70 @@
                 "userPreferred": "Sora wa Akai Kawa no Hotori",
                 "native": "\u5929\u306f\u8d64\u3044\u6cb3\u306e\u307b\u3068\u308a",
                 "romaji": "Sora wa Akai Kawa no Hotori"
+            }
+        },
+        {
+            "id": 208025,
+            "idMal": 63509,
+            "nextAiringEpisode": {
+                "airingAt": 1791735600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg"
+            },
+            "title": {
+                "userPreferred": "Dark Summoner to Dekiteiru",
+                "native": "\u30c0\u30fc\u30af\u30b5\u30e2\u30ca\u30fc\u3068\u30c7\u30ad\u3066\u3044\u308b",
+                "romaji": "Dark Summoner to Dekiteiru"
+            }
+        },
+        {
+            "id": 209032,
+            "idMal": 63667,
+            "nextAiringEpisode": {
+                "airingAt": 1791725400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-MD8TDzYtFoL0.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-MD8TDzYtFoL0.png"
+            },
+            "title": {
+                "userPreferred": "Mahou no Shimai LuluttoLilly Part 2",
+                "native": "\u9b54\u6cd5\u306e\u59c9\u59b9\u30eb\u30eb\u30c3\u30c8\u30ea\u30ea\u30a3 \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Mahou no Shimai LuluttoLilly Part 2"
+            }
+        },
+        {
+            "id": 209463,
+            "idMal": 63753,
+            "nextAiringEpisode": {
+                "airingAt": 1791730800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209463-Yxk2q10RXgg8.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209463-Yxk2q10RXgg8.jpg"
+            },
+            "title": {
+                "userPreferred": "Kanata Kara",
+                "native": "\u5f7c\u65b9\u304b\u3089",
+                "romaji": "Kanata Kara"
+            }
+        },
+        {
+            "id": 209499,
+            "idMal": 63751,
+            "nextAiringEpisode": {
+                "airingAt": 1791727200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg"
+            },
+            "title": {
+                "userPreferred": "TANK CHAIR: Sensha Isu",
+                "native": "TANK CHAIR-\u6226\u8eca\u6905\u5b50-",
+                "romaji": "TANK CHAIR: Sensha Isu"
             }
         },
         {
@@ -738,22 +930,6 @@
             }
         },
         {
-            "id": 210031,
-            "idMal": 63832,
-            "nextAiringEpisode": {
-                "airingAt": 1791100800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg"
-            },
-            "title": {
-                "userPreferred": "Seihantai na Kimi to Boku 2nd Season",
-                "native": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 \u7b2c2\u671f",
-                "romaji": "Seihantai na Kimi to Boku 2nd Season"
-            }
-        },
-        {
             "id": 210482,
             "idMal": 61469,
             "nextAiringEpisode": {
@@ -783,6 +959,22 @@
                 "userPreferred": "Mu Shen Ji 4",
                 "native": "\u7267\u795e\u8bb04",
                 "romaji": "Mu Shen Ji 4"
+            }
+        },
+        {
+            "id": 211877,
+            "idMal": 64131,
+            "nextAiringEpisode": {
+                "airingAt": 1791734700
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg"
+            },
+            "title": {
+                "userPreferred": "Kanojo no Tomodachi",
+                "native": "\u5f7c\u5973\u306e\u53cb\u9054",
+                "romaji": "Kanojo no Tomodachi"
             }
         },
         {
@@ -837,7 +1029,7 @@
             "id": 212888,
             "idMal": 64340,
             "nextAiringEpisode": {
-                "airingAt": 1791124200
+                "airingAt": 1791729000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
@@ -866,6 +1058,22 @@
             }
         },
         {
+            "id": 213298,
+            "idMal": 64430,
+            "nextAiringEpisode": {
+                "airingAt": 1791669600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213298-ymB1Sw0yDZ0Y.jpg"
+            },
+            "title": {
+                "userPreferred": "Yuruyuru Zukan",
+                "native": "\u3086\u308b\u3086\u308b\u56f3\u9451",
+                "romaji": "Yuruyuru Zukan"
+            }
+        },
+        {
             "id": 213356,
             "idMal": 64398,
             "nextAiringEpisode": {
@@ -879,22 +1087,6 @@
                 "userPreferred": "Guangyin Zhi Wai 2",
                 "native": "\u5149\u9634\u4e4b\u59162",
                 "romaji": "Guangyin Zhi Wai 2"
-            }
-        },
-        {
-            "id": 213359,
-            "idMal": 64435,
-            "nextAiringEpisode": {
-                "airingAt": 1791138000
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213359-VDIZoZHMA0LI.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213359-VDIZoZHMA0LI.jpg"
-            },
-            "title": {
-                "userPreferred": "Yami Shibai 17",
-                "native": "\u95c7\u829d\u5c45 \u5341\u4e03\u671f",
-                "romaji": "Yami Shibai 17"
             }
         },
         {
@@ -943,6 +1135,22 @@
                 "userPreferred": "Zeri Feisheng",
                 "native": "\u62e9\u65e5\u98de\u5347",
                 "romaji": "Zeri Feisheng"
+            }
+        },
+        {
+            "id": 214593,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1791471600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214593-WZ0HaPSRae2E.png"
+            },
+            "title": {
+                "userPreferred": "Yuusanchi! from Yuuhachi",
+                "native": "\u3086\u3046\u3055\u3093\u3061\uff01from \u904a\u30cf\u3061",
+                "romaji": "Yuusanchi! from Yuuhachi"
             }
         },
         {
@@ -997,7 +1205,7 @@
             "id": 215835,
             "idMal": 64867,
             "nextAiringEpisode": {
-                "airingAt": 1791120600
+                "airingAt": 1791725400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png",
@@ -1087,6 +1295,38 @@
                 "userPreferred": "PetitCure: Precure Fairies Season 4",
                 "native": "\u3077\u3061\u304d\u3085\u3042\uff5ePrecure Fairies\uff5e \u30b7\u30fc\u30ba\u30f34",
                 "romaji": "PetitCure: Precure Fairies Season 4"
+            }
+        },
+        {
+            "id": 217782,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1791735420
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217782-DV0vODQ68ZRk.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217782-DV0vODQ68ZRk.png"
+            },
+            "title": {
+                "userPreferred": "Kanojo no Tomodachi Mini Anime",
+                "native": "\u5f7c\u5973\u306e\u53cb\u9054 \u30df\u30cb\u30a2\u30cb\u30e1",
+                "romaji": "Kanojo no Tomodachi Mini Anime"
+            }
+        },
+        {
+            "id": 217787,
+            "idMal": 64211,
+            "nextAiringEpisode": {
+                "airingAt": 1791680400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg"
+            },
+            "title": {
+                "userPreferred": "Pop Pap Polters",
+                "native": "\u30dd\u30c3\u30d7\u30d1\u30c3\u30d7\u30dd\u30eb\u30bf\u30fc\u30ba",
+                "romaji": "Pop Pap Polters"
             }
         }
     ]
