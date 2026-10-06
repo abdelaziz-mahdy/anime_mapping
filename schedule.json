@@ -1,5 +1,5 @@
 {
-    "__version__": 925,
+    "__version__": 926,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791252000
+                "airingAt": 1791684000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -175,6 +175,22 @@
                 "userPreferred": "Tensei Shitara Ken Deshita 2nd Season",
                 "native": "\u8ee2\u751f\u3057\u305f\u3089\u5263\u3067\u3057\u305f \u7b2c2\u671f",
                 "romaji": "Tensei Shitara Ken Deshita 2nd Season"
+            }
+        },
+        {
+            "id": 160803,
+            "idMal": 54344,
+            "nextAiringEpisode": {
+                "airingAt": 1791824400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png"
+            },
+            "title": {
+                "userPreferred": "Mahou Shoujo Ikusei Keikaku: restart",
+                "native": "\u9b54\u6cd5\u5c11\u5973\u80b2\u6210\u8a08\u753b restart",
+                "romaji": "Mahou Shoujo Ikusei Keikaku: restart"
             }
         },
         {
@@ -674,6 +690,22 @@
             }
         },
         {
+            "id": 204011,
+            "idMal": 63098,
+            "nextAiringEpisode": {
+                "airingAt": 1791813600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg"
+            },
+            "title": {
+                "userPreferred": "PSY\u042fEN",
+                "native": "PSYREN -\u30b5\u30a4\u30ec\u30f3-",
+                "romaji": "PSY\u042fEN"
+            }
+        },
+        {
             "id": 204269,
             "idMal": 63125,
             "nextAiringEpisode": {
@@ -712,8 +744,8 @@
                 "airingAt": 1791556200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-cAQOzQ84Lwk8.png"
             },
             "title": {
                 "userPreferred": "Tougen Anki: Nikko\u30fbKegon no Taki-hen",
@@ -802,6 +834,22 @@
             }
         },
         {
+            "id": 207191,
+            "idMal": 63409,
+            "nextAiringEpisode": {
+                "airingAt": 1791808200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg"
+            },
+            "title": {
+                "userPreferred": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+                "native": "\u3069\u3046\u3082\u3001\u597d\u304d\u306a\u4eba\u306b\u60da\u308c\u85ac\u3092\u4f9d\u983c\u3055\u308c\u305f\u9b54\u5973\u3067\u3059\u3002",
+                "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu."
+            }
+        },
+        {
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
@@ -847,6 +895,22 @@
                 "userPreferred": "Mahou no Shimai LuluttoLilly Part 2",
                 "native": "\u9b54\u6cd5\u306e\u59c9\u59b9\u30eb\u30eb\u30c3\u30c8\u30ea\u30ea\u30a3 \u7b2c2\u30af\u30fc\u30eb",
                 "romaji": "Mahou no Shimai LuluttoLilly Part 2"
+            }
+        },
+        {
+            "id": 209219,
+            "idMal": 63712,
+            "nextAiringEpisode": {
+                "airingAt": 1791810000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg"
+            },
+            "title": {
+                "userPreferred": "Tensei Goblin Dakedo Shitsumon Aru?",
+                "native": "\u8ee2\u751f\u30b4\u30d6\u30ea\u30f3\u3060\u3051\u3069\u8cea\u554f\u3042\u308b\uff1f",
+                "romaji": "Tensei Goblin Dakedo Shitsumon Aru?"
             }
         },
         {
@@ -1045,7 +1109,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1791252000
+                "airingAt": 1791856800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
