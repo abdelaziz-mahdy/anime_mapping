@@ -1,5 +1,5 @@
 {
-    "__version__": 927,
+    "__version__": 928,
     "data": [
         {
             "id": 21,
@@ -130,6 +130,22 @@
             }
         },
         {
+            "id": 152677,
+            "idMal": 52480,
+            "nextAiringEpisode": {
+                "airingAt": 1791981000
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png"
+            },
+            "title": {
+                "userPreferred": "Tantei wa mou, Shindeiru. Season 2",
+                "native": "\u63a2\u5075\u306f\u3082\u3046\u3001\u6b7b\u3093\u3067\u3044\u308b\u3002Season2",
+                "romaji": "Tantei wa mou, Shindeiru. Season 2"
+            }
+        },
+        {
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
@@ -165,7 +181,7 @@
             "id": 159042,
             "idMal": 53913,
             "nextAiringEpisode": {
-                "airingAt": 1791387000
+                "airingAt": 1791991800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
@@ -226,6 +242,38 @@
             }
         },
         {
+            "id": 172192,
+            "idMal": 57612,
+            "nextAiringEpisode": {
+                "airingAt": 1791992700
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg"
+            },
+            "title": {
+                "userPreferred": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+                "native": "\u5e30\u9084\u8005\u306e\u9b54\u6cd5\u306f\u7279\u5225\u3067\u3059 \u7b2c2\u671f",
+                "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season"
+            }
+        },
+        {
+            "id": 176314,
+            "idMal": 58518,
+            "nextAiringEpisode": {
+                "airingAt": 1791982800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg"
+            },
+            "title": {
+                "userPreferred": "Sasaki to Pii-chan Season 2",
+                "native": "\u4f50\u3005\u6728\u3068\u30d4\u30fc\u3061\u3083\u3093 \u30b7\u30fc\u30ba\u30f3\uff12",
+                "romaji": "Sasaki to Pii-chan Season 2"
+            }
+        },
+        {
             "id": 178083,
             "idMal": 59088,
             "nextAiringEpisode": {
@@ -239,6 +287,22 @@
                 "userPreferred": "Tokyo Revengers: Santen Sensou-hen",
                 "native": "\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba \u4e09\u5929\u6226\u4e89\u7de8",
                 "romaji": "Tokyo Revengers: Santen Sensou-hen"
+            }
+        },
+        {
+            "id": 178868,
+            "idMal": 59204,
+            "nextAiringEpisode": {
+                "airingAt": 1791989160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg"
+            },
+            "title": {
+                "userPreferred": "Magic Knight Rayearth (2026)",
+                "native": "\u9b54\u6cd5\u9a0e\u58eb\u30ec\u30a4\u30a2\u30fc\u30b9 (2026)",
+                "romaji": "Magic Knight Rayearth (2026)"
             }
         },
         {
@@ -552,8 +616,8 @@
                 "airingAt": 1791642600
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-8R1HsnflnHJE.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg"
             },
             "title": {
                 "userPreferred": "#Zombie Sagashitemasu",
@@ -565,7 +629,7 @@
             "id": 199068,
             "idMal": 62534,
             "nextAiringEpisode": {
-                "airingAt": 1791385200
+                "airingAt": 1791990000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
@@ -680,8 +744,8 @@
                 "airingAt": 1791649800
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-duq4XpZP8TU3.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg"
             },
             "title": {
                 "userPreferred": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
@@ -856,8 +920,8 @@
                 "airingAt": 1791734400
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-S65hVQp46NUf.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-S65hVQp46NUf.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-gXVdrySlLY6y.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-gXVdrySlLY6y.jpg"
             },
             "title": {
                 "userPreferred": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
@@ -888,8 +952,8 @@
                 "airingAt": 1791808200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-4rkciwfBGi2A.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-4rkciwfBGi2A.jpg"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg"
             },
             "title": {
                 "userPreferred": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
@@ -1106,6 +1170,22 @@
             }
         },
         {
+            "id": 211778,
+            "idMal": 64084,
+            "nextAiringEpisode": {
+                "airingAt": 1791982800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg"
+            },
+            "title": {
+                "userPreferred": "Sekai Saikyou no Majo, Hajimemashita",
+                "native": "\u4e16\u754c\u6700\u5f37\u306e\u9b54\u5973\u3001\u59cb\u3081\u307e\u3057\u305f",
+                "romaji": "Sekai Saikyou no Majo, Hajimemashita"
+            }
+        },
+        {
             "id": 211877,
             "idMal": 64131,
             "nextAiringEpisode": {
@@ -1183,6 +1263,22 @@
                 "userPreferred": "Tempal: Item no Chikara",
                 "native": "\u30c6\u30e0\u30d1\u30eb\uff5e\u30a2\u30a4\u30c6\u30e0\u306e\u529b\uff5e",
                 "romaji": "Tempal: Item no Chikara"
+            }
+        },
+        {
+            "id": 213068,
+            "idMal": 64344,
+            "nextAiringEpisode": {
+                "airingAt": 1791991800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-aFSedkY5bQ4m.png"
+            },
+            "title": {
+                "userPreferred": "Juu\u043eu Mujin Dandivine",
+                "native": "\u7363\u738b\u6b66\u795e\u30c0\u30f3\u30c7\u30f4\u30a1\u30a4\u30f3",
+                "romaji": "Juu\u043eu Mujin Dandivine"
             }
         },
         {
@@ -1368,8 +1464,8 @@
                 "airingAt": 1791592200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-9CXz04CEmXOi.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216557-9CXz04CEmXOi.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216557-b72dAqbVEDO7.jpg"
             },
             "title": {
                 "userPreferred": "Keroro Gunsou\u2606",
