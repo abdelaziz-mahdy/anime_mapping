@@ -1,5 +1,5 @@
 {
-    "__version__": 928,
+    "__version__": 929,
     "data": [
         {
             "id": 21,
@@ -309,7 +309,7 @@
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
-                "airingAt": 1791473160
+                "airingAt": 1792077960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
@@ -533,7 +533,7 @@
             "id": 191832,
             "idMal": 61607,
             "nextAiringEpisode": {
-                "airingAt": 1791514800
+                "airingAt": 1792119600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
@@ -687,6 +687,22 @@
                 "userPreferred": "Hotel Inhumans 2nd Season",
                 "native": "\u30db\u30c6\u30eb\u30fb\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30ba \u7b2c2\u671f",
                 "romaji": "Hotel Inhumans 2nd Season"
+            }
+        },
+        {
+            "id": 199594,
+            "idMal": 62615,
+            "nextAiringEpisode": {
+                "airingAt": 1792076400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-moYKzlfIH03U.jpg"
+            },
+            "title": {
+                "userPreferred": "Tetsuryou! meet with Tetsudou Musume",
+                "native": "\u3066\u3064\u308a\u3087\u30fc\uff01meet with \u9244\u9053\u3080\u3059\u3081",
+                "romaji": "Tetsuryou! meet with Tetsudou Musume"
             }
         },
         {
@@ -885,7 +901,7 @@
             "id": 206401,
             "idMal": 63337,
             "nextAiringEpisode": {
-                "airingAt": 1791462600
+                "airingAt": 1792067400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
@@ -1205,7 +1221,7 @@
             "id": 212144,
             "idMal": 64180,
             "nextAiringEpisode": {
-                "airingAt": 1791471600
+                "airingAt": 1792076400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
@@ -1231,6 +1247,22 @@
                 "userPreferred": "Pan no Akachan (TV)",
                 "native": "\u30d1\u30f3\u306e\u8d64\u3061\u3083\u3093",
                 "romaji": "Pan no Akachan (TV)"
+            }
+        },
+        {
+            "id": 212503,
+            "idMal": 64254,
+            "nextAiringEpisode": {
+                "airingAt": 1792081680
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg"
+            },
+            "title": {
+                "userPreferred": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+                "native": "\u51b0\u5263\u306e\u9b54\u8853\u5e2b\u304c\u4e16\u754c\u3092\u7d71\u3079\u308b\u2161",
+                "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II"
             }
         },
         {
@@ -1349,7 +1381,7 @@
             "id": 213805,
             "idMal": 64534,
             "nextAiringEpisode": {
-                "airingAt": 1791471360
+                "airingAt": 1792076160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
@@ -1381,7 +1413,7 @@
             "id": 214593,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791471600
+                "airingAt": 1791770400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
@@ -1509,7 +1541,7 @@
             "id": 217577,
             "idMal": 65007,
             "nextAiringEpisode": {
-                "airingAt": 1791507000
+                "airingAt": 1792111800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
@@ -1525,7 +1557,7 @@
             "id": 217624,
             "idMal": 65095,
             "nextAiringEpisode": {
-                "airingAt": 1791451800
+                "airingAt": 1792056600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg",
@@ -1567,6 +1599,38 @@
                 "userPreferred": "Pop Pap Polters",
                 "native": "\u30dd\u30c3\u30d7\u30d1\u30c3\u30d7\u30dd\u30eb\u30bf\u30fc\u30ba",
                 "romaji": "Pop Pap Polters"
+            }
+        },
+        {
+            "id": 218008,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1791929160
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg"
+            },
+            "title": {
+                "userPreferred": "Chibi Godzilla no Gyakushuu Season 4",
+                "native": "\u3061\u3073\u30b4\u30b8\u30e9\u306e\u9006\u8972 \u30b7\u30fc\u30ba\u30f34",
+                "romaji": "Chibi Godzilla no Gyakushuu Season 4"
+            }
+        },
+        {
+            "id": 218011,
+            "idMal": 64028,
+            "nextAiringEpisode": {
+                "airingAt": 1791669600
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218011-dPgr1MlfSuhH.jpg"
+            },
+            "title": {
+                "userPreferred": "Tanuki to Kitsune (TV)",
+                "native": "\u30bf\u30cc\u30ad\u3068\u30ad\u30c4\u30cd",
+                "romaji": "Tanuki to Kitsune (TV)"
             }
         }
     ]
