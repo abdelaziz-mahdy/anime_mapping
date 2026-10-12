@@ -1,5 +1,5 @@
 {
-    "__version__": 931,
+    "__version__": 932,
     "data": [
         {
             "id": 21,
@@ -53,7 +53,7 @@
             "id": 2406,
             "idMal": 2406,
             "nextAiringEpisode": {
-                "airingAt": 1791711000
+                "airingAt": 1792315800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
@@ -85,7 +85,7 @@
             "id": 118123,
             "idMal": 44042,
             "nextAiringEpisode": {
-                "airingAt": 1791709200
+                "airingAt": 1792314000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
@@ -101,7 +101,7 @@
             "id": 137653,
             "idMal": 55809,
             "nextAiringEpisode": {
-                "airingAt": 1791770400
+                "airingAt": 1792375200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
@@ -373,7 +373,7 @@
             "id": 185756,
             "idMal": 60601,
             "nextAiringEpisode": {
-                "airingAt": 1791729000
+                "airingAt": 1792333800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg",
@@ -405,7 +405,7 @@
             "id": 186541,
             "idMal": 60948,
             "nextAiringEpisode": {
-                "airingAt": 1791721800
+                "airingAt": 1792326600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg",
@@ -517,7 +517,7 @@
             "id": 189123,
             "idMal": 61323,
             "nextAiringEpisode": {
-                "airingAt": 1791703800
+                "airingAt": 1792308600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg",
@@ -549,7 +549,7 @@
             "id": 191788,
             "idMal": 61603,
             "nextAiringEpisode": {
-                "airingAt": 1791705600
+                "airingAt": 1792310400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg",
@@ -725,7 +725,7 @@
             "id": 199426,
             "idMal": 62590,
             "nextAiringEpisode": {
-                "airingAt": 1791729900
+                "airingAt": 1792334700
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg",
@@ -773,7 +773,7 @@
             "id": 200455,
             "idMal": 62753,
             "nextAiringEpisode": {
-                "airingAt": 1791729000
+                "airingAt": 1792333800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png",
@@ -789,7 +789,7 @@
             "id": 202079,
             "idMal": 62907,
             "nextAiringEpisode": {
-                "airingAt": 1791723600
+                "airingAt": 1792328400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202079-nwBpDUms0Bab.png",
@@ -946,6 +946,22 @@
             }
         },
         {
+            "id": 205896,
+            "idMal": 63292,
+            "nextAiringEpisode": {
+                "airingAt": 1792333800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg"
+            },
+            "title": {
+                "userPreferred": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+                "native": "\u4fe1\u8005\u30bc\u30ed\u306e\u5973\u795e\u30b5\u30de\u3068\u59cb\u3081\u308b\u7570\u4e16\u754c\u653b\u7565",
+                "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
+            }
+        },
+        {
             "id": 205909,
             "idMal": 63293,
             "nextAiringEpisode": {
@@ -997,7 +1013,7 @@
             "id": 206774,
             "idMal": 63381,
             "nextAiringEpisode": {
-                "airingAt": 1791734400
+                "airingAt": 1792339200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-gXVdrySlLY6y.jpg",
@@ -1007,6 +1023,22 @@
                 "userPreferred": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
                 "native": "\u30de\u30a6\u30b9\u30ab\u30fc\u30bd\u30eb\u3067\u73fe\u5b9f\u3092\u64cd\u4f5c\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u3067\u3001\u5973\u306e\u5b50\u3092\u3044\u3063\u3071\u3044\u30af\u30ea\u30c3\u30af\u3057\u307e\u30fc\u3059",
                 "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu"
+            }
+        },
+        {
+            "id": 206814,
+            "idMal": 63367,
+            "nextAiringEpisode": {
+                "airingAt": 1792332960
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg"
+            },
+            "title": {
+                "userPreferred": "Dragon Ball Super: Beerus",
+                "native": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85 \u30d3\u30eb\u30b9",
+                "romaji": "Dragon Ball Super: Beerus"
             }
         },
         {
@@ -1077,7 +1109,7 @@
             "id": 208025,
             "idMal": 63509,
             "nextAiringEpisode": {
-                "airingAt": 1791735600
+                "airingAt": 1792340400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg",
@@ -1109,11 +1141,11 @@
             "id": 209032,
             "idMal": 63667,
             "nextAiringEpisode": {
-                "airingAt": 1791725400
+                "airingAt": 1792330200
             },
             "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-MD8TDzYtFoL0.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-MD8TDzYtFoL0.png"
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-R0gP5IFdk7Vd.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-R0gP5IFdk7Vd.jpg"
             },
             "title": {
                 "userPreferred": "Mahou no Shimai LuluttoLilly Part 2",
@@ -1141,7 +1173,7 @@
             "id": 209463,
             "idMal": 63753,
             "nextAiringEpisode": {
-                "airingAt": 1791730800
+                "airingAt": 1792335600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209463-Yxk2q10RXgg8.jpg",
@@ -1157,7 +1189,7 @@
             "id": 209499,
             "idMal": 63751,
             "nextAiringEpisode": {
-                "airingAt": 1791727200
+                "airingAt": 1792332000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg",
@@ -1269,7 +1301,7 @@
             "id": 211877,
             "idMal": 64131,
             "nextAiringEpisode": {
-                "airingAt": 1791734700
+                "airingAt": 1792339500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg",
@@ -1349,7 +1381,7 @@
             "id": 212888,
             "idMal": 64340,
             "nextAiringEpisode": {
-                "airingAt": 1791729000
+                "airingAt": 1792333800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
@@ -1442,6 +1474,38 @@
             }
         },
         {
+            "id": 213657,
+            "idMal": 64503,
+            "nextAiringEpisode": {
+                "airingAt": 1792310400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213657-ORNXVEBCjXaz.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg"
+            },
+            "title": {
+                "userPreferred": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+                "native": "\u591c\u685c\u3055\u3093\u3061\u306e\u5927\u4f5c\u6226 \u7b2c2\u671f \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2"
+            }
+        },
+        {
+            "id": 213658,
+            "idMal": 64505,
+            "nextAiringEpisode": {
+                "airingAt": 1792312200
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213658-D3BPJaqawLxS.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png"
+            },
+            "title": {
+                "userPreferred": "Diamond no Ace act II: Second Season Part 2",
+                "native": "\u30c0\u30a4\u30e4\u306eA act\u2161 -Second Season- \u7b2c2\u30af\u30fc\u30eb",
+                "romaji": "Diamond no Ace act II: Second Season Part 2"
+            }
+        },
+        {
             "id": 213805,
             "idMal": 64534,
             "nextAiringEpisode": {
@@ -1477,7 +1541,7 @@
             "id": 214593,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791770400
+                "airingAt": 1792076400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
@@ -1507,7 +1571,7 @@
         },
         {
             "id": 214968,
-            "idMal": null,
+            "idMal": 64789,
             "nextAiringEpisode": {
                 "airingAt": 1792197000
             },
@@ -1541,7 +1605,7 @@
             "id": 215835,
             "idMal": 64867,
             "nextAiringEpisode": {
-                "airingAt": 1791725400
+                "airingAt": 1792324800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png",
@@ -1637,7 +1701,7 @@
             "id": 217782,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791735420
+                "airingAt": 1792340220
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217782-DV0vODQ68ZRk.png",
