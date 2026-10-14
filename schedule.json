@@ -1,5 +1,5 @@
 {
-    "__version__": 933,
+    "__version__": 934,
     "data": [
         {
             "id": 21,
@@ -306,6 +306,22 @@
             }
         },
         {
+            "id": 179876,
+            "idMal": 59415,
+            "nextAiringEpisode": {
+                "airingAt": 1792514700
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179876-Wg62CAzp5WQ1.jpg"
+            },
+            "title": {
+                "userPreferred": "DARK MACHINE: The Animation",
+                "native": "DARK MACHINE -The Animation-",
+                "romaji": "DARK MACHINE: The Animation"
+            }
+        },
+        {
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
@@ -437,7 +453,7 @@
             "id": 187316,
             "idMal": 61140,
             "nextAiringEpisode": {
-                "airingAt": 1791901800
+                "airingAt": 1792506600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
@@ -469,7 +485,7 @@
             "id": 187990,
             "idMal": 63818,
             "nextAiringEpisode": {
-                "airingAt": 1791900000
+                "airingAt": 1792504800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png",
@@ -658,6 +674,22 @@
             }
         },
         {
+            "id": 198727,
+            "idMal": 62484,
+            "nextAiringEpisode": {
+                "airingAt": 1792504800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg"
+            },
+            "title": {
+                "userPreferred": "Chitose-kun wa Ramune Bin no Naka Part 2",
+                "native": "\u5343\u6b73\u304f\u3093\u306f\u30e9\u30e0\u30cd\u74f6\u306e\u306a\u304b 2\u30af\u30fc\u30eb",
+                "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2"
+            }
+        },
+        {
             "id": 199007,
             "idMal": 62524,
             "nextAiringEpisode": {
@@ -709,7 +741,7 @@
             "id": 199409,
             "idMal": 62248,
             "nextAiringEpisode": {
-                "airingAt": 1791943200
+                "airingAt": 1792548000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
@@ -757,7 +789,7 @@
             "id": 200294,
             "idMal": 62696,
             "nextAiringEpisode": {
-                "airingAt": 1791900000
+                "airingAt": 1792504800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
@@ -933,7 +965,7 @@
             "id": 204656,
             "idMal": 63151,
             "nextAiringEpisode": {
-                "airingAt": 1791932400
+                "airingAt": 1792537200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
@@ -1045,7 +1077,7 @@
             "id": 206949,
             "idMal": 63382,
             "nextAiringEpisode": {
-                "airingAt": 1791894360
+                "airingAt": 1792499160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
@@ -1077,7 +1109,7 @@
             "id": 207329,
             "idMal": 63431,
             "nextAiringEpisode": {
-                "airingAt": 1791903600
+                "airingAt": 1792508400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
@@ -1093,7 +1125,7 @@
             "id": 207809,
             "idMal": 63489,
             "nextAiringEpisode": {
-                "airingAt": 1791909300
+                "airingAt": 1792514100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
@@ -1205,7 +1237,7 @@
             "id": 209502,
             "idMal": 63754,
             "nextAiringEpisode": {
-                "airingAt": 1791896400
+                "airingAt": 1792501200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
@@ -1458,22 +1490,6 @@
             }
         },
         {
-            "id": 213486,
-            "idMal": 64461,
-            "nextAiringEpisode": {
-                "airingAt": 1791943200
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png"
-            },
-            "title": {
-                "userPreferred": "You Shou Yan 6th Season",
-                "native": "\u6709\u517d\u7109 \u7b2c\u516d\u5b63",
-                "romaji": "You Shou Yan 6th Season"
-            }
-        },
-        {
             "id": 213657,
             "idMal": 64503,
             "nextAiringEpisode": {
@@ -1589,7 +1605,7 @@
             "id": 214974,
             "idMal": 62218,
             "nextAiringEpisode": {
-                "airingAt": 1791943200
+                "airingAt": 1792548000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
@@ -1733,7 +1749,7 @@
             "id": 218008,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1791929160
+                "airingAt": 1793138760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg",
