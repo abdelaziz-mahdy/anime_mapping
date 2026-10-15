@@ -1,5 +1,5 @@
 {
-    "__version__": 934,
+    "__version__": 935,
     "data": [
         {
             "id": 21,
@@ -133,7 +133,7 @@
             "id": 152677,
             "idMal": 52480,
             "nextAiringEpisode": {
-                "airingAt": 1791981000
+                "airingAt": 1792585800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
@@ -181,7 +181,7 @@
             "id": 159042,
             "idMal": 53913,
             "nextAiringEpisode": {
-                "airingAt": 1791991800
+                "airingAt": 1792596600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
@@ -226,6 +226,22 @@
             }
         },
         {
+            "id": 168085,
+            "idMal": 60598,
+            "nextAiringEpisode": {
+                "airingAt": 1792594800
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168085-hPOOODUADp7D.png"
+            },
+            "title": {
+                "userPreferred": "Dali Si Rizhi 3",
+                "native": "\u5927\u7406\u5bfa\u65e5\u5fd7 \u7b2c3\u5b63",
+                "romaji": "Dali Si Rizhi 3"
+            }
+        },
+        {
             "id": 169581,
             "idMal": 56733,
             "nextAiringEpisode": {
@@ -245,7 +261,7 @@
             "id": 172192,
             "idMal": 57612,
             "nextAiringEpisode": {
-                "airingAt": 1791992700
+                "airingAt": 1792597500
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
@@ -261,7 +277,7 @@
             "id": 176314,
             "idMal": 58518,
             "nextAiringEpisode": {
-                "airingAt": 1791982800
+                "airingAt": 1792587600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
@@ -293,7 +309,7 @@
             "id": 178868,
             "idMal": 59204,
             "nextAiringEpisode": {
-                "airingAt": 1791989160
+                "airingAt": 1792593960
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
@@ -709,7 +725,7 @@
             "id": 199068,
             "idMal": 62534,
             "nextAiringEpisode": {
-                "airingAt": 1791990000
+                "airingAt": 1792594800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
@@ -1090,6 +1106,22 @@
             }
         },
         {
+            "id": 207084,
+            "idMal": 63396,
+            "nextAiringEpisode": {
+                "airingAt": 1792058400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg"
+            },
+            "title": {
+                "userPreferred": "Onee-chan Gokko",
+                "native": "\u304a\u59c9\u3061\u3083\u3093\u3054\u3063\u3053",
+                "romaji": "Onee-chan Gokko"
+            }
+        },
+        {
             "id": 207191,
             "idMal": 63409,
             "nextAiringEpisode": {
@@ -1317,7 +1349,7 @@
             "id": 211778,
             "idMal": 64084,
             "nextAiringEpisode": {
-                "airingAt": 1791982800
+                "airingAt": 1792587600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
@@ -1429,7 +1461,7 @@
             "id": 213068,
             "idMal": 64344,
             "nextAiringEpisode": {
-                "airingAt": 1791991800
+                "airingAt": 1792596600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
