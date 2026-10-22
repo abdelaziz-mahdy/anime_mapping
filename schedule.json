@@ -1,5 +1,5 @@
 {
-    "__version__": 941,
+    "__version__": 942,
     "data": [
         {
             "id": 21,
@@ -149,7 +149,7 @@
             "id": 152677,
             "idMal": 52480,
             "nextAiringEpisode": {
-                "airingAt": 1792585800
+                "airingAt": 1793190600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
@@ -197,7 +197,7 @@
             "id": 159042,
             "idMal": 53913,
             "nextAiringEpisode": {
-                "airingAt": 1792596600
+                "airingAt": 1793201400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
@@ -245,7 +245,7 @@
             "id": 168085,
             "idMal": 60598,
             "nextAiringEpisode": {
-                "airingAt": 1792594800
+                "airingAt": 1793199600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png",
@@ -277,7 +277,7 @@
             "id": 172192,
             "idMal": 57612,
             "nextAiringEpisode": {
-                "airingAt": 1792597500
+                "airingAt": 1793202300
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
@@ -293,7 +293,7 @@
             "id": 176314,
             "idMal": 58518,
             "nextAiringEpisode": {
-                "airingAt": 1792587600
+                "airingAt": 1793192400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
@@ -325,7 +325,7 @@
             "id": 178868,
             "idMal": 59204,
             "nextAiringEpisode": {
-                "airingAt": 1792593960
+                "airingAt": 1793198760
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
@@ -741,7 +741,7 @@
             "id": 199068,
             "idMal": 62534,
             "nextAiringEpisode": {
-                "airingAt": 1792594800
+                "airingAt": 1793199600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
@@ -1349,7 +1349,7 @@
             "id": 211778,
             "idMal": 64084,
             "nextAiringEpisode": {
-                "airingAt": 1792587600
+                "airingAt": 1793192400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
@@ -1461,7 +1461,7 @@
             "id": 213068,
             "idMal": 64344,
             "nextAiringEpisode": {
-                "airingAt": 1792596600
+                "airingAt": 1793201400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
@@ -1711,6 +1711,22 @@
                 "userPreferred": "Aoki Denshou: Welsh & Shedar",
                 "native": "\u84bc\u304d\u4f1d\u627f \u30a6\u30a7\u30eb\u30b7\u30e5&\u30b7\u30a7\u30fc\u30c0\u30fc",
                 "romaji": "Aoki Denshou: Welsh & Shedar"
+            }
+        },
+        {
+            "id": 217282,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1793192040
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217282-fRAAhF2b5eIr.png"
+            },
+            "title": {
+                "userPreferred": "GelPiyo 2",
+                "native": "\u30b2\u30eb\u3074\u3088 2",
+                "romaji": "GelPiyo 2"
             }
         },
         {
