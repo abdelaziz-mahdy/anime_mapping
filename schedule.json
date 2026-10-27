@@ -1,5 +1,5 @@
 {
-    "__version__": 946,
+    "__version__": 947,
     "data": [
         {
             "id": 21,
@@ -165,7 +165,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1793066400
+                "airingAt": 1793498400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -213,7 +213,7 @@
             "id": 160803,
             "idMal": 54344,
             "nextAiringEpisode": {
-                "airingAt": 1793034000
+                "airingAt": 1793638800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
@@ -431,22 +431,6 @@
                 "userPreferred": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
                 "native": "\u8ee2\u751f\u8cb4\u65cf\u3001\u9451\u5b9a\u30b9\u30ad\u30eb\u3067\u6210\u308a\u4e0a\u304c\u308b \u7b2c3\u671f",
                 "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
-            }
-        },
-        {
-            "id": 185874,
-            "idMal": 60636,
-            "nextAiringEpisode": {
-                "airingAt": 1793026800
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg"
-            },
-            "title": {
-                "userPreferred": "BLEACH: Sennen Kessen-hen - Kashin-tan",
-                "native": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7-\u798d\u9032\u8b5a-",
-                "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan"
             }
         },
         {
@@ -917,7 +901,7 @@
             "id": 204011,
             "idMal": 63098,
             "nextAiringEpisode": {
-                "airingAt": 1793023200
+                "airingAt": 1794232800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
@@ -1109,7 +1093,7 @@
             "id": 207191,
             "idMal": 63409,
             "nextAiringEpisode": {
-                "airingAt": 1793017800
+                "airingAt": 1793622600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
@@ -1205,7 +1189,7 @@
             "id": 209219,
             "idMal": 63712,
             "nextAiringEpisode": {
-                "airingAt": 1793019600
+                "airingAt": 1793624400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
@@ -1461,7 +1445,7 @@
             "id": 213188,
             "idMal": 64388,
             "nextAiringEpisode": {
-                "airingAt": 1793066400
+                "airingAt": 1793671200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
@@ -1839,6 +1823,22 @@
                 "userPreferred": "Maomao no Hitorigoto 3rd Season",
                 "native": "\u732b\u732b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c3\u671f",
                 "romaji": "Maomao no Hitorigoto 3rd Season"
+            }
+        },
+        {
+            "id": 218942,
+            "idMal": null,
+            "nextAiringEpisode": {
+                "airingAt": 1793269140
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218942-P2vuXzw9knaY.png",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218942-P2vuXzw9knaY.png"
+            },
+            "title": {
+                "userPreferred": "Sylvanian Families: Freya no Colorful Everyday",
+                "native": "\u30b7\u30eb\u30d0\u30cb\u30a2\u30d5\u30a1\u30df\u30ea\u30fc \u30d5\u30ec\u30a2\u306e\u30ab\u30e9\u30d5\u30eb\u30fb\u30a8\u30d6\u30ea\u30c7\u30a4",
+                "romaji": "Sylvanian Families: Freya no Colorful Everyday"
             }
         }
     ]
