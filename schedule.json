@@ -1,5 +1,5 @@
 {
-    "__version__": 956,
+    "__version__": 957,
     "data": [
         {
             "id": 21,
@@ -357,7 +357,7 @@
             "id": 180136,
             "idMal": 59741,
             "nextAiringEpisode": {
-                "airingAt": 1793892360
+                "airingAt": 1794497160
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
@@ -517,7 +517,7 @@
             "id": 188034,
             "idMal": 61227,
             "nextAiringEpisode": {
-                "airingAt": 1793889000
+                "airingAt": 1794493800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
@@ -773,7 +773,7 @@
             "id": 199594,
             "idMal": 62615,
             "nextAiringEpisode": {
-                "airingAt": 1793890800
+                "airingAt": 1794495600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg",
@@ -863,6 +863,22 @@
                 "userPreferred": "Meitantei Precure!",
                 "native": "\u540d\u63a2\u5075\u30d7\u30ea\u30ad\u30e5\u30a2\uff01",
                 "romaji": "Meitantei Precure!"
+            }
+        },
+        {
+            "id": 203275,
+            "idMal": 63045,
+            "nextAiringEpisode": {
+                "airingAt": 1793966400
+            },
+            "coverImage": {
+                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg"
+            },
+            "title": {
+                "userPreferred": "Demons' Crest",
+                "native": "\u30c7\u30e2\u30f3\u30ba\u30fb\u30af\u30ec\u30b9\u30c8",
+                "romaji": "Demons' Crest"
             }
         },
         {
@@ -1013,7 +1029,7 @@
             "id": 206244,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1793937600
+                "airingAt": 1794542400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206244-ke6bcfsL40qY.jpg",
@@ -1029,7 +1045,7 @@
             "id": 206401,
             "idMal": 63337,
             "nextAiringEpisode": {
-                "airingAt": 1793881800
+                "airingAt": 1794486600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
@@ -1349,7 +1365,7 @@
             "id": 212144,
             "idMal": 64180,
             "nextAiringEpisode": {
-                "airingAt": 1793890800
+                "airingAt": 1794495600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
@@ -1381,7 +1397,7 @@
             "id": 212503,
             "idMal": 64254,
             "nextAiringEpisode": {
-                "airingAt": 1793896080
+                "airingAt": 1794500880
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg",
@@ -1525,7 +1541,7 @@
             "id": 213805,
             "idMal": 64534,
             "nextAiringEpisode": {
-                "airingAt": 1793890560
+                "airingAt": 1794495360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
@@ -1557,7 +1573,7 @@
             "id": 214593,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1793890800
+                "airingAt": 1794189600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
@@ -1701,7 +1717,7 @@
             "id": 217577,
             "idMal": 65007,
             "nextAiringEpisode": {
-                "airingAt": 1793926200
+                "airingAt": 1794531000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
@@ -1717,7 +1733,7 @@
             "id": 217624,
             "idMal": 65095,
             "nextAiringEpisode": {
-                "airingAt": 1793871000
+                "airingAt": 1794475800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg",
@@ -1845,7 +1861,7 @@
             "id": 218942,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1793873940
+                "airingAt": 1794478740
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218942-P2vuXzw9knaY.png",
