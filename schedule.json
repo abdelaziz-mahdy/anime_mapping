@@ -1,5 +1,5 @@
 {
-    "__version__": 972,
+    "__version__": 973,
     "data": [
         {
             "id": 21,
@@ -21,7 +21,7 @@
             "id": 235,
             "idMal": 235,
             "nextAiringEpisode": {
-                "airingAt": 1795251600
+                "airingAt": 1796461200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
@@ -37,7 +37,7 @@
             "id": 966,
             "idMal": 966,
             "nextAiringEpisode": {
-                "airingAt": 1795246200
+                "airingAt": 1795851000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
@@ -69,7 +69,7 @@
             "id": 8687,
             "idMal": 8687,
             "nextAiringEpisode": {
-                "airingAt": 1795248000
+                "airingAt": 1795852800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
@@ -165,7 +165,7 @@
             "id": 155723,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1795312800
+                "airingAt": 1795917600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
@@ -245,7 +245,7 @@
             "id": 168085,
             "idMal": 60598,
             "nextAiringEpisode": {
-                "airingAt": 1795273200
+                "airingAt": 1795618800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png",
@@ -261,7 +261,7 @@
             "id": 169581,
             "idMal": 56733,
             "nextAiringEpisode": {
-                "airingAt": 1795273200
+                "airingAt": 1795878000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
@@ -373,7 +373,7 @@
             "id": 180894,
             "idMal": 59787,
             "nextAiringEpisode": {
-                "airingAt": 1795262400
+                "airingAt": 1795867200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
@@ -405,7 +405,7 @@
             "id": 185646,
             "idMal": 60534,
             "nextAiringEpisode": {
-                "airingAt": 1795302000
+                "airingAt": 1795906800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
@@ -485,7 +485,7 @@
             "id": 187402,
             "idMal": 61153,
             "nextAiringEpisode": {
-                "airingAt": 1795266000
+                "airingAt": 1795870800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg",
@@ -565,7 +565,7 @@
             "id": 191656,
             "idMal": 61578,
             "nextAiringEpisode": {
-                "airingAt": 1795275000
+                "airingAt": 1795879800
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png",
@@ -629,7 +629,7 @@
             "id": 195571,
             "idMal": 61999,
             "nextAiringEpisode": {
-                "airingAt": 1795249800
+                "airingAt": 1795854600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg",
@@ -645,7 +645,7 @@
             "id": 195604,
             "idMal": 61967,
             "nextAiringEpisode": {
-                "airingAt": 1795269600
+                "airingAt": 1795874400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
@@ -677,7 +677,7 @@
             "id": 199007,
             "idMal": 62524,
             "nextAiringEpisode": {
-                "airingAt": 1795271400
+                "airingAt": 1795876200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-8R1HsnflnHJE.jpg",
@@ -821,7 +821,7 @@
             "id": 202250,
             "idMal": 62922,
             "nextAiringEpisode": {
-                "airingAt": 1795278600
+                "airingAt": 1795883400
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg",
@@ -853,7 +853,7 @@
             "id": 202957,
             "idMal": 63042,
             "nextAiringEpisode": {
-                "airingAt": 1795303800
+                "airingAt": 1795908600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
@@ -885,7 +885,7 @@
             "id": 203473,
             "idMal": 63053,
             "nextAiringEpisode": {
-                "airingAt": 1795272300
+                "airingAt": 1795877100
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
@@ -917,7 +917,7 @@
             "id": 204011,
             "idMal": 63098,
             "nextAiringEpisode": {
-                "airingAt": 1795442400
+                "airingAt": 1796047200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
@@ -933,7 +933,7 @@
             "id": 204269,
             "idMal": 63125,
             "nextAiringEpisode": {
-                "airingAt": 1795298400
+                "airingAt": 1795903200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png",
@@ -949,7 +949,7 @@
             "id": 204389,
             "idMal": 63140,
             "nextAiringEpisode": {
-                "airingAt": 1795267800
+                "airingAt": 1795872600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg",
@@ -1061,7 +1061,7 @@
             "id": 206523,
             "idMal": 63352,
             "nextAiringEpisode": {
-                "airingAt": 1795307400
+                "airingAt": 1795912200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
@@ -1269,7 +1269,7 @@
             "id": 209562,
             "idMal": 63764,
             "nextAiringEpisode": {
-                "airingAt": 1795271400
+                "airingAt": 1795876200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209562-kQQbTKDuql9p.jpg",
@@ -1285,7 +1285,7 @@
             "id": 209709,
             "idMal": 63901,
             "nextAiringEpisode": {
-                "airingAt": 1795246140
+                "airingAt": 1795850940
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
@@ -1301,7 +1301,7 @@
             "id": 209872,
             "idMal": 63801,
             "nextAiringEpisode": {
-                "airingAt": 1795276560
+                "airingAt": 1795881360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg",
@@ -1413,7 +1413,7 @@
             "id": 212799,
             "idMal": 64326,
             "nextAiringEpisode": {
-                "airingAt": 1795253100
+                "airingAt": 1795857900
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png",
@@ -1477,7 +1477,7 @@
             "id": 213298,
             "idMal": 64430,
             "nextAiringEpisode": {
-                "airingAt": 1795298400
+                "airingAt": 1795903200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg",
@@ -1493,7 +1493,7 @@
             "id": 213356,
             "idMal": 64398,
             "nextAiringEpisode": {
-                "airingAt": 1795255200
+                "airingAt": 1795917600
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg",
@@ -1567,22 +1567,6 @@
                 "userPreferred": "Zeri Feisheng",
                 "native": "\u62e9\u65e5\u98de\u5347",
                 "romaji": "Zeri Feisheng"
-            }
-        },
-        {
-            "id": 214536,
-            "idMal": 63938,
-            "nextAiringEpisode": {
-                "airingAt": 1795271400
-            },
-            "coverImage": {
-                "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214536-dl2KJdHcKWJl.jpg",
-                "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214536-dl2KJdHcKWJl.jpg"
-            },
-            "title": {
-                "userPreferred": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
-                "native": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez \u904b\u547d\u661f\u6226\u7de8",
-                "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen"
             }
         },
         {
@@ -1685,7 +1669,7 @@
             "id": 216860,
             "idMal": null,
             "nextAiringEpisode": {
-                "airingAt": 1795306560
+                "airingAt": 1795911360
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png",
@@ -1781,7 +1765,7 @@
             "id": 217787,
             "idMal": 64211,
             "nextAiringEpisode": {
-                "airingAt": 1795309200
+                "airingAt": 1795914000
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg",
@@ -1813,7 +1797,7 @@
             "id": 218011,
             "idMal": 64028,
             "nextAiringEpisode": {
-                "airingAt": 1795298400
+                "airingAt": 1795903200
             },
             "coverImage": {
                 "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg",
